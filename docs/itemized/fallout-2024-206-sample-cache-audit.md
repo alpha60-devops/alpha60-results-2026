@@ -1,0 +1,89 @@
+---
+layout: default
+title: "fallout-2024-206 Sample Cache Audit"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Cache coverage and visualization audit for one media object."
+---
+
+# fallout-2024-206 sample cache audit
+
+## 1. Media object
+
+| Field | Value |
+| --- | --- |
+| Media object | Fallout |
+| Collection key | `fallout-2024-206` |
+| imdb_id | [tt12637874](https://www.imdb.com/title/tt12637874/) |
+| wikipedia_url | [Fallout (American TV series)](https://en.wikipedia.org/wiki/Fallout_(American_TV_series)) |
+| Sample dates | 2026-01-22-to-2026-07-22 |
+| Sample days | 182 |
+| BTIH count | 484 |
+| Unique BTIH count | 453 |
+| Downloaders total | 86,591,530 |
+| Uploaders total | 5,326,435 |
+| Data version | `2026-08-05` |
+| IP geolocation version | `6:1777968300` |
+
+## 2. Sample coverage report
+
+- Generated: 2026-09-13T17:13:05Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/fallout-2024-206.xz`
+- Hour directories: 4334
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (17 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+- hourly gap: last `2026-03-29 01:03`, resumed `2026-03-29 03:03` — missing 1 hour(s)
+- hourly gap: last `2026-07-20 04:03`, resumed `2026-07-20 21:50` — missing 16 hour(s)
+
+## 3. Media objects file size histogram
+
+![Fallout collection size histogram](figures/fallout-2024-206-cumulative-detail-btiha-itemized-by-bytes.svg)
+
+## 4. Visualization pass — graphs
+
+### Downloads by week cumulative (normalized start)
+
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/fallout-2024-206-downloads-by-week-fallout-2024-206-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
+
+### Downloads by day, Saturday and Sunday in gray
+
+![fallout-2024-206 downloads by day](figures/fallout-2024-206-downloads-by-day-day.svg)
+
+## 5. Visualization pass — maps
+
+### Cumulative geographic slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 1.33 | 15.33 | 34.86 | 45.26 | 1.26 | 0.74 |
+
+### Cumulative network infrastructure
+
+[![Fallout cumulative map](figures/fallout-2024-206-carto.png)](figures/fallout-2024-206-carto-4k.webp){:target="_blank" rel="noopener"}
+
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+[![Cumulative >= 1080p](figures/fallout-2024-206-data-ge-1080p.webp)](figures/fallout-2024-206-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+**Cumulative < 1080p**
+
+[![Cumulative < 1080p](figures/fallout-2024-206-data-lt-1080p.webp)](figures/fallout-2024-206-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

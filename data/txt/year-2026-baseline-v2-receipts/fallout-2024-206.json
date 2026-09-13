@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt12637874",
+    "imdb_id": "tt12637874",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q113127312",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fallout_(American_TV_series)"
+  },
+  "coverage_sha256": "7cd26aa064654ff13881718eddaecd2edc035c9995dd26de25bfa5c53a11bd4e",
+  "generated_at": "2026-09-13T23:08:27.964204+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/fallout-2024-206.cache/cache.20260722.tar.xz",
+      "sha256": "27c9f6db4e3a98caa13f982dfc2913cc0b2816b9f6733e7f8c4ef6f930b27ab0",
+      "size": 5070367308
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/fallout-2024-206.md",
+      "sha256": "8edab9f83c68cc36a173dc6b8e1f80605bfc4649a9b836cb1e63509b8c80d24b",
+      "size": 717
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/fallout-2024-206.json",
+      "sha256": "4eacd21d620daa57bdb4c9a63590c71fb652b22a38ad967c0eb61ede9b91ba43",
+      "size": 3563
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/fallout-2024-206.json",
+      "sha256": "9245caa72f96d240e882b9979d12920fac9ee0e3ede5683d40f1ff1b3704b188",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
+      "size": 97281
+    }
+  },
+  "media_object": "fallout-2024-206",
+  "published_files": {
+    "data/csv/bytes/fallout-2024-206-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "35f5f79ac1c2dc3cfd9aa991b24cf4c8a038a843ccda3fa06376944680288b5b",
+    "docs/itemized/fallout-2024-206-sample-cache-audit.md": "32ec0ad77c3dd7b2ce0c6d46b61b80a736bfdabc36691dcf4320f1e9adebc9c4",
+    "docs/itemized/figures/fallout-2024-206-carto-4k.webp": "56423d9a1a7251328dee3631e5d7149b194bafd2c6c1fbd223e094cc2964c80f",
+    "docs/itemized/figures/fallout-2024-206-carto.png": "ac41c2073c575517d698c1ea8263d5a614f11df4643d66e3838ea16337148e69",
+    "docs/itemized/figures/fallout-2024-206-cumulative-detail-btiha-itemized-by-bytes.svg": "4451eb132ebcf4f0c2281e286964b05ad822ee6c253f3ba69fff9ab403ced277",
+    "docs/itemized/figures/fallout-2024-206-data-ge-1080p-4k.webp": "945bec62e438e598bf45048e0c8160cde128f7177b6361755188e16d1706d614",
+    "docs/itemized/figures/fallout-2024-206-data-ge-1080p.webp": "fee4a50a1db64480bdd17e79e1f9b42bb4c1efb9a6b6efa661f80db90fe38edf",
+    "docs/itemized/figures/fallout-2024-206-data-lt-1080p-4k.webp": "1a28056eae680aa69f60d905fac91eaacf930bd02d77d2494a0e948362a98429",
+    "docs/itemized/figures/fallout-2024-206-data-lt-1080p.webp": "e0e5ff936f2f2822f2d884d6f862a1740f3871031f604f2fc3e578e1d92f7945",
+    "docs/itemized/figures/fallout-2024-206-downloads-by-day-day.svg": "3399cf9e635c8652f709edc8922edf3dc66377db9bc3d1fa4228ba3195537caf",
+    "docs/itemized/figures/fallout-2024-206-downloads-by-week-fallout-2024-206-week.svg": "f0a416f877497f21d515c40d4e80297f630d83023bb17a3f054a725d53e7fb79",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/fallout-2024-206/tmp/fallout-2024-206-cumulative-btiha.geojson",
+        "sha256": "8d0f396051af656e996d67d5ef6c3149f27d709471156942409ee96f33e1a58a",
+        "size": 753876873
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/fallout-2024-206/tmp/fallout-2024-206-cumulative-btiha-media-objects.json",
+        "sha256": "5eff8c0b21e80d0f18ad66df50fad1935ad2ebd5a0e276cf1cce115886f45694",
+        "size": 944950
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "fallout-2024-206",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          67.0,
+          47.0,
+          40.0,
+          29.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Moscow",
+          "Istanbul",
+          "Shanghai",
+          "Saint Petersburg",
+          "London",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          46.0,
+          42.0,
+          40.0,
+          29.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Nanjing",
+          "Istanbul",
+          "Shanghai",
+          "Saint Petersburg",
+          "London",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 55,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
