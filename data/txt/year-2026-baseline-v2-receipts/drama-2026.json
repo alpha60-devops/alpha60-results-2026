@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt33071426",
+    "imdb_id": "tt33071426",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q130590402",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Drama_(film)"
+  },
+  "coverage_sha256": "9fda99273f04af9c8e0e3bf8c7a3c29dfc685636e521689bf3442f8c9f771e0b",
+  "generated_at": "2026-09-13T21:24:07.219339+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/drama-2026.cache/cache.20260910.tar.xz",
+      "sha256": "f6c0a2c8a3fcf07452cadcb33a2381db5ee2f08c7eddb14737a7fbebcf17dcaf",
+      "size": 226093812
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/drama-2026.md",
+      "sha256": "3256e5e5dbeb7036299769d2d6b72a62a974b0d12c7dd726ac051dcb0eac9c09",
+      "size": 541
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/drama-2026.json",
+      "sha256": "6cf51b18947f99046ed124c4e5b54757db4e0733244ca656b24017231c417985",
+      "size": 2294
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/drama-2026.json",
+      "sha256": "3fca8c3ddfb6cefae1834b598f7935cc80ccea96285ac9b9053d9c69793b3d8b",
+      "size": 362
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
+      "size": 97281
+    }
+  },
+  "media_object": "drama-2026",
+  "published_files": {
+    "data/csv/bytes/drama-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "a1c1e9f9f9a0a4919cb6aca074889abddf37ac050e01fa8b5e6bbc5c01e307e0",
+    "docs/itemized/drama-2026-sample-cache-audit.md": "b960544f977cd606aa8cb3bc7a313c5eba1b8064008c847a4f90e2d2ec8a6357",
+    "docs/itemized/figures/drama-2026-carto-4k.webp": "e6c47c07d2ca81e0bdc389d2a5098902822d338772de7626413bfc4f12e9ad9b",
+    "docs/itemized/figures/drama-2026-carto.png": "fba872098f6332bdc037975de5869a304fed56068060ef025970f61711bf4e3f",
+    "docs/itemized/figures/drama-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "4c688cef94725c7432593b0c267d03fee2283f74125c435835f79a022a0018df",
+    "docs/itemized/figures/drama-2026-data-ge-1080p-4k.webp": "6780c68070b966ae1d1ccf35e606a9d7061c9f68b9d043cc3559da12dcbce0f4",
+    "docs/itemized/figures/drama-2026-data-ge-1080p.webp": "ded8c122f712cbcd5da1bdaf8dc4af918862aff64582b7bdd61bd01edd712347",
+    "docs/itemized/figures/drama-2026-data-lt-1080p-4k.webp": "3dd6bbd1654d296038ebf59f600e3dfa875724cf40eb9028f715de6891defcda",
+    "docs/itemized/figures/drama-2026-data-lt-1080p.webp": "f1cbcd9d98e4e25f7092bd3175b912696e33c18b6bf2f91b9011e8d0f19db995",
+    "docs/itemized/figures/drama-2026-downloads-by-day-day.svg": "5e2be1f2fb3d746bcc452b866c278908991afe5adb5158cccabf753d0c9f66f2",
+    "docs/itemized/figures/drama-2026-downloads-by-week-drama-2026-week.svg": "72596ffc0096c66117772cdb77330600e7bd6363f7e27a46a52718c75e3afd7f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/drama-2026/tmp/drama-2026-cumulative-btiha.geojson",
+        "sha256": "498166af3ea424b2238ee61e6e5111f57cbd469ffa663df7c4f0367963950486",
+        "size": 69553263
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/drama-2026/tmp/drama-2026-cumulative-btiha-media-objects.json",
+        "sha256": "7d28b462ab4c8b3b4ae28b67f18e7c5951472dd941bb600115d8563382c96818",
+        "size": 172920
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "drama-2026",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          68.0,
+          37.0,
+          34.0,
+          31.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Lelystad",
+          "Amsterdam",
+          "Istanbul",
+          "London",
+          "Leipzig",
+          "Shanghai",
+          "Hangzhou",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          76.0,
+          39.0,
+          37.0,
+          34.0,
+          31.0,
+          29.0,
+          28.0,
+          28.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Lelystad",
+          "Amsterdam",
+          "Istanbul",
+          "Moscow",
+          "London",
+          "Shanghai",
+          "Hangzhou",
+          "Guatemala City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 38,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 29,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 6,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
