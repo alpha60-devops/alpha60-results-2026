@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt28650488",
+    "imdb_id": "tt28650488",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q124806421",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Super_Mario_Galaxy_Movie"
+  },
+  "coverage_sha256": "6a8b06e216e71a6223809b3e7b0c6901ebfc19920ec8cef065cac3d17f671f94",
+  "generated_at": "2026-09-14T06:39:34.640907+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/super-mario-galaxy-movie.cache/cache.20260908.tar.xz",
+      "sha256": "721cab9a1693c368d83319c910d82a7bada91113652d40f6f655729be48e3582",
+      "size": 2464893484
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/super-mario-galaxy-movie.md",
+      "sha256": "93945af774d7b0edebfbddf4da7ffeeea4d913460f91f349efb10209ff5e01dd",
+      "size": 570
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/super-mario-galaxy-movie.json",
+      "sha256": "94dcfc86b5dcef6ba673d00870e911727f59160f0d4a9a2358bde172d0add5d0",
+      "size": 3090
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/super-mario-galaxy-movie.json",
+      "sha256": "6cb54f89619d0226c39dd44f05c4161b2e733b9a9eebe847797997f462c42fba",
+      "size": 378
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
+      "size": 97281
+    }
+  },
+  "media_object": "super-mario-galaxy-movie",
+  "published_files": {
+    "data/csv/bytes/super-mario-galaxy-movie-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "c51ff4bc267758dae7990c31383e60441e8cecd2ac0e60ee964990c88c90e511",
+    "docs/itemized/figures/super-mario-galaxy-movie-carto-4k.webp": "c94053b577675e0ecda9fb04cb587419a5073b9b46ecee7963099b581be4c6dd",
+    "docs/itemized/figures/super-mario-galaxy-movie-carto.png": "9bf21a7c1f8e2ea5ba207388697580d700111d75d1ac04fc9f72bed55772212d",
+    "docs/itemized/figures/super-mario-galaxy-movie-cumulative-detail-btiha-itemized-by-bytes.svg": "082fc6e06c735ad67136b3613aaef08d2df19a0e23d180cdf37b1a4815c07050",
+    "docs/itemized/figures/super-mario-galaxy-movie-data-ge-1080p-4k.webp": "a972926ee156352384895991c291b79bf2e08b2fe8b2d7d471f29d122afe411f",
+    "docs/itemized/figures/super-mario-galaxy-movie-data-ge-1080p.webp": "8a7349677e2fcaadcb8faaa3f1e350d0711c337dde23a7dd458d22f2b9ac6df6",
+    "docs/itemized/figures/super-mario-galaxy-movie-data-lt-1080p-4k.webp": "6195543f4b850f20e00f5928d8d7b37536fd7c961ba6cca853a79389b0b4571e",
+    "docs/itemized/figures/super-mario-galaxy-movie-data-lt-1080p.webp": "a189e8d67b0fec7fd2ae4db94f4d57c4d435da0f055b1da9e9ca2db86612e1e5",
+    "docs/itemized/figures/super-mario-galaxy-movie-downloads-by-day-day.svg": "fa0ad9b2e18e275cdb1c2a588e5b2a77c61fe3a5cefa4627b673b045c85d035a",
+    "docs/itemized/figures/super-mario-galaxy-movie-downloads-by-week-super-mario-galaxy-movie-week.svg": "98c1c392f09ec5d78e8071805428ef843eed572825cd96df6d92b821dee8cb5c",
+    "docs/itemized/super-mario-galaxy-movie-sample-cache-audit.md": "20faee7b21dbeb309748b2efac4f47b3541e6645c1dd45441bc6a8dd0116ddc0",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/super-mario-galaxy-movie/tmp/super-mario-galaxy-movie-cumulative-btiha.geojson",
+        "sha256": "d940f9920b5f4f7b4656896ec30392bbf725fea08b578c986c5243f0d24fe883",
+        "size": 445100283
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/super-mario-galaxy-movie/tmp/super-mario-galaxy-movie-cumulative-btiha-media-objects.json",
+        "sha256": "4eac5d1ab5533a4c10cb910b2a43a4b8b68f224a038d8053c6e34d14dd14a4d9",
+        "size": 619069
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "super-mario-galaxy-movie",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Istanbul",
+          "Amsterdam",
+          "Shanghai",
+          "London",
+          "Moscow",
+          "Hangzhou",
+          "Lelystad",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          37.0,
+          30.0,
+          30.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Amsterdam",
+          "Moscow",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Lelystad",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 38,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 18,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
