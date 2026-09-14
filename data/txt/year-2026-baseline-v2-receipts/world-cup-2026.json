@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt32915471",
+    "imdb_id": "tt32915471",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q5020214",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+  },
+  "coverage_sha256": "67b5f7ff02d058755980d3e47c3537aa7fc5f63b36d7aa43d1f8a7005ca97e2e",
+  "generated_at": "2026-09-14T07:26:30.970647+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/world-cup-2026.cache/cache.20260908.tar.xz",
+      "sha256": "9edb8733ea1d471b19866d810781db953f77de16c907e3f3e7b80700b77c46e8",
+      "size": 1123061252
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/world-cup-2026.md",
+      "sha256": "a73b1174a104bfce762feb35a07a0491fa6b5bbe36153004702b81b8117687b6",
+      "size": 550
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/world-cup-2026.json",
+      "sha256": "481ac2d8b2bab946686cad90c41da6a95c6f40b9011aa6e5431933f4f67cf9fb",
+      "size": 2586
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/world-cup-2026.json",
+      "sha256": "532bd212c9dbd0ec90ce2433fcaca3cd7cd9958a96ca772c73f92e1bb6f6ad00",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
+      "size": 94076
+    }
+  },
+  "media_object": "world-cup-2026",
+  "published_files": {
+    "data/csv/bytes/world-cup-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "1f329cef21f330b19954cae511d0938816c8a74150b9db8ea070736fbf526c23",
+    "docs/itemized/figures/world-cup-2026-carto-4k.webp": "368d9701c43e2715c03075fd5ed4b7d9ef31cec3f2af1d6c4792bdca4cd340a9",
+    "docs/itemized/figures/world-cup-2026-carto.png": "5398952dc4edac60c78583eca2f6906779e2672eaf5faafc6db8a33ea4ab89ea",
+    "docs/itemized/figures/world-cup-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "db70e3916874e3fe4f787f685fd37c90f08873d170dd95763aa2eb6d7a288728",
+    "docs/itemized/figures/world-cup-2026-data-ge-1080p-4k.webp": "a800d21d3f31c35ee16c8cba8f6943b0e257c82ac544cf6b8e8b0fed67f83f8b",
+    "docs/itemized/figures/world-cup-2026-data-ge-1080p.webp": "fbebee61e4b3b09a857f38e2c88d6f7e828f8b6c5cad1649d60591238b089e9b",
+    "docs/itemized/figures/world-cup-2026-data-lt-1080p-4k.webp": "c5f993ffedcac9b3d01ecec2dc203ff2b9028f95ac9be455e3c43c1f449fde96",
+    "docs/itemized/figures/world-cup-2026-data-lt-1080p.webp": "684dfa19783782e9d1c85b9bdaed7051d650b52a345ef8e527db583a2f2e996d",
+    "docs/itemized/figures/world-cup-2026-downloads-by-day-day.svg": "e4fbabd8ae9afadcaaa378a312d7a8fb6a2737782ea82ebf167269a69c0bc5ee",
+    "docs/itemized/figures/world-cup-2026-downloads-by-week-world-cup-2026-week.svg": "05978e1fec6a89f3479e8b036a6132b1c9b7d02ba1028dd643313c68d8074d30",
+    "docs/itemized/world-cup-2026-sample-cache-audit.md": "62995cfe2be46d62df93c82a5380717983d5cc9fdc60100b84d3116c31556a18",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/world-cup-2026/tmp/world-cup-2026-cumulative-btiha.geojson",
+        "sha256": "db9d2b9c0c347cda7a39f7e62800d2402c96490db48372ca202c6e1254f5b580",
+        "size": 510102709
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/world-cup-2026/tmp/world-cup-2026-cumulative-btiha-media-objects.json",
+        "sha256": "330f60c503244d615a0d09856a3d052e1ac5e13db70a8f20abae3ad4540d828e",
+        "size": 1068196
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "world-cup-2026",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          43.0,
+          39.0,
+          38.0,
+          37.0,
+          32.0,
+          32.0,
+          28.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Amsterdam",
+          "Istanbul",
+          "Lelystad",
+          "Shanghai",
+          "Hangzhou",
+          "London",
+          "Moscow",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          40.0,
+          37.0,
+          36.0,
+          33.0,
+          30.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Amsterdam",
+          "Lelystad",
+          "Shanghai",
+          "Hangzhou",
+          "London",
+          "Moscow",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 13,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
