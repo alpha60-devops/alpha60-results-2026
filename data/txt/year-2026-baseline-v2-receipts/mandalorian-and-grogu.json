@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt30825738",
+    "imdb_id": "tt30825738",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q124246549",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Mandalorian_and_Grogu"
+  },
+  "coverage_sha256": "9626db7fb772b1e0e5af426bfaf33a4bf6839c490c436564feee900a085d6dd6",
+  "generated_at": "2026-09-14T00:35:59.082890+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-and-grogu.cache/cache.20260901.tar.xz",
+      "sha256": "7b576c3c085164086f1a7db92da89328683097fbd0d4e4eca0f5289c8754c7ab",
+      "size": 1274739680
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/mandalorian-and-grogu.md",
+      "sha256": "29eb5bbfe0fd68eb831aa0af517e60d8aedfe7ee949dd5cc63d2cc8df976f654",
+      "size": 564
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/mandalorian-and-grogu.json",
+      "sha256": "4a89c506375ba820e0a1b1134776151d20b80b695712112a8758681be4245f88",
+      "size": 2606
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/mandalorian-and-grogu.json",
+      "sha256": "8c41173c3828a18dc9e2bb937bc4691478a03ca6332004dbe54db2375747c4f1",
+      "size": 373
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
+      "size": 97281
+    }
+  },
+  "media_object": "mandalorian-and-grogu",
+  "published_files": {
+    "data/csv/bytes/mandalorian-and-grogu-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "017fc6c1ad540ed45879f598ce66548d92ebc6a49da5afb93c0389c94ff166bd",
+    "docs/itemized/figures/mandalorian-and-grogu-carto-4k.webp": "540b4210d1bdc83d7094b1dd1f7bbd47f76a0532bcc07684b229b5e6b397a7be",
+    "docs/itemized/figures/mandalorian-and-grogu-carto.png": "2cb46b5201dc26fdbb29ff5d6c6b465a212b0ccca69d7744c5804f5ffa4f7521",
+    "docs/itemized/figures/mandalorian-and-grogu-cumulative-detail-btiha-itemized-by-bytes.svg": "4257e83c0f4930d253a39e4a9b042cf0cc831393931fc1a905c5ff27e622f7e5",
+    "docs/itemized/figures/mandalorian-and-grogu-data-ge-1080p-4k.webp": "402d304ca76b703ffeaa5b6dd858598f2ffcac78fc4747d4f7d6716db27ffbdc",
+    "docs/itemized/figures/mandalorian-and-grogu-data-ge-1080p.webp": "2d2ad6b3d178215d1aeb30d2db1a5dfa88ddd1c076d8abc77c251cdd624957c1",
+    "docs/itemized/figures/mandalorian-and-grogu-data-lt-1080p-4k.webp": "3ad6bc8e062c7cc7827d8ac91fe2565384f07916dab87957e89671ad2fa5c7d8",
+    "docs/itemized/figures/mandalorian-and-grogu-data-lt-1080p.webp": "f3f4473e093a1c45d5526ee9baacba603c2a932057d76124bd8e47d04a9265d9",
+    "docs/itemized/figures/mandalorian-and-grogu-downloads-by-day-day.svg": "bce49569bacc1b8091d5811820fc794361f28242c4cd395ca87bdf35fa9c6e15",
+    "docs/itemized/figures/mandalorian-and-grogu-downloads-by-week-mandalorian-and-grogu-week.svg": "1ba6e806c459088be035ded34877c1857d48232c5cc9f738f5df0c68640b2a67",
+    "docs/itemized/mandalorian-and-grogu-sample-cache-audit.md": "819806b459299e8931414dfc3592b95f3ae9d780e95bf73d6b100e57da5fd1c6",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/mandalorian-and-grogu/tmp/mandalorian-and-grogu-cumulative-btiha.geojson",
+        "sha256": "c3b25a5d78751efca3fde9bfd2506235591298ce32d07c54445643f78c9943f5",
+        "size": 266646394
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/mandalorian-and-grogu/tmp/mandalorian-and-grogu-cumulative-btiha-media-objects.json",
+        "sha256": "95fa643eb13186ceebb2fd8df5f17291281bd0595c0ac386fa2b79fde3351d88",
+        "size": 1396601
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "mandalorian-and-grogu",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          48.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Amsterdam",
+          "London",
+          "Lelystad",
+          "Istanbul",
+          "Shanghai",
+          "Hangzhou",
+          "Moscow",
+          "Boardman"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          61.0,
+          54.0,
+          41.0,
+          38.0,
+          37.0,
+          30.0,
+          29.0,
+          29.0,
+          29.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Moscow",
+          "Amsterdam",
+          "Istanbul",
+          "Lelystad",
+          "Saint Petersburg",
+          "Shanghai",
+          "Hangzhou",
+          "London"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 43,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
