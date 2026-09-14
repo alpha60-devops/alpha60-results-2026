@@ -1,0 +1,44 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/archive-verification-full.json",
+    "sha256": "078173346ab3293db37a90fa77fd38c3603b054de42894b80e112a393099bf9d",
+    "size": 21775
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 1,
+    "records": 1
+  },
+  "executor": "eureka",
+  "finished_at": "2026-09-14T14:13:56.647653+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/president-curtis-01.cache/cache.20260820.tar.xz",
+      "collection_key": "president-curtis-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T14:13:56.646301+00:00",
+      "owner": "eureka",
+      "results_revision": "7bf4e5f0a2689fb938475a247af4a7bfe04ef634",
+      "started_at": "2026-09-14T14:12:32.923247+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/president-curtis-01",
+        "removed": true,
+        "status": "pass"
+      }
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-14T14:12:32.922880+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+    "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
+    "size": 97281
+  },
+  "year": "2026"
+}

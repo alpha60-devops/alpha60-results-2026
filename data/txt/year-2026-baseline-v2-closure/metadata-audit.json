@@ -1,0 +1,470 @@
+{
+  "schema": "alpha60-year-media-object-metadata-readiness/1",
+  "year": "2026",
+  "inventory": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2026-cohort.txt",
+  "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
+  "approved_empty_collection_ids": [
+    "all-you-need-is-kill",
+    "backrooms-2026",
+    "bluff",
+    "drama-2026",
+    "enola-holmes-3",
+    "furious-2025",
+    "goat-2026",
+    "hoppers",
+    "invite-2026",
+    "legend-of-aang-the-last-airbender",
+    "man-on-the-run",
+    "mandalorian-and-grogu",
+    "obsession-2025",
+    "project-hail-mary",
+    "send-help",
+    "super-mario-galaxy-movie",
+    "toy-story-5",
+    "zootopia-2"
+  ],
+  "approved_not_applicable_identity_ids": [
+    "beastars-03.2",
+    "dang-01"
+  ],
+  "campaign_sample_contracts": 71,
+  "prevalidated_predecessor_records": 0,
+  "status": "pass",
+  "counts": {
+    "inventory_entries": 71,
+    "unique_keys": 71,
+    "ready_records": 71,
+    "error_records": 0,
+    "errors": 0
+  },
+  "inventory_issues": [],
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "acolyte-107",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "all-you-need-is-kill",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "avatar-the-last-airbender-2024-02",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "backrooms-2026",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "bear-00",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "bear-05",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "beastars-03.2",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "beauty-108",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "beef-02",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "bluff",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "boys-501",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "bridgerton-04.1",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "bridgerton-04.2",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "dang-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "dark-winds-401",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "dinosaurs-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "drama-2026",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "enola-holmes-3",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "euphoria-301",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "fallout-2024-206",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "for-all-mankind-501",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "furious-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "ghost-in-the-shell-2026-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "goat-2026",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "hijack-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "his-and-hers-2026-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "hoppers",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "house-of-the-dragon-301",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "house-of-the-dragon-308",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "industry-401",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "invincible-401",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "invite-2026",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "knight-of-the-seven-kingdoms-106",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "lanterns-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "legend-of-aang-the-last-airbender",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "legend-of-vox-machina-410",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "love-story-2026-107",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "man-on-the-run",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "mandalorian-and-grogu",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "mating-season-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "maul-shadow-lord-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "monarch-legacy-of-monsters-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "monarch-legacy-of-monsters-208",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "my-brilliant-career-2026-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "night-agent-03",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "obsession-2025",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "olympics-2026",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "one-piece-2023-02",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "pitt-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "pitt-213",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "president-curtis-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "project-hail-mary",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "reacher-401",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "rick-and-morty-901",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "season-2026-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "send-help",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "shards-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "silo-301",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "spider-noir-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "star-city-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "star-wars-visions-the-ninth-jedi-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "stranger-things-05.3",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "stranger-things-tales-from-85-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "sugar-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "super-mario-galaxy-movie",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "testaments-101",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "toy-story-5",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "widows-bay-108",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "world-cup-2026",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "x-men-97-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "zootopia-2",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    }
+  ]
+}

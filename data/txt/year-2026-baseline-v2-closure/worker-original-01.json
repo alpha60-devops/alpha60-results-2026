@@ -1,0 +1,632 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/archive-verification-full.json",
+    "sha256": "078173346ab3293db37a90fa77fd38c3603b054de42894b80e112a393099bf9d",
+    "size": 21775
+  },
+  "counts": {
+    "errors": 1,
+    "passed": 35,
+    "records": 36
+  },
+  "executor": "eureka",
+  "finished_at": "2026-09-14T06:49:43.244439+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/acolyte-107.cache/cache.20260825.tar.xz",
+      "collection_key": "acolyte-107",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T20:02:28.649751+00:00",
+      "owner": "eureka",
+      "results_revision": "e0386122591dfff397565b39b0b635690af3600c",
+      "started_at": "2026-09-13T19:36:02.663549+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/acolyte-107",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/avatar-the-last-airbender-2024-02.cache/cache.20260904.tar.xz",
+      "collection_key": "avatar-the-last-airbender-2024-02",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T20:17:38.070565+00:00",
+      "owner": "eureka",
+      "results_revision": "ed50f363261f74fc689df83eede133c836336ddc",
+      "started_at": "2026-09-13T20:02:28.650263+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/avatar-the-last-airbender-2024-02",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/backrooms-2026.cache/cache.20260908.tar.xz",
+      "collection_key": "backrooms-2026",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T20:28:40.675724+00:00",
+      "owner": "eureka",
+      "results_revision": "5c7404c255298e29e4036c60238f7b16e5b98e2b",
+      "started_at": "2026-09-13T20:17:38.071101+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/backrooms-2026",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/beastars-03.2.cache/cache.20260619.tar.xz",
+      "collection_key": "beastars-03.2",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T20:36:04.578931+00:00",
+      "owner": "eureka",
+      "results_revision": "641494a3d273ea2b6df4c7fd5d6a4c6d6c508ba0",
+      "started_at": "2026-09-13T20:28:40.676268+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/beastars-03.2",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/beauty-108.cache/cache.20260610.tar.xz",
+      "collection_key": "beauty-108",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T20:54:51.638662+00:00",
+      "owner": "eureka",
+      "results_revision": "9b840b194ccbbb1dab31faf31c67275dceaef56b",
+      "started_at": "2026-09-13T20:36:04.579496+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/beauty-108",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/bluff.cache/cache.20260610.tar.xz",
+      "collection_key": "bluff",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T21:11:48.560219+00:00",
+      "owner": "eureka",
+      "results_revision": "abfb4a05d7d6d16697ffdbcfa6750f08fb1924bd",
+      "started_at": "2026-09-13T20:54:51.639243+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/bluff",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/dang-01.cache/cache.20260911.tar.xz",
+      "collection_key": "dang-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T21:11:48.890934+00:00",
+      "owner": "eureka",
+      "results_revision": "587e0ae3ab487824ed9ccf13964398e8a4f21eba",
+      "started_at": "2026-09-13T21:11:48.561020+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/dang-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/dark-winds-401.cache/cache.20260530.tar.xz",
+      "collection_key": "dark-winds-401",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T21:21:04.834869+00:00",
+      "owner": "eureka",
+      "results_revision": "8ef49bd62fa4232be120aca97397bc6d734d6e42",
+      "started_at": "2026-09-13T21:11:48.891447+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/dark-winds-401",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/drama-2026.cache/cache.20260910.tar.xz",
+      "collection_key": "drama-2026",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T21:24:07.477916+00:00",
+      "owner": "eureka",
+      "results_revision": "8b43bc06356b282ebc7abb29d27f0ceb5ea9139d",
+      "started_at": "2026-09-13T21:21:04.835626+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/drama-2026",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/enola-holmes-3.cache/cache.20260903.tar.xz",
+      "collection_key": "enola-holmes-3",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T21:34:09.124351+00:00",
+      "owner": "eureka",
+      "results_revision": "d163c98c945946592ffe91004952eeb6d42515f4",
+      "started_at": "2026-09-13T21:24:07.478681+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/enola-holmes-3",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/euphoria-301.cache/cache.20260906.tar.xz",
+      "collection_key": "euphoria-301",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T22:12:14.089445+00:00",
+      "owner": "eureka",
+      "results_revision": "7cbaf1de5a83f58ee71c72aae4ae7b2beca1478a",
+      "started_at": "2026-09-13T21:34:09.125234+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/euphoria-301",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/fallout-2024-206.cache/cache.20260722.tar.xz",
+      "collection_key": "fallout-2024-206",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T23:08:32.716953+00:00",
+      "owner": "eureka",
+      "results_revision": "4fa04eb48a572dbaa243d0cbdab7246b6307884c",
+      "started_at": "2026-09-13T22:12:14.090564+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/fallout-2024-206",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/for-all-mankind-501.cache/cache.20260827.tar.xz",
+      "collection_key": "for-all-mankind-501",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T23:22:42.934746+00:00",
+      "owner": "eureka",
+      "results_revision": "f3404cdab9ba93df80fe77efbf05d5aae89f7210",
+      "started_at": "2026-09-13T23:08:32.717866+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/for-all-mankind-501",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/ghost-in-the-shell-2026-01.cache/cache.20260908.tar.xz",
+      "collection_key": "ghost-in-the-shell-2026-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T23:32:40.927881+00:00",
+      "owner": "eureka",
+      "results_revision": "690bc211bfba03958ea78f7b130e93c2ec1f3fce",
+      "started_at": "2026-09-13T23:22:42.935700+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/ghost-in-the-shell-2026-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-the-dragon-301.cache/cache.20260906.tar.xz",
+      "collection_key": "house-of-the-dragon-301",
+      "executor": "eureka",
+      "finished_at": "2026-09-13T23:56:35.606041+00:00",
+      "owner": "eureka",
+      "results_revision": "b1305be90dcc073b108e67c7c13840587ab40b50",
+      "started_at": "2026-09-13T23:32:40.928745+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/house-of-the-dragon-301",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/industry-401.cache/cache.20260426.tar.xz",
+      "collection_key": "industry-401",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T00:08:09.123999+00:00",
+      "owner": "eureka",
+      "results_revision": "bcde270677ca421f6f8cd63eba1dce86273dd4fa",
+      "started_at": "2026-09-13T23:56:35.606964+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/industry-401",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/lanterns-101.cache/cache.20260906.tar.xz",
+      "collection_key": "lanterns-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T00:12:09.444606+00:00",
+      "owner": "eureka",
+      "results_revision": "7bcf451a71af6980eb18c2777b5d7d83ad4ec24b",
+      "started_at": "2026-09-14T00:08:09.124931+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/lanterns-101",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/legend-of-aang-the-last-airbender.cache/cache.20260418.tar.xz",
+      "collection_key": "legend-of-aang-the-last-airbender",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T00:12:19.605498+00:00",
+      "owner": "eureka",
+      "results_revision": "073beae33d08369637892f8b47739e5ecefeccfc",
+      "started_at": "2026-09-14T00:12:09.446491+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/legend-of-aang-the-last-airbender",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/legend-of-vox-machina-410.cache/cache.20260909.tar.xz",
+      "collection_key": "legend-of-vox-machina-410",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T00:20:18.676435+00:00",
+      "owner": "eureka",
+      "results_revision": "4ef5ecf2465428f460a97ae34e54a7c32cb40c1f",
+      "started_at": "2026-09-14T00:12:19.606017+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/legend-of-vox-machina-410",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/man-on-the-run.cache/cache.20260617.tar.xz",
+      "collection_key": "man-on-the-run",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T00:22:07.092884+00:00",
+      "owner": "eureka",
+      "results_revision": "b4e4a47264fa04efa1f6454341a137792a90e59d",
+      "started_at": "2026-09-14T00:20:18.677388+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/man-on-the-run",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-and-grogu.cache/cache.20260901.tar.xz",
+      "collection_key": "mandalorian-and-grogu",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T00:36:00.028070+00:00",
+      "owner": "eureka",
+      "results_revision": "0d6d311f207dfababf1b4f8283d21f320bce6e5a",
+      "started_at": "2026-09-14T00:22:07.093782+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/mandalorian-and-grogu",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/maul-shadow-lord-101.cache/cache.20260907.tar.xz",
+      "collection_key": "maul-shadow-lord-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T01:05:11.615453+00:00",
+      "owner": "eureka",
+      "results_revision": "f583b0d0054044bb2a9b1b77fdb589e60bfe61de",
+      "started_at": "2026-09-14T00:36:00.029019+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/maul-shadow-lord-101",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/monarch-legacy-of-monsters-201.cache/cache.20260910.tar.xz",
+      "collection_key": "monarch-legacy-of-monsters-201",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T01:46:15.093742+00:00",
+      "owner": "eureka",
+      "results_revision": "d31a2ac6da924fb9e28f261e7e1b36cadbec6a63",
+      "started_at": "2026-09-14T01:05:11.616485+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/monarch-legacy-of-monsters-201",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/night-agent-03.cache/cache.20260826.tar.xz",
+      "collection_key": "night-agent-03",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T02:32:39.474384+00:00",
+      "owner": "eureka",
+      "results_revision": "49079d2c5f59d68bcb5e0f056ce188e6348c8ec2",
+      "started_at": "2026-09-14T01:46:15.094799+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/night-agent-03",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/obsession-2025.cache/cache.20260908.tar.xz",
+      "collection_key": "obsession-2025",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T02:54:06.057813+00:00",
+      "owner": "eureka",
+      "results_revision": "85d3c8831019bbf12a2137ee2722ce3780102170",
+      "started_at": "2026-09-14T02:32:39.475415+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/obsession-2025",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/one-piece-2023-02.cache/cache.20260907.tar.xz",
+      "collection_key": "one-piece-2023-02",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T03:41:41.005227+00:00",
+      "owner": "eureka",
+      "results_revision": "53f7c7902668da7ea232fdb8e247ee5050db437d",
+      "started_at": "2026-09-14T02:54:06.058829+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/one-piece-2023-02",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/pitt-213.cache/cache.20260911.tar.xz",
+      "collection_key": "pitt-213",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T04:21:07.217159+00:00",
+      "owner": "eureka",
+      "results_revision": "7a9bb9093fa9534e783db6b53adcff373f6d1cff",
+      "started_at": "2026-09-14T03:41:41.006316+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/pitt-213",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/president-curtis-01.cache/cache.20260820.tar.xz",
+      "collection_key": "president-curtis-01",
+      "error": "Command '['/usr/bin/python3', '/home/bkoz/src/alpha60/scripts/generate-cache-aggregates.py', 'president-curtis-01', '--cache-archive', '/mnt/gold/src/alpha60-samples-cache.gold/president-curtis-01.cache/cache.20260820.tar.xz', '--output-dir', '/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/president-curtis-01/tmp', '--data-dir', '/home/bkoz/src/alpha60-data', '--metadata-dir', '/home/bkoz/src/alpha60-swarm-metadata/metadata', '--binaries-dir', '/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries', '--released-day-input', '--expected-day-count', '23', '--expected-day-span', '24', '--day-index-width', '5', '--required-sample-start', '2026-07-28', '--required-sample-end', '2026-08-20', '--workers', '32', '--skip-build', '--resume']' returned non-zero exit status 1.",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T04:21:09.860207+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-14T04:21:07.218407+00:00",
+      "status": "error"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/rick-and-morty-901.cache/cache.20260906.tar.xz",
+      "collection_key": "rick-and-morty-901",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T04:37:00.015273+00:00",
+      "owner": "eureka",
+      "results_revision": "dd33772696dd3befc6a21f8dfc64e4abc8422bc0",
+      "started_at": "2026-09-14T04:21:09.861112+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/rick-and-morty-901",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/season-2026-01.cache/cache.20260908.tar.xz",
+      "collection_key": "season-2026-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T04:43:37.349686+00:00",
+      "owner": "eureka",
+      "results_revision": "92e553e3b2548b183ce2c78b6199cc5ba04a9f89",
+      "started_at": "2026-09-14T04:37:00.016356+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/season-2026-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/send-help.cache/cache.20260906.tar.xz",
+      "collection_key": "send-help",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T05:13:36.370283+00:00",
+      "owner": "eureka",
+      "results_revision": "fbd2eaa858a6bc99cb7a8d0fc4121119c1c50af9",
+      "started_at": "2026-09-14T04:43:37.350796+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/send-help",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/shards-101.cache/cache.20260909.tar.xz",
+      "collection_key": "shards-101",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T05:15:55.360602+00:00",
+      "owner": "eureka",
+      "results_revision": "efd884bacc0e910c6d692ff5e24b2e6b16e6851e",
+      "started_at": "2026-09-14T05:13:36.371419+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/shards-101",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-05.3.cache/cache.20260701.tar.xz",
+      "collection_key": "stranger-things-05.3",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T05:47:16.673085+00:00",
+      "owner": "eureka",
+      "results_revision": "abcce0cfc9dabf6c33372b88d3b4262ce08d3f80",
+      "started_at": "2026-09-14T05:15:55.361692+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/stranger-things-05.3",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-tales-from-85-01.cache/cache.20260826.tar.xz",
+      "collection_key": "stranger-things-tales-from-85-01",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T06:12:52.597674+00:00",
+      "owner": "eureka",
+      "results_revision": "9c4afa6f304c20d0415d469caf43317506e5f105",
+      "started_at": "2026-09-14T05:47:16.674237+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/stranger-things-tales-from-85-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/super-mario-galaxy-movie.cache/cache.20260908.tar.xz",
+      "collection_key": "super-mario-galaxy-movie",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T06:39:36.870637+00:00",
+      "owner": "eureka",
+      "results_revision": "36dae698b0ac1d11727b7ac9469bdf9b1fa7999b",
+      "started_at": "2026-09-14T06:12:52.598880+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/super-mario-galaxy-movie",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/x-men-97-201.cache/cache.20260909.tar.xz",
+      "collection_key": "x-men-97-201",
+      "executor": "eureka",
+      "finished_at": "2026-09-14T06:49:43.242226+00:00",
+      "owner": "eureka",
+      "results_revision": "a64c6f148bd6c7885412e691731d600cceefcfd8",
+      "started_at": "2026-09-14T06:39:36.871788+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/x-men-97-201",
+        "removed": true,
+        "status": "pass"
+      }
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-13T19:36:02.663172+00:00",
+  "status": "error",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+    "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
+    "size": 97281
+  },
+  "year": "2026"
+}

@@ -1,0 +1,622 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/archive-verification-full.json",
+    "sha256": "07a5533c215ac3fa8179d8991adeadfd8ba2f5a7f8382755833bc27324e8e5a0",
+    "size": 21042
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 35,
+    "records": 35
+  },
+  "executor": "ord",
+  "finished_at": "2026-09-14T08:14:21.548044+00:00",
+  "owner": "ord",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/all-you-need-is-kill.cache/cache.20260831.tar.xz",
+      "collection_key": "all-you-need-is-kill",
+      "executor": "ord",
+      "finished_at": "2026-09-13T20:36:18.363000+00:00",
+      "owner": "ord",
+      "results_revision": "6e4c1ba79dd5d73a0e19f8acabdc37411563c017",
+      "started_at": "2026-09-13T20:34:27.722057+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/all-you-need-is-kill",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/bear-00.cache/cache.20260818.tar.xz",
+      "collection_key": "bear-00",
+      "executor": "ord",
+      "finished_at": "2026-09-13T20:39:25.464012+00:00",
+      "owner": "ord",
+      "results_revision": "e38c0498819c46011c6cf9a3a6132e18bb554030",
+      "started_at": "2026-09-13T20:36:18.363535+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/bear-00",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/bear-05.cache/cache.20260911.tar.xz",
+      "collection_key": "bear-05",
+      "executor": "ord",
+      "finished_at": "2026-09-13T21:03:30.823477+00:00",
+      "owner": "ord",
+      "results_revision": "f4708eb2bb99b96c0461d5c5c9fe8b8ca75ab740",
+      "started_at": "2026-09-13T20:39:25.464519+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/bear-05",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/beef-02.cache/cache.20260730.tar.xz",
+      "collection_key": "beef-02",
+      "executor": "ord",
+      "finished_at": "2026-09-13T21:19:28.679391+00:00",
+      "owner": "ord",
+      "results_revision": "301a5b81e40d63886adfb151fd591d288e53aa5a",
+      "started_at": "2026-09-13T21:03:30.824035+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/beef-02",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/boys-501.cache/cache.20260908.tar.xz",
+      "collection_key": "boys-501",
+      "executor": "ord",
+      "finished_at": "2026-09-13T22:02:27.804343+00:00",
+      "owner": "ord",
+      "results_revision": "25c15a15c6531700caf0715e5ee45985ee0e41a8",
+      "started_at": "2026-09-13T21:19:28.679955+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/boys-501",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/bridgerton-04.1.cache/cache.20260802.tar.xz",
+      "collection_key": "bridgerton-04.1",
+      "executor": "ord",
+      "finished_at": "2026-09-13T22:36:01.879439+00:00",
+      "owner": "ord",
+      "results_revision": "772e67537102ff8bc843cfea4fb424b36bcea1e8",
+      "started_at": "2026-09-13T22:02:27.805084+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/bridgerton-04.1",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/bridgerton-04.2.cache/cache.20260902.tar.xz",
+      "collection_key": "bridgerton-04.2",
+      "executor": "ord",
+      "finished_at": "2026-09-13T23:14:51.158610+00:00",
+      "owner": "ord",
+      "results_revision": "ad963fd177a9e13285cbcdca26d8dcd7d39e9e74",
+      "started_at": "2026-09-13T22:36:01.880150+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/bridgerton-04.2",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/dinosaurs-01.cache/cache.20260625.tar.xz",
+      "collection_key": "dinosaurs-01",
+      "executor": "ord",
+      "finished_at": "2026-09-13T23:27:02.005501+00:00",
+      "owner": "ord",
+      "results_revision": "c428e4fabdf33fce501d5a8592b9e3bf9ef13b76",
+      "started_at": "2026-09-13T23:14:51.159331+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/dinosaurs-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/furious-2025.cache/cache.20260831.tar.xz",
+      "collection_key": "furious-2025",
+      "executor": "ord",
+      "finished_at": "2026-09-13T23:34:04.628878+00:00",
+      "owner": "ord",
+      "results_revision": "b706a021e271af3df98aa35852537f30f38eab69",
+      "started_at": "2026-09-13T23:27:02.006217+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/furious-2025",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/goat-2026.cache/cache.20260708.tar.xz",
+      "collection_key": "goat-2026",
+      "executor": "ord",
+      "finished_at": "2026-09-13T23:51:07.641233+00:00",
+      "owner": "ord",
+      "results_revision": "2db7626ce58a55fbf955e638e8079ef711b4b5b3",
+      "started_at": "2026-09-13T23:34:04.629561+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/goat-2026",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/hijack-201.cache/cache.20260429.tar.xz",
+      "collection_key": "hijack-201",
+      "executor": "ord",
+      "finished_at": "2026-09-14T00:09:51.375289+00:00",
+      "owner": "ord",
+      "results_revision": "649f5a2f36b672475552dd455959ecd9aae39862",
+      "started_at": "2026-09-13T23:51:07.642015+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/hijack-201",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/his-and-hers-2026-01.cache/cache.20260708.tar.xz",
+      "collection_key": "his-and-hers-2026-01",
+      "executor": "ord",
+      "finished_at": "2026-09-14T00:42:41.101986+00:00",
+      "owner": "ord",
+      "results_revision": "c526333b1c38d97ffdc984459456d9bfaac11c86",
+      "started_at": "2026-09-14T00:09:51.376034+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/his-and-hers-2026-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/hoppers.cache/cache.20260910.tar.xz",
+      "collection_key": "hoppers",
+      "executor": "ord",
+      "finished_at": "2026-09-14T01:13:55.947304+00:00",
+      "owner": "ord",
+      "results_revision": "99343bb2e79347fcb37819299ec5a76ff4a747f2",
+      "started_at": "2026-09-14T00:42:41.103384+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/hoppers",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/house-of-the-dragon-308.cache/cache.20260910.tar.xz",
+      "collection_key": "house-of-the-dragon-308",
+      "executor": "ord",
+      "finished_at": "2026-09-14T01:18:09.357832+00:00",
+      "owner": "ord",
+      "results_revision": "bce2157674bf61decb9448f0663ec47bb0ef9b96",
+      "started_at": "2026-09-14T01:13:55.948274+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/house-of-the-dragon-308",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/invincible-401.cache/cache.20260630.tar.xz",
+      "collection_key": "invincible-401",
+      "executor": "ord",
+      "finished_at": "2026-09-14T01:33:15.946808+00:00",
+      "owner": "ord",
+      "results_revision": "657dfdfe334c93dcae8f02cf2cc567b6827f9859",
+      "started_at": "2026-09-14T01:18:09.358646+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/invincible-401",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/invite-2026.cache/cache.20260911.tar.xz",
+      "collection_key": "invite-2026",
+      "executor": "ord",
+      "finished_at": "2026-09-14T01:36:36.862808+00:00",
+      "owner": "ord",
+      "results_revision": "cfd042ec112583ee11a08184c50fa2907d89a665",
+      "started_at": "2026-09-14T01:33:15.947652+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/invite-2026",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/knight-of-the-seven-kingdoms-106.cache/cache.20260823.tar.xz",
+      "collection_key": "knight-of-the-seven-kingdoms-106",
+      "executor": "ord",
+      "finished_at": "2026-09-14T02:08:42.809697+00:00",
+      "owner": "ord",
+      "results_revision": "9fe10835392dcaeff1e720b33c9ac25f1fc70a68",
+      "started_at": "2026-09-14T01:36:36.863574+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/knight-of-the-seven-kingdoms-106",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/love-story-2026-107.cache/cache.20260625.tar.xz",
+      "collection_key": "love-story-2026-107",
+      "executor": "ord",
+      "finished_at": "2026-09-14T02:19:52.345478+00:00",
+      "owner": "ord",
+      "results_revision": "52d7cb195b3dae0f3031ea5586e221ab85fc0eb5",
+      "started_at": "2026-09-14T02:08:42.810566+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/love-story-2026-107",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/mating-season-01.cache/cache.20260911.tar.xz",
+      "collection_key": "mating-season-01",
+      "executor": "ord",
+      "finished_at": "2026-09-14T02:33:15.068269+00:00",
+      "owner": "ord",
+      "results_revision": "45e576f496c917b8af561af9d4e6bc76b6d6b9c2",
+      "started_at": "2026-09-14T02:19:52.346342+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/mating-season-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/monarch-legacy-of-monsters-208.cache/cache.20260910.tar.xz",
+      "collection_key": "monarch-legacy-of-monsters-208",
+      "executor": "ord",
+      "finished_at": "2026-09-14T03:09:37.243934+00:00",
+      "owner": "ord",
+      "results_revision": "d2d2303f2a2217bcaf502c92cf9f720dd4124823",
+      "started_at": "2026-09-14T02:33:15.069101+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/monarch-legacy-of-monsters-208",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/my-brilliant-career-2026-01.cache/cache.20260831.tar.xz",
+      "collection_key": "my-brilliant-career-2026-01",
+      "executor": "ord",
+      "finished_at": "2026-09-14T03:10:37.698757+00:00",
+      "owner": "ord",
+      "results_revision": "06023bce1bef1a091f1b1a95047186f9584a3b18",
+      "started_at": "2026-09-14T03:09:37.244834+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/my-brilliant-career-2026-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/olympics-2026.cache/cache.20260525.tar.xz",
+      "collection_key": "olympics-2026",
+      "executor": "ord",
+      "finished_at": "2026-09-14T03:51:36.413698+00:00",
+      "owner": "ord",
+      "results_revision": "33ca0ba2fad0c470090ddd6c22bc3d0dd3503c0d",
+      "started_at": "2026-09-14T03:10:37.700789+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/olympics-2026",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/pitt-201.cache/cache.20260709.tar.xz",
+      "collection_key": "pitt-201",
+      "executor": "ord",
+      "finished_at": "2026-09-14T04:36:39.954350+00:00",
+      "owner": "ord",
+      "results_revision": "7fa7b2802f30807e6bae7c35ac3364fa9e8a0276",
+      "started_at": "2026-09-14T03:51:36.414611+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/pitt-201",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/project-hail-mary.cache/cache.20260906.tar.xz",
+      "collection_key": "project-hail-mary",
+      "executor": "ord",
+      "finished_at": "2026-09-14T05:14:03.481453+00:00",
+      "owner": "ord",
+      "results_revision": "379697cbfe1a557ab3a828391595b0356c8e8709",
+      "started_at": "2026-09-14T04:36:39.955326+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/project-hail-mary",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/reacher-401.cache/cache.20260906.tar.xz",
+      "collection_key": "reacher-401",
+      "executor": "ord",
+      "finished_at": "2026-09-14T05:15:55.237452+00:00",
+      "owner": "ord",
+      "results_revision": "14e637413c9eadc5ec8856e3fc5199d44d8353d1",
+      "started_at": "2026-09-14T05:14:03.482495+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/reacher-401",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/silo-301.cache/cache.20260827.tar.xz",
+      "collection_key": "silo-301",
+      "executor": "ord",
+      "finished_at": "2026-09-14T05:26:17.401656+00:00",
+      "owner": "ord",
+      "results_revision": "3e6e1671c6c92011d29f23a76904de67138f2d1e",
+      "started_at": "2026-09-14T05:15:55.238611+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/silo-301",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/spider-noir-01.cache/cache.20260908.tar.xz",
+      "collection_key": "spider-noir-01",
+      "executor": "ord",
+      "finished_at": "2026-09-14T06:22:56.828678+00:00",
+      "owner": "ord",
+      "results_revision": "f70a2511fc4f676afa3732f73988fd3ea65a477b",
+      "started_at": "2026-09-14T05:26:17.402616+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/spider-noir-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/star-city-101.cache/cache.20260910.tar.xz",
+      "collection_key": "star-city-101",
+      "executor": "ord",
+      "finished_at": "2026-09-14T06:35:10.424204+00:00",
+      "owner": "ord",
+      "results_revision": "c31aba45b871a574ce0bfdee24a432fa4d75eff9",
+      "started_at": "2026-09-14T06:22:56.829629+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/star-city-101",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/star-wars-visions-the-ninth-jedi-01.cache/cache.20260830.tar.xz",
+      "collection_key": "star-wars-visions-the-ninth-jedi-01",
+      "executor": "ord",
+      "finished_at": "2026-09-14T06:37:27.273998+00:00",
+      "owner": "ord",
+      "results_revision": "7905a11c5f5ab00dc81fba6a41a43e10104670c9",
+      "started_at": "2026-09-14T06:35:10.425271+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/star-wars-visions-the-ninth-jedi-01",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/sugar-201.cache/cache.20260910.tar.xz",
+      "collection_key": "sugar-201",
+      "executor": "ord",
+      "finished_at": "2026-09-14T06:48:05.546090+00:00",
+      "owner": "ord",
+      "results_revision": "5aee95355c6c0e7a2760d8e2328c3766a69e00b4",
+      "started_at": "2026-09-14T06:37:27.274947+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/sugar-201",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/testaments-101.cache/cache.20260721.tar.xz",
+      "collection_key": "testaments-101",
+      "executor": "ord",
+      "finished_at": "2026-09-14T07:02:46.906626+00:00",
+      "owner": "ord",
+      "results_revision": "03e4e3413533189215488bfbc7b6001e1bbdd3b8",
+      "started_at": "2026-09-14T06:48:05.547103+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/testaments-101",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/toy-story-5.cache/cache.20260908.tar.xz",
+      "collection_key": "toy-story-5",
+      "executor": "ord",
+      "finished_at": "2026-09-14T07:06:35.528612+00:00",
+      "owner": "ord",
+      "results_revision": "4fcee2add29788187412ac1dab4c38bb25653ac0",
+      "started_at": "2026-09-14T07:02:46.907668+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/toy-story-5",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/widows-bay-108.cache/cache.20260908.tar.xz",
+      "collection_key": "widows-bay-108",
+      "executor": "ord",
+      "finished_at": "2026-09-14T07:26:16.222087+00:00",
+      "owner": "ord",
+      "results_revision": "21c5d39860a8fb515170f2485310527f32fbeba9",
+      "started_at": "2026-09-14T07:06:35.529608+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/widows-bay-108",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/world-cup-2026.cache/cache.20260908.tar.xz",
+      "collection_key": "world-cup-2026",
+      "executor": "ord",
+      "finished_at": "2026-09-14T07:26:32.881830+00:00",
+      "owner": "ord",
+      "results_revision": "625e42da4152a93bcfd2fe4ce14d7cc4a8978640",
+      "started_at": "2026-09-14T07:26:16.223107+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/world-cup-2026",
+        "removed": true,
+        "status": "pass"
+      }
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/mnt/gold/src/alpha60-samples-cache.gold/zootopia-2.cache/cache.20260729.tar.xz",
+      "collection_key": "zootopia-2",
+      "executor": "ord",
+      "finished_at": "2026-09-14T08:14:21.546906+00:00",
+      "owner": "ord",
+      "results_revision": "0349cc75e42de40bfcc1b1e844333f2897ffd76d",
+      "started_at": "2026-09-14T07:26:32.882862+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/zootopia-2",
+        "removed": true,
+        "status": "pass"
+      }
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-13T20:34:27.721669+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+    "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
+    "size": 94076
+  },
+  "year": "2026"
+}
