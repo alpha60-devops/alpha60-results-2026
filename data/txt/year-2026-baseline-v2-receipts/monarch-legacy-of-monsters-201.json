@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt17220216",
+    "imdb_id": "tt17220216",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q113114887",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters"
+  },
+  "coverage_sha256": "e7e2d0a913d13473efde7ff40e4e9c17f641e0c5d3a5c382a47520909b00210b",
+  "generated_at": "2026-09-14T01:46:11.462254+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/monarch-legacy-of-monsters-201.cache/cache.20260910.tar.xz",
+      "sha256": "e9890373d225db90596fca4f3bf576bb6f4967ab683f95c875f253c71e223e6c",
+      "size": 3164122928
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/monarch-legacy-of-monsters-201.md",
+      "sha256": "fe9490ce44c22c416eff82db5ace663dd5e60177841952ed68847d12154c80d8",
+      "size": 861
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/monarch-legacy-of-monsters-201.json",
+      "sha256": "78e34822a81b76def64d81dc5ba0bda50cc40c2a9a5b693f1a002fa908ce9fd8",
+      "size": 3746
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/monarch-legacy-of-monsters-201.json",
+      "sha256": "dc41f00a734f78c602f3cf900ba0dd34393f8a942b590fa26e639c07bc2d8c42",
+      "size": 383
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
+      "size": 97281
+    }
+  },
+  "media_object": "monarch-legacy-of-monsters-201",
+  "published_files": {
+    "data/csv/bytes/monarch-legacy-of-monsters-201-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "5d3ceea44def1ec4e4d3c93cb94fe3c29562ba43f020db1fd7bb94ab229c0b6f",
+    "docs/itemized/figures/monarch-legacy-of-monsters-201-carto-4k.webp": "312ddf7e323b0475ea7a11f039c94fbe31d407d7202d251c883d13fdd13cba9e",
+    "docs/itemized/figures/monarch-legacy-of-monsters-201-carto.png": "a7e7f765268e6803734242c27b22f9739c1c70a79bf2b1936a06932bb9d276cd",
+    "docs/itemized/figures/monarch-legacy-of-monsters-201-cumulative-detail-btiha-itemized-by-bytes.svg": "5139dcb9b11efe953f00e14430dc0f81038be2e8e2e246f4aae0de1e53c7bfed",
+    "docs/itemized/figures/monarch-legacy-of-monsters-201-data-ge-1080p-4k.webp": "199fd7f63bffc811eef1ac1280e3dc95f16fb8c77c9e484a852dfac80311510c",
+    "docs/itemized/figures/monarch-legacy-of-monsters-201-data-ge-1080p.webp": "905ca8eca22ca5a1dbf9c2ff2f77cc150d3251989c48640062ae4883dc404892",
+    "docs/itemized/figures/monarch-legacy-of-monsters-201-data-lt-1080p-4k.webp": "e4749e46255545904b7a76ebe0a693dfa9855dca3a2338c86508f10f6075fe25",
+    "docs/itemized/figures/monarch-legacy-of-monsters-201-data-lt-1080p.webp": "11c708723eec127048139609aa44f7c13bddbb35ab9094fa24e9c4d9fbe59aae",
+    "docs/itemized/figures/monarch-legacy-of-monsters-201-downloads-by-day-day.svg": "d5ac40476a71ccd401afe0c5b09d6ccf45a77a51e3b06610a03a30a08155e1d9",
+    "docs/itemized/figures/monarch-legacy-of-monsters-201-downloads-by-week-monarch-legacy-of-monsters-201-week.svg": "53a9cb5f0389be971d69b2ecff9bbb6828938bb8644bf548788ab033801f224b",
+    "docs/itemized/monarch-legacy-of-monsters-201-sample-cache-audit.md": "928d4a9e0cd0bcf69b9d2ee6d3fc17cae5a4fe3f032df541e9c4d15eb6fa0a70",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/monarch-legacy-of-monsters-201/tmp/monarch-legacy-of-monsters-201-cumulative-btiha.geojson",
+        "sha256": "891d9af390029c87d036277ebd3ac91bbbdda29ebe174578f8201eeab7108691",
+        "size": 586763588
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/monarch-legacy-of-monsters-201/tmp/monarch-legacy-of-monsters-201-cumulative-btiha-media-objects.json",
+        "sha256": "1d574a666c2d06f75743a526dcd6468ed4dbe878e2aed462aa11eecf4d46bdea",
+        "size": 628468
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "monarch-legacy-of-monsters-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          50.0,
+          39.0,
+          37.0,
+          31.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Moscow",
+          "Shanghai",
+          "London",
+          "Amsterdam",
+          "Hangzhou",
+          "Saint Petersburg",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          41.0,
+          38.0,
+          35.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Istanbul",
+          "Moscow",
+          "Nanjing",
+          "Shanghai",
+          "London",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 22,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 35,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 28,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
