@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt43337681",
+    "imdb_id": "tt43337681",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q140530109",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_Visions_Presents#The_Ninth_Jedi_(2026)"
+  },
+  "coverage_sha256": "4b357565172510883529fc12209210703ac064c31930ceb3ec02fffdd60ff595",
+  "generated_at": "2026-09-14T06:37:26.956767+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-wars-visions-the-ninth-jedi-01.cache/cache.20260830.tar.xz",
+      "sha256": "225ef3969a0788a5bdc5f864fd7df56927b5db098a4e30942c39fe138d4d0209",
+      "size": 93887336
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/star-wars-visions-the-ninth-jedi-01.md",
+      "sha256": "ec59361c9e39d5cbb50d19141f1c1ebe2c27559491907e831cfc4e0dac6bf590",
+      "size": 694
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/star-wars-visions-the-ninth-jedi-01.json",
+      "sha256": "e7039e2fc462b5bd24e92377e52f1266f4ad4ca2f9551e52ff742bd4fd3d1e13",
+      "size": 2228
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/star-wars-visions-the-ninth-jedi-01.json",
+      "sha256": "7e0c507780836db43c692bc67b23afe985369086b2a925e7dd76394587aaedc7",
+      "size": 386
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
+      "size": 94076
+    }
+  },
+  "media_object": "star-wars-visions-the-ninth-jedi-01",
+  "published_files": {
+    "data/csv/bytes/star-wars-visions-the-ninth-jedi-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "58c84f990619cddb70f1f0b62cd409ccf26ea48d6004aa81425951042f7d4800",
+    "docs/itemized/figures/star-wars-visions-the-ninth-jedi-01-carto-4k.webp": "2ae4b760cd2b94b11aec75d084555c0ddb531a5ba4da81d60c90bd6430f0804c",
+    "docs/itemized/figures/star-wars-visions-the-ninth-jedi-01-carto.png": "bf08785ba1c7bd21af811bfcdb6ba67b1587c287f10a4e3d4c74cb7e89aec256",
+    "docs/itemized/figures/star-wars-visions-the-ninth-jedi-01-cumulative-detail-btiha-itemized-by-bytes.svg": "871bb634841e7c856b38a3efe3f75067ea4114498a8967dfac1fdf99062c1359",
+    "docs/itemized/figures/star-wars-visions-the-ninth-jedi-01-data-ge-1080p-4k.webp": "edaa13d145c7d255f6162d9fd805353798f5b6dbdb6746e4c5ca89ca866c5f08",
+    "docs/itemized/figures/star-wars-visions-the-ninth-jedi-01-data-ge-1080p.webp": "0893aad9561bb76a62bfe47c055455da02c93fb28feb86d9c73ffcc1f6e54571",
+    "docs/itemized/figures/star-wars-visions-the-ninth-jedi-01-data-lt-1080p-4k.webp": "33e302e63e816bcad0f11fc5d4e5c87e162ac48b20ece8d498313ea8ebe12d35",
+    "docs/itemized/figures/star-wars-visions-the-ninth-jedi-01-data-lt-1080p.webp": "80545898ab899741a8fc4107c58edf38cf2516cabb4006d81e2f8e9c1c37a465",
+    "docs/itemized/figures/star-wars-visions-the-ninth-jedi-01-downloads-by-day-day.svg": "13ac24163dcaadce9bdb0df3fdd2bde06aeceb44c2c7c7aa1e2ee2b9f9165b69",
+    "docs/itemized/figures/star-wars-visions-the-ninth-jedi-01-downloads-by-week-star-wars-visions-the-ninth-jedi-01-week.svg": "b9b7333197f20a15813b0ef6d7940816c2b01d495e60c96622fb226a5fbfb945",
+    "docs/itemized/star-wars-visions-the-ninth-jedi-01-sample-cache-audit.md": "9ebb26e27fd76bd17ea9d67eb8dbab9e2bce8876994fdcebee8a14b60014833d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/star-wars-visions-the-ninth-jedi-01/tmp/star-wars-visions-the-ninth-jedi-01-cumulative-btiha.geojson",
+        "sha256": "4f40ac33131ba74f1e3445e94ed4d3fb3d3c35569740fcab8955e91bcc66f6c3",
+        "size": 67195855
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/star-wars-visions-the-ninth-jedi-01/tmp/star-wars-visions-the-ninth-jedi-01-cumulative-btiha-media-objects.json",
+        "sha256": "a92aaa5c7504514429900c7563e2d468093cd7355fe9416c0a56a77779af2240",
+        "size": 759968
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "star-wars-visions-the-ninth-jedi-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          71.0,
+          37.0,
+          31.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Lelystad",
+          "Amsterdam",
+          "Istanbul",
+          "Shanghai",
+          "Hangzhou",
+          "London",
+          "Boardman",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          46.0,
+          39.0,
+          37.0,
+          30.0,
+          29.0,
+          29.0,
+          28.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Lelystad",
+          "Istanbul",
+          "Amsterdam",
+          "Shanghai",
+          "Hangzhou",
+          "Boardman",
+          "London",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 16,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 35,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}

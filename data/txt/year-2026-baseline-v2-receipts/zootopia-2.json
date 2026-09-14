@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt26443597",
+    "imdb_id": "tt26443597",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q116764712",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zootopia_2"
+  },
+  "coverage_sha256": "f539c938da9c61de1fdff0d23ea48ff887742d52f4bbf97d523f6739c8676ee3",
+  "generated_at": "2026-09-14T08:14:18.313669+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/zootopia-2.cache/cache.20260729.tar.xz",
+      "sha256": "9e7348311ad2193932a980673a3e73be940203bb29f9c2b69efc42235715b179",
+      "size": 3543432964
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/zootopia-2.md",
+      "sha256": "789262eb16c67d4836e7422ae073a4748dfb87436e05b21aa042bb72f002bcaf",
+      "size": 615
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/zootopia-2.json",
+      "sha256": "224030828e491c66ecd3a61885aba4b0c82aad201213c435f2d1e90d35c085dc",
+      "size": 3538
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/zootopia-2.json",
+      "sha256": "2c09508d842dfddb6ec3e9e49b30736b352ccdc06fcbee5646f1cc88a108207e",
+      "size": 364
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
+      "size": 94076
+    }
+  },
+  "media_object": "zootopia-2",
+  "published_files": {
+    "data/csv/bytes/zootopia-2-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "78a9e8ff56bb404f1cb177a60134b7079aa1bcb136da3c25ade61a02f7ce8934",
+    "docs/itemized/figures/zootopia-2-carto-4k.webp": "992daa7468c69d0395bfbb5e0effd9fe758b2c9f3ce50b9119f9e1426c2188d6",
+    "docs/itemized/figures/zootopia-2-carto.png": "d0f8878454ccfc75a598d93ad116fe4cead2cf4d7bcdad2c786860798df98d5d",
+    "docs/itemized/figures/zootopia-2-cumulative-detail-btiha-itemized-by-bytes.svg": "ddea95dbbd5ed8cd7f8346ac0686557430f7898185bd76c83b0707476de9084b",
+    "docs/itemized/figures/zootopia-2-data-ge-1080p-4k.webp": "accef9bcb825d384acfdc0a1169da16f33d1c89d4145f8449ce7008aef507bef",
+    "docs/itemized/figures/zootopia-2-data-ge-1080p.webp": "ce7413804344fc995ecf8a72954d525c637741ac95cf9d1a96b31c8048fbb9cd",
+    "docs/itemized/figures/zootopia-2-data-lt-1080p-4k.webp": "59b10b0ac6f88080331cdca30c1fd7b9eafa20f50f50770752025048b3c33db9",
+    "docs/itemized/figures/zootopia-2-data-lt-1080p.webp": "7b3b873fe603ecc997c0bd47b287f20cc2ea0ac950731b41c9eace855d832373",
+    "docs/itemized/figures/zootopia-2-downloads-by-day-day.svg": "6ab4c8d1a672135bacf48efe8d4553496c52a6ec6f247bebe283edf9d242e2bc",
+    "docs/itemized/figures/zootopia-2-downloads-by-week-zootopia-2-week.svg": "8478deaaac11bf8ebbac4f5aa8d7fa7b89c340540c77440cebef0cd0b258eff5",
+    "docs/itemized/zootopia-2-sample-cache-audit.md": "0d51cb9f42d25389d5fada5944696798cc2ac39a4b9e19dcd1ecd4f36682620d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/zootopia-2/tmp/zootopia-2-cumulative-btiha.geojson",
+        "sha256": "47e86c7ba1139201f37b77fe2f032c1eb54446818d3e35d324c15d6d1006442f",
+        "size": 621361636
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/zootopia-2/tmp/zootopia-2-cumulative-btiha-media-objects.json",
+        "sha256": "90ded708514289930065846951778bf88804fbdb2c6e399a2dc90b1a0a34d890",
+        "size": 2303543
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "zootopia-2",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          71.0,
+          36.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Shanghai",
+          "Saint Petersburg",
+          "Hangzhou",
+          "London",
+          "Amsterdam",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          48.0,
+          48.0,
+          40.0,
+          29.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Nanjing",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "Hangzhou",
+          "Amsterdam",
+          "London",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 50,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}

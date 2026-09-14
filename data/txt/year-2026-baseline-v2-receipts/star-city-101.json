@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt32140872",
+    "imdb_id": "tt32140872",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q133567755",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_City_(TV_series)"
+  },
+  "coverage_sha256": "5e436f5fcc542d8d411d022662805fb1d5d19ce36d62dbca47efbaf29fed8cf5",
+  "generated_at": "2026-09-14T06:35:09.421801+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-city-101.cache/cache.20260910.tar.xz",
+      "sha256": "b44f6ed77f154d7fc5bd04bdfacf97b5f061545dd7594df93d82c639b1a02ae0",
+      "size": 690971640
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/star-city-101.md",
+      "sha256": "6bf7982498238ea8c3d5d65edf54fe3ec69169de487051ed0c8891c4c8e9908a",
+      "size": 548
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/star-city-101.json",
+      "sha256": "b88160ae73c5aa9106364520a56c1370df879f2457a445b7a31ab2754009ad61",
+      "size": 2857
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/star-city-101.json",
+      "sha256": "b9fcc3d416f6980ece79eda3f649b6d4fcc9811b55a25fc44dfc1a4544fef95d",
+      "size": 367
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
+      "size": 94076
+    }
+  },
+  "media_object": "star-city-101",
+  "published_files": {
+    "data/csv/bytes/star-city-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "9a444015d6b496b51c71311ab330714712bd7335c6b0dfb55fee2d65059742af",
+    "docs/itemized/figures/star-city-101-carto-4k.webp": "1f57dd2fdea6c6d3261f23c80a97ae0baf9cd5f6005771afee76c7b3a8d804aa",
+    "docs/itemized/figures/star-city-101-carto.png": "89467f23118d1a651ce6df8b65ff178b9b0c2820ab3b4b6a1be144eab1633ba3",
+    "docs/itemized/figures/star-city-101-cumulative-detail-btiha-itemized-by-bytes.svg": "23f7c9fc12f2e015a65779a1f2cbc96c56554e0a106792ed0cc10d12dcbd2b71",
+    "docs/itemized/figures/star-city-101-data-ge-1080p-4k.webp": "94cb7a266281ff93a9735c146626f34ac3122a7cbd876a33318fc9a01d6a1b5a",
+    "docs/itemized/figures/star-city-101-data-ge-1080p.webp": "b46e74a94d85ae80b637a92ccb5dc5ce0bc11ddd2463e4b82440ec30f1bd6e44",
+    "docs/itemized/figures/star-city-101-data-lt-1080p-4k.webp": "9143b1079a73d29a6f40f4c6bde2420afa068e0b7aee7c22f3836ad0b753b07c",
+    "docs/itemized/figures/star-city-101-data-lt-1080p.webp": "2a48453e84a4daed13e3505e0f8d71dc9974aab61e7f95490a62951dbe3bf43f",
+    "docs/itemized/figures/star-city-101-downloads-by-day-day.svg": "46b9d9a83ebf9f4ad923f994801a4d819d9fa0ff065300c820d90ec8f1ee1c70",
+    "docs/itemized/figures/star-city-101-downloads-by-week-star-city-101-week.svg": "ade777c861995dfce35ba7ca2e45aaebbfeb903d5b62f2e20adef1f751210f95",
+    "docs/itemized/star-city-101-sample-cache-audit.md": "46998e54b85938bdeb2ddf2c2e445654ae5eecd77fbc15fc06e9e3c8b7d47233",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/star-city-101/tmp/star-city-101-cumulative-btiha.geojson",
+        "sha256": "7ad4a0f9e66dce7b8ae32e5a39166639685c358bf7deb2b8ceebad5cb1ab736a",
+        "size": 220810583
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/star-city-101/tmp/star-city-101-cumulative-btiha-media-objects.json",
+        "sha256": "107996da46792efea58b218e336d47971b9d91ccd6e985d1c55ad02781a4cf7c",
+        "size": 350161
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "star-city-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          49.0,
+          38.0,
+          31.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Amsterdam",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Lelystad",
+          "Moscow",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          48.0,
+          40.0,
+          32.0,
+          30.0,
+          28.0,
+          28.0,
+          27.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Amsterdam",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Lelystad",
+          "Moscow",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}

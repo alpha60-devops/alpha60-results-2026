@@ -1,0 +1,88 @@
+---
+layout: default
+title: "widows-bay-108 Sample Cache Audit"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Cache coverage and visualization audit for one media object."
+---
+
+# widows-bay-108 sample cache audit
+
+## 1. Media object
+
+| Field | Value |
+| --- | --- |
+| Media object | Widows Bay |
+| Collection key | `widows-bay-108` |
+| imdb_id | [tt33332385](https://www.imdb.com/title/tt33332385/) |
+| wikipedia_url | [Widow's Bay](https://en.wikipedia.org/wiki/Widow%27s_Bay) |
+| Sample dates | 2026-06-03-to-2026-09-08 |
+| Sample days | 98 |
+| BTIH count | 381 |
+| Unique BTIH count | 377 |
+| Downloaders total | 28,428,812 |
+| Uploaders total | 1,915,229 |
+| Data version | `2026-08-05` |
+| IP geolocation version | `6:1777968300` |
+
+## 2. Sample coverage report
+
+- Generated: 2026-09-13T17:13:10Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz`
+- Hour directories: 2336
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 0 (0 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+None detected.
+
+## 3. Media objects file size histogram
+
+![Widows Bay collection size histogram](figures/widows-bay-108-cumulative-detail-btiha-itemized-by-bytes.svg)
+
+## 4. Visualization pass — graphs
+
+### Downloads by week cumulative (normalized start)
+
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/widows-bay-108-downloads-by-week-widows-bay-108-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
+
+### Downloads by day, Saturday and Sunday in gray
+
+![widows-bay-108 downloads by day](figures/widows-bay-108-downloads-by-day-day.svg)
+
+## 5. Visualization pass — maps
+
+### Cumulative geographic slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 1.48 | 17.93 | 34.70 | 41.66 | 1.40 | 0.81 |
+
+### Cumulative network infrastructure
+
+[![Widows Bay cumulative map](figures/widows-bay-108-carto.png)](figures/widows-bay-108-carto-4k.webp){:target="_blank" rel="noopener"}
+
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+[![Cumulative >= 1080p](figures/widows-bay-108-data-ge-1080p.webp)](figures/widows-bay-108-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+**Cumulative < 1080p**
+
+[![Cumulative < 1080p](figures/widows-bay-108-data-lt-1080p.webp)](figures/widows-bay-108-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

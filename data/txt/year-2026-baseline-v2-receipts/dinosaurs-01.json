@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt32493765",
+    "imdb_id": "tt32493765",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q138035326",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Dinosaurs_(miniseries)"
+  },
+  "coverage_sha256": "f616b159dd0b866b1102f6ec8411102e756215c08b430882ab646f81406713ff",
+  "generated_at": "2026-09-13T23:27:01.108786+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/dinosaurs-01.cache/cache.20260625.tar.xz",
+      "sha256": "ff62de5d5cfec3d30afda49b15df6fe0b79c113048b6cc8706a42dd2de6bbbea",
+      "size": 760555488
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/dinosaurs-01.md",
+      "sha256": "31b3ed902d868b374c73e7032a8874853e8f6fb2b0a0533481c40fd4b8952504",
+      "size": 797
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/dinosaurs-01.json",
+      "sha256": "10a5cf699960205e714e7d5b599ea2f19889a5a3c8226a27f1b136fc61f2c4d2",
+      "size": 2916
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/dinosaurs-01.json",
+      "sha256": "5dfb1b340127be14b9b44c3700ead4df59619ce9a44450ab8c5e6f22f37e60eb",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
+      "size": 94076
+    }
+  },
+  "media_object": "dinosaurs-01",
+  "published_files": {
+    "data/csv/bytes/dinosaurs-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "03d183c7fc94e3ec7b3b9d10073a3ec12ecef19126d4436815322e0c2ac7af75",
+    "docs/itemized/dinosaurs-01-sample-cache-audit.md": "efaf6958c1f6806c94d06bc23ab3fd673681adea3030a5dda94dd8b1737ca813",
+    "docs/itemized/figures/dinosaurs-01-carto-4k.webp": "1b8970fa074ffd39b5e69b04f4f71ea4cfc63073b0de049dac12179b2ad2609e",
+    "docs/itemized/figures/dinosaurs-01-carto.png": "66ec36e6e9f3ae30a8b7e4d3bdfdb522b344d524513b1f29da1ed8512e14abd4",
+    "docs/itemized/figures/dinosaurs-01-cumulative-detail-btiha-itemized-by-bytes.svg": "aee7f0f2c1db974ca686aae747676e8511c84b85544f674bf70d761a8ef4a74a",
+    "docs/itemized/figures/dinosaurs-01-data-ge-1080p-4k.webp": "4844e137de882aa2533a670ed7c58683d9305ae2cd384e819dcf0030d73aeefc",
+    "docs/itemized/figures/dinosaurs-01-data-ge-1080p.webp": "4dc3b25401144f57ad39d8160bdd1045acd09edf7d73c1e4db6415f1e91da4a8",
+    "docs/itemized/figures/dinosaurs-01-data-lt-1080p-4k.webp": "4b503e8bc5d02be1aefd26299e918f6232d1251356dd2c1c21a9d6f20937218c",
+    "docs/itemized/figures/dinosaurs-01-data-lt-1080p.webp": "81722b0e7d219c545fb34cc7d7e4c65b7ad9191c1d909bbf8f037e17da188906",
+    "docs/itemized/figures/dinosaurs-01-downloads-by-day-day.svg": "bd25719b8633f088bc5318e40ac537579c542bcf589196457ed647a6093ae5f8",
+    "docs/itemized/figures/dinosaurs-01-downloads-by-week-dinosaurs-01-week.svg": "2218e560a3c7800a84d50f06a1ecda9288c95bfde25d829e6da90c9b087d43fa",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/dinosaurs-01/tmp/dinosaurs-01-cumulative-btiha.geojson",
+        "sha256": "97ee16030fedbc1cf2b2b8005c495ded49b153bde812eb5bd0fb57ee9c57a96b",
+        "size": 202500099
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/dinosaurs-01/tmp/dinosaurs-01-cumulative-btiha-media-objects.json",
+        "sha256": "69ec5f7d5e139d9d1b1ac5a5d1887e62e1d57af1ef39f01357521ad004b5183e",
+        "size": 282547
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "dinosaurs-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          60.0,
+          44.0,
+          39.0,
+          29.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Moscow",
+          "Istanbul",
+          "Shanghai",
+          "Amsterdam",
+          "Saint Petersburg",
+          "Hangzhou",
+          "London",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          46.0,
+          40.0,
+          39.0,
+          30.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Nanjing",
+          "Shanghai",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 37,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 16,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}

@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt33311069",
+    "imdb_id": "tt33311069",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q125948183",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Furious"
+  },
+  "coverage_sha256": "c56a32d07bac609a9f6fc30cad4f3411b50b21583d0e07ce15d11306ea52ec51",
+  "generated_at": "2026-09-13T23:34:04.128095+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/furious-2025.cache/cache.20260831.tar.xz",
+      "sha256": "0b7def8a451cab33e731201ac90f2a72dadf4298e743be6b6bc14ce7547b35ad",
+      "size": 598684316
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/furious-2025.md",
+      "sha256": "9b77533a064b6a322f5c1ecf659a61a8a456316df7538b8f38f1210870e9a877",
+      "size": 707
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/furious-2025.json",
+      "sha256": "ffdcf7d442dba34fb17e32f110f4218bc0de0ec4b490e9596fa63139465595df",
+      "size": 2446
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/furious-2025.json",
+      "sha256": "0823d618c89b4e32c20cf6f39c27304d183734d51d4b42aeb8c5bc321c3bbdcf",
+      "size": 364
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
+      "size": 94076
+    }
+  },
+  "media_object": "furious-2025",
+  "published_files": {
+    "data/csv/bytes/furious-2025-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "ce0c290617e9e8fcd85296e2e0aae4c0f26bf2dce1c2070988d10a886b43500c",
+    "docs/itemized/figures/furious-2025-carto-4k.webp": "eed9a1a072369ddf38552e401a8bb08252d95680dc4a0fea9a5e41e4b858be84",
+    "docs/itemized/figures/furious-2025-carto.png": "4d459343e07574dafc976949094931fae29ed4bca6d04b671d445cba0347e2fe",
+    "docs/itemized/figures/furious-2025-cumulative-detail-btiha-itemized-by-bytes.svg": "96095a3fbc37e9dc976544cbde630d77e7542ba74fe81c1d0ad78b001eefba19",
+    "docs/itemized/figures/furious-2025-data-ge-1080p-4k.webp": "3909fc21a34cb3fd2365acf778030530f1a0e50ec04905ac571f8860d58ef00e",
+    "docs/itemized/figures/furious-2025-data-ge-1080p.webp": "aa81ba9d235b3f1ff2ab0f370f2654c4aecf61b5cc5d01e9d11355737cab399d",
+    "docs/itemized/figures/furious-2025-data-lt-1080p-4k.webp": "53f67790118d229b8977d3a7e891f2a8f4fc6a70d63d700b463e020b75a7ff88",
+    "docs/itemized/figures/furious-2025-data-lt-1080p.webp": "995e00ecf37e9c9b21b4ea6e95946948b2b00dcd07d58dc986baa84f835d2a7c",
+    "docs/itemized/figures/furious-2025-downloads-by-day-day.svg": "5b37ee5009636e5ab2b72989cecaa6d077d2ff0e0240f86f10c628c8f6ce9dbf",
+    "docs/itemized/figures/furious-2025-downloads-by-week-furious-2025-week.svg": "2763e4c66c0c9473327b9167720b0b601aba3fc68fb4bf1fb78c52c6b7e1a65a",
+    "docs/itemized/furious-2025-sample-cache-audit.md": "a862ab63014555277543d945683ed993c1722786aaf382ac05a4404b9c3896f4",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/furious-2025/tmp/furious-2025-cumulative-btiha.geojson",
+        "sha256": "0489c06785c9d005e8834f35598fc2d4e274986eade41e4aa0780783806cec8f",
+        "size": 113717656
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/furious-2025/tmp/furious-2025-cumulative-btiha-media-objects.json",
+        "sha256": "01a6ab932e9494a28eef775a75c0ee7f48263ff2a0de00109c717ef77f6c4467",
+        "size": 214545
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "furious-2025",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Amsterdam",
+          "Shanghai",
+          "Lelystad",
+          "Istanbul",
+          "London",
+          "Hangzhou",
+          "Moscow",
+          "Chennai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          58.0,
+          43.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Hyderabad",
+          "Bengaluru",
+          "Amsterdam",
+          "Lelystad",
+          "Istanbul",
+          "Moscow",
+          "Hangzhou",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 28,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 33,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 8,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
