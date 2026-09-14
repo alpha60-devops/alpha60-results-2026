@@ -1,0 +1,75 @@
+{
+  "allow_leading_sparse": false,
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "available_day_products": 3,
+  "cache_members": 47,
+  "collection_key": "legend-of-aang-the-last-airbender",
+  "downstream_cache_synthesis": {
+    "cache_members": {
+      "cumulative": 16,
+      "week": 16
+    },
+    "derived_durations": [
+      "week",
+      "cumulative"
+    ],
+    "producer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
+      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
+      "size": 30067072
+    },
+    "sample_anchor": {
+      "directories": [
+        "2026-04-16-at-00-00",
+        "2026-04-18-at-00-00"
+      ],
+      "keys": [
+        "legend-of-aang-the-last-airbender"
+      ],
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/legend-of-aang-the-last-airbender/tmp/legend-of-aang-the-last-airbender-released-day-sample-anchor",
+      "raw_samples_opened": false,
+      "synthetic": true
+    },
+    "schema": "alpha60-released-day-downstream-cache/1",
+    "source_duration": "day",
+    "status": "pass"
+  },
+  "first_date": "2026-04-16",
+  "first_index": 1,
+  "indices": [
+    1,
+    2,
+    3
+  ],
+  "last_date": "2026-04-18",
+  "last_index": 3,
+  "missing_indices": [],
+  "sample_span_days": 3,
+  "schema": "alpha60-day-cache-stream-contract/1",
+  "selection": {
+    "admitted_cache_members": 47,
+    "archive_mutated": false,
+    "excluded_cache_members": 0,
+    "policy": "released-sample-endpoints-in-place",
+    "required_first_date": "2026-04-16",
+    "required_last_date": "2026-04-18",
+    "required_span_days": 3,
+    "schema": "alpha60-released-day-cache-window/1",
+    "source_cache_members": 47,
+    "source_first_date": "2026-04-16",
+    "source_first_index": 1,
+    "source_last_date": "2026-04-18",
+    "source_last_index": 3
+  },
+  "sparse": false,
+  "status": "pass"
+}
