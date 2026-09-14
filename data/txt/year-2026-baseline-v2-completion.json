@@ -1,0 +1,48 @@
+{
+  "campaign": {
+    "inventory_count": 71,
+    "inventory_sha256": "c43ed8309af2cca46e57f4b873377efb087b3f6b62701bd220483b81f26e9ea9",
+    "version": 2
+  },
+  "campaign_counts": {
+    "archive_records": 71,
+    "baseline_v2_pages": 71,
+    "day_complete": 71,
+    "day_product_pairs": 7310,
+    "excluded_records": 0,
+    "index_links": 71,
+    "inventory": 71,
+    "reused_predecessor": 0,
+    "validated_current": 71,
+    "worker_failed": 0,
+    "worker_passed": 71
+  },
+  "counts": {
+    "absent": 0,
+    "failed": 0,
+    "inventory": 71,
+    "old": 0,
+    "passed": 71,
+    "unique": 71
+  },
+  "evidence_sha256": {
+    "campaign_audit": "d3709df91a3ee1ebc2f1fdcee5765778734706d58850eaa7d5bd547fb2a063f4",
+    "metadata-audit.json": "529c3d7fdfb7c7f42f38d6b809b066077cc922f0392288d45afaa14254070732",
+    "site-audit.json": "1780cb553adc687b611a2a06b8cc7ecb820794705e9f9f51af33769389668bb5",
+    "worker-original-01.json": "833d3018653efbd05b471f4f7ad5e46f38063fafcac53e09611959d85bd8276a",
+    "worker-original-02.json": "c0fb555f7e42d0d7743ce699bf96394635922a208b16c9c1d93c56c84e757935",
+    "worker-repair-01.json": "6fcb80bb08674f8352bad39a22e51edf35a654f53bf29e6c203e81196eaff336"
+  },
+  "generated_at": "2026-09-14T15:27:47.601354+00:00",
+  "schema": "alpha60-year-baseline-v2-completion/1",
+  "source_revisions": {
+    "alpha60": "6e6d05aae9ff4c3b65ccdb40a9149197165baf91",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "results": "dacf41381f481c895aa044a7b2b2173d3f5d02de"
+  },
+  "status": "passed",
+  "year": "2026"
+}
