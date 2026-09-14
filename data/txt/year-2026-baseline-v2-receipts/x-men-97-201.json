@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt16026746",
+    "imdb_id": "tt16026746",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q109558622",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/X-Men_%2797"
+  },
+  "coverage_sha256": "35791d07d80e7b176e89c1a899f07fe721f94c6cb1f4e89fd4b7402b940d9097",
+  "generated_at": "2026-09-14T06:49:41.860219+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/x-men-97-201.cache/cache.20260909.tar.xz",
+      "sha256": "63c3d5f329fb0d0f6605617ff8e7803442986c977abfc1fc01b2741314afa4a1",
+      "size": 695555668
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/x-men-97-201.md",
+      "sha256": "a3237c9f77aa3f9fe74607c185adedf54be781c589877b8cd13dc08ab6aec8a0",
+      "size": 546
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/x-men-97-201.json",
+      "sha256": "760fdaf5f0ddc068043cb2a7d5915d9b455706cd2fd001a3c36f802a5aae62d8",
+      "size": 2562
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/x-men-97-201.json",
+      "sha256": "ddd2e93bd2cac52b30d505c8357e41ded0807eb3f1884e2c7000eb418034d2e4",
+      "size": 364
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
+      "size": 97281
+    }
+  },
+  "media_object": "x-men-97-201",
+  "published_files": {
+    "data/csv/bytes/x-men-97-201-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "0d4e90ee725e839af46031546eea4d72949de79c071dd306f84918abfeaee425",
+    "docs/itemized/figures/x-men-97-201-carto-4k.webp": "12f5ec34ddfe4f5cc20c3e3eedf31b1ecad59df8c6f717113522f4daff187852",
+    "docs/itemized/figures/x-men-97-201-carto.png": "6f5d633ccc9cbc35d7dbf647b2e8664349835b03af586fe4b0f13574c8b25891",
+    "docs/itemized/figures/x-men-97-201-cumulative-detail-btiha-itemized-by-bytes.svg": "9d997b5ba13cccb8a36606a6484d5f74501f17da25d334e8db3c748894943bac",
+    "docs/itemized/figures/x-men-97-201-data-ge-1080p-4k.webp": "3510b9df2fd9f5821e7d5062639ca4c285fb36d619816b0e18f56ec50c5b1e1f",
+    "docs/itemized/figures/x-men-97-201-data-ge-1080p.webp": "f92c4a31f5ba058ca5332732861dd691db609275fbd69d429cf8663fab4d57a3",
+    "docs/itemized/figures/x-men-97-201-data-lt-1080p-4k.webp": "a3f20970156390889d88d62e9c9e459f2f873e7e6df520d7e6cadb903d677f26",
+    "docs/itemized/figures/x-men-97-201-data-lt-1080p.webp": "81b04b40d7530a1b535cf3d635cd1590c8346010beef230d32b8e5406de2ee64",
+    "docs/itemized/figures/x-men-97-201-downloads-by-day-day.svg": "43a42b9b91f0b43a1cd42abd1c2c3751521c3589034462ede9d711d4431eda80",
+    "docs/itemized/figures/x-men-97-201-downloads-by-week-x-men-97-201-week.svg": "5aa8b8f8dc81ebdc34850fb0bac367ba6648ded78850297361929af1a7118cd3",
+    "docs/itemized/x-men-97-201-sample-cache-audit.md": "58afa1b8ca2a21df14dbd7c8467843ec3cb87356510a6d01aa6ae32345fe9392",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/x-men-97-201/tmp/x-men-97-201-cumulative-btiha.geojson",
+        "sha256": "8c30e9d561f50b56bc6881c32315d31f5fcc0cf7961c7338c36941dfaf1b1661",
+        "size": 201360852
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/x-men-97-201/tmp/x-men-97-201-cumulative-btiha-media-objects.json",
+        "sha256": "e7317709c4be3cdd2b993995228d036404be427e6ddfae71ae733ca70a337b6b",
+        "size": 434372
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "x-men-97-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          68.0,
+          40.0,
+          37.0,
+          34.0,
+          33.0,
+          30.0,
+          30.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Amsterdam",
+          "Istanbul",
+          "Lelystad",
+          "London",
+          "Shanghai",
+          "Hangzhou",
+          "Boardman",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          78.0,
+          42.0,
+          39.0,
+          36.0,
+          33.0,
+          33.0,
+          31.0,
+          29.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Amsterdam",
+          "Lelystad",
+          "Shanghai",
+          "Hangzhou",
+          "London",
+          "Boardman",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 34,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
