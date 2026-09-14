@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt10970762",
+    "imdb_id": "tt10970762",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q137357617",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Testaments_(TV_series)"
+  },
+  "coverage_sha256": "a695b85a0d927de05d02b5766f4d71b5669a3be2a21c889ca369c43d92353f1e",
+  "generated_at": "2026-09-14T07:02:45.765924+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/testaments-101.cache/cache.20260721.tar.xz",
+      "sha256": "6d15fece312dea4ef3f61474e5236f1e1419ae1e9985fb2aaf11509d62e585ec",
+      "size": 1006834176
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/testaments-101.md",
+      "sha256": "dc77263d2e8d0288dcd8907ba836cbbd422a52b578897b42ea17bc578aa76c69",
+      "size": 550
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/testaments-101.json",
+      "sha256": "ae0f7f18f9073b73f57e9defbd159d619aa710193ded66edfec88b7c732ad0a3",
+      "size": 2861
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/testaments-101.json",
+      "sha256": "c38fa1c83ab55c212db1affc5d4a62dc25e31d00b0256ab1f37aa8a4ad2fecec",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
+      "size": 94076
+    }
+  },
+  "media_object": "testaments-101",
+  "published_files": {
+    "data/csv/bytes/testaments-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "4133ef3a948760a1051c2505995503baa515a4c1509b40f40264188e724ab769",
+    "docs/itemized/figures/testaments-101-carto-4k.webp": "9119c84c6af21355acea06fa168ab403ee5c978e4e7a5173f03acfbb780578c2",
+    "docs/itemized/figures/testaments-101-carto.png": "0288dfc02d9c63b3a5ebc2baebd0d1027b89a51e7df774f0f6e69caa02375bf5",
+    "docs/itemized/figures/testaments-101-cumulative-detail-btiha-itemized-by-bytes.svg": "afc7cd5b0be0c603432c85e9388dee85e32e8ca6512da75eb2831b868e0343de",
+    "docs/itemized/figures/testaments-101-data-ge-1080p-4k.webp": "dc8f5889b68fcee44148b825c981aab6128d3539a8cebf62bc3562437b0f79f6",
+    "docs/itemized/figures/testaments-101-data-ge-1080p.webp": "5d4a2fbd4eec5fb60c848af5e8243c5fb6bec86c21871e969e5deb51fabf4da2",
+    "docs/itemized/figures/testaments-101-data-lt-1080p-4k.webp": "73899ff10a233dc86c621749462c34c741b81e5c762336479a6c38830f922326",
+    "docs/itemized/figures/testaments-101-data-lt-1080p.webp": "2d462e9852e42d9d7934f22c62b71fbf7c468546714a0e1bb0b07c57f0eb9dc9",
+    "docs/itemized/figures/testaments-101-downloads-by-day-day.svg": "162b24baaaa1e1a14c560dcba883bcbc77e39f5e22cb23c90e679e6b9161d314",
+    "docs/itemized/figures/testaments-101-downloads-by-week-testaments-101-week.svg": "11c5083359b928983d76a1ef0aa4c720c6a6371c8f4b9684701022274dda5bae",
+    "docs/itemized/testaments-101-sample-cache-audit.md": "23efc745c02d3c05de88e233f5c4f10acd964ebcde64fd3f3709d37b49744b51",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/testaments-101/tmp/testaments-101-cumulative-btiha.geojson",
+        "sha256": "807b9ec8a48a90f9c3338ff9455c79402c0553171166e7d38e0ffec6781f4666",
+        "size": 250911121
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/testaments-101/tmp/testaments-101-cumulative-btiha-media-objects.json",
+        "sha256": "17387a5fce65cc2dfa3fa58af343bd11cf909fd7a6d7fabfbb45f0cdef534857",
+        "size": 338580
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "testaments-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          44.0,
+          38.0,
+          35.0,
+          30.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Istanbul",
+          "Nanjing",
+          "Moscow",
+          "Shanghai",
+          "Amsterdam",
+          "London",
+          "Hangzhou",
+          "Incheon",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          38.0,
+          36.0,
+          33.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Istanbul",
+          "Nanjing",
+          "Moscow",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "London",
+          "Incheon",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 36,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
