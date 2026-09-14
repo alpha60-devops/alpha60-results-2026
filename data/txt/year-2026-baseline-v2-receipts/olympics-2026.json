@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt32863289",
+    "imdb_id": "tt32863289",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q4630399",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/2026_Winter_Olympics"
+  },
+  "coverage_sha256": "af3562f3259b79c2651de41d724e6d68316631c23c062f2e3ad70c0fddbfeb29",
+  "generated_at": "2026-09-14T03:51:32.863163+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/olympics-2026.cache/cache.20260525.tar.xz",
+      "sha256": "70b1ec95163f938226f00e79fb1568f9fdb5efa0542eb02e63407e0f2abb83bb",
+      "size": 2044916312
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/olympics-2026.md",
+      "sha256": "1322731584f9ce0bf428aa12414013f1b53589fe0d2f5afa6833dc21b1f16529",
+      "size": 621
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/olympics-2026.json",
+      "sha256": "9f3a2ea0db185212689592a39c467a6a232e4fe2b85c568b37444c6662d01714",
+      "size": 2876
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/olympics-2026.json",
+      "sha256": "78ca65228d088995a107552425bcedf8abf7301de032695418a43e7bc8a60067",
+      "size": 367
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
+      "size": 94076
+    }
+  },
+  "media_object": "olympics-2026",
+  "published_files": {
+    "data/csv/bytes/olympics-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "b66ba0a3d35a8ad01f5e7724a1e4c57ebb0e570abbb8eaa2bf48a0f63ecb6ecd",
+    "docs/itemized/figures/olympics-2026-carto-4k.webp": "11d3cd718c6523bc4a3d806cbddc15e4412ec7bdf299d0012db259a10019da50",
+    "docs/itemized/figures/olympics-2026-carto.png": "ba2f798d81db7ed6aab9b3cda0dee36c7ab2e05840b5681874226b1f7ba26cb2",
+    "docs/itemized/figures/olympics-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "411672acfec29a6e073d16a102a6f17e761fa07bad1d8772b3989bf826a95817",
+    "docs/itemized/figures/olympics-2026-data-ge-1080p-4k.webp": "d4243f0a09d09847826f367698d98e2deb0ea0336c22b9e88bbe9343cabf2520",
+    "docs/itemized/figures/olympics-2026-data-ge-1080p.webp": "44007c84c31e240a0ceb6effa4cc4e1c9dc0bb396af3f59059577fc5e5dc0098",
+    "docs/itemized/figures/olympics-2026-data-lt-1080p-4k.webp": "02a221f1d0151f60de42dd60f2cc26756f9e5ac3125af249332effad059b161a",
+    "docs/itemized/figures/olympics-2026-data-lt-1080p.webp": "b3eab4bb01ca0a93228a75274263fd71fa0cc717842df7a462d7f0f76fc26adb",
+    "docs/itemized/figures/olympics-2026-downloads-by-day-day.svg": "a070453d9d7c7b948596524526dbd084fc040890648212d2816a9609386bc9cd",
+    "docs/itemized/figures/olympics-2026-downloads-by-week-olympics-2026-week.svg": "074b163c6b9a1d70e68a577f894bd3680e977b59853a5ceb6705dc8ccc935817",
+    "docs/itemized/olympics-2026-sample-cache-audit.md": "06fb82f4ffaed25049244973e9466eb672fd0eea4dd7f0aca5a1361911802613",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": true,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/olympics-2026/tmp/olympics-2026-cumulative-btiha.geojson",
+        "sha256": "4594fad0a97ce3b52066d3eaa31262bae087f7fc9cff1253f3123d3e254eed70",
+        "size": 769852877
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/olympics-2026/tmp/olympics-2026-cumulative-btiha-media-objects.json",
+        "sha256": "c6bf8607d64ec5474cd2339c6c65be0c349ad293657346ff345c9cb4cfaabe7f",
+        "size": 1090189
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "olympics-2026",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          49.0,
+          38.0,
+          37.0,
+          30.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Nanjing",
+          "Istanbul",
+          "Saint Petersburg",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          49.0,
+          38.0,
+          38.0,
+          30.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Moscow",
+          "Istanbul",
+          "Nanjing",
+          "Saint Petersburg",
+          "Shanghai",
+          "Amsterdam",
+          "Hangzhou",
+          "Lelystad",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 22,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 37,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 16,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
