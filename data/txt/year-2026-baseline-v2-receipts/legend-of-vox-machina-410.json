@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt11247158",
+    "imdb_id": "tt11247158",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q108881587",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Legend_of_Vox_Machina"
+  },
+  "coverage_sha256": "c9bf5eb3be0b119475194474c05ccb491357a36ff019c8585788c0f3bff9c9c9",
+  "generated_at": "2026-09-14T00:20:17.819681+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/legend-of-vox-machina-410.cache/cache.20260909.tar.xz",
+      "sha256": "b3bf789070a06dbdf397b9fba97f7b5f3d22807643e3fa9d274f483f07d9e24d",
+      "size": 455780652
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/legend-of-vox-machina-410.md",
+      "sha256": "80835c53b377530c47fe6ac92beac6c958c5ee03acaeb2562b0b4e1344ce72e3",
+      "size": 572
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/legend-of-vox-machina-410.json",
+      "sha256": "6771f423de50e57dafb49b189c7b1ee1709008afce4fdc88e34b29a100b3e6a7",
+      "size": 2670
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/legend-of-vox-machina-410.json",
+      "sha256": "645d26ae58dd94697848844ef9530d35e179f4c42281f05ac6832577d15dec9c",
+      "size": 377
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
+      "size": 97281
+    }
+  },
+  "media_object": "legend-of-vox-machina-410",
+  "published_files": {
+    "data/csv/bytes/legend-of-vox-machina-410-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "07bc33009fc831460de08303e8b511605a981d9abab95b2b96f7f5de1e54ae80",
+    "docs/itemized/figures/legend-of-vox-machina-410-carto-4k.webp": "90fed118d10095c7ad2759eae9ab06d740968c5735566b11b05a88abe4102d9c",
+    "docs/itemized/figures/legend-of-vox-machina-410-carto.png": "35cfa5a8e0bafdb81fbe893e046ebc95ed16ddb564ecda308a71ad6ae22b4465",
+    "docs/itemized/figures/legend-of-vox-machina-410-cumulative-detail-btiha-itemized-by-bytes.svg": "afdddb6fe11a18ad451f12d739658b35ba3292b7ea7c156620780632c5617d5c",
+    "docs/itemized/figures/legend-of-vox-machina-410-data-ge-1080p-4k.webp": "ae7fb1854e9d6cdc13f00718d90c54c38a1eae2532b385eff2210c0093e7433c",
+    "docs/itemized/figures/legend-of-vox-machina-410-data-ge-1080p.webp": "f254014a6fa6ef977cd2428b19ed002597a679f67cf5607a1cb9603bc005d7b5",
+    "docs/itemized/figures/legend-of-vox-machina-410-data-lt-1080p-4k.webp": "164bf9a3cc1e35170bd7c896c436fc7b6273e80fab44ff598c1daea8f3dc6ce4",
+    "docs/itemized/figures/legend-of-vox-machina-410-data-lt-1080p.webp": "8e5446529716df950870f9e86946c4b80f6c1dd7a0be3334e0633f011bdf85f7",
+    "docs/itemized/figures/legend-of-vox-machina-410-downloads-by-day-day.svg": "a1754627c2cdd7f7268c6210f3d632f1924b90aed7976cc681360e7ce9d98a2b",
+    "docs/itemized/figures/legend-of-vox-machina-410-downloads-by-week-legend-of-vox-machina-410-week.svg": "51ad5b9b16ba50d0947efb601f699ced0e6e692d24e469b4b2df9dfcd8427163",
+    "docs/itemized/legend-of-vox-machina-410-sample-cache-audit.md": "344b770a2b054c14e843abec931bfd6071a64361f0a5dc8a4db983bbe4628b9c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/legend-of-vox-machina-410/tmp/legend-of-vox-machina-410-cumulative-btiha.geojson",
+        "sha256": "9c9a5610c1012d77de117d6b142c3ba4b36de361962ec9b381fec43e320fe015",
+        "size": 167287142
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/legend-of-vox-machina-410/tmp/legend-of-vox-machina-410-cumulative-btiha-media-objects.json",
+        "sha256": "f834d0575eb466a17a208e344cbd70220dc4405f8bbc70ec880046f8f8281545",
+        "size": 623004
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "legend-of-vox-machina-410",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          57.0,
+          37.0,
+          37.0,
+          32.0,
+          30.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Amsterdam",
+          "Lelystad",
+          "Shanghai",
+          "Hangzhou",
+          "London",
+          "Moscow",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          66.0,
+          37.0,
+          36.0,
+          32.0,
+          30.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Amsterdam",
+          "Lelystad",
+          "Shanghai",
+          "Hangzhou",
+          "London",
+          "Moscow",
+          "Incheon"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 36,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
