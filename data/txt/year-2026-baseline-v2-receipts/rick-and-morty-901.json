@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2861424",
+    "imdb_id": "tt2861424",
+    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "wikidata_id": "Q15659308",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rick_and_Morty"
+  },
+  "coverage_sha256": "70291f4f0222c710e8244a292f453f84d3be75dff8e5c890e922b4e1df993a39",
+  "generated_at": "2026-09-14T04:36:58.835751+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/rick-and-morty-901.cache/cache.20260906.tar.xz",
+      "sha256": "04bffd52cd8e6c9acd1fca8f6d633a214e46abd9b0b3fe3f2474731b4f391a57",
+      "size": 1984998268
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/rick-and-morty-901.md",
+      "sha256": "68dd20755ec81dbc29aa52c9373c8e0ad4beabc4827c32764f97c331aa61798c",
+      "size": 558
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/rick-and-morty-901.json",
+      "sha256": "c29274076598fb73e2b30ad8cf1576fabd40c642ddcadf8f8622b78bddce2eaf",
+      "size": 2877
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/rick-and-morty-901.json",
+      "sha256": "18ad91f62039113437fb69b7e7c835e71f9a188d1f625e17b32fd2f1b5309251",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
+      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
+      "size": 97281
+    }
+  },
+  "media_object": "rick-and-morty-901",
+  "published_files": {
+    "data/csv/bytes/rick-and-morty-901-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "a94d6898c732617dde2f88b2db04f044118ceb7c982dc2f8ea6e743ae7e7a9be",
+    "docs/itemized/figures/rick-and-morty-901-carto-4k.webp": "f01fe2e237de0ee7a2270a361582f8d55d605cf4a6fb82a9f9eba04b2e6c88d7",
+    "docs/itemized/figures/rick-and-morty-901-carto.png": "184e7f8b0b72d0b03d93b3179b5c20c349860836dbe2f8e39459377cb6f7450f",
+    "docs/itemized/figures/rick-and-morty-901-cumulative-detail-btiha-itemized-by-bytes.svg": "b57548428c235f781d90c1c78e8028ceeb3eb2f912d3dfb96e9a277231cc4200",
+    "docs/itemized/figures/rick-and-morty-901-data-ge-1080p-4k.webp": "a80da4c64ddfe77d3576e531ef082f72c5ff805d5c8b37978a32f66a8c33e7bf",
+    "docs/itemized/figures/rick-and-morty-901-data-ge-1080p.webp": "3100c6b1b9661e5871240e9751e0a1fc901d307f2c7b54a2a87111be7bbaddc0",
+    "docs/itemized/figures/rick-and-morty-901-data-lt-1080p-4k.webp": "5aa5320227fe31e5102a7b37f3b977d855c56169a6a212666da00a649cc4bdda",
+    "docs/itemized/figures/rick-and-morty-901-data-lt-1080p.webp": "7d6c4f110aa46a64dd67db424cca5f34acac2e8210c704afa5e76a00d5418150",
+    "docs/itemized/figures/rick-and-morty-901-downloads-by-day-day.svg": "c2427888091b174c6c7d069aeb8d9fa917196f46c65f84f839281b753105ee3f",
+    "docs/itemized/figures/rick-and-morty-901-downloads-by-week-rick-and-morty-901-week.svg": "a1c2a4ecf0e278deb542b665e0d922a263abe21509aaf81b811dbe584992bd3e",
+    "docs/itemized/rick-and-morty-901-sample-cache-audit.md": "5af961e4085beca1bd66c0bc035f9ba37d5e4441273350a9f1722d537732f2d1",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
+      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
+      "size": 38506936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/rick-and-morty-901/tmp/rick-and-morty-901-cumulative-btiha.geojson",
+        "sha256": "bb2f4e29199f5bf4d57c3fda07c4578fc45d84b30d67fa1132ce5bd7ca0bb3fc",
+        "size": 249982772
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/rick-and-morty-901/tmp/rick-and-morty-901-cumulative-btiha-media-objects.json",
+        "sha256": "b955bbf674eccf526d3eefa44fb9a6aa02549a8fca5c98742cf9d94b66ad2dad",
+        "size": 341406
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "rick-and-morty-901",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
+      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
+      "size": 8761304
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          80.0,
+          35.0,
+          34.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "London",
+          "Istanbul",
+          "Amsterdam",
+          "Shanghai",
+          "Hangzhou",
+          "Lelystad",
+          "Moscow",
+          "Leipzig"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          82.0,
+          38.0,
+          34.0,
+          31.0,
+          29.0,
+          28.0,
+          27.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Amsterdam",
+          "London",
+          "Shanghai",
+          "Leipzig",
+          "Hangzhou",
+          "Lelystad",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 39,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
