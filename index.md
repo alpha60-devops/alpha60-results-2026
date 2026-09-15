@@ -20,11 +20,35 @@ files or archives. *Sharing* refers to peer-to-peer distribution over
 BitTorrent. This is part of the long-term [Alpha60](https://alpha60.co/)
 project.
 
+<div style="height: 50px;"></div>
+
 ## Results, Commentary
 
-The 2026 aggregate campaign contains 71 media-object cache audits.
+- Media Objects
+{% capture media_objects %}{% include year-2026-0-media-objects.txt %}{% endcapture %}{{ media_objects | replace: '.md)', '.html)' }}
 
-{% assign media_pages = site.pages | where_exp: "page", "page.path contains 'docs/itemized/'" | sort: "title" %}
-{% for page in media_pages %}
-- [{{ page.title }}]({{ page.url | relative_url }})
-{% endfor %}
+<div style="height: 50px;"></div>
+
+## Data
+
+### Forms
+
+- Cumulative (`title-cumulative.json`)
+- Cumulative BTIHA metadata (`title-cumulative-btiha-media-objects.json`)
+- Cumulative IP swarm (`title-cumulative-ip-swarm.json`)
+- Weekly (`title-week.json`)
+- Day (`title-swarm-day-NNNNN-YYYY-MM-DD.json`)
+- Cumulative GeoJSON (`title-cumulative-*.geojson.gz`)
+- Weekly GeoJSON (`title-week-NNNNN.geojson.gz`)
+- Day GeoJSON (`title-day-NNNNN.geojson.gz`)
+
+### Source
+
+- [Year-2026 data](https://github.com/alpha60-devops/alpha60-results-2026/tree/main/data)
+- [Canonical media-object metadata](https://github.com/alpha60-devops/alpha60-swarm-metadata/tree/main/metadata)
+
+{::nomarkdown}
+<svg width="100" height="100">
+  <circle cx="20" cy="50" r="10" fill="black"/>
+</svg>
+{:/}

@@ -29,6 +29,44 @@ jobs:
             _layouts
             docs
             resources
+      - name: Validate shared year-site form
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          required = [
+              Path("_layouts/default.html"),
+              Path("resources/a60-logo-block-gray.simple.svg"),
+              Path("resources/fonts/noto-sans-v42-latin-regular.woff2"),
+              Path("resources/fonts/noto-sans-v42-latin-italic.woff2"),
+              Path("resources/fonts/noto-sans-v42-latin-700.woff2"),
+              Path("index.md"),
+              Path("_includes/year-2026-0-media-objects.txt"),
+          ]
+          missing = [str(path) for path in required if not path.is_file()]
+          if missing:
+              raise SystemExit(f"missing shared year-site files: {missing}")
+
+          index = Path("index.md").read_text(encoding="utf-8")
+          for marker in (
+              "{% include year-2026-0-media-objects.txt %}",
+              "## Data",
+              "### Forms",
+              "### Source",
+          ):
+              if marker not in index:
+                  raise SystemExit(f"missing year-site index marker: {marker}")
+
+          include = Path("_includes/year-2026-0-media-objects.txt").read_text(
+              encoding="utf-8"
+          )
+          links = re.findall(r"\[[^]]+\]\(([^)]+)\)", include)
+          if len(links) != 71 or len(set(links)) != 71:
+              raise SystemExit("year-2026 index must contain 71 unique links")
+          missing_pages = [link for link in links if not Path(link).is_file()]
+          if missing_pages:
+              raise SystemExit(f"missing itemized pages: {missing_pages}")
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
