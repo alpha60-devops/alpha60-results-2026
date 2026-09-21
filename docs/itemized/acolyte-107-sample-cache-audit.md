@@ -81,6 +81,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Cumulative data maps
 
+
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+	src="../../resources/izzi-map-leaflet-geojson-v7.3.js">
+</script>
+
 **Cumulative Swarm**
 <a href="#" onclick="leaflet_map_open_window('https://https://s3-ewh.ist.berkeley.edu/adekosnik-bucket01/alpha60-results/2026/data/geojson.cumulative/acolyte-107-cumulative.geojson.gz', 'Acolyte 107'); return false;"
 		   class="table-link"
