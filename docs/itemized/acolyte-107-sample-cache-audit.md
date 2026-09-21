@@ -83,7 +83,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 
 <script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-	src="../../resources/izzi-map-leaflet-geojson-v7.3.js">
+	src="../../resources/izzi-map-leaflet-geojson-v7.8.js">
 </script>
 
 **Cumulative Swarm**
