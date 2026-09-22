@@ -83,16 +83,21 @@ description: "Cache coverage and visualization audit for one media object."
 
 
 <script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-	src="../../resources/izzi-map-leaflet-geojson-v7.8.js">
-</script>
+		src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
 
-**Cumulative Swarm**
-<a href="#" onclick="leaflet_map_open_window('https://s3-ewh.ist.berkeley.edu/adekosnik-bucket01/alpha60-results/2026/data/geojson.cumulative/acolyte-107-cumulative.geojson.gz', 'Acolyte 107'); return false;"
-		   class="table-link"
-		   aria-label="Open Acolyte 107 cumulative data map in new window"
-		   title="Opens interactive map for Acolyte 107 data">
-Acolyte 107
-</a>
+<!-- https://s3-ewh.ist.berkeley.edu/adekosnik-bucket01/alpha60-results/2026/data/ -->
+
+<!-- https://raw.githubusercontent.com/a60-devops/alpha60-results-2026/main/data/ -->
+
+<!-- https://alpha60-devops.github.io/alpha60-results-2026/data/geojson.cumulative/acolyte-107-cumulative.geojson.gz -->
+
+<p><strong>Cumulative Swarm</strong><br>
+<a href="https://raw.githubusercontent.com/a60-devops/alpha60-results-2026/main/data/geojson.cumulative/acolyte-107-cumulative.geojson.gz"
+   onclick="leaflet_map_open_window(this.href, 'Acolyte 107'); return false;"
+   class="table-link"
+   aria-label="Open Acolyte 107 cumulative data map in new window"
+   title="Opens interactive map for Acolyte 107 data">Acolyte 107</a>
+</p>
 
 **Cumulative >= 1080p**
 
