@@ -88,10 +88,10 @@ description: "Cache coverage and visualization audit for one media object."
 ### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz" onclick="leaflet_map_open_window(this.href, 'Acolyte 107'); return false;" class="table-link" aria-label="Open Acolyte 107 cumulative data map in new window" title="Opens interactive map for Acolyte 107 data">Swarm Detail</a>
 
 
-### Resolution >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/acolyte-107-data-ge-1080p.webp)](figures/acolyte-107-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/acolyte-107-data-lt-1080p.webp)](figures/acolyte-107-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
