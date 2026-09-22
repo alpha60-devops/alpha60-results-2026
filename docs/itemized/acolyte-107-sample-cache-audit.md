@@ -44,7 +44,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![The Acolyte collection size histogram](figures/acolyte-107-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -67,40 +67,35 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![acolyte-107 downloads by day](figures/acolyte-107-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
-
-### Cumulative geographic slices
-
-| Africa | Americas | Asia | Europe | Oceania | Unknown |
-| --- | --- | --- | --- | --- | --- |
-| 1.13 | 16.02 | 36.40 | 43.49 | 1.05 | 0.83 |
-
-### Cumulative network infrastructure
-
-[![The Acolyte cumulative map](figures/acolyte-107-carto.png)](figures/acolyte-107-carto-4k.webp){:target="_blank" rel="noopener"}
-
-### Cumulative data maps
-
+## 5. Cumulative Maps
 
 <script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
 		src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
 
 <!-- https://s3-ewh.ist.berkeley.edu/adekosnik-bucket01/alpha60-results/2026/data/ -->
-
 <!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
 
-<p><strong>Cumulative Swarm</strong><br>
-<a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz"
+### Geographic Regions
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 1.13 | 16.02 | 36.40 | 43.49 | 1.05 | 0.83 |
+
+### Network infrastructure
+
+[![The Acolyte cumulative map](figures/acolyte-107-carto.png)](figures/acolyte-107-carto-4k.webp){:target="_blank" rel="noopener"}
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz"
    onclick="leaflet_map_open_window(this.href, 'Acolyte 107'); return false;"
    class="table-link"
    aria-label="Open Acolyte 107 cumulative data map in new window"
-   title="Opens interactive map for Acolyte 107 data">Acolyte 107</a>
-</p>
+   title="Opens interactive map for Acolyte 107 data">Swarm Detail</a>
 
-**Cumulative >= 1080p**
+
+### Resolution >= 1080p**
 
 [![Cumulative >= 1080p](figures/acolyte-107-data-ge-1080p.webp)](figures/acolyte-107-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p**
 
 [![Cumulative < 1080p](figures/acolyte-107-data-lt-1080p.webp)](figures/acolyte-107-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
