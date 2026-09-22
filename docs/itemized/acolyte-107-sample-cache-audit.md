@@ -70,12 +70,11 @@ description: "Cache coverage and visualization audit for one media object."
 ## 5. Cumulative Maps
 
 <script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-		src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
 
-<!-- https://s3-ewh.ist.berkeley.edu/adekosnik-bucket01/alpha60-results/2026/data/ -->
 <!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
 
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz" onclick="leaflet_map_open_window(this.href, 'Acolyte 107'); return false;" class="table-link" aria-label="Open Acolyte 107 cumulative data map in new window" title="Opens interactive map for Acolyte 107 data">Swarm Detail</a>
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz" data-map-title="The Acolyte — acolyte-107" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Acolyte (acolyte-107) cumulative data map in new window" title="Opens interactive map for The Acolyte (acolyte-107) data">Swarm Detail</a>
 
 ### Geographic Regions
 

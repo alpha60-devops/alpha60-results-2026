@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-13T17:13:05Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/furious-2025.xz`
@@ -39,11 +39,11 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2026-08-24 22:06`, resumed `2026-08-25 00:06` — missing 1 hour(s)
 - hourly gap: last `2026-08-30 22:06`, resumed `2026-08-31 00:06` — missing 1 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![The Furious collection size histogram](figures/furious-2025-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -66,24 +66,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![furious-2025 downloads by day](figures/furious-2025-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/furious-2025-cumulative-aggregate.geojson.gz" data-map-title="The Furious — furious-2025" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Furious (furious-2025) cumulative data map in new window" title="Opens interactive map for The Furious (furious-2025) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 4.16 | 14.83 | 41.70 | 32.73 | 1.21 | 0.69 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![The Furious cumulative map](figures/furious-2025-carto.png)](figures/furious-2025-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/furious-2025-data-ge-1080p.webp)](figures/furious-2025-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/furious-2025-data-lt-1080p.webp)](figures/furious-2025-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

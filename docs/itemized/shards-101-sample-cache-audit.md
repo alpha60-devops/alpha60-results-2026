@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-13T17:13:09Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz`
@@ -39,11 +39,11 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2026-08-14 18:00`, resumed `2026-08-16 00:00` — missing 29 hour(s)
 - missing day: `2026-08-15`
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![The Shards collection size histogram](figures/shards-101-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -66,24 +66,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![shards-101 downloads by day](figures/shards-101-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/shards-101-cumulative-aggregate.geojson.gz" data-map-title="The Shards — shards-101" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Shards (shards-101) cumulative data map in new window" title="Opens interactive map for The Shards (shards-101) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 2.02 | 18.34 | 32.27 | 42.08 | 1.54 | 0.76 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![The Shards cumulative map](figures/shards-101-carto.png)](figures/shards-101-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/shards-101-data-ge-1080p.webp)](figures/shards-101-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/shards-101-data-lt-1080p.webp)](figures/shards-101-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-13T17:13:09Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz`
@@ -39,11 +39,11 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2026-08-14 18:03`, resumed `2026-08-16 00:03` — missing 29 hour(s)
 - missing day: `2026-08-15`
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![President Curtis collection size histogram](figures/president-curtis-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -66,24 +66,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![president-curtis-01 downloads by day](figures/president-curtis-01-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/president-curtis-01-cumulative-aggregate.geojson.gz" data-map-title="President Curtis — president-curtis-01" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open President Curtis (president-curtis-01) cumulative data map in new window" title="Opens interactive map for President Curtis (president-curtis-01) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 2.51 | 19.17 | 30.45 | 39.90 | 1.78 | 0.63 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![President Curtis cumulative map](figures/president-curtis-01-carto.png)](figures/president-curtis-01-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/president-curtis-01-data-ge-1080p.webp)](figures/president-curtis-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/president-curtis-01-data-lt-1080p.webp)](figures/president-curtis-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

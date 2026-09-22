@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-13T17:13:04Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/drama-2026.xz`
@@ -38,11 +38,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![The Drama collection size histogram](figures/drama-2026-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,24 +65,29 @@ None detected.
 
 ![drama-2026 downloads by day](figures/drama-2026-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/drama-2026-cumulative-aggregate.geojson.gz" data-map-title="The Drama — drama-2026" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Drama (drama-2026) cumulative data map in new window" title="Opens interactive map for The Drama (drama-2026) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 1.89 | 17.29 | 32.15 | 40.89 | 1.13 | 0.76 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![The Drama cumulative map](figures/drama-2026-carto.png)](figures/drama-2026-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/drama-2026-data-ge-1080p.webp)](figures/drama-2026-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/drama-2026-data-lt-1080p.webp)](figures/drama-2026-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
