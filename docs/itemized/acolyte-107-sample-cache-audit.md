@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-13T17:13:03Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/acolyte-107.xz/2026`
