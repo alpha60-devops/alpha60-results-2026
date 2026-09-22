@@ -88,11 +88,10 @@ description: "Cache coverage and visualization audit for one media object."
 <!-- https://s3-ewh.ist.berkeley.edu/adekosnik-bucket01/alpha60-results/2026/data/ -->
 
 <!-- https://raw.githubusercontent.com/a60-devops/alpha60-results-2026/main/data/ -->
-
-<!-- https://alpha60-devops.github.io/alpha60-results-2026/data/geojson.cumulative/acolyte-107-cumulative.geojson.gz -->
+<!-- https://github.com/alpha60-devops/alpha60-results-2026/raw/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz -->
 
 <p><strong>Cumulative Swarm</strong><br>
-<a href="https://raw.githubusercontent.com/a60-devops/alpha60-results-2026/main/data/geojson.cumulative/acolyte-107-cumulative.geojson.gz"
+<a href="https://github.com/alpha60-devops/alpha60-results-2026/raw/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz"
    onclick="leaflet_map_open_window(this.href, 'Acolyte 107'); return false;"
    class="table-link"
    aria-label="Open Acolyte 107 cumulative data map in new window"
