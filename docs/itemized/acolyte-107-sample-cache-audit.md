@@ -75,14 +75,14 @@ description: "Cache coverage and visualization audit for one media object."
 <!-- https://s3-ewh.ist.berkeley.edu/adekosnik-bucket01/alpha60-results/2026/data/ -->
 <!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
 
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz" onclick="leaflet_map_open_window(this.href, 'Acolyte 107'); return false;" class="table-link" aria-label="Open Acolyte 107 cumulative data map in new window" title="Opens interactive map for Acolyte 107 data">Swarm Detail</a>
+
 ### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 1.13 | 16.02 | 36.40 | 43.49 | 1.05 | 0.83 |
 
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz" onclick="leaflet_map_open_window(this.href, 'Acolyte 107'); return false;" class="table-link" aria-label="Open Acolyte 107 cumulative data map in new window" title="Opens interactive map for Acolyte 107 data">Swarm Detail</a>
 
 ### Network infrastructure
 
