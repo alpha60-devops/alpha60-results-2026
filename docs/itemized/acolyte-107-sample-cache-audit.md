@@ -85,11 +85,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 [![The Acolyte cumulative map](figures/acolyte-107-carto.png)](figures/acolyte-107-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz"
-   onclick="leaflet_map_open_window(this.href, 'Acolyte 107'); return false;"
-   class="table-link"
-   aria-label="Open Acolyte 107 cumulative data map in new window"
-   title="Opens interactive map for Acolyte 107 data">Swarm Detail</a>
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz" onclick="leaflet_map_open_window(this.href, 'Acolyte 107'); return false;" class="table-link" aria-label="Open Acolyte 107 cumulative data map in new window" title="Opens interactive map for Acolyte 107 data">Swarm Detail</a>
 
 
 ### Resolution >= 1080p**
