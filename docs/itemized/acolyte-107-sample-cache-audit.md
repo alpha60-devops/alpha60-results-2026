@@ -81,12 +81,12 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.13 | 16.02 | 36.40 | 43.49 | 1.05 | 0.83 |
 
-### Network infrastructure
-
-[![The Acolyte cumulative map](figures/acolyte-107-carto.png)](figures/acolyte-107-carto-4k.webp){:target="_blank" rel="noopener"}
 
 ### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/acolyte-107-cumulative-aggregate.geojson.gz" onclick="leaflet_map_open_window(this.href, 'Acolyte 107'); return false;" class="table-link" aria-label="Open Acolyte 107 cumulative data map in new window" title="Opens interactive map for Acolyte 107 data">Swarm Detail</a>
 
+### Network infrastructure
+
+[![The Acolyte cumulative map](figures/acolyte-107-carto.png)](figures/acolyte-107-carto-4k.webp){:target="_blank" rel="noopener"}
 
 ### Resolution >= 1080p
 
