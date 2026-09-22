@@ -40,7 +40,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2026-07-03 22:04`, resumed `2026-07-05 01:04` — missing 26 hour(s)
 - missing day: `2026-07-04`
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram median[lowest, highest]
 
 ![The Acolyte collection size histogram](figures/acolyte-107-cumulative-detail-btiha-itemized-by-bytes.svg)
 
