@@ -99,21 +99,21 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## Country resolution detail
 
-These country close-ups use the same full cumulative sample and worldwide member rescaling as the resolution maps above. They are not sums of weekly products. No ITU adjustment or missing-hour imputation is applied.
+Input: **sample-cache-cumulative**. These country close-ups are drawn directly from the original cumulative sample cache after duplicate-BTIH coalescing and IP geolocation. No published GeoJSON, cell publication threshold or product rescaling is used. No ITU adjustment or missing-hour imputation is applied.
 
-Country membership follows the exact source ISO3 code. Boundaries are Natural Earth 1:10m v5.1.2; boundary disagreements are retained and reported in the downloadable receipts. Maps use native izzi and Cartofreako vector outlines, registered Cahill–Keyes coordinates, and fixed page-space bubble areas. All countries and resolution views share the same bubble coefficient and 5% opacity.
+Country membership follows the exact source ISO3 code. Boundaries are Natural Earth 1:10m v5.1.2, with vector lake/reservoir water removed from land; boundary disagreements are retained and reported in the downloadable receipts. Maps use native izzi and Cartofreako vector outlines, registered Cahill–Keyes coordinates, and fixed page-space bubble areas. All countries and resolution views share the same bubble coefficient and 5% opacity.
 
 ### Philippines (PHL)
 
-Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
+Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `1.01309219884`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
 
 <div style="max-width:100%;overflow-x:auto" tabindex="0" role="region" aria-label="Country weight comparison" markdown="1">
 
-| View | Published downloader sum | Rescaled downloaders | Published uploader sum | Rescaled uploaders |
-| --- | ---: | ---: | ---: | ---: |
-| combined | 113,333 | 116,664 | 25,252 | 25,555 |
-| ge-1080p | 81,694 | 83,974 | 22,363 | 22,620 |
-| lt-1080p | 31,639 | 32,690 | 2,889 | 2,935 |
+| View | Cumulative-cache downloaders | Cumulative-cache uploaders |
+| --- | ---: | ---: |
+| combined | 124,061 | 25,674 |
+| ge-1080p | 88,607 | 22,684 |
+| lt-1080p | 35,454 | 2,990 |
 
 </div>
 
@@ -148,54 +148,54 @@ Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Comb
 
 | View | City | Downloader weight | Label drawn |
 | --- | --- | ---: | --- |
-| combined | Quezon City | 45,355 | yes |
-| combined | Cebu City | 10,057 | yes |
-| combined | Manila | 8,618 | yes |
-| combined | Davao | 5,911 | yes |
-| combined | Taguig | 4,283 | yes |
-| combined | Angeles City | 3,376 | yes |
-| combined | Imus | 3,136 | yes |
-| combined | Makati City | 2,373 | yes |
-| combined | Calamba | 2,191 | yes |
-| combined | Cagayan de Oro | 2,136 | yes |
-| ge-1080p | Quezon City | 31,325 | yes |
-| ge-1080p | Cebu City | 7,179 | yes |
-| ge-1080p | Manila | 6,076 | yes |
-| ge-1080p | Davao | 4,294 | yes |
-| ge-1080p | Taguig | 2,920 | yes |
-| ge-1080p | Angeles City | 2,275 | yes |
-| ge-1080p | Imus | 2,105 | yes |
-| ge-1080p | Cagayan de Oro | 1,578 | yes |
-| ge-1080p | Calamba | 1,518 | yes |
-| ge-1080p | Baguio | 1,326 | yes |
-| lt-1080p | Quezon City | 13,220 | yes |
-| lt-1080p | Cebu City | 2,768 | yes |
-| lt-1080p | Manila | 2,016 | yes |
-| lt-1080p | Davao | 1,554 | yes |
-| lt-1080p | Taguig | 1,287 | yes |
-| lt-1080p | Angeles City | 1,048 | yes |
-| lt-1080p | Makati City | 841 | yes |
-| lt-1080p | Imus | 818 | yes |
-| lt-1080p | Calamba | 658 | yes |
-| lt-1080p | Baguio | 594 | yes |
+| combined | Quezon City | 42,160 | yes |
+| combined | Manila | 10,323 | yes |
+| combined | Cebu City | 9,543 | yes |
+| combined | Davao | 5,659 | yes |
+| combined | Taguig | 4,064 | yes |
+| combined | Makati City | 3,406 | yes |
+| combined | Angeles City | 3,274 | yes |
+| combined | Pasig City | 2,406 | yes |
+| combined | Calamba | 2,205 | yes |
+| combined | Cagayan de Oro | 2,167 | yes |
+| ge-1080p | Quezon City | 29,645 | yes |
+| ge-1080p | Manila | 7,284 | yes |
+| ge-1080p | Cebu City | 6,778 | yes |
+| ge-1080p | Davao | 4,120 | yes |
+| ge-1080p | Taguig | 2,846 | yes |
+| ge-1080p | Makati City | 2,467 | yes |
+| ge-1080p | Angeles City | 2,213 | yes |
+| ge-1080p | Pasig City | 1,671 | yes |
+| ge-1080p | Cagayan de Oro | 1,589 | yes |
+| ge-1080p | Calamba | 1,528 | yes |
+| lt-1080p | Quezon City | 11,935 | yes |
+| lt-1080p | Manila | 2,922 | yes |
+| lt-1080p | Cebu City | 2,658 | yes |
+| lt-1080p | Davao | 1,477 | yes |
+| lt-1080p | Taguig | 1,149 | yes |
+| lt-1080p | Angeles City | 1,010 | yes |
+| lt-1080p | Makati City | 890 | yes |
+| lt-1080p | Pasig City | 702 | yes |
+| lt-1080p | Calamba | 662 | yes |
+| lt-1080p | Las Piñas | 622 | yes |
 
 </div>
 
-Outside-boundary coordinate pairs retained: **12**. Unsupported-resolution downloader weight excluded: **0**.
+Outside-boundary coordinate pairs retained: **51**. Unsupported-resolution downloader weight excluded: **0**.
 
 </details>
 
 ### India (IND)
 
-Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
+Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `1.01309219884`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
 
 <div style="max-width:100%;overflow-x:auto" tabindex="0" role="region" aria-label="Country weight comparison" markdown="1">
 
-| View | Published downloader sum | Rescaled downloaders | Published uploader sum | Rescaled uploaders |
-| --- | ---: | ---: | ---: | ---: |
-| combined | 316,233 | 326,617 | 30,526 | 30,964 |
-| ge-1080p | 210,164 | 216,774 | 25,204 | 25,526 |
-| lt-1080p | 106,069 | 109,843 | 5,322 | 5,438 |
+| View | Cumulative-cache downloaders | Cumulative-cache uploaders |
+| --- | ---: | ---: |
+| combined | 355,002 | 31,458 |
+| ge-1080p | 235,230 | 25,881 |
+| lt-1080p | 119,772 | 5,577 |
 
 </div>
 
@@ -230,54 +230,54 @@ Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Comb
 
 | View | City | Downloader weight | Label drawn |
 | --- | --- | ---: | --- |
-| combined | Hyderabad | 32,023 | yes |
-| combined | Bengaluru | 30,157 | yes |
-| combined | Delhi | 28,157 | yes |
-| combined | Chennai | 26,499 | yes |
-| combined | Mumbai | 21,916 | yes |
-| combined | Kolkata | 9,066 | yes |
-| combined | Pune | 7,710 | yes |
-| combined | Garhchiroli | 6,879 | yes |
-| combined | Agartala | 6,666 | yes |
-| combined | Alappuzha | 6,408 | yes |
-| ge-1080p | Hyderabad | 20,627 | yes |
-| ge-1080p | Bengaluru | 20,619 | yes |
-| ge-1080p | Delhi | 19,721 | yes |
-| ge-1080p | Chennai | 14,169 | yes |
-| ge-1080p | Mumbai | 14,161 | yes |
-| ge-1080p | Kolkata | 6,072 | yes |
-| ge-1080p | Pune | 5,516 | yes |
-| ge-1080p | Garhchiroli | 4,399 | yes |
-| ge-1080p | Agartala | 4,239 | yes |
-| ge-1080p | Alappuzha | 4,131 | yes |
-| lt-1080p | Hyderabad | 11,089 | yes |
-| lt-1080p | Chennai | 10,025 | yes |
-| lt-1080p | Bengaluru | 9,214 | yes |
-| lt-1080p | Delhi | 8,298 | yes |
-| lt-1080p | Mumbai | 7,647 | yes |
-| lt-1080p | Kolkata | 2,960 | yes |
-| lt-1080p | Garhchiroli | 2,457 | yes |
-| lt-1080p | Agartala | 2,407 | yes |
-| lt-1080p | Alappuzha | 2,253 | yes |
-| lt-1080p | Kollam | 2,213 | yes |
+| combined | Hyderabad | 30,909 | yes |
+| combined | Bengaluru | 29,168 | yes |
+| combined | Delhi | 26,920 | yes |
+| combined | Chennai | 25,542 | yes |
+| combined | Mumbai | 21,243 | yes |
+| combined | Kolkata | 8,865 | yes |
+| combined | Pune | 7,403 | yes |
+| combined | Garhchiroli | 6,603 | yes |
+| combined | Agartala | 6,379 | yes |
+| combined | Alappuzha | 6,134 | yes |
+| ge-1080p | Bengaluru | 19,964 | yes |
+| ge-1080p | Hyderabad | 19,920 | yes |
+| ge-1080p | Delhi | 18,736 | yes |
+| ge-1080p | Mumbai | 13,741 | yes |
+| ge-1080p | Chennai | 13,687 | yes |
+| ge-1080p | Kolkata | 5,927 | yes |
+| ge-1080p | Pune | 5,290 | yes |
+| ge-1080p | Garhchiroli | 4,223 | yes |
+| ge-1080p | Agartala | 4,058 | yes |
+| ge-1080p | Alappuzha | 3,956 | yes |
+| lt-1080p | Hyderabad | 10,694 | yes |
+| lt-1080p | Chennai | 9,639 | yes |
+| lt-1080p | Bengaluru | 8,892 | yes |
+| lt-1080p | Delhi | 8,054 | yes |
+| lt-1080p | Mumbai | 7,398 | yes |
+| lt-1080p | Kolkata | 2,905 | yes |
+| lt-1080p | Garhchiroli | 2,358 | yes |
+| lt-1080p | Agartala | 2,302 | yes |
+| lt-1080p | Alappuzha | 2,155 | yes |
+| lt-1080p | Kollam | 2,114 | yes |
 
 </div>
 
-Outside-boundary coordinate pairs retained: **1**. Unsupported-resolution downloader weight excluded: **0**.
+Outside-boundary coordinate pairs retained: **14**. Unsupported-resolution downloader weight excluded: **0**.
 
 </details>
 
 ### Japan (JPN)
 
-Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
+Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `1.01309219884`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
 
 <div style="max-width:100%;overflow-x:auto" tabindex="0" role="region" aria-label="Country weight comparison" markdown="1">
 
-| View | Published downloader sum | Rescaled downloaders | Published uploader sum | Rescaled uploaders |
-| --- | ---: | ---: | ---: | ---: |
-| combined | 864,428 | 894,507 | 8,489 | 8,613 |
-| ge-1080p | 556,614 | 575,797 | 7,369 | 7,477 |
-| lt-1080p | 307,814 | 318,710 | 1,120 | 1,136 |
+| View | Cumulative-cache downloaders | Cumulative-cache uploaders |
+| --- | ---: | ---: |
+| combined | 910,256 | 8,632 |
+| ge-1080p | 586,037 | 7,499 |
+| lt-1080p | 324,219 | 1,133 |
 
 </div>
 
@@ -312,54 +312,54 @@ Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Comb
 
 | View | City | Downloader weight | Label drawn |
 | --- | --- | ---: | --- |
-| combined | Tokyo | 256,327 | yes |
-| combined | Osaka | 83,118 | yes |
-| combined | Kawasaki | 46,346 | yes |
-| combined | Nagoya | 41,041 | yes |
-| combined | Yokohama | 38,694 | yes |
-| combined | Kobe | 18,857 | yes |
-| combined | Saitama | 15,627 | yes |
-| combined | Ebara | 13,228 | yes |
-| combined | Chiba | 12,431 | yes |
-| combined | Fukuoka | 12,413 | yes |
-| ge-1080p | Tokyo | 165,187 | yes |
-| ge-1080p | Osaka | 52,260 | yes |
-| ge-1080p | Kawasaki | 29,865 | yes |
-| ge-1080p | Nagoya | 26,129 | yes |
-| ge-1080p | Yokohama | 23,939 | yes |
-| ge-1080p | Kobe | 11,934 | yes |
-| ge-1080p | Saitama | 9,915 | yes |
-| ge-1080p | Ebara | 8,847 | yes |
-| ge-1080p | Sakai | 8,716 | yes |
-| ge-1080p | Chiba | 7,981 | yes |
-| lt-1080p | Tokyo | 88,880 | yes |
-| lt-1080p | Osaka | 29,985 | yes |
-| lt-1080p | Kawasaki | 15,792 | yes |
-| lt-1080p | Nagoya | 14,541 | yes |
-| lt-1080p | Yokohama | 14,108 | yes |
-| lt-1080p | Kobe | 6,750 | yes |
-| lt-1080p | Saitama | 5,503 | yes |
-| lt-1080p | Fukuoka | 4,367 | yes |
-| lt-1080p | Chiba | 4,337 | yes |
-| lt-1080p | Ebara | 4,224 | yes |
+| combined | Tokyo | 240,677 | yes |
+| combined | Osaka | 89,369 | yes |
+| combined | Yokohama | 68,698 | yes |
+| combined | Nagoya | 39,609 | yes |
+| combined | Kobe | 18,175 | yes |
+| combined | Saitama | 16,106 | yes |
+| combined | Kawasaki | 14,210 | yes |
+| combined | Fukuoka | 11,976 | yes |
+| combined | Chiba | 11,637 | yes |
+| combined | Kyoto | 10,744 | yes |
+| ge-1080p | Tokyo | 154,924 | yes |
+| ge-1080p | Osaka | 57,461 | yes |
+| ge-1080p | Yokohama | 43,618 | yes |
+| ge-1080p | Nagoya | 25,216 | yes |
+| ge-1080p | Kobe | 11,504 | yes |
+| ge-1080p | Saitama | 10,236 | yes |
+| ge-1080p | Kawasaki | 9,018 | yes |
+| ge-1080p | Fukuoka | 7,625 | yes |
+| ge-1080p | Chiba | 7,411 | yes |
+| ge-1080p | Kyoto | 6,765 | yes |
+| lt-1080p | Tokyo | 83,621 | yes |
+| lt-1080p | Osaka | 31,081 | yes |
+| lt-1080p | Yokohama | 24,414 | yes |
+| lt-1080p | Nagoya | 14,029 | yes |
+| lt-1080p | Kobe | 6,501 | yes |
+| lt-1080p | Saitama | 5,727 | yes |
+| lt-1080p | Kawasaki | 5,063 | yes |
+| lt-1080p | Fukuoka | 4,233 | yes |
+| lt-1080p | Chiba | 4,122 | yes |
+| lt-1080p | Kyoto | 3,891 | yes |
 
 </div>
 
-Outside-boundary coordinate pairs retained: **6**. Unsupported-resolution downloader weight excluded: **0**.
+Outside-boundary coordinate pairs retained: **16**. Unsupported-resolution downloader weight excluded: **0**.
 
 </details>
 
 ### South Korea (KOR)
 
-Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
+Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `1.01309219884`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
 
 <div style="max-width:100%;overflow-x:auto" tabindex="0" role="region" aria-label="Country weight comparison" markdown="1">
 
-| View | Published downloader sum | Rescaled downloaders | Published uploader sum | Rescaled uploaders |
-| --- | ---: | ---: | ---: | ---: |
-| combined | 8,564,466 | 8,871,525 | 11,536 | 11,633 |
-| ge-1080p | 5,489,401 | 5,684,736 | 10,759 | 10,852 |
-| lt-1080p | 3,075,065 | 3,186,789 | 777 | 781 |
+| View | Cumulative-cache downloaders | Cumulative-cache uploaders |
+| --- | ---: | ---: |
+| combined | 8,567,725 | 11,546 |
+| ge-1080p | 5,491,536 | 10,766 |
+| lt-1080p | 3,076,189 | 780 |
 
 </div>
 
@@ -394,36 +394,36 @@ Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Comb
 
 | View | City | Downloader weight | Label drawn |
 | --- | --- | ---: | --- |
-| combined | Seoul | 3,021,462 | yes |
-| combined | Incheon | 780,956 | yes |
-| combined | Busan | 374,241 | yes |
-| combined | Daegu | 316,859 | yes |
-| combined | Suwon | 238,585 | yes |
-| combined | Gwangju | 231,967 | yes |
-| combined | Daejeon | 199,039 | yes |
-| combined | Seongnam-si | 189,087 | yes |
-| combined | Hwaseong-si | 181,059 | yes |
-| combined | Goyang-si | 176,598 | yes |
-| ge-1080p | Seoul | 1,913,515 | yes |
-| ge-1080p | Incheon | 497,814 | yes |
-| ge-1080p | Busan | 238,397 | yes |
-| ge-1080p | Daegu | 202,209 | yes |
-| ge-1080p | Suwon | 152,624 | yes |
-| ge-1080p | Gwangju | 147,985 | yes |
-| ge-1080p | Daejeon | 126,344 | yes |
-| ge-1080p | Seongnam-si | 120,446 | yes |
-| ge-1080p | Hwaseong-si | 115,494 | yes |
-| ge-1080p | Goyang-si | 112,727 | yes |
-| lt-1080p | Seoul | 1,083,526 | yes |
-| lt-1080p | Incheon | 277,013 | yes |
-| lt-1080p | Busan | 132,702 | yes |
-| lt-1080p | Daegu | 111,951 | yes |
-| lt-1080p | Suwon | 84,140 | yes |
-| lt-1080p | Gwangju | 82,107 | yes |
-| lt-1080p | Daejeon | 71,094 | yes |
-| lt-1080p | Seongnam-si | 67,116 | yes |
-| lt-1080p | Hwaseong-si | 64,163 | yes |
-| lt-1080p | Goyang-si | 62,432 | yes |
+| combined | Seoul | 3,000,383 | yes |
+| combined | Incheon | 754,101 | yes |
+| combined | Busan | 361,401 | yes |
+| combined | Daegu | 305,963 | yes |
+| combined | Suwon | 230,554 | yes |
+| combined | Gwangju | 224,049 | yes |
+| combined | Daejeon | 192,179 | yes |
+| combined | Seongnam-si | 182,565 | yes |
+| combined | Hwaseong-si | 174,805 | yes |
+| combined | Goyang-si | 170,500 | yes |
+| ge-1080p | Seoul | 1,914,794 | yes |
+| ge-1080p | Incheon | 480,780 | yes |
+| ge-1080p | Busan | 230,256 | yes |
+| ge-1080p | Daegu | 195,283 | yes |
+| ge-1080p | Suwon | 147,513 | yes |
+| ge-1080p | Gwangju | 142,957 | yes |
+| ge-1080p | Daejeon | 122,012 | yes |
+| ge-1080p | Seongnam-si | 116,313 | yes |
+| ge-1080p | Hwaseong-si | 111,521 | yes |
+| ge-1080p | Goyang-si | 108,849 | yes |
+| lt-1080p | Seoul | 1,061,753 | yes |
+| lt-1080p | Incheon | 267,303 | yes |
+| lt-1080p | Busan | 128,060 | yes |
+| lt-1080p | Daegu | 108,030 | yes |
+| lt-1080p | Suwon | 81,251 | yes |
+| lt-1080p | Gwangju | 79,249 | yes |
+| lt-1080p | Daejeon | 68,595 | yes |
+| lt-1080p | Seongnam-si | 64,755 | yes |
+| lt-1080p | Hwaseong-si | 61,907 | yes |
+| lt-1080p | Goyang-si | 60,238 | yes |
 
 </div>
 
@@ -433,15 +433,15 @@ Outside-boundary coordinate pairs retained: **0**. Unsupported-resolution downlo
 
 ### China (CHN)
 
-Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
+Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `1.01309219884`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
 
 <div style="max-width:100%;overflow-x:auto" tabindex="0" role="region" aria-label="Country weight comparison" markdown="1">
 
-| View | Published downloader sum | Rescaled downloaders | Published uploader sum | Rescaled uploaders |
-| --- | ---: | ---: | ---: | ---: |
-| combined | 5,550,820 | 5,747,354 | 191,474 | 193,563 |
-| ge-1080p | 3,678,703 | 3,807,621 | 178,693 | 180,537 |
-| lt-1080p | 1,872,117 | 1,939,733 | 12,781 | 13,026 |
+| View | Cumulative-cache downloaders | Cumulative-cache uploaders |
+| --- | ---: | ---: |
+| combined | 5,572,194 | 191,732 |
+| ge-1080p | 3,692,339 | 178,919 |
+| lt-1080p | 1,879,855 | 12,813 |
 
 </div>
 
@@ -476,54 +476,54 @@ Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Comb
 
 | View | City | Downloader weight | Label drawn |
 | --- | --- | ---: | --- |
-| combined | Nanjing | 1,481,275 | yes |
-| combined | Shanghai | 1,010,712 | yes |
-| combined | Hangzhou | 832,870 | yes |
-| combined | Shenzhen | 552,107 | yes |
-| combined | Beijing | 186,762 | yes |
-| combined | Jiaxing | 140,346 | yes |
-| combined | Zhengzhou | 132,578 | yes |
-| combined | Qingdao | 119,632 | yes |
-| combined | Shaoxing | 87,959 | yes |
-| combined | Shenyang | 85,564 | yes |
-| ge-1080p | Nanjing | 1,038,162 | yes |
-| ge-1080p | Shanghai | 647,942 | yes |
-| ge-1080p | Hangzhou | 536,269 | yes |
-| ge-1080p | Shenzhen | 353,346 | yes |
-| ge-1080p | Beijing | 120,704 | yes |
-| ge-1080p | Jiaxing | 89,712 | yes |
-| ge-1080p | Zhengzhou | 84,870 | yes |
-| ge-1080p | Qingdao | 76,327 | yes |
-| ge-1080p | Shaoxing | 56,771 | yes |
-| ge-1080p | Shenyang | 54,797 | yes |
-| lt-1080p | Nanjing | 434,752 | yes |
-| lt-1080p | Shanghai | 354,289 | yes |
-| lt-1080p | Hangzhou | 290,614 | yes |
-| lt-1080p | Shenzhen | 193,737 | yes |
-| lt-1080p | Beijing | 64,449 | yes |
-| lt-1080p | Jiaxing | 49,463 | yes |
-| lt-1080p | Zhengzhou | 46,379 | yes |
-| lt-1080p | Qingdao | 42,203 | yes |
-| lt-1080p | Shaoxing | 30,523 | yes |
-| lt-1080p | Shenyang | 29,894 | yes |
+| combined | Nanjing | 1,431,109 | yes |
+| combined | Shanghai | 976,105 | yes |
+| combined | Hangzhou | 804,076 | yes |
+| combined | Shenzhen | 531,103 | yes |
+| combined | Beijing | 180,027 | yes |
+| combined | Jiaxing | 135,494 | yes |
+| combined | Zhengzhou | 128,052 | yes |
+| combined | Qingdao | 115,529 | yes |
+| combined | Shaoxing | 84,888 | yes |
+| combined | Shenyang | 82,631 | yes |
+| ge-1080p | Nanjing | 1,003,347 | yes |
+| ge-1080p | Shanghai | 625,879 | yes |
+| ge-1080p | Hangzhou | 517,807 | yes |
+| ge-1080p | Shenzhen | 339,961 | yes |
+| ge-1080p | Beijing | 116,386 | yes |
+| ge-1080p | Jiaxing | 86,629 | yes |
+| ge-1080p | Zhengzhou | 81,990 | yes |
+| ge-1080p | Qingdao | 73,724 | yes |
+| ge-1080p | Shaoxing | 54,798 | yes |
+| ge-1080p | Shenyang | 52,933 | yes |
+| lt-1080p | Nanjing | 419,552 | yes |
+| lt-1080p | Shanghai | 341,899 | yes |
+| lt-1080p | Hangzhou | 280,390 | yes |
+| lt-1080p | Shenzhen | 186,224 | yes |
+| lt-1080p | Beijing | 62,065 | yes |
+| lt-1080p | Jiaxing | 47,715 | yes |
+| lt-1080p | Zhengzhou | 44,757 | yes |
+| lt-1080p | Qingdao | 40,723 | yes |
+| lt-1080p | Shaoxing | 29,437 | yes |
+| lt-1080p | Shenyang | 28,841 | yes |
 
 </div>
 
-Outside-boundary coordinate pairs retained: **1**. Unsupported-resolution downloader weight excluded: **0**.
+Outside-boundary coordinate pairs retained: **3**. Unsupported-resolution downloader weight excluded: **0**.
 
 </details>
 
 ### United States (USA)
 
-Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `0.996561031328`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
+Sample: **2026-01-09-to-2026-07-09**. Radius coefficient: `1.01309219884`. Combined = 1080 + 2160 + 720 + SD; ≥1080p = 1080 + 2160; <1080p = 720 + SD.
 
 <div style="max-width:100%;overflow-x:auto" tabindex="0" role="region" aria-label="Country weight comparison" markdown="1">
 
-| View | Published downloader sum | Rescaled downloaders | Published uploader sum | Rescaled uploaders |
-| --- | ---: | ---: | ---: | ---: |
-| combined | 3,683,427 | 3,798,939 | 415,715 | 423,927 |
-| ge-1080p | 2,494,094 | 2,570,734 | 338,363 | 344,512 |
-| lt-1080p | 1,189,333 | 1,228,205 | 77,352 | 79,415 |
+| View | Cumulative-cache downloaders | Cumulative-cache uploaders |
+| --- | ---: | ---: |
+| combined | 4,079,334 | 428,680 |
+| ge-1080p | 2,748,899 | 348,554 |
+| lt-1080p | 1,330,435 | 80,126 |
 
 </div>
 
@@ -560,40 +560,40 @@ Insets use independent geographic scales. Bubble areas retain the same weight sc
 
 | View | City | Downloader weight | Label drawn |
 | --- | --- | ---: | --- |
-| combined | Ashburn | 369,640 | yes |
-| combined | New York City | 321,337 | yes |
-| combined | Los Angeles | 183,856 | yes |
-| combined | Chicago | 158,998 | yes |
-| combined | Seattle | 100,433 | yes |
-| combined | Atlanta | 100,025 | yes |
-| combined | Dallas | 99,718 | yes |
-| combined | Miami | 83,239 | yes |
-| combined | San Jose | 72,697 | yes |
-| combined | Denver | 69,379 | yes |
-| ge-1080p | Ashburn | 241,240 | yes |
-| ge-1080p | New York City | 225,312 | yes |
-| ge-1080p | Los Angeles | 127,423 | yes |
-| ge-1080p | Chicago | 112,474 | yes |
-| ge-1080p | Atlanta | 71,863 | yes |
-| ge-1080p | Seattle | 70,541 | yes |
-| ge-1080p | Dallas | 69,747 | yes |
-| ge-1080p | Miami | 58,683 | yes |
-| ge-1080p | San Jose | 50,590 | yes |
-| ge-1080p | Denver | 48,090 | yes |
-| lt-1080p | Ashburn | 122,401 | yes |
-| lt-1080p | New York City | 93,487 | yes |
-| lt-1080p | Los Angeles | 54,626 | yes |
-| lt-1080p | Chicago | 45,292 | yes |
-| lt-1080p | Seattle | 29,000 | yes |
-| lt-1080p | Dallas | 28,950 | yes |
-| lt-1080p | Atlanta | 27,311 | yes |
-| lt-1080p | Miami | 23,797 | yes |
-| lt-1080p | San Jose | 22,096 | yes |
-| lt-1080p | Denver | 20,785 | yes |
+| combined | Ashburn | 358,012 | yes |
+| combined | New York City | 273,087 | yes |
+| combined | Los Angeles | 187,828 | yes |
+| combined | Chicago | 153,825 | yes |
+| combined | Seattle | 104,856 | yes |
+| combined | Atlanta | 104,627 | yes |
+| combined | Dallas | 98,432 | yes |
+| combined | Miami | 81,906 | yes |
+| combined | San Jose | 73,123 | yes |
+| combined | Denver | 66,999 | yes |
+| ge-1080p | Ashburn | 233,697 | yes |
+| ge-1080p | New York City | 190,674 | yes |
+| ge-1080p | Los Angeles | 130,922 | yes |
+| ge-1080p | Chicago | 108,874 | yes |
+| ge-1080p | Seattle | 74,470 | yes |
+| ge-1080p | Atlanta | 74,070 | yes |
+| ge-1080p | Dallas | 69,057 | yes |
+| ge-1080p | Miami | 58,381 | yes |
+| ge-1080p | San Jose | 49,855 | yes |
+| ge-1080p | Denver | 47,004 | yes |
+| lt-1080p | Ashburn | 118,438 | yes |
+| lt-1080p | New York City | 80,249 | yes |
+| lt-1080p | Los Angeles | 55,137 | yes |
+| lt-1080p | Chicago | 43,742 | yes |
+| lt-1080p | Atlanta | 29,727 | yes |
+| lt-1080p | Seattle | 29,533 | yes |
+| lt-1080p | Dallas | 28,342 | yes |
+| lt-1080p | Miami | 22,789 | yes |
+| lt-1080p | San Jose | 22,719 | yes |
+| lt-1080p | Phoenix | 19,794 | yes |
 
 </div>
 
-Outside-boundary coordinate pairs retained: **45**. Unsupported-resolution downloader weight excluded: **0**.
+Outside-boundary coordinate pairs retained: **123**. Unsupported-resolution downloader weight excluded: **0**.
 
 </details>
 
