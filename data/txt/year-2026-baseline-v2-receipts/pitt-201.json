@@ -37,6 +37,68 @@
     }
   },
   "media_object": "pitt-201",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "653615ff0ea4f705946cab3171996e91c0b54acbc7831af7ebc0fea6bdff9b31",
+        "before_sha256": "91a1b90001bd6f4f34455c9b6472e1eb5480e2debbd92e16ababa78bf01038b7",
+        "path": "docs/itemized/pitt-201-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "53ddd24231ce223d679faf350778fb3bbf15f76ea60ef6b7fb045f9dff96f4dd",
+        "before_sha256": "022647a4e9bd306ef3dac43f770eb98975ba376de1446b09bb253e4055f2544c",
+        "path": "docs/itemized/figures/pitt-201-downloads-by-week-pitt-201-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:08:55.470086+00:00",
+    "coverage_sha256": "6d8983d07d78a038132fe59ec1614c8eced0769513ab721cef7e2c93fc9b3e67",
+    "day_contract": {
+      "collection_key": "pitt-201",
+      "day_products": 181,
+      "first_date": "2026-01-09",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-07-09",
+      "last_index": 182,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "7fa7b2802f30807e6bae7c35ac3364fa9e8a0276",
+    "historical_receipt_sha256": "48f0bdbeaddaa28212e2f029c2047aed5dae1c19f1b6f518081fb09b70e65aee",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/pitt-201.md",
+        "sha256": "da0b91d58baa448bbaa95e5cf7e6ca33cf4c83ded5a91db116a292d1766abd62",
+        "size": 817
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/pitt-201.json",
+        "sha256": "53cd6766442ceac17076dcc945af4c4aeffd53b36d8f1bc6aa4f1ba14e58d716",
+        "size": 3532
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/pitt-201.json",
+        "sha256": "8091429639669eb1770d8739ed7f218d08021ed431c8a08b84d52cc237f8e7c9",
+        "size": 361
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 26,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/pitt-201-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "a632dc027647519cdd2350a55886f0e233d4a29cac3b22bd42c4c20eafabef64",
     "docs/itemized/figures/pitt-201-carto-4k.webp": "430934d7aff6a658a7fe3617ccdab40aab9ab766956bbad91761d607361866ee",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/pitt-201-data-lt-1080p-4k.webp": "84e317d3268d3d4734d5ce63f095dfd85e36ba3c769c43d36305ee0725a24587",
     "docs/itemized/figures/pitt-201-data-lt-1080p.webp": "bbf678983aef8c3f90bf7f0fee792e0e6a23aa548369d2aec5eaa32c53a8acd4",
     "docs/itemized/figures/pitt-201-downloads-by-day-day.svg": "5f114e58a2e0c1d0794c41f70a7af420a83077c02aba54b17e219b5201e895d6",
-    "docs/itemized/figures/pitt-201-downloads-by-week-pitt-201-week.svg": "022647a4e9bd306ef3dac43f770eb98975ba376de1446b09bb253e4055f2544c",
-    "docs/itemized/pitt-201-sample-cache-audit.md": "91a1b90001bd6f4f34455c9b6472e1eb5480e2debbd92e16ababa78bf01038b7",
+    "docs/itemized/figures/pitt-201-downloads-by-week-pitt-201-week.svg": "53ddd24231ce223d679faf350778fb3bbf15f76ea60ef6b7fb045f9dff96f4dd",
+    "docs/itemized/pitt-201-sample-cache-audit.md": "653615ff0ea4f705946cab3171996e91c0b54acbc7831af7ebc0fea6bdff9b31",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

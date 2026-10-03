@@ -37,9 +37,71 @@
     }
   },
   "media_object": "enola-holmes-3",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "551bb5dff8981726474d36c99cba562d4d96628025298d4791045b31dee7a55e",
+        "before_sha256": "916ddfb87bfe7488e21aae99f97e017ad1b34c849bca96a2a9741c09089877a4",
+        "path": "docs/itemized/enola-holmes-3-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "57b6bbf98024be9ba4ee7cf68d6a372d3f3083e2297c1bc0b76882a8f890f6de",
+        "before_sha256": "744441701af1083dd2d7c4b199587a9569189e4985f0358191ef4ce924d6d5af",
+        "path": "docs/itemized/figures/enola-holmes-3-downloads-by-week-enola-holmes-3-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:06:15.443748+00:00",
+    "coverage_sha256": "2ea3ce0cedd3cdcc97b7ab4ba8cad9245f58e5695dd86224675d752f3a308cc6",
+    "day_contract": {
+      "collection_key": "enola-holmes-3",
+      "day_products": 65,
+      "first_date": "2026-07-01",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-03",
+      "last_index": 65,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "d163c98c945946592ffe91004952eeb6d42515f4",
+    "historical_receipt_sha256": "20cb0692c20468311396b08e5ca4fdacac3a758d1b5044172a08291d6b88d9c3",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/enola-holmes-3.md",
+        "sha256": "38d8f0a8e20f85d3d4ad9f6d544e4396b91be139e3b8058b2949b7121a9520bf",
+        "size": 623
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/enola-holmes-3.json",
+        "sha256": "3572996a247e2e242070602c2a5e92439d6a1f7e77caf276cb2d070d91954b68",
+        "size": 2530
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/enola-holmes-3.json",
+        "sha256": "61943d82b309b248838f81190072ac103d4d8e4817d4559fbe898629e3d5a4ce",
+        "size": 366
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 10,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/enola-holmes-3-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "f050e6f0a5e5b9144c67afb4499fc43a1b643d3b3a24d7eb4b8959affdf29192",
-    "docs/itemized/enola-holmes-3-sample-cache-audit.md": "916ddfb87bfe7488e21aae99f97e017ad1b34c849bca96a2a9741c09089877a4",
+    "docs/itemized/enola-holmes-3-sample-cache-audit.md": "551bb5dff8981726474d36c99cba562d4d96628025298d4791045b31dee7a55e",
     "docs/itemized/figures/enola-holmes-3-carto-4k.webp": "1415e70f13ae9e02f5d1f3f0af9551cb92d05782079f8b807603f5ed1cb2414e",
     "docs/itemized/figures/enola-holmes-3-carto.png": "9217e24bf3d51e4e5a65c08ab5a95ef91af6671f28724be6f096bd34356dc9d6",
     "docs/itemized/figures/enola-holmes-3-cumulative-detail-btiha-itemized-by-bytes.svg": "08ef70ee10effe939380a16f2cd03f29f304664d7d0ed398f97f17e1cd4f7599",
@@ -48,7 +110,7 @@
     "docs/itemized/figures/enola-holmes-3-data-lt-1080p-4k.webp": "015b465e5831bed69fc84f24eb31c2da662a1bff588a604827ccaf905882012b",
     "docs/itemized/figures/enola-holmes-3-data-lt-1080p.webp": "86a041d2c403ba1a49e2abda4af5bba4fc2e468ff82b340096b0a9d70a358cac",
     "docs/itemized/figures/enola-holmes-3-downloads-by-day-day.svg": "05cc307f0b8f82458faccb8b63ef2d8938deafc77f1abc83a363a48dd9edf660",
-    "docs/itemized/figures/enola-holmes-3-downloads-by-week-enola-holmes-3-week.svg": "744441701af1083dd2d7c4b199587a9569189e4985f0358191ef4ce924d6d5af",
+    "docs/itemized/figures/enola-holmes-3-downloads-by-week-enola-holmes-3-week.svg": "57b6bbf98024be9ba4ee7cf68d6a372d3f3083e2297c1bc0b76882a8f890f6de",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

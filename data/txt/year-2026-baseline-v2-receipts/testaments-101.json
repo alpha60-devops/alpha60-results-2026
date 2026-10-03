@@ -37,6 +37,68 @@
     }
   },
   "media_object": "testaments-101",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "8cd25141bdb9a29d01ac58d0f2b1db2251142161528a2a2d8391344bb32b30fe",
+        "before_sha256": "23efc745c02d3c05de88e233f5c4f10acd964ebcde64fd3f3709d37b49744b51",
+        "path": "docs/itemized/testaments-101-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "2dcd6353ab47af3cb1022f80ae8bc994720f631892f36e1cfa6bb30e47016880",
+        "before_sha256": "11c5083359b928983d76a1ef0aa4c720c6a6371c8f4b9684701022274dda5bae",
+        "path": "docs/itemized/figures/testaments-101-downloads-by-week-testaments-101-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:10:13.846458+00:00",
+    "coverage_sha256": "a695b85a0d927de05d02b5766f4d71b5669a3be2a21c889ca369c43d92353f1e",
+    "day_contract": {
+      "collection_key": "testaments-101",
+      "day_products": 105,
+      "first_date": "2026-04-08",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-07-21",
+      "last_index": 105,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "03e4e3413533189215488bfbc7b6001e1bbdd3b8",
+    "historical_receipt_sha256": "6298edfe0181619cb8f2a3948cc99d81c88d22115cfabb8164353261a3d1a1c8",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/testaments-101.md",
+        "sha256": "dc77263d2e8d0288dcd8907ba836cbbd422a52b578897b42ea17bc578aa76c69",
+        "size": 550
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/testaments-101.json",
+        "sha256": "ae0f7f18f9073b73f57e9defbd159d619aa710193ded66edfec88b7c732ad0a3",
+        "size": 2861
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/testaments-101.json",
+        "sha256": "c38fa1c83ab55c212db1affc5d4a62dc25e31d00b0256ab1f37aa8a4ad2fecec",
+        "size": 368
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 15,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/testaments-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "4133ef3a948760a1051c2505995503baa515a4c1509b40f40264188e724ab769",
     "docs/itemized/figures/testaments-101-carto-4k.webp": "9119c84c6af21355acea06fa168ab403ee5c978e4e7a5173f03acfbb780578c2",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/testaments-101-data-lt-1080p-4k.webp": "73899ff10a233dc86c621749462c34c741b81e5c762336479a6c38830f922326",
     "docs/itemized/figures/testaments-101-data-lt-1080p.webp": "2d462e9852e42d9d7934f22c62b71fbf7c468546714a0e1bb0b07c57f0eb9dc9",
     "docs/itemized/figures/testaments-101-downloads-by-day-day.svg": "162b24baaaa1e1a14c560dcba883bcbc77e39f5e22cb23c90e679e6b9161d314",
-    "docs/itemized/figures/testaments-101-downloads-by-week-testaments-101-week.svg": "11c5083359b928983d76a1ef0aa4c720c6a6371c8f4b9684701022274dda5bae",
-    "docs/itemized/testaments-101-sample-cache-audit.md": "23efc745c02d3c05de88e233f5c4f10acd964ebcde64fd3f3709d37b49744b51",
+    "docs/itemized/figures/testaments-101-downloads-by-week-testaments-101-week.svg": "2dcd6353ab47af3cb1022f80ae8bc994720f631892f36e1cfa6bb30e47016880",
+    "docs/itemized/testaments-101-sample-cache-audit.md": "8cd25141bdb9a29d01ac58d0f2b1db2251142161528a2a2d8391344bb32b30fe",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

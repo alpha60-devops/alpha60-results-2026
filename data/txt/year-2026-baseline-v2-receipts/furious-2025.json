@@ -37,6 +37,68 @@
     }
   },
   "media_object": "furious-2025",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "c4d36676453a210a0bada76b49acf1ff0e5e50629f1c01affe9afb6ec59b5cd4",
+        "before_sha256": "a862ab63014555277543d945683ed993c1722786aaf382ac05a4404b9c3896f4",
+        "path": "docs/itemized/furious-2025-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "46ceb011cf457788a06f33b1aca9ec299f8baed2b791d7415e99cf5c4e10866b",
+        "before_sha256": "2763e4c66c0c9473327b9167720b0b601aba3fc68fb4bf1fb78c52c6b7e1a65a",
+        "path": "docs/itemized/figures/furious-2025-downloads-by-week-furious-2025-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:06:43.352330+00:00",
+    "coverage_sha256": "c56a32d07bac609a9f6fc30cad4f3411b50b21583d0e07ce15d11306ea52ec51",
+    "day_contract": {
+      "collection_key": "furious-2025",
+      "day_products": 56,
+      "first_date": "2026-07-07",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-08-31",
+      "last_index": 56,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "b706a021e271af3df98aa35852537f30f38eab69",
+    "historical_receipt_sha256": "0e6d797d71e2921f7a5ecb9d5e7db2f8195f5eec3e0f6d494e839251cf29f656",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/furious-2025.md",
+        "sha256": "9b77533a064b6a322f5c1ecf659a61a8a456316df7538b8f38f1210870e9a877",
+        "size": 707
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/furious-2025.json",
+        "sha256": "ffdcf7d442dba34fb17e32f110f4218bc0de0ec4b490e9596fa63139465595df",
+        "size": 2446
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/furious-2025.json",
+        "sha256": "0823d618c89b4e32c20cf6f39c27304d183734d51d4b42aeb8c5bc321c3bbdcf",
+        "size": 364
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 8,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/furious-2025-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "ce0c290617e9e8fcd85296e2e0aae4c0f26bf2dce1c2070988d10a886b43500c",
     "docs/itemized/figures/furious-2025-carto-4k.webp": "eed9a1a072369ddf38552e401a8bb08252d95680dc4a0fea9a5e41e4b858be84",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/furious-2025-data-lt-1080p-4k.webp": "53f67790118d229b8977d3a7e891f2a8f4fc6a70d63d700b463e020b75a7ff88",
     "docs/itemized/figures/furious-2025-data-lt-1080p.webp": "995e00ecf37e9c9b21b4ea6e95946948b2b00dcd07d58dc986baa84f835d2a7c",
     "docs/itemized/figures/furious-2025-downloads-by-day-day.svg": "5b37ee5009636e5ab2b72989cecaa6d077d2ff0e0240f86f10c628c8f6ce9dbf",
-    "docs/itemized/figures/furious-2025-downloads-by-week-furious-2025-week.svg": "2763e4c66c0c9473327b9167720b0b601aba3fc68fb4bf1fb78c52c6b7e1a65a",
-    "docs/itemized/furious-2025-sample-cache-audit.md": "a862ab63014555277543d945683ed993c1722786aaf382ac05a4404b9c3896f4",
+    "docs/itemized/figures/furious-2025-downloads-by-week-furious-2025-week.svg": "46ceb011cf457788a06f33b1aca9ec299f8baed2b791d7415e99cf5c4e10866b",
+    "docs/itemized/furious-2025-sample-cache-audit.md": "c4d36676453a210a0bada76b49acf1ff0e5e50629f1c01affe9afb6ec59b5cd4",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

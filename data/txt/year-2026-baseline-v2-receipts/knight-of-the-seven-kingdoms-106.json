@@ -37,6 +37,68 @@
     }
   },
   "media_object": "knight-of-the-seven-kingdoms-106",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "d32138f4e73d2b942f85b213231c017f058eff9f80fd7a59949c8042b0e9a0d5",
+        "before_sha256": "ccd6f317618ecdb444b4b1a130a9202746bcaee41ec78b339ad9a85677e1d2f4",
+        "path": "docs/itemized/knight-of-the-seven-kingdoms-106-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "bdfb9fcb8081fd3bdd93af5fa87c40997b101287432e1b03ce726e6ac2710de2",
+        "before_sha256": "7cad077e023218ac0fbd81a57e7e55f086a11416fb4dda37d68fe642a424c002",
+        "path": "docs/itemized/figures/knight-of-the-seven-kingdoms-106-downloads-by-week-knight-of-the-seven-kingdoms-106-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:07:32.648460+00:00",
+    "coverage_sha256": "770971e40d3b1554f4d77eba60bc3270033e4b4307f499b528c3b9f75a297c81",
+    "day_contract": {
+      "collection_key": "knight-of-the-seven-kingdoms-106",
+      "day_products": 181,
+      "first_date": "2026-02-23",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-08-23",
+      "last_index": 182,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "9fe10835392dcaeff1e720b33c9ac25f1fc70a68",
+    "historical_receipt_sha256": "507d975444004b1aacdc8a6366dc83f3a08921ea0bbb9aad99e2ffda993182a5",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/knight-of-the-seven-kingdoms-106.md",
+        "sha256": "402ab75d800e5095d968005e65c919cb96263d950bc716b10f013e39c086a11e",
+        "size": 865
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/knight-of-the-seven-kingdoms-106.json",
+        "sha256": "64d5cdb385688ca3970afe8664e12f3e4758e8ecd5188a9f9444b8c2374e0ed6",
+        "size": 3627
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/knight-of-the-seven-kingdoms-106.json",
+        "sha256": "ec2a926b73fb0d821c889454dca6e74a6ed4f87ffa6419762b38174bc0a1c065",
+        "size": 385
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 26,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/knight-of-the-seven-kingdoms-106-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "944066bc788f2b16b579aeb9a5c5d1664a14c6bf468c3d06cfcce74670341e63",
     "docs/itemized/figures/knight-of-the-seven-kingdoms-106-carto-4k.webp": "a8ee0411de7612908e3f696e879a717a64953ff0b1e5ae786eafe0eaf8a22e2b",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/knight-of-the-seven-kingdoms-106-data-lt-1080p-4k.webp": "e53a76e86febfd79bdad67130c8e9d751adf19b4efd893b6cbbcfbb830cdae23",
     "docs/itemized/figures/knight-of-the-seven-kingdoms-106-data-lt-1080p.webp": "26e65e8b21bdeaa72b11809eca726f7ec1adee25c5d5008a43be75e3773da5d9",
     "docs/itemized/figures/knight-of-the-seven-kingdoms-106-downloads-by-day-day.svg": "c9efdd5e038c771b6fef7c612216cba0c060d1ad235b0aa7399c0ba06b1b0256",
-    "docs/itemized/figures/knight-of-the-seven-kingdoms-106-downloads-by-week-knight-of-the-seven-kingdoms-106-week.svg": "7cad077e023218ac0fbd81a57e7e55f086a11416fb4dda37d68fe642a424c002",
-    "docs/itemized/knight-of-the-seven-kingdoms-106-sample-cache-audit.md": "ccd6f317618ecdb444b4b1a130a9202746bcaee41ec78b339ad9a85677e1d2f4",
+    "docs/itemized/figures/knight-of-the-seven-kingdoms-106-downloads-by-week-knight-of-the-seven-kingdoms-106-week.svg": "bdfb9fcb8081fd3bdd93af5fa87c40997b101287432e1b03ce726e6ac2710de2",
+    "docs/itemized/knight-of-the-seven-kingdoms-106-sample-cache-audit.md": "d32138f4e73d2b942f85b213231c017f058eff9f80fd7a59949c8042b0e9a0d5",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

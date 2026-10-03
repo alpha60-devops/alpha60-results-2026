@@ -37,6 +37,68 @@
     }
   },
   "media_object": "president-curtis-01",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "5fa32cb9e993623f4bd038713fee6a81c8711df813aaa3fb2cb485100ed1aee2",
+        "before_sha256": "c1f5c12f0b560975612e126968b471d7284d448a78e485dc5dc90f617080c6da",
+        "path": "docs/itemized/president-curtis-01-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "78bbeef8cc8f608574980393aeae65ee7960fcf5278c37b4bd1f24ecfa37e14b",
+        "before_sha256": "12bae177d3ebf06730ed0c07e3cd89a6bdd6f68dfff42324043a31c33ead292a",
+        "path": "docs/itemized/figures/president-curtis-01-downloads-by-week-president-curtis-01-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:09:05.454089+00:00",
+    "coverage_sha256": "a7d5d55d9af76c0d7a69fba1f57eb1ebfb1fe78ca90e5f3b49350fd5671d64ee",
+    "day_contract": {
+      "collection_key": "president-curtis-01",
+      "day_products": 23,
+      "first_date": "2026-07-28",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-08-20",
+      "last_index": 24,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "7bf4e5f0a2689fb938475a247af4a7bfe04ef634",
+    "historical_receipt_sha256": "ccf2a8fefc1e7546f442b65f23a35c8597225cdb0f5395f54b9572bb3ea17446",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/president-curtis-01.md",
+        "sha256": "38671199eaa56a759b3bb343ae8a763bda4fc87e71b0dfa5e06a85f0c5c5a2a2",
+        "size": 662
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/president-curtis-01.json",
+        "sha256": "7171d1a3263633bb0c57bd43d7ec8206f503ccd4d0179e7774f7cfe931c4feb6",
+        "size": 2219
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/president-curtis-01.json",
+        "sha256": "a7b5239cafcb8e3d5fbffab76d511cffb87046384947638f85388b23949df0b9",
+        "size": 370
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 4,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/president-curtis-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "89a05bd28cff5dd443215cc35660e11b3fd7d31c24ed5abb639fd36de92fb8f4",
     "docs/itemized/figures/president-curtis-01-carto-4k.webp": "ad024c738c726199108f9b0e18af9bc8fb521b660dad511bd559bece8ccdfbc3",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/president-curtis-01-data-lt-1080p-4k.webp": "81560e5520146e80231fef2a70ce97a4fd5a3f739bf5c9d1a8e134c91f005f73",
     "docs/itemized/figures/president-curtis-01-data-lt-1080p.webp": "6c2bb02b1a8ff7bd95b961d0a226a9717a613c645719e3a3d29872a9e09f4309",
     "docs/itemized/figures/president-curtis-01-downloads-by-day-day.svg": "06b7a1797cafbec87ac3f7960a2c481581b94534f71b315f3fc167619a4fc37b",
-    "docs/itemized/figures/president-curtis-01-downloads-by-week-president-curtis-01-week.svg": "12bae177d3ebf06730ed0c07e3cd89a6bdd6f68dfff42324043a31c33ead292a",
-    "docs/itemized/president-curtis-01-sample-cache-audit.md": "c1f5c12f0b560975612e126968b471d7284d448a78e485dc5dc90f617080c6da",
+    "docs/itemized/figures/president-curtis-01-downloads-by-week-president-curtis-01-week.svg": "78bbeef8cc8f608574980393aeae65ee7960fcf5278c37b4bd1f24ecfa37e14b",
+    "docs/itemized/president-curtis-01-sample-cache-audit.md": "5fa32cb9e993623f4bd038713fee6a81c8711df813aaa3fb2cb485100ed1aee2",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

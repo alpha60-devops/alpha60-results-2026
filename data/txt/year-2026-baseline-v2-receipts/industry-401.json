@@ -37,6 +37,68 @@
     }
   },
   "media_object": "industry-401",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "b64babb2b38105af5b40abec188daa621931bf1ae658dd8575ad295e31505ff3",
+        "before_sha256": "cad31f0f523d5f497edba50f7cf46a64f6785d03ac5caf1a9ec5f9e2e105eb0c",
+        "path": "docs/itemized/industry-401-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "b790a36116a34f34af6e26f3ecf239aab114ea9b40ef805db143fd9ae0ddc8c8",
+        "before_sha256": "cc2e61a9f511a51449bc8ad3298039120c3424129cd038aab156e944e9626894",
+        "path": "docs/itemized/figures/industry-401-downloads-by-week-industry-401-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:07:19.339480+00:00",
+    "coverage_sha256": "9ebc988c0384220b3763e5663988e6f7fe3e30d8e82f7369f260ef4ddb0511e3",
+    "day_contract": {
+      "collection_key": "industry-401",
+      "day_products": 105,
+      "first_date": "2026-01-12",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-04-26",
+      "last_index": 105,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "bcde270677ca421f6f8cd63eba1dce86273dd4fa",
+    "historical_receipt_sha256": "e2b7b7c9f9bbd4e8ca938818ef41d172870daf6a7f12b80ee8e71f2b43ad8499",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/industry-401.md",
+        "sha256": "498b064e82238a4c99b4b99efeb6efed5df82193a8f78587b17820ddb832de1d",
+        "size": 619
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/industry-401.json",
+        "sha256": "3f086f5ac2148db317178810c1cb77dd6ac0612f0b9bb04a3251aacaa4f746bb",
+        "size": 2853
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/industry-401.json",
+        "sha256": "58b247b9502bf5fe1a0c7cdae850197df981c5377a6e5531b24ba7de2c345fb7",
+        "size": 366
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 15,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/industry-401-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "15389ae49b974dc82c1e6b3c4bc6ddbb957c3254bcb8e4ada6b99e09c2d84afe",
     "docs/itemized/figures/industry-401-carto-4k.webp": "c6eb0d5d2fc64f0e600c1eb7baea246993cb694d6d47e3a4fbde67f73678bd56",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/industry-401-data-lt-1080p-4k.webp": "e93ea175bc06e7152ba5f7686bf015b922f5d5f3498d29aff2ba7482cb501446",
     "docs/itemized/figures/industry-401-data-lt-1080p.webp": "9bf2a7c9eb98f9633f3f1b5de327947b295d793966aca0ecd2cdc41491bbc591",
     "docs/itemized/figures/industry-401-downloads-by-day-day.svg": "86660cc02c7b8d95191c513fe6b20e64f0feb35b35e71458d5d1cdbf6982ef29",
-    "docs/itemized/figures/industry-401-downloads-by-week-industry-401-week.svg": "cc2e61a9f511a51449bc8ad3298039120c3424129cd038aab156e944e9626894",
-    "docs/itemized/industry-401-sample-cache-audit.md": "cad31f0f523d5f497edba50f7cf46a64f6785d03ac5caf1a9ec5f9e2e105eb0c",
+    "docs/itemized/figures/industry-401-downloads-by-week-industry-401-week.svg": "b790a36116a34f34af6e26f3ecf239aab114ea9b40ef805db143fd9ae0ddc8c8",
+    "docs/itemized/industry-401-sample-cache-audit.md": "b64babb2b38105af5b40abec188daa621931bf1ae658dd8575ad295e31505ff3",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

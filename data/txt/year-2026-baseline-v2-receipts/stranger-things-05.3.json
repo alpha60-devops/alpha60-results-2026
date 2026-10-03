@@ -37,10 +37,72 @@
     }
   },
   "media_object": "stranger-things-05.3",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "d6ac43efca0695c2360ab956179fe209edf55a353ffe213686cf3fb0a6a3e62b",
+        "before_sha256": "81b67de82c844788b74849e6ccf9d3dfeff508563e349107761ed7db174dbaa7",
+        "path": "docs/itemized/stranger-things-05.3-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "bcc6b8a87cdb3cdfc44397705d851e35c8df563e6eb6ebae17e483282dc9acdd",
+        "before_sha256": "7c7da5c7735e5fbe18aad7b8ed86b48196c62a2517713fa9df1095d9262997a3",
+        "path": "docs/itemized/figures/stranger-things-05-3-downloads-by-week-stranger-things-05.3-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:09:52.899870+00:00",
+    "coverage_sha256": "18ecb247e13e21cbbf220278ce7958db92b4afccf05debecaa13231139c69248",
+    "day_contract": {
+      "collection_key": "stranger-things-05.3",
+      "day_products": 182,
+      "first_date": "2026-01-01",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-07-01",
+      "last_index": 182,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "abcce0cfc9dabf6c33372b88d3b4262ce08d3f80",
+    "historical_receipt_sha256": "f5296629d089d5e19dc9141b544dbd7055505371c8e1b1693f86c61d084b9b37",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/stranger-things-05.3.md",
+        "sha256": "ce63622562012dcde6f62fab9012cbbc3d2321dcadc43ea5f25c15b026bc2f58",
+        "size": 635
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/stranger-things-05.3.json",
+        "sha256": "cf2c4c864e647d534c5526ac5418743faadea45ffbeafe0099be0c8ea98ea6e0",
+        "size": 3578
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/stranger-things-05.3.json",
+        "sha256": "b6aafd27dc165156940eb54357d5c94d04bb314acf597c88614a330e097d2ba8",
+        "size": 374
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 26,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/stranger-things-05.3-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "0996642eeee077a9bc61610ea2538964fc236d289f7bfe641bc77a14e5f6fd07",
     "docs/itemized/figures/stranger-things-05-3-downloads-by-day-day.svg": "bd5ef95df026d40182a34f72c2f7adc95bd47d72c6e9a7cde5566979b19b9d26",
-    "docs/itemized/figures/stranger-things-05-3-downloads-by-week-stranger-things-05.3-week.svg": "7c7da5c7735e5fbe18aad7b8ed86b48196c62a2517713fa9df1095d9262997a3",
+    "docs/itemized/figures/stranger-things-05-3-downloads-by-week-stranger-things-05.3-week.svg": "bcc6b8a87cdb3cdfc44397705d851e35c8df563e6eb6ebae17e483282dc9acdd",
     "docs/itemized/figures/stranger-things-05.3-carto-4k.webp": "d5b93fa5839a1fbe8afd981056c0dfce0c5e44ec23d8e10d64e51dfa38816074",
     "docs/itemized/figures/stranger-things-05.3-carto.png": "870c3ffd784484efacd40fe308f48f753f0ef39c0944d1db2f4e5aa21d2f70aa",
     "docs/itemized/figures/stranger-things-05.3-cumulative-detail-btiha-itemized-by-bytes.svg": "e029f4ba04111746e6f4eb974ebb1ffedb0d4d20691b9c9014ef959a77486d46",
@@ -48,7 +110,7 @@
     "docs/itemized/figures/stranger-things-05.3-data-ge-1080p.webp": "e76e70513cb3664235e4034f501f18fdfef2cf8318e11607e277f21a057116d1",
     "docs/itemized/figures/stranger-things-05.3-data-lt-1080p-4k.webp": "19d1373e5c113c701d0134b44e786acbce6185215a47ba223951b67a86af7845",
     "docs/itemized/figures/stranger-things-05.3-data-lt-1080p.webp": "a784ee1e407a9fcd94f3a836d7e7d6d0b593596ad7df777e645cde72a42e436a",
-    "docs/itemized/stranger-things-05.3-sample-cache-audit.md": "81b67de82c844788b74849e6ccf9d3dfeff508563e349107761ed7db174dbaa7",
+    "docs/itemized/stranger-things-05.3-sample-cache-audit.md": "d6ac43efca0695c2360ab956179fe209edf55a353ffe213686cf3fb0a6a3e62b",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

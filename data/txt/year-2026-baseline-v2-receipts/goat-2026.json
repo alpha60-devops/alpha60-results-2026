@@ -37,6 +37,68 @@
     }
   },
   "media_object": "goat-2026",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "67e9e12dd3e187018bb23ee36d14f3b1875271c7c2b9d520e0dc8c102dab2bdc",
+        "before_sha256": "d317c05f1ecfa20bdfaa40618c27e861af3623d1e9d4d12ac90d293c0e6d3519",
+        "path": "docs/itemized/goat-2026-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "a7f637edf0d43582dc69a1945edd097fb06b96a09305a923eded10765912e5c0",
+        "before_sha256": "d094f64ad7094cf7f198585c2c0a56e8665a00117f1a76ded0465777cc8ee5a0",
+        "path": "docs/itemized/figures/goat-2026-downloads-by-week-goat-2026-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:06:48.048426+00:00",
+    "coverage_sha256": "eb0704c563c12e277364d668e430a9ab69d2c85377a13d73a35d9dfe790fb415",
+    "day_contract": {
+      "collection_key": "goat-2026",
+      "day_products": 105,
+      "first_date": "2026-03-26",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-07-08",
+      "last_index": 105,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "2db7626ce58a55fbf955e638e8079ef711b4b5b3",
+    "historical_receipt_sha256": "99a8cb59d712c1c062fea0fe0598b15fa8984f82db57f8724c32b5a15ed29486",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/goat-2026.md",
+        "sha256": "f5c42c79cc619f62c85b9cac901280671493a9da0e9ec9707d220d9b1679a0cc",
+        "size": 613
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/goat-2026.json",
+        "sha256": "a56b33afa2afa52581b88553662db84fe97e8aba9337f5b47cbbef4bccb9be99",
+        "size": 2841
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/goat-2026.json",
+        "sha256": "72303750b84aa9de9fb5db17ebaf3b08856988ce0543ecf4dadc43cc477a979d",
+        "size": 363
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 15,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/goat-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "1be2af7984ef389197493565ba2e43b5d4310e24777f26ed47d894bd06ad8d2d",
     "docs/itemized/figures/goat-2026-carto-4k.webp": "da9384437a59aed5df22a14f6c2c8cc81474b13c8e04bb8a9f6584832a1632d5",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/goat-2026-data-lt-1080p-4k.webp": "1c4123d4d224bedcf18cd3b2349e5b240894a03446f3ed86d519c3e43db624df",
     "docs/itemized/figures/goat-2026-data-lt-1080p.webp": "992cdcea8b1daffcfd434f9bd6f6241ef9488d97b3d513bc22705529b50420a7",
     "docs/itemized/figures/goat-2026-downloads-by-day-day.svg": "7bf7ba497b99c265b4e1d6014230939e768942176e0521fd4206c1aa0b38c045",
-    "docs/itemized/figures/goat-2026-downloads-by-week-goat-2026-week.svg": "d094f64ad7094cf7f198585c2c0a56e8665a00117f1a76ded0465777cc8ee5a0",
-    "docs/itemized/goat-2026-sample-cache-audit.md": "d317c05f1ecfa20bdfaa40618c27e861af3623d1e9d4d12ac90d293c0e6d3519",
+    "docs/itemized/figures/goat-2026-downloads-by-week-goat-2026-week.svg": "a7f637edf0d43582dc69a1945edd097fb06b96a09305a923eded10765912e5c0",
+    "docs/itemized/goat-2026-sample-cache-audit.md": "67e9e12dd3e187018bb23ee36d14f3b1875271c7c2b9d520e0dc8c102dab2bdc",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

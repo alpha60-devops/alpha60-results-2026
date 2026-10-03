@@ -37,6 +37,68 @@
     }
   },
   "media_object": "man-on-the-run",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "c875e9191e1cfbf973ea6433bfaf8630da40d5aeced6ba1fff625fd91a898a33",
+        "before_sha256": "e4a0c02730ec62b8b3a667b967af7cdf68873e65a07c77d97614f3b0bf898141",
+        "path": "docs/itemized/man-on-the-run-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "393ede6d5e09d082895686c390ba229f83c51d0338a024359d1e51e8a1406baf",
+        "before_sha256": "d2edeb8c2eec15be543452284284da1a7d4958e018d0f955d440905da7405d90",
+        "path": "docs/itemized/figures/man-on-the-run-downloads-by-week-man-on-the-run-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:07:39.935597+00:00",
+    "coverage_sha256": "b636f0116889e3fd69e7d1fd21b5d6e6a6020e53c88e192332bfc45a30c6309b",
+    "day_contract": {
+      "collection_key": "man-on-the-run",
+      "day_products": 109,
+      "first_date": "2026-03-01",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-06-17",
+      "last_index": 109,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "b4e4a47264fa04efa1f6454341a137792a90e59d",
+    "historical_receipt_sha256": "d28de0df580c64d6cc37aa9a7d42669bd861de1f8ed7a6b26394673c9ad45ec7",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/man-on-the-run.md",
+        "sha256": "de20894690aca4d1223c73c018b014084aa7302cfc127d13331e595bdd73877e",
+        "size": 711
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/man-on-the-run.json",
+        "sha256": "b1af060ec159dbbca2f18c073d61054d0e2a0767d88009441cd7b17923a2ac64",
+        "size": 2892
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/man-on-the-run.json",
+        "sha256": "14ceb3927c74a63788c8d86721730d18333a1b3983ab4e9b26c5f3a452d2418a",
+        "size": 368
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 16,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/man-on-the-run-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "faee55e03ff38b422b04dfd948670ce20a766d0a25325c34c8d726807f1f9b9e",
     "docs/itemized/figures/man-on-the-run-carto-4k.webp": "1ec4f6306b687373e2a84dae6062327ddb42944370da0f63829d0e1ccefd2741",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/man-on-the-run-data-lt-1080p-4k.webp": "1028d24428b87bc8a2c0dea4ecc6b6b525d03a9eb6b57abe4bc5941d8c7f7cff",
     "docs/itemized/figures/man-on-the-run-data-lt-1080p.webp": "b199d1ae657c001ce7957be496109254981cb1f333bb05f3e21eb270efed3989",
     "docs/itemized/figures/man-on-the-run-downloads-by-day-day.svg": "6b961bce969542faec2569513e79a9b3b68c4e9551d4ae98eed728bf3fc2026d",
-    "docs/itemized/figures/man-on-the-run-downloads-by-week-man-on-the-run-week.svg": "d2edeb8c2eec15be543452284284da1a7d4958e018d0f955d440905da7405d90",
-    "docs/itemized/man-on-the-run-sample-cache-audit.md": "e4a0c02730ec62b8b3a667b967af7cdf68873e65a07c77d97614f3b0bf898141",
+    "docs/itemized/figures/man-on-the-run-downloads-by-week-man-on-the-run-week.svg": "393ede6d5e09d082895686c390ba229f83c51d0338a024359d1e51e8a1406baf",
+    "docs/itemized/man-on-the-run-sample-cache-audit.md": "c875e9191e1cfbf973ea6433bfaf8630da40d5aeced6ba1fff625fd91a898a33",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

@@ -37,6 +37,68 @@
     }
   },
   "media_object": "legend-of-vox-machina-410",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "dfc1db41d7f4b452c8d4ffe020cc741712afc8b62dfb6373a653f4f1aa94c309",
+        "before_sha256": "344b770a2b054c14e843abec931bfd6071a64361f0a5dc8a4db983bbe4628b9c",
+        "path": "docs/itemized/legend-of-vox-machina-410-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "0a34f08771ca1634b60e3fb33ff684d120b9c45fe5005d487de1e6d917eb5c71",
+        "before_sha256": "51ad5b9b16ba50d0947efb601f699ced0e6e692d24e469b4b2df9dfcd8427163",
+        "path": "docs/itemized/figures/legend-of-vox-machina-410-downloads-by-week-legend-of-vox-machina-410-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:07:35.509672+00:00",
+    "coverage_sha256": "c9bf5eb3be0b119475194474c05ccb491357a36ff019c8585788c0f3bff9c9c9",
+    "day_contract": {
+      "collection_key": "legend-of-vox-machina-410",
+      "day_products": 77,
+      "first_date": "2026-06-25",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-09",
+      "last_index": 77,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "4ef5ecf2465428f460a97ae34e54a7c32cb40c1f",
+    "historical_receipt_sha256": "00ed273661769b41240703d843115de041a5c51da2fc3083b49b4f8d4064354f",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/legend-of-vox-machina-410.md",
+        "sha256": "80835c53b377530c47fe6ac92beac6c958c5ee03acaeb2562b0b4e1344ce72e3",
+        "size": 572
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/legend-of-vox-machina-410.json",
+        "sha256": "6771f423de50e57dafb49b189c7b1ee1709008afce4fdc88e34b29a100b3e6a7",
+        "size": 2670
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/legend-of-vox-machina-410.json",
+        "sha256": "645d26ae58dd94697848844ef9530d35e179f4c42281f05ac6832577d15dec9c",
+        "size": 377
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 11,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/legend-of-vox-machina-410-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "07bc33009fc831460de08303e8b511605a981d9abab95b2b96f7f5de1e54ae80",
     "docs/itemized/figures/legend-of-vox-machina-410-carto-4k.webp": "90fed118d10095c7ad2759eae9ab06d740968c5735566b11b05a88abe4102d9c",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/legend-of-vox-machina-410-data-lt-1080p-4k.webp": "164bf9a3cc1e35170bd7c896c436fc7b6273e80fab44ff598c1daea8f3dc6ce4",
     "docs/itemized/figures/legend-of-vox-machina-410-data-lt-1080p.webp": "8e5446529716df950870f9e86946c4b80f6c1dd7a0be3334e0633f011bdf85f7",
     "docs/itemized/figures/legend-of-vox-machina-410-downloads-by-day-day.svg": "a1754627c2cdd7f7268c6210f3d632f1924b90aed7976cc681360e7ce9d98a2b",
-    "docs/itemized/figures/legend-of-vox-machina-410-downloads-by-week-legend-of-vox-machina-410-week.svg": "51ad5b9b16ba50d0947efb601f699ced0e6e692d24e469b4b2df9dfcd8427163",
-    "docs/itemized/legend-of-vox-machina-410-sample-cache-audit.md": "344b770a2b054c14e843abec931bfd6071a64361f0a5dc8a4db983bbe4628b9c",
+    "docs/itemized/figures/legend-of-vox-machina-410-downloads-by-week-legend-of-vox-machina-410-week.svg": "0a34f08771ca1634b60e3fb33ff684d120b9c45fe5005d487de1e6d917eb5c71",
+    "docs/itemized/legend-of-vox-machina-410-sample-cache-audit.md": "dfc1db41d7f4b452c8d4ffe020cc741712afc8b62dfb6373a653f4f1aa94c309",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

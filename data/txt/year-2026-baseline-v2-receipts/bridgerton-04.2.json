@@ -37,11 +37,73 @@
     }
   },
   "media_object": "bridgerton-04.2",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "e34324c9f8b0983cdacfae1552e7972d517b684e30de20cd885f7eb6a6825d82",
+        "before_sha256": "459badd9f0998d9c7b45e7e678502e90b7c5022e1f31311da04f41768e9cdaf6",
+        "path": "docs/itemized/bridgerton-04.2-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "b873e365823e8c13c6f072507ed17f53f1c31c406fb7760b0e86bc3c0f309ccf",
+        "before_sha256": "256bb16d8d76c36d48ae7c5b2c7752990b31db26ffb1b6531b3f3108473ef5be",
+        "path": "docs/itemized/figures/bridgerton-04-2-downloads-by-week-bridgerton-04.2-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:06:05.826628+00:00",
+    "coverage_sha256": "c894acc7bcdf557bc5358babeef5eb92551836b0cfb1f17194ab04c6da767bae",
+    "day_contract": {
+      "collection_key": "bridgerton-04.2",
+      "day_products": 189,
+      "first_date": "2026-02-26",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-02",
+      "last_index": 189,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "ad963fd177a9e13285cbcdca26d8dcd7d39e9e74",
+    "historical_receipt_sha256": "e473a47ce126b24ce64598e710462073c4038224623572932f6c34b52bb090cc",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/bridgerton-04.2.md",
+        "sha256": "3ecd2ed1c2c9aacb1a582902e6467ac86d63ea33f8945031f89d449bc94c3767",
+        "size": 625
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/bridgerton-04.2.json",
+        "sha256": "834f1a03634a2ffee72915279eacd238a0a66fc6f27e0ecb162a969e3b0abdfa",
+        "size": 3621
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/bridgerton-04.2.json",
+        "sha256": "e6e936d5ccc718a82d32bbcfc869ef24ca99999a692ddc61fe8cc5c3a268dca9",
+        "size": 369
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 27,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/bridgerton-04.2-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "7574ad685169cd26181bef1d8dc3c9a46e72e072a116e956064e43d6f8bfccb0",
-    "docs/itemized/bridgerton-04.2-sample-cache-audit.md": "459badd9f0998d9c7b45e7e678502e90b7c5022e1f31311da04f41768e9cdaf6",
+    "docs/itemized/bridgerton-04.2-sample-cache-audit.md": "e34324c9f8b0983cdacfae1552e7972d517b684e30de20cd885f7eb6a6825d82",
     "docs/itemized/figures/bridgerton-04-2-downloads-by-day-day.svg": "372961adeefd8014a0438a4f2652f43c6ade3a8f698b47b6539f89a79f24a371",
-    "docs/itemized/figures/bridgerton-04-2-downloads-by-week-bridgerton-04.2-week.svg": "256bb16d8d76c36d48ae7c5b2c7752990b31db26ffb1b6531b3f3108473ef5be",
+    "docs/itemized/figures/bridgerton-04-2-downloads-by-week-bridgerton-04.2-week.svg": "b873e365823e8c13c6f072507ed17f53f1c31c406fb7760b0e86bc3c0f309ccf",
     "docs/itemized/figures/bridgerton-04.2-carto-4k.webp": "9e7e1496bfc014f767d4d98ce18178a482582241c23b413c3eacea4f22bbe5a6",
     "docs/itemized/figures/bridgerton-04.2-carto.png": "82efe5a21cd3fc7cbb3332cec600dd7f655c32568655168eaab9478aa9efa341",
     "docs/itemized/figures/bridgerton-04.2-cumulative-detail-btiha-itemized-by-bytes.svg": "c08e67aff97bfc88363797313c6981aac068267def550af68cae19380062c98a",

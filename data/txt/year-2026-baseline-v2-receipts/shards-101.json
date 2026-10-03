@@ -37,6 +37,68 @@
     }
   },
   "media_object": "shards-101",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "85decbcc009a61247083ad2da8fb562dfd8c5ae7af7b965219710f5a55472e33",
+        "before_sha256": "9eb22d4e49e64fa03813fe82f6a232e850ed66c5696e88a0136c8db649237f21",
+        "path": "docs/itemized/shards-101-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "b4421388cf2aeda97f592990674f1a88c3df15f5417b4ac030a0b589596a21d0",
+        "before_sha256": "714e5d1788e0bd9ac58e6063e20bf106bc7de32197cc88c26dcdd91f8054f7d2",
+        "path": "docs/itemized/figures/shards-101-downloads-by-week-shards-101-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:09:28.580005+00:00",
+    "coverage_sha256": "d21222e1a838c91dd2c149dbd8791ac88923f3ba6527a463752b520688924775",
+    "day_contract": {
+      "collection_key": "shards-101",
+      "day_products": 34,
+      "first_date": "2026-08-06",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-09",
+      "last_index": 35,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "efd884bacc0e910c6d692ff5e24b2e6b16e6851e",
+    "historical_receipt_sha256": "b616928d9a5a4f7076268029530a5a680192b7c25cb4260d3efd7dde112c177b",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/shards-101.md",
+        "sha256": "3d91de8448d2995843752ccc40c23f08866aa2146c7271dab6892caed87504b6",
+        "size": 644
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/shards-101.json",
+        "sha256": "fb88f5c53a5d0ce0811bb9fadacfb1b434a1cdbad10af4f2f1291864724bc8f8",
+        "size": 2271
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/shards-101.json",
+        "sha256": "e16e1ba3d5c9da224fe87fdff250361c1c2856d8a2801c0e55f158a1e9c6358e",
+        "size": 361
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 5,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/shards-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "5aa8844b883e473f0a5e1186527fb9c889b98772f25986b7e5022c09076467c3",
     "docs/itemized/figures/shards-101-carto-4k.webp": "653480ed89e5975b9d016c55108fd7d54374382b7048901de85cc74a17f796c0",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/shards-101-data-lt-1080p-4k.webp": "e79f4af7b86490fe1c87095c61e2c4ef5bfcaa871ce4e7d1fb81034aaa561c93",
     "docs/itemized/figures/shards-101-data-lt-1080p.webp": "31a1a79a0975d5ecb89324f5028c2968bd2be80a6ec33f14521a3492199fcd39",
     "docs/itemized/figures/shards-101-downloads-by-day-day.svg": "9ce415bada7654895378b0761bdab297c903f0e120080633503fa097049ca670",
-    "docs/itemized/figures/shards-101-downloads-by-week-shards-101-week.svg": "714e5d1788e0bd9ac58e6063e20bf106bc7de32197cc88c26dcdd91f8054f7d2",
-    "docs/itemized/shards-101-sample-cache-audit.md": "9eb22d4e49e64fa03813fe82f6a232e850ed66c5696e88a0136c8db649237f21",
+    "docs/itemized/figures/shards-101-downloads-by-week-shards-101-week.svg": "b4421388cf2aeda97f592990674f1a88c3df15f5417b4ac030a0b589596a21d0",
+    "docs/itemized/shards-101-sample-cache-audit.md": "85decbcc009a61247083ad2da8fb562dfd8c5ae7af7b965219710f5a55472e33",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

@@ -37,6 +37,68 @@
     }
   },
   "media_object": "obsession-2025",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "311743b4b2d9168a88ec0b1930cd26ccbd74d787809ade43dcd2a564c949f433",
+        "before_sha256": "783eb3fca00210ac6a05873dd84c7bf15cdff086118f32a4ae53014747be2cde",
+        "path": "docs/itemized/obsession-2025-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "ed5142adf18fd640f7863356ba1db9f77229000ecb97e6c8c62c513ea3d16166",
+        "before_sha256": "61a06d4984f92e16b665b36aa8b3737d068321242ab7730a63bd587a9c76d77e",
+        "path": "docs/itemized/figures/obsession-2025-downloads-by-week-obsession-2025-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:08:27.125552+00:00",
+    "coverage_sha256": "883fb4895c4dda9cb9374c212ead7edcf962e11398c851001e6b1202df823911",
+    "day_contract": {
+      "collection_key": "obsession-2025",
+      "day_products": 70,
+      "first_date": "2026-07-01",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-08",
+      "last_index": 70,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "85d3c8831019bbf12a2137ee2722ce3780102170",
+    "historical_receipt_sha256": "7b45513398d5f503059693bc2938025ae7409a0a8cdaf56cadb0ab1d90206f75",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/obsession-2025.md",
+        "sha256": "1babfa1b1de83d8acace4df4e5ba88d57d6cefa937a196f6e7ccf1cad9936816",
+        "size": 550
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/obsession-2025.json",
+        "sha256": "701bd748612e1c70110920e344d4fe96b0d454aa7744f185c6507a91875c2000",
+        "size": 2570
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/obsession-2025.json",
+        "sha256": "aa7266bd8a63e7099df39df9ebe3801613309389ab7f32944b78d915ea21ffba",
+        "size": 366
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 10,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/obsession-2025-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "1796808996f0cdccb8137c431fb5a1ddba12f7b47472460192868d7376940045",
     "docs/itemized/figures/obsession-2025-carto-4k.webp": "35cb6cfd2e952d41658485154c01e3572eb6ee65b74aa8dbf8450e7532e2a378",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/obsession-2025-data-lt-1080p-4k.webp": "e24e71ebef5a2786e3a62b6c41965e5f5e999c53205438d1671a423dd37721fd",
     "docs/itemized/figures/obsession-2025-data-lt-1080p.webp": "22e4f10e951bd26950220f2b801966b9d1bbd759664e1a51a1129fced27cca60",
     "docs/itemized/figures/obsession-2025-downloads-by-day-day.svg": "8f85dcc9ba090267f46878b8bc1615a23c4abb37648881823fcec6dd43167077",
-    "docs/itemized/figures/obsession-2025-downloads-by-week-obsession-2025-week.svg": "61a06d4984f92e16b665b36aa8b3737d068321242ab7730a63bd587a9c76d77e",
-    "docs/itemized/obsession-2025-sample-cache-audit.md": "783eb3fca00210ac6a05873dd84c7bf15cdff086118f32a4ae53014747be2cde",
+    "docs/itemized/figures/obsession-2025-downloads-by-week-obsession-2025-week.svg": "ed5142adf18fd640f7863356ba1db9f77229000ecb97e6c8c62c513ea3d16166",
+    "docs/itemized/obsession-2025-sample-cache-audit.md": "311743b4b2d9168a88ec0b1930cd26ccbd74d787809ade43dcd2a564c949f433",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

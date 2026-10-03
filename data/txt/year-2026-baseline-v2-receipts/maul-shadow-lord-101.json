@@ -37,6 +37,68 @@
     }
   },
   "media_object": "maul-shadow-lord-101",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "13cfa2921224da3ef03d0b71fe1d76b077bb451e0502bc26ee971ad06985638f",
+        "before_sha256": "fd6e14888ec4b87bcca86d772368e5031f6c7b68702f3c3d1e2da81b241e1134",
+        "path": "docs/itemized/maul-shadow-lord-101-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "3f89684137bd6b332e69ec401f36ebf401a776e495d2175f33a3f8face1a1975",
+        "before_sha256": "1165e441fb97b5702a3f8e98935a6d3107dd359542fdf6040429453884c73d0c",
+        "path": "docs/itemized/figures/maul-shadow-lord-101-downloads-by-week-maul-shadow-lord-101-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:07:51.642431+00:00",
+    "coverage_sha256": "cfb012046ab1f43fa09e675fe380ea8cf0bcfa7e1b4a37edba36e1bf553c4950",
+    "day_contract": {
+      "collection_key": "maul-shadow-lord-101",
+      "day_products": 155,
+      "first_date": "2026-04-06",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-07",
+      "last_index": 155,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "f583b0d0054044bb2a9b1b77fdb589e60bfe61de",
+    "historical_receipt_sha256": "790b939dfdbf66f75e496b6abffc15bb80c4f419090d055eea583f40ae923321",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/maul-shadow-lord-101.md",
+        "sha256": "c11f89646dec8b6609c86187ecc50fc4a17c0964974af2da9736c8ecbd480673",
+        "size": 562
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/maul-shadow-lord-101.json",
+        "sha256": "9880335ce61fea173e560f8fbbe035c6fb5bdd9aa3c5acec0d3c224e77927ea0",
+        "size": 3335
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/maul-shadow-lord-101.json",
+        "sha256": "c528a117b6f84d71d437ecd274080ffb1ea570c8679adc684f08d3f905b655ea",
+        "size": 374
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 23,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/maul-shadow-lord-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "f4afdd2137a09230f014f61d1b5f8a3ea58d926fae088c67c10d783108524231",
     "docs/itemized/figures/maul-shadow-lord-101-carto-4k.webp": "9f2929e1ce07c55557fcb54235c7a2b79957d4ca25c438fe92778d70124feca3",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/maul-shadow-lord-101-data-lt-1080p-4k.webp": "cbc208fcf0d6172149547635d7bc6805f7f1a94629bc2733b6c149762561ab97",
     "docs/itemized/figures/maul-shadow-lord-101-data-lt-1080p.webp": "2de8a261403c3c086c85a6cc609d3d4fca2cabd711e97baa2b73310090098927",
     "docs/itemized/figures/maul-shadow-lord-101-downloads-by-day-day.svg": "bf4b333902a51721cd6eaecf40ffa93522435bb8c69be892e28a8f439afcceff",
-    "docs/itemized/figures/maul-shadow-lord-101-downloads-by-week-maul-shadow-lord-101-week.svg": "1165e441fb97b5702a3f8e98935a6d3107dd359542fdf6040429453884c73d0c",
-    "docs/itemized/maul-shadow-lord-101-sample-cache-audit.md": "fd6e14888ec4b87bcca86d772368e5031f6c7b68702f3c3d1e2da81b241e1134",
+    "docs/itemized/figures/maul-shadow-lord-101-downloads-by-week-maul-shadow-lord-101-week.svg": "3f89684137bd6b332e69ec401f36ebf401a776e495d2175f33a3f8face1a1975",
+    "docs/itemized/maul-shadow-lord-101-sample-cache-audit.md": "13cfa2921224da3ef03d0b71fe1d76b077bb451e0502bc26ee971ad06985638f",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

@@ -37,6 +37,68 @@
     }
   },
   "media_object": "monarch-legacy-of-monsters-201",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "f9d95f93df9b9e03995603cb3ad877669622608fc4cda4e9ca4b728664215142",
+        "before_sha256": "928d4a9e0cd0bcf69b9d2ee6d3fc17cae5a4fe3f032df541e9c4d15eb6fa0a70",
+        "path": "docs/itemized/monarch-legacy-of-monsters-201-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "36b8b28dc16f98ddf23c218ef437365c28fdb973995dd2547d07ac9e0fa47955",
+        "before_sha256": "53a9cb5f0389be971d69b2ecff9bbb6828938bb8644bf548788ab033801f224b",
+        "path": "docs/itemized/figures/monarch-legacy-of-monsters-201-downloads-by-week-monarch-legacy-of-monsters-201-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:08:02.531816+00:00",
+    "coverage_sha256": "e7e2d0a913d13473efde7ff40e4e9c17f641e0c5d3a5c382a47520909b00210b",
+    "day_contract": {
+      "collection_key": "monarch-legacy-of-monsters-201",
+      "day_products": 195,
+      "first_date": "2026-02-27",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-10",
+      "last_index": 196,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "d31a2ac6da924fb9e28f261e7e1b36cadbec6a63",
+    "historical_receipt_sha256": "28a6355b370c723a99e31c03974ba7a90e343ba6bebae2f0328271ad1ebc5d45",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/monarch-legacy-of-monsters-201.md",
+        "sha256": "fe9490ce44c22c416eff82db5ace663dd5e60177841952ed68847d12154c80d8",
+        "size": 861
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/monarch-legacy-of-monsters-201.json",
+        "sha256": "78e34822a81b76def64d81dc5ba0bda50cc40c2a9a5b693f1a002fa908ce9fd8",
+        "size": 3746
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/monarch-legacy-of-monsters-201.json",
+        "sha256": "dc41f00a734f78c602f3cf900ba0dd34393f8a942b590fa26e639c07bc2d8c42",
+        "size": 383
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 28,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/monarch-legacy-of-monsters-201-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "5d3ceea44def1ec4e4d3c93cb94fe3c29562ba43f020db1fd7bb94ab229c0b6f",
     "docs/itemized/figures/monarch-legacy-of-monsters-201-carto-4k.webp": "312ddf7e323b0475ea7a11f039c94fbe31d407d7202d251c883d13fdd13cba9e",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/monarch-legacy-of-monsters-201-data-lt-1080p-4k.webp": "e4749e46255545904b7a76ebe0a693dfa9855dca3a2338c86508f10f6075fe25",
     "docs/itemized/figures/monarch-legacy-of-monsters-201-data-lt-1080p.webp": "11c708723eec127048139609aa44f7c13bddbb35ab9094fa24e9c4d9fbe59aae",
     "docs/itemized/figures/monarch-legacy-of-monsters-201-downloads-by-day-day.svg": "d5ac40476a71ccd401afe0c5b09d6ccf45a77a51e3b06610a03a30a08155e1d9",
-    "docs/itemized/figures/monarch-legacy-of-monsters-201-downloads-by-week-monarch-legacy-of-monsters-201-week.svg": "53a9cb5f0389be971d69b2ecff9bbb6828938bb8644bf548788ab033801f224b",
-    "docs/itemized/monarch-legacy-of-monsters-201-sample-cache-audit.md": "928d4a9e0cd0bcf69b9d2ee6d3fc17cae5a4fe3f032df541e9c4d15eb6fa0a70",
+    "docs/itemized/figures/monarch-legacy-of-monsters-201-downloads-by-week-monarch-legacy-of-monsters-201-week.svg": "36b8b28dc16f98ddf23c218ef437365c28fdb973995dd2547d07ac9e0fa47955",
+    "docs/itemized/monarch-legacy-of-monsters-201-sample-cache-audit.md": "f9d95f93df9b9e03995603cb3ad877669622608fc4cda4e9ca4b728664215142",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

@@ -37,6 +37,68 @@
     }
   },
   "media_object": "x-men-97-201",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "59ce986305610fba91bbb7d6dc7dee3303bdbe69e72003168393c626a4987070",
+        "before_sha256": "58afa1b8ca2a21df14dbd7c8467843ec3cb87356510a6d01aa6ae32345fe9392",
+        "path": "docs/itemized/x-men-97-201-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "2c6118d74362ad6fbc5545c66f2662468b7dc197511262d0489cd175d061bb9d",
+        "before_sha256": "5aa8b8f8dc81ebdc34850fb0bac367ba6648ded78850297361929af1a7118cd3",
+        "path": "docs/itemized/figures/x-men-97-201-downloads-by-week-x-men-97-201-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:10:23.190386+00:00",
+    "coverage_sha256": "35791d07d80e7b176e89c1a899f07fe721f94c6cb1f4e89fd4b7402b940d9097",
+    "day_contract": {
+      "collection_key": "x-men-97-201",
+      "day_products": 70,
+      "first_date": "2026-07-02",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-09",
+      "last_index": 70,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "a64c6f148bd6c7885412e691731d600cceefcfd8",
+    "historical_receipt_sha256": "40336048db79580ef0055c894e96d3d462e368637241380a26b2708cfc0a5e6a",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/x-men-97-201.md",
+        "sha256": "a3237c9f77aa3f9fe74607c185adedf54be781c589877b8cd13dc08ab6aec8a0",
+        "size": 546
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/x-men-97-201.json",
+        "sha256": "760fdaf5f0ddc068043cb2a7d5915d9b455706cd2fd001a3c36f802a5aae62d8",
+        "size": 2562
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/x-men-97-201.json",
+        "sha256": "ddd2e93bd2cac52b30d505c8357e41ded0807eb3f1884e2c7000eb418034d2e4",
+        "size": 364
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 10,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/x-men-97-201-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "0d4e90ee725e839af46031546eea4d72949de79c071dd306f84918abfeaee425",
     "docs/itemized/figures/x-men-97-201-carto-4k.webp": "12f5ec34ddfe4f5cc20c3e3eedf31b1ecad59df8c6f717113522f4daff187852",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/x-men-97-201-data-lt-1080p-4k.webp": "a3f20970156390889d88d62e9c9e459f2f873e7e6df520d7e6cadb903d677f26",
     "docs/itemized/figures/x-men-97-201-data-lt-1080p.webp": "81b04b40d7530a1b535cf3d635cd1590c8346010beef230d32b8e5406de2ee64",
     "docs/itemized/figures/x-men-97-201-downloads-by-day-day.svg": "43a42b9b91f0b43a1cd42abd1c2c3751521c3589034462ede9d711d4431eda80",
-    "docs/itemized/figures/x-men-97-201-downloads-by-week-x-men-97-201-week.svg": "5aa8b8f8dc81ebdc34850fb0bac367ba6648ded78850297361929af1a7118cd3",
-    "docs/itemized/x-men-97-201-sample-cache-audit.md": "58afa1b8ca2a21df14dbd7c8467843ec3cb87356510a6d01aa6ae32345fe9392",
+    "docs/itemized/figures/x-men-97-201-downloads-by-week-x-men-97-201-week.svg": "2c6118d74362ad6fbc5545c66f2662468b7dc197511262d0489cd175d061bb9d",
+    "docs/itemized/x-men-97-201-sample-cache-audit.md": "59ce986305610fba91bbb7d6dc7dee3303bdbe69e72003168393c626a4987070",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

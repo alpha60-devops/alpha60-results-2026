@@ -37,9 +37,71 @@
     }
   },
   "media_object": "fallout-2024-206",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "0544436a1819f32b3b657b6406ff0ad6a4246cfc1b0df236490a024920c777a3",
+        "before_sha256": "32ec0ad77c3dd7b2ce0c6d46b61b80a736bfdabc36691dcf4320f1e9adebc9c4",
+        "path": "docs/itemized/fallout-2024-206-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "728182223a510571a3e4e47e81b694e3849257293e08a801274a6dc580e225ea",
+        "before_sha256": "f0a416f877497f21d515c40d4e80297f630d83023bb17a3f054a725d53e7fb79",
+        "path": "docs/itemized/figures/fallout-2024-206-downloads-by-week-fallout-2024-206-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:06:36.284345+00:00",
+    "coverage_sha256": "7cd26aa064654ff13881718eddaecd2edc035c9995dd26de25bfa5c53a11bd4e",
+    "day_contract": {
+      "collection_key": "fallout-2024-206",
+      "day_products": 182,
+      "first_date": "2026-01-22",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-07-22",
+      "last_index": 182,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "4fa04eb48a572dbaa243d0cbdab7246b6307884c",
+    "historical_receipt_sha256": "805d994d256db412dac759a1a5827ab768455f0c159a6edf57de2777594d5bb2",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/fallout-2024-206.md",
+        "sha256": "8edab9f83c68cc36a173dc6b8e1f80605bfc4649a9b836cb1e63509b8c80d24b",
+        "size": 717
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/fallout-2024-206.json",
+        "sha256": "4eacd21d620daa57bdb4c9a63590c71fb652b22a38ad967c0eb61ede9b91ba43",
+        "size": 3563
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/fallout-2024-206.json",
+        "sha256": "9245caa72f96d240e882b9979d12920fac9ee0e3ede5683d40f1ff1b3704b188",
+        "size": 370
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 26,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/fallout-2024-206-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "35f5f79ac1c2dc3cfd9aa991b24cf4c8a038a843ccda3fa06376944680288b5b",
-    "docs/itemized/fallout-2024-206-sample-cache-audit.md": "32ec0ad77c3dd7b2ce0c6d46b61b80a736bfdabc36691dcf4320f1e9adebc9c4",
+    "docs/itemized/fallout-2024-206-sample-cache-audit.md": "0544436a1819f32b3b657b6406ff0ad6a4246cfc1b0df236490a024920c777a3",
     "docs/itemized/figures/fallout-2024-206-carto-4k.webp": "56423d9a1a7251328dee3631e5d7149b194bafd2c6c1fbd223e094cc2964c80f",
     "docs/itemized/figures/fallout-2024-206-carto.png": "ac41c2073c575517d698c1ea8263d5a614f11df4643d66e3838ea16337148e69",
     "docs/itemized/figures/fallout-2024-206-cumulative-detail-btiha-itemized-by-bytes.svg": "4451eb132ebcf4f0c2281e286964b05ad822ee6c253f3ba69fff9ab403ced277",
@@ -48,7 +110,7 @@
     "docs/itemized/figures/fallout-2024-206-data-lt-1080p-4k.webp": "1a28056eae680aa69f60d905fac91eaacf930bd02d77d2494a0e948362a98429",
     "docs/itemized/figures/fallout-2024-206-data-lt-1080p.webp": "e0e5ff936f2f2822f2d884d6f862a1740f3871031f604f2fc3e578e1d92f7945",
     "docs/itemized/figures/fallout-2024-206-downloads-by-day-day.svg": "3399cf9e635c8652f709edc8922edf3dc66377db9bc3d1fa4228ba3195537caf",
-    "docs/itemized/figures/fallout-2024-206-downloads-by-week-fallout-2024-206-week.svg": "f0a416f877497f21d515c40d4e80297f630d83023bb17a3f054a725d53e7fb79",
+    "docs/itemized/figures/fallout-2024-206-downloads-by-week-fallout-2024-206-week.svg": "728182223a510571a3e4e47e81b694e3849257293e08a801274a6dc580e225ea",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

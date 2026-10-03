@@ -37,6 +37,68 @@
     }
   },
   "media_object": "super-mario-galaxy-movie",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "4e676a6cb5f2fd143900eb1c472b7abfdafe7e7d53d078e21495ed88241b8a24",
+        "before_sha256": "20faee7b21dbeb309748b2efac4f47b3541e6645c1dd45441bc6a8dd0116ddc0",
+        "path": "docs/itemized/super-mario-galaxy-movie-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "ff72d4cdec8ffe958a492057b48b65d8f7ff5c8db2f28e78d4ae10133a0a9d92",
+        "before_sha256": "98c1c392f09ec5d78e8071805428ef843eed572825cd96df6d92b821dee8cb5c",
+        "path": "docs/itemized/figures/super-mario-galaxy-movie-downloads-by-week-super-mario-galaxy-movie-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:10:09.579441+00:00",
+    "coverage_sha256": "6a8b06e216e71a6223809b3e7b0c6901ebfc19920ec8cef065cac3d17f671f94",
+    "day_contract": {
+      "collection_key": "super-mario-galaxy-movie",
+      "day_products": 126,
+      "first_date": "2026-05-06",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-08",
+      "last_index": 126,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "36dae698b0ac1d11727b7ac9469bdf9b1fa7999b",
+    "historical_receipt_sha256": "f03a1fd43109e866083d458404debcf482fb8f7dc6dddfa79946034b5646f609",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/super-mario-galaxy-movie.md",
+        "sha256": "93945af774d7b0edebfbddf4da7ffeeea4d913460f91f349efb10209ff5e01dd",
+        "size": 570
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/super-mario-galaxy-movie.json",
+        "sha256": "94dcfc86b5dcef6ba673d00870e911727f59160f0d4a9a2358bde172d0add5d0",
+        "size": 3090
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/super-mario-galaxy-movie.json",
+        "sha256": "6cb54f89619d0226c39dd44f05c4161b2e733b9a9eebe847797997f462c42fba",
+        "size": 378
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 18,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/super-mario-galaxy-movie-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "c51ff4bc267758dae7990c31383e60441e8cecd2ac0e60ee964990c88c90e511",
     "docs/itemized/figures/super-mario-galaxy-movie-carto-4k.webp": "c94053b577675e0ecda9fb04cb587419a5073b9b46ecee7963099b581be4c6dd",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/super-mario-galaxy-movie-data-lt-1080p-4k.webp": "6195543f4b850f20e00f5928d8d7b37536fd7c961ba6cca853a79389b0b4571e",
     "docs/itemized/figures/super-mario-galaxy-movie-data-lt-1080p.webp": "a189e8d67b0fec7fd2ae4db94f4d57c4d435da0f055b1da9e9ca2db86612e1e5",
     "docs/itemized/figures/super-mario-galaxy-movie-downloads-by-day-day.svg": "fa0ad9b2e18e275cdb1c2a588e5b2a77c61fe3a5cefa4627b673b045c85d035a",
-    "docs/itemized/figures/super-mario-galaxy-movie-downloads-by-week-super-mario-galaxy-movie-week.svg": "98c1c392f09ec5d78e8071805428ef843eed572825cd96df6d92b821dee8cb5c",
-    "docs/itemized/super-mario-galaxy-movie-sample-cache-audit.md": "20faee7b21dbeb309748b2efac4f47b3541e6645c1dd45441bc6a8dd0116ddc0",
+    "docs/itemized/figures/super-mario-galaxy-movie-downloads-by-week-super-mario-galaxy-movie-week.svg": "ff72d4cdec8ffe958a492057b48b65d8f7ff5c8db2f28e78d4ae10133a0a9d92",
+    "docs/itemized/super-mario-galaxy-movie-sample-cache-audit.md": "4e676a6cb5f2fd143900eb1c472b7abfdafe7e7d53d078e21495ed88241b8a24",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

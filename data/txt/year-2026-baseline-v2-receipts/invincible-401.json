@@ -37,6 +37,68 @@
     }
   },
   "media_object": "invincible-401",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "cc46424917cdee281aaa5846e8058450522c399481fe123d9d5c587d49644754",
+        "before_sha256": "cc8884bb19926498d0cf938d19087b276b9bdf0adf5141d0d25e58075dc253d9",
+        "path": "docs/itemized/invincible-401-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "d8281abb9e9da406e7ba415b289518f01022cf42b8b57cbe010fb19b9ba7a7df",
+        "before_sha256": "06fa9fc132407606c61d1d0889a283e27b64088febfde60d4e4f5fc98fdd0c9d",
+        "path": "docs/itemized/figures/invincible-401-downloads-by-week-invincible-401-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:07:24.157596+00:00",
+    "coverage_sha256": "a9ae3a074e8bee02eccbaff60a0332f361f422dd419dbe87e99462710845a2e7",
+    "day_contract": {
+      "collection_key": "invincible-401",
+      "day_products": 105,
+      "first_date": "2026-03-18",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-06-30",
+      "last_index": 105,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "657dfdfe334c93dcae8f02cf2cc567b6827f9859",
+    "historical_receipt_sha256": "5aa05ed538bd41e72e24b5fdc40e7af0e7bfdd4e8c39285f5eec4083e1418aed",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/invincible-401.md",
+        "sha256": "0f0f16c9077ab0ee7e6ba715ca5ccf9fed228e385a0e376cba2e7ca38d2c0679",
+        "size": 887
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/invincible-401.json",
+        "sha256": "0ee5c2c6b0d55924c79e15bbd438b0e3a8225c674a47807ab34ebb43035c731b",
+        "size": 2861
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/invincible-401.json",
+        "sha256": "99f2a88287c88d2c8bd4c0133ce191b9ed7562ee548dc403573128b11941e317",
+        "size": 368
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 15,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/invincible-401-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "79d0ad73621a0ac9883e00ba475017aa1630eb479f13ef49ab26eeb4806e7892",
     "docs/itemized/figures/invincible-401-carto-4k.webp": "d8aa7d0ab46182265f5094a0eb1137202f2e9d8ca1c579ff15c4a86356e2c2ee",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/invincible-401-data-lt-1080p-4k.webp": "0669955dad349966f40ea5053a09a0bc3d5722a10153d3ee4ca7a3c6272edab4",
     "docs/itemized/figures/invincible-401-data-lt-1080p.webp": "eb5a46ae7f41be2b00da34cb57fc02542c357c02496b6d0527470fe10be7901a",
     "docs/itemized/figures/invincible-401-downloads-by-day-day.svg": "3c87a8807a114e8312908c782f47f0338a21b6fc3f5849ed7db49fac71ccda83",
-    "docs/itemized/figures/invincible-401-downloads-by-week-invincible-401-week.svg": "06fa9fc132407606c61d1d0889a283e27b64088febfde60d4e4f5fc98fdd0c9d",
-    "docs/itemized/invincible-401-sample-cache-audit.md": "cc8884bb19926498d0cf938d19087b276b9bdf0adf5141d0d25e58075dc253d9",
+    "docs/itemized/figures/invincible-401-downloads-by-week-invincible-401-week.svg": "d8281abb9e9da406e7ba415b289518f01022cf42b8b57cbe010fb19b9ba7a7df",
+    "docs/itemized/invincible-401-sample-cache-audit.md": "cc46424917cdee281aaa5846e8058450522c399481fe123d9d5c587d49644754",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

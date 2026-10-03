@@ -37,9 +37,71 @@
     }
   },
   "media_object": "bluff",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "54eed437f36e3073f241928d5738263c0d0a7306b7153d14ce665725276b5574",
+        "before_sha256": "6c883b80f21f07aa7e46df65955c0d75a8bc3a65dd08ad346ab23cc20ac78239",
+        "path": "docs/itemized/bluff-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "44b6934cd38bec5911455f3f41b3a2d072baab1d22e22867c295c052092735e7",
+        "before_sha256": "9d3e3fa7433b7cf9f7cd9bda2212759fa376c0312516c20229432e5c1e21f75e",
+        "path": "docs/itemized/figures/bluff-downloads-by-week-bluff-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:05:37.633334+00:00",
+    "coverage_sha256": "8d74d0b8a71022def041a047ea1afd97b1e95c414b2910cf46c2072348cc29aa",
+    "day_contract": {
+      "collection_key": "bluff",
+      "day_products": 105,
+      "first_date": "2026-02-26",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-06-10",
+      "last_index": 105,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "abfb4a05d7d6d16697ffdbcfa6750f08fb1924bd",
+    "historical_receipt_sha256": "8cc561a0241aadedf85915a0ae9e3df703b8fcb59fe74f66747fc624d891af4f",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/bluff.md",
+        "sha256": "6a1e1830d781cee3115a08a5c3fa80ad93ef8cb88ae38f6f7a410a6520b9c5cd",
+        "size": 605
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/bluff.json",
+        "sha256": "df968aefb39f3b349b6fd94e50e7474bd36cc2460496d334275d22e79a7a11ae",
+        "size": 2825
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/bluff.json",
+        "sha256": "48ea5993a6ffa2625fc52b413f5292ac199b867ea4fb9e13cbd24ebc24846d7b",
+        "size": 359
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 15,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/bluff-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "e13d35ba695a75a911410a81503706611abcfbde72cf0ade72113498a1bbcbaf",
-    "docs/itemized/bluff-sample-cache-audit.md": "6c883b80f21f07aa7e46df65955c0d75a8bc3a65dd08ad346ab23cc20ac78239",
+    "docs/itemized/bluff-sample-cache-audit.md": "54eed437f36e3073f241928d5738263c0d0a7306b7153d14ce665725276b5574",
     "docs/itemized/figures/bluff-carto-4k.webp": "7fd9f74e9d9013023d212a5956f9dc9dc6b7914b73bebaaf41857dd74aa35501",
     "docs/itemized/figures/bluff-carto.png": "b21090e39ed25470e58124ab196868eae33e712c23bb9be05822df7844a4dd8a",
     "docs/itemized/figures/bluff-cumulative-detail-btiha-itemized-by-bytes.svg": "1b0d23c3fad25b559be815757bc6cfcdedcf34e3e98a19e87c645e4311099b09",
@@ -48,7 +110,7 @@
     "docs/itemized/figures/bluff-data-lt-1080p-4k.webp": "f1b4761aa483542cc006d28fc78e8f8f3936b129565c1af913739c4229210743",
     "docs/itemized/figures/bluff-data-lt-1080p.webp": "a4152f5b69b1ab3e9f972a84e2ea831a2a67cdf86180ec1dd2b766cd1c1d028e",
     "docs/itemized/figures/bluff-downloads-by-day-day.svg": "a46df2ca591d608454a6800545254c460473a0d8429e75fe238d963790264801",
-    "docs/itemized/figures/bluff-downloads-by-week-bluff-week.svg": "9d3e3fa7433b7cf9f7cd9bda2212759fa376c0312516c20229432e5c1e21f75e",
+    "docs/itemized/figures/bluff-downloads-by-week-bluff-week.svg": "44b6934cd38bec5911455f3f41b3a2d072baab1d22e22867c295c052092735e7",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

@@ -37,9 +37,71 @@
     }
   },
   "media_object": "dark-winds-401",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "d33ba1898afd182b5c2e6431b4e70f38ab049100c0cb2b6b107de1ee3516e9b6",
+        "before_sha256": "260e6ec712c7a089723f749fd09c760be5c39fe6a83370772e39b3ce276e6891",
+        "path": "docs/itemized/dark-winds-401-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "8617f22b7196d4bbc466f527a2575bfca933959cee160560d5c7779930b44e06",
+        "before_sha256": "460d02c0bfda548483fab3d365e2d9b4972d1b977a71bbb5bb134f6f9bf4d2d1",
+        "path": "docs/itemized/figures/dark-winds-401-downloads-by-week-dark-winds-401-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:06:08.917058+00:00",
+    "coverage_sha256": "019241f184f600968841328f05c0d12259ad2e4ec81a1790c05cded99e82e477",
+    "day_contract": {
+      "collection_key": "dark-winds-401",
+      "day_products": 104,
+      "first_date": "2026-02-15",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-05-30",
+      "last_index": 105,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "8ef49bd62fa4232be120aca97397bc6d734d6e42",
+    "historical_receipt_sha256": "a85d64f6684b68708810c909aa301e40bbdd2d2ecf56ae74b84fd2b42c6830a3",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/dark-winds-401.md",
+        "sha256": "af8fdfb6cf7d022858e49cae8755a7c8e195fc7edda72f3c581d965caf2c78b5",
+        "size": 741
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/dark-winds-401.json",
+        "sha256": "c723bccd748f362c2f035b8e3af2a5d706d5b6a5a605645cda7536dd1e09a489",
+        "size": 2862
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/dark-winds-401.json",
+        "sha256": "b18d276a45dc4efd45a1af6607b07d6dc0931201943c99f6ed55bb1c27b8cb3a",
+        "size": 367
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 15,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/dark-winds-401-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "552b2f83641c619965d8d191c7f4336a20b58c145d62c34df4a1463d425af1e6",
-    "docs/itemized/dark-winds-401-sample-cache-audit.md": "260e6ec712c7a089723f749fd09c760be5c39fe6a83370772e39b3ce276e6891",
+    "docs/itemized/dark-winds-401-sample-cache-audit.md": "d33ba1898afd182b5c2e6431b4e70f38ab049100c0cb2b6b107de1ee3516e9b6",
     "docs/itemized/figures/dark-winds-401-carto-4k.webp": "92b4df30f0e6f86ebacee9f7a62547d6e86ae8e99df743c617222766a6dcb65e",
     "docs/itemized/figures/dark-winds-401-carto.png": "b587f0cf54cfded302dc1a3904119196ca448fe99a7d5452c55a4a1898cd6b1f",
     "docs/itemized/figures/dark-winds-401-cumulative-detail-btiha-itemized-by-bytes.svg": "625c560ca8fd5067f253009008a66189d9b4f54eb62cd3f8da99d2ee4f2c6007",
@@ -48,7 +110,7 @@
     "docs/itemized/figures/dark-winds-401-data-lt-1080p-4k.webp": "45821246601ed35b269254020491f31bb56e82d06fdd0c47ffd4f44999401923",
     "docs/itemized/figures/dark-winds-401-data-lt-1080p.webp": "135ad5ced2e543f632b107f56a1803bd187b390b46ea6172fe6e0bf3d727b3dd",
     "docs/itemized/figures/dark-winds-401-downloads-by-day-day.svg": "497551f67b6e5e97b0f5d5a9bf667cc81c6e3be696762a7bb568d0b5bf5a5b3e",
-    "docs/itemized/figures/dark-winds-401-downloads-by-week-dark-winds-401-week.svg": "460d02c0bfda548483fab3d365e2d9b4972d1b977a71bbb5bb134f6f9bf4d2d1",
+    "docs/itemized/figures/dark-winds-401-downloads-by-week-dark-winds-401-week.svg": "8617f22b7196d4bbc466f527a2575bfca933959cee160560d5c7779930b44e06",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

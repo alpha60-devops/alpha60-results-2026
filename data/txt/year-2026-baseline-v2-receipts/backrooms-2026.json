@@ -37,9 +37,71 @@
     }
   },
   "media_object": "backrooms-2026",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "2216e3cdd22eb002501405b9182289295a02396205c92f5b8048d73d3eacf368",
+        "before_sha256": "63a2a299b505506d08c95648300af0cb8570a7ee8dfda540a8db69d884bc4f92",
+        "path": "docs/itemized/backrooms-2026-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "8392278cb2dfdce62813039ec5817934f4d7cee6b9714bb0b8fc658989bb6712",
+        "before_sha256": "7adabc8c1fef44d2f4d89b38ed6dcfb920ab50e76a4c598e41d7e5de7fddd6db",
+        "path": "docs/itemized/figures/backrooms-2026-downloads-by-week-backrooms-2026-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:05:13.835328+00:00",
+    "coverage_sha256": "fd6e9938602f3a6f0a63010c32ecbfcebb4d3d54323a2e8a0befd22cf25ea712",
+    "day_contract": {
+      "collection_key": "backrooms-2026",
+      "day_products": 56,
+      "first_date": "2026-07-15",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-08",
+      "last_index": 56,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "5c7404c255298e29e4036c60238f7b16e5b98e2b",
+    "historical_receipt_sha256": "2f9e96a6251fbc4b06caf4deab8ed704eabba66ff5e84bcb49fe095c13ac73c6",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/backrooms-2026.md",
+        "sha256": "3d984463c2e557cba91e7b957cce846c35ea72b2484528ed013726780040d0f1",
+        "size": 545
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/backrooms-2026.json",
+        "sha256": "53564d2c24b58038043340a861bfe892fddbb198166da6be8f25caf16440dcb3",
+        "size": 2458
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/backrooms-2026.json",
+        "sha256": "45fcb53775a9f093691a44468930059277c067357e4195e1d0716e9420de4889",
+        "size": 366
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 8,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/backrooms-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "3aee20d6714c58c05561a1d8f64a6496ed7ab02186839c7f2143857467aeb6e2",
-    "docs/itemized/backrooms-2026-sample-cache-audit.md": "63a2a299b505506d08c95648300af0cb8570a7ee8dfda540a8db69d884bc4f92",
+    "docs/itemized/backrooms-2026-sample-cache-audit.md": "2216e3cdd22eb002501405b9182289295a02396205c92f5b8048d73d3eacf368",
     "docs/itemized/figures/backrooms-2026-carto-4k.webp": "76f26b272441bc1595e2c24099cdc65fe3864ad878c75c26aec54db0e54908e6",
     "docs/itemized/figures/backrooms-2026-carto.png": "9bb53b11c4045480b340f8a1ef4900952e4a2cf7485512df3fa20a111b6e3bdc",
     "docs/itemized/figures/backrooms-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "b67ad67b10f915714b3c523b3727618ca11d495518c8f1e11b43c930b137db51",
@@ -48,7 +110,7 @@
     "docs/itemized/figures/backrooms-2026-data-lt-1080p-4k.webp": "31618dfd6b1c8262870a101096096b7a9679a791e478d6dee0c71c04a5dfd394",
     "docs/itemized/figures/backrooms-2026-data-lt-1080p.webp": "77fd86ddd859b11d9df5fe10969c9bcfdaae6231b8854707f1f015eeb5ae9be9",
     "docs/itemized/figures/backrooms-2026-downloads-by-day-day.svg": "d873af035d481a4047e9e6d72a7a90ab89e68921ed1abcb0af6306ef4c517db2",
-    "docs/itemized/figures/backrooms-2026-downloads-by-week-backrooms-2026-week.svg": "7adabc8c1fef44d2f4d89b38ed6dcfb920ab50e76a4c598e41d7e5de7fddd6db",
+    "docs/itemized/figures/backrooms-2026-downloads-by-week-backrooms-2026-week.svg": "8392278cb2dfdce62813039ec5817934f4d7cee6b9714bb0b8fc658989bb6712",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

@@ -37,6 +37,68 @@
     }
   },
   "media_object": "house-of-the-dragon-301",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "fd3c3f8d2fd02064d9867a82d58bc09dffd781262255651e766a768a9a9b81c9",
+        "before_sha256": "f9660c13ee2b73c21bfb625720db679764356b9a312a6d891285a1fea6816848",
+        "path": "docs/itemized/house-of-the-dragon-301-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "07323526d6ec3a57ca81aeb0b43f548f0123818a1ec1694f420d2f4773137a59",
+        "before_sha256": "9ca853f2a077e3772f7703ce9073cd14953034818e2ab8ad71974c03892ddb1a",
+        "path": "docs/itemized/figures/house-of-the-dragon-301-downloads-by-week-house-of-the-dragon-301-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:07:14.442966+00:00",
+    "coverage_sha256": "cc0df20493b981cae2136efbaf3d0034a848ffcdf3fe1b4675693101912f8697",
+    "day_contract": {
+      "collection_key": "house-of-the-dragon-301",
+      "day_products": 74,
+      "first_date": "2026-06-22",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-06",
+      "last_index": 77,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "b1305be90dcc073b108e67c7c13840587ab40b50",
+    "historical_receipt_sha256": "1f77f45bc09ad51adc9b9130fb3f3b494e7441bb3501cfda2c20ea7dd5d9ee3e",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/house-of-the-dragon-301.md",
+        "sha256": "bb46b5ddca9964e9afdfcf31fd1b9be3a43ebbd18c3f513764d580ac1d235821",
+        "size": 904
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/house-of-the-dragon-301.json",
+        "sha256": "a10fcb9174d559e93e497f82c7333647ebb9750638ee76e2d1f46e17abe0b4ea",
+        "size": 2663
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/house-of-the-dragon-301.json",
+        "sha256": "c7618e199c79f9e767f52adee709b4e145f86f530387bdfaff835de504532316",
+        "size": 374
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 11,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/house-of-the-dragon-301-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "0ba1fe7828558ae7732deb1c45671c0a518814d9e0d1d2d0944e9cb186ff60a3",
     "docs/itemized/figures/house-of-the-dragon-301-carto-4k.webp": "09b083d9606992cd54dbec2ed7d23219c0bfdfa5eeffc1f06a89ff37bce16b8b",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/house-of-the-dragon-301-data-lt-1080p-4k.webp": "e85d22395deea6e0794c4b82f829f20c2a38dbdc8531edf963285d9b318e560f",
     "docs/itemized/figures/house-of-the-dragon-301-data-lt-1080p.webp": "1fc1ef8d23e2decd9984156ff177dce011cb3f08b3693aed40541fbf4ede3a66",
     "docs/itemized/figures/house-of-the-dragon-301-downloads-by-day-day.svg": "15fefe9c89c270fca02514bf1e35fa808cdd724f1a6a848d536cf162acbf745d",
-    "docs/itemized/figures/house-of-the-dragon-301-downloads-by-week-house-of-the-dragon-301-week.svg": "9ca853f2a077e3772f7703ce9073cd14953034818e2ab8ad71974c03892ddb1a",
-    "docs/itemized/house-of-the-dragon-301-sample-cache-audit.md": "f9660c13ee2b73c21bfb625720db679764356b9a312a6d891285a1fea6816848",
+    "docs/itemized/figures/house-of-the-dragon-301-downloads-by-week-house-of-the-dragon-301-week.svg": "07323526d6ec3a57ca81aeb0b43f548f0123818a1ec1694f420d2f4773137a59",
+    "docs/itemized/house-of-the-dragon-301-sample-cache-audit.md": "fd3c3f8d2fd02064d9867a82d58bc09dffd781262255651e766a768a9a9b81c9",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

@@ -37,9 +37,71 @@
     }
   },
   "media_object": "bear-05",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "efb953cc138d5cad100d935165000ffe8c026172980211ef0ad2bb34660d99cd",
+        "before_sha256": "3e9760bae7715b3e69de38928a4fa0933b07b18ec594ea291866056d792fba53",
+        "path": "docs/itemized/bear-05-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "666761b03017a89ed85cd6f61b94c2a0fe3c6cceba64b7f8d8008a4f2ca35efd",
+        "before_sha256": "27b6d57fde445517fd4b08594bae3be871722edc56c99abfe162d6f494ec4b96",
+        "path": "docs/itemized/figures/bear-05-downloads-by-week-bear-05-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:05:20.118561+00:00",
+    "coverage_sha256": "e2bc8832b29aeb44378f330e18de70b752956044e8f6f303239118ce685fb35b",
+    "day_contract": {
+      "collection_key": "bear-05",
+      "day_products": 77,
+      "first_date": "2026-06-26",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-11",
+      "last_index": 78,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "f4708eb2bb99b96c0461d5c5c9fe8b8ca75ab740",
+    "historical_receipt_sha256": "9060f93f475cf23d098e2629af06ab347d5b46e7a7b66b30fd66e06351742ca2",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/bear-05.md",
+        "sha256": "1056e2c7e063145357e56d811f8a04dd535450694d51902899597c8e58b3fd04",
+        "size": 639
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/bear-05.json",
+        "sha256": "21eb770fe5ca86301bfec1d9c51b879190ce4cc2e1189f48f6851d4ac1fa8489",
+        "size": 2607
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/bear-05.json",
+        "sha256": "88722c7f6845924a07d770e982f010107df026c5321f7f0d49008dfb4f992a8e",
+        "size": 358
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 12,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/bear-05-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "40eca92a567f657c36a7b77ca1f29193f109b72892dec5cc90c7130bdfa29ec6",
-    "docs/itemized/bear-05-sample-cache-audit.md": "3e9760bae7715b3e69de38928a4fa0933b07b18ec594ea291866056d792fba53",
+    "docs/itemized/bear-05-sample-cache-audit.md": "efb953cc138d5cad100d935165000ffe8c026172980211ef0ad2bb34660d99cd",
     "docs/itemized/figures/bear-05-carto-4k.webp": "797800b37dbda49a196a9b62019ab059818c28b46106a0b74c85b7ceb82ebc6b",
     "docs/itemized/figures/bear-05-carto.png": "8c2de1804589b9c7d921c1d5ac3c619a23a36603b27410759a905ef8a2adbea9",
     "docs/itemized/figures/bear-05-cumulative-detail-btiha-itemized-by-bytes.svg": "4c9dab93a1e60dfda03af8f1ec56ed6ab94a6f236fa8eba64574f0930777ca41",
@@ -48,7 +110,7 @@
     "docs/itemized/figures/bear-05-data-lt-1080p-4k.webp": "24114bb6e08a12a2b203ad1137e21286b34d577565221c09d47c8f049c96ad93",
     "docs/itemized/figures/bear-05-data-lt-1080p.webp": "77063872ffb80cf0c442cf5290b6a029abf3b848d8f2defab66181af75ab9e14",
     "docs/itemized/figures/bear-05-downloads-by-day-day.svg": "88b062196a237130fcdcf2d9b7ff9ea48a574ede930ba52190629bf3321bbb62",
-    "docs/itemized/figures/bear-05-downloads-by-week-bear-05-week.svg": "27b6d57fde445517fd4b08594bae3be871722edc56c99abfe162d6f494ec4b96",
+    "docs/itemized/figures/bear-05-downloads-by-week-bear-05-week.svg": "666761b03017a89ed85cd6f61b94c2a0fe3c6cceba64b7f8d8008a4f2ca35efd",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

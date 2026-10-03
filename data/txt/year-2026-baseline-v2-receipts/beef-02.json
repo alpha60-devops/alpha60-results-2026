@@ -37,9 +37,71 @@
     }
   },
   "media_object": "beef-02",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "7f0e2afb6b99ba148e478367876eed5d39509fc50428b88dfc16260af4f1e675",
+        "before_sha256": "d56e0abb8b541af040837a2950a19f7ff25cf6e3ae56f686b6f685f0f1d68cb2",
+        "path": "docs/itemized/beef-02-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "c0f435ec7b920b05c1143ceae8b0f3015fb0e0c2529db50742aa90c0ceaa97b2",
+        "before_sha256": "750450fc6fa0fc8b71877915cb36000f0a16471063c410426375625813bb1c7b",
+        "path": "docs/itemized/figures/beef-02-downloads-by-week-beef-02-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:05:32.541383+00:00",
+    "coverage_sha256": "8c11f2a20a6baf83f4d7fc34664834739e27a8ad82308e04445cc0c97fd1c4d5",
+    "day_contract": {
+      "collection_key": "beef-02",
+      "day_products": 105,
+      "first_date": "2026-04-17",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-07-30",
+      "last_index": 105,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "301a5b81e40d63886adfb151fd591d288e53aa5a",
+    "historical_receipt_sha256": "d77e84c177395efc311308dbbd592b1a43b45bbdd6b87e7a078ee3de848df4a8",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/beef-02.md",
+        "sha256": "255e459c000f7748dfaa4125697343ae8d787838fd2d40969783247b84c93229",
+        "size": 536
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/beef-02.json",
+        "sha256": "297668e07451e3007b823d1a5a6a97d0f37c7b7f345b62b7b9b37fea739a6ac6",
+        "size": 2833
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/beef-02.json",
+        "sha256": "1e383d9c788e39bad703aab06ede32f3e521796764a3d830a174f6f627fd39ed",
+        "size": 361
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 15,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/beef-02-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "c75f84097be985283f27ae6e1d019645b1ccf79e4438211b3af5cc96753f73d2",
-    "docs/itemized/beef-02-sample-cache-audit.md": "d56e0abb8b541af040837a2950a19f7ff25cf6e3ae56f686b6f685f0f1d68cb2",
+    "docs/itemized/beef-02-sample-cache-audit.md": "7f0e2afb6b99ba148e478367876eed5d39509fc50428b88dfc16260af4f1e675",
     "docs/itemized/figures/beef-02-carto-4k.webp": "fb2f6dae676de37517121d292e693dc4bed4b9405669741160a918f64dbd250c",
     "docs/itemized/figures/beef-02-carto.png": "7647bbe92cccae8f117ebfdd196b42bba30385cb38ab0d3fb167fb22a7a62d5d",
     "docs/itemized/figures/beef-02-cumulative-detail-btiha-itemized-by-bytes.svg": "b8121466a21cbdc686778acd86aba9b9b877a3a8da7e067fc78855031a248dca",
@@ -48,7 +110,7 @@
     "docs/itemized/figures/beef-02-data-lt-1080p-4k.webp": "9e9db1d6443a849437e2f0cc6e27354df5447a64ef9c55ca4ea54b6afe8f7e98",
     "docs/itemized/figures/beef-02-data-lt-1080p.webp": "c6a5f540662cae175dade56dcfaf33ee2603e7d1a6d5c0b7ecc5168284cd4a43",
     "docs/itemized/figures/beef-02-downloads-by-day-day.svg": "8686511cf266d5c58b5f1849b577ad12a47a57c732862eeac912f46997fa4015",
-    "docs/itemized/figures/beef-02-downloads-by-week-beef-02-week.svg": "750450fc6fa0fc8b71877915cb36000f0a16471063c410426375625813bb1c7b",
+    "docs/itemized/figures/beef-02-downloads-by-week-beef-02-week.svg": "c0f435ec7b920b05c1143ceae8b0f3015fb0e0c2529db50742aa90c0ceaa97b2",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

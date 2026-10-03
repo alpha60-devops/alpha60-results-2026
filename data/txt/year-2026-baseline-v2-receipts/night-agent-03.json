@@ -37,6 +37,68 @@
     }
   },
   "media_object": "night-agent-03",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "b70e8076cf7bf26daa5bbf6044a6f63e50c9e1dda99a8a19e5ecdd919bd5abfd",
+        "before_sha256": "36bb43f816291e25c4f79a77b86a49e115181678e6530e5b21ae0955be10652d",
+        "path": "docs/itemized/night-agent-03-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "9f43b613f04ce378004518c0d3dc65d026e69488a2ea628b4e7c0327020abd71",
+        "before_sha256": "dd8101e06c3ace1f7246ae9e1969b5e168373f89553a5d0ee9cdca6b49cdf2ef",
+        "path": "docs/itemized/figures/night-agent-03-downloads-by-week-night-agent-03-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:08:22.115822+00:00",
+    "coverage_sha256": "52bd2b05506a517f0272b38dfe5b70bfc0836ca62d2a8a68dde909d686db5918",
+    "day_contract": {
+      "collection_key": "night-agent-03",
+      "day_products": 181,
+      "first_date": "2026-02-19",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-08-26",
+      "last_index": 189,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "49079d2c5f59d68bcb5e0f056ce188e6348c8ec2",
+    "historical_receipt_sha256": "9da5d522e344617652a9640f94debae24c33ce99cb3f402c513427a3066bcdd9",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/night-agent-03.md",
+        "sha256": "e7e3865385c77231a558feeae8f0c4aebdb73ec72e4a351fbbe5c044d3a7a0b4",
+        "size": 713
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/night-agent-03.json",
+        "sha256": "020c75ec52e6cb38de38359f7447ed7989177480563ecb042b85266c3a611710",
+        "size": 3619
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/night-agent-03.json",
+        "sha256": "7887d10245d96339b34eb76a2c9a3ec9d36aa174e57bfcb511420559214120e9",
+        "size": 367
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 26,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/night-agent-03-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "4c1f35e8851fdd844c34179dc19acbbe7622434edf87b55ca26cbf1fd3616c08",
     "docs/itemized/figures/night-agent-03-carto-4k.webp": "a939fff4ae7d64a62b0f1c07b76b10c7d94ab55e85003394f5268218eea35f92",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/night-agent-03-data-lt-1080p-4k.webp": "f85ea173d11fe1b172999a05b77ab4d91b278a98630425fa1149f952afcd61dc",
     "docs/itemized/figures/night-agent-03-data-lt-1080p.webp": "464ae8e55d0ec22ddc19bd229949f4ddca3d5ddcf6b8193ad74a239953e091db",
     "docs/itemized/figures/night-agent-03-downloads-by-day-day.svg": "5b288903e08932bf0ee3b796b80ccf7533a48cb3ed0f26b4fd79902084f3fae9",
-    "docs/itemized/figures/night-agent-03-downloads-by-week-night-agent-03-week.svg": "dd8101e06c3ace1f7246ae9e1969b5e168373f89553a5d0ee9cdca6b49cdf2ef",
-    "docs/itemized/night-agent-03-sample-cache-audit.md": "36bb43f816291e25c4f79a77b86a49e115181678e6530e5b21ae0955be10652d",
+    "docs/itemized/figures/night-agent-03-downloads-by-week-night-agent-03-week.svg": "9f43b613f04ce378004518c0d3dc65d026e69488a2ea628b4e7c0327020abd71",
+    "docs/itemized/night-agent-03-sample-cache-audit.md": "b70e8076cf7bf26daa5bbf6044a6f63e50c9e1dda99a8a19e5ecdd919bd5abfd",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

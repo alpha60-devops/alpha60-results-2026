@@ -37,6 +37,68 @@
     }
   },
   "media_object": "widows-bay-108",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "7c2276fccab8990c2879cbbe218ad1521481bf9674e84324c2eabe97d8bffee9",
+        "before_sha256": "094018795635b095903c287c0e3384bb7e2992e3bba2115ca04cc47ff10095e4",
+        "path": "docs/itemized/widows-bay-108-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "9edbba3b1b9a3757a7e41f3a5fd018997329aae0b33cb8c119cb7df87f028071",
+        "before_sha256": "ea395f3b2266892fa253e9dcebe3e134e1c4aac06103dc2a8d73bf186262f1d3",
+        "path": "docs/itemized/figures/widows-bay-108-downloads-by-week-widows-bay-108-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:10:20.148991+00:00",
+    "coverage_sha256": "644958932f5531392c9eb8014cf742891a3d5c7731087dc667c199af0fa5ad41",
+    "day_contract": {
+      "collection_key": "widows-bay-108",
+      "day_products": 98,
+      "first_date": "2026-06-03",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-08",
+      "last_index": 98,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "21c5d39860a8fb515170f2485310527f32fbeba9",
+    "historical_receipt_sha256": "ea9be6914d9906c65d90de685b65c41e527e1df8a5a3429324f4a9bc2e03a30c",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/widows-bay-108.md",
+        "sha256": "e346984e9ad830ebf56583ee36238cc3b44c2d50ea1809145dc5c59befb181c0",
+        "size": 550
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/widows-bay-108.json",
+        "sha256": "8093e9775b448c767a565bdb6e165a4179bf4cea4ef536aca0e2752fb92de37e",
+        "size": 2794
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/widows-bay-108.json",
+        "sha256": "87c73a2550308b96c41cf0cbcb94eefd0e1572e34b230039c2261ab11f35e78a",
+        "size": 366
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 14,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/widows-bay-108-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "18d501c37e1741bda5398a561b8333885eb6d9bc670f640868898539765d98c7",
     "docs/itemized/figures/widows-bay-108-carto-4k.webp": "3520d5792b874946456088fb6066701dc83926933bea810d6ceecf24be974caa",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/widows-bay-108-data-lt-1080p-4k.webp": "44208a306444d22c48f168e5f19386b13ec9f47dd1d904aa79508655299457bf",
     "docs/itemized/figures/widows-bay-108-data-lt-1080p.webp": "f1b82aa47c1a81057dd5344a707072816b9eb727a1718d179be786b8d5f1800c",
     "docs/itemized/figures/widows-bay-108-downloads-by-day-day.svg": "52839cc580b4b8f5a41da16f51e770a747c4006a3d46fef241397d0949752e6c",
-    "docs/itemized/figures/widows-bay-108-downloads-by-week-widows-bay-108-week.svg": "ea395f3b2266892fa253e9dcebe3e134e1c4aac06103dc2a8d73bf186262f1d3",
-    "docs/itemized/widows-bay-108-sample-cache-audit.md": "094018795635b095903c287c0e3384bb7e2992e3bba2115ca04cc47ff10095e4",
+    "docs/itemized/figures/widows-bay-108-downloads-by-week-widows-bay-108-week.svg": "9edbba3b1b9a3757a7e41f3a5fd018997329aae0b33cb8c119cb7df87f028071",
+    "docs/itemized/widows-bay-108-sample-cache-audit.md": "7c2276fccab8990c2879cbbe218ad1521481bf9674e84324c2eabe97d8bffee9",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

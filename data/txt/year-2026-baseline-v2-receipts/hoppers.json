@@ -37,6 +37,68 @@
     }
   },
   "media_object": "hoppers",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "fbaeb98a0e7c8006f36eff139d5d17e963b678560bdc313741c02c7394183d1a",
+        "before_sha256": "00e846cb1a40fd8ae2a91ac3a83c2b08da61d97c98d6f07de9e2798b772e1216",
+        "path": "docs/itemized/hoppers-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "776623e1a57f08aa65369872236a3c1389d2a29dc947eb0ca95a1da66a9f67f3",
+        "before_sha256": "929fb11ad9d1345fe9c75a05a1a7b05291b5e09a635e6df7cfeab3197fd69124",
+        "path": "docs/itemized/figures/hoppers-downloads-by-week-hoppers-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:07:09.225681+00:00",
+    "coverage_sha256": "c468b0fbc57fdd4e831eaf34e097bc42bfcb85c267093d0c14d328764ee9ccee",
+    "day_contract": {
+      "collection_key": "hoppers",
+      "day_products": 169,
+      "first_date": "2026-03-26",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-10",
+      "last_index": 169,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "99343bb2e79347fcb37819299ec5a76ff4a747f2",
+    "historical_receipt_sha256": "717bee1f35e361e7de76a6d44671ba803786e8d21810457cf537169bbcd27e83",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/hoppers.md",
+        "sha256": "8660b9266f4179a77f574d7072066f439dd22c8b744a10dc27b5e46ac9445905",
+        "size": 961
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/hoppers.json",
+        "sha256": "3c716338a94f708203af252c73c3ddc63e30e34bc08adf59fcfe2fdd801caefb",
+        "size": 3409
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/hoppers.json",
+        "sha256": "cfd1345ce27bede60c1fb1d58768c0cf2f729cc0d5873eff078ead1c42d6c919",
+        "size": 361
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 25,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/hoppers-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "249f62af0b8a9e8eb510c55b5f47b8017b9a76235f50299999b1ff2b5d020fa0",
     "docs/itemized/figures/hoppers-carto-4k.webp": "d924883ce2d273ce0bb442a54a5d84fb74214136de900ea9fe05fd8c6d8bf654",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/hoppers-data-lt-1080p-4k.webp": "23bbbb14b142cec80cf92ad8e361e53f7ee9f59aa0f52e50c0bc961f4b854d55",
     "docs/itemized/figures/hoppers-data-lt-1080p.webp": "6e12d211dac698631dc8b2fd5223911c9804accb4dc24972aeb740a2c89b9703",
     "docs/itemized/figures/hoppers-downloads-by-day-day.svg": "0083a48c96a554f6a13472870548f20477286185cd0357cde7a32c62b03c508c",
-    "docs/itemized/figures/hoppers-downloads-by-week-hoppers-week.svg": "929fb11ad9d1345fe9c75a05a1a7b05291b5e09a635e6df7cfeab3197fd69124",
-    "docs/itemized/hoppers-sample-cache-audit.md": "00e846cb1a40fd8ae2a91ac3a83c2b08da61d97c98d6f07de9e2798b772e1216",
+    "docs/itemized/figures/hoppers-downloads-by-week-hoppers-week.svg": "776623e1a57f08aa65369872236a3c1389d2a29dc947eb0ca95a1da66a9f67f3",
+    "docs/itemized/hoppers-sample-cache-audit.md": "fbaeb98a0e7c8006f36eff139d5d17e963b678560bdc313741c02c7394183d1a",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

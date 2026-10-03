@@ -37,6 +37,68 @@
     }
   },
   "media_object": "love-story-2026-107",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "19f72daabf483667399fac748fd84a5df975f8b99331e00e5abdc26c5abaccd9",
+        "before_sha256": "239ee05c796a46afb7236a08afaf8efcf6d7dc81b7072d30aa2a4c493c021308",
+        "path": "docs/itemized/love-story-2026-107-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "bd212688b23829e1f7462b84df6354f5806ea6e133c362e99119122f97dab375",
+        "before_sha256": "a615f53f07dcf2b3cdecf1b5377d5a90dd29a8e3408b2d02cdd8b0c54c4cf2fe",
+        "path": "docs/itemized/figures/love-story-2026-107-downloads-by-week-love-story-2026-107-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:07:39.010116+00:00",
+    "coverage_sha256": "df50481a902912ed78710b5094b6b287abe869f93994130611df33977f532861",
+    "day_contract": {
+      "collection_key": "love-story-2026-107",
+      "day_products": 105,
+      "first_date": "2026-03-13",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-06-25",
+      "last_index": 105,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "52d7cb195b3dae0f3031ea5586e221ab85fc0eb5",
+    "historical_receipt_sha256": "9440293d5772aa0e61624ed0f6d1f64887c12db831926e503ec0bc3b86fdceeb",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/love-story-2026-107.md",
+        "sha256": "c78961ae581c73a6b7801104f7ea24549167718f7ce6e96eeeb21f95dc240ca8",
+        "size": 722
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/love-story-2026-107.json",
+        "sha256": "6ee20f5164b316159c8a783a310d9a6bfa4f6380f4848ccc97059d3eea3dc8f6",
+        "size": 2881
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/love-story-2026-107.json",
+        "sha256": "29e53198425fb8a8829bb24de20964557a875a0aaae05cd756b9ee5b12aef414",
+        "size": 373
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 15,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/love-story-2026-107-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "ec028c96f8d8e281276adb4ccf1f6f4b912e88696d2f9f2fdd044197163acdbb",
     "docs/itemized/figures/love-story-2026-107-carto-4k.webp": "e5307bc9cfc3e1b775684a5cdb181cc7b0cc46c43f3ea753ba4d6f903c100f28",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/love-story-2026-107-data-lt-1080p-4k.webp": "15a663b569b522637e71fbee7d27815435b8731b8a27206bdae7cd2bccd3e589",
     "docs/itemized/figures/love-story-2026-107-data-lt-1080p.webp": "17c0226facf789bae2cbfed4f0dff8d094513f745b632553b210389ad5421a1d",
     "docs/itemized/figures/love-story-2026-107-downloads-by-day-day.svg": "cf5f71ae770f186c94dcb0be80e4bd4e49a1d52b3008d625d10cc2e28a81344b",
-    "docs/itemized/figures/love-story-2026-107-downloads-by-week-love-story-2026-107-week.svg": "a615f53f07dcf2b3cdecf1b5377d5a90dd29a8e3408b2d02cdd8b0c54c4cf2fe",
-    "docs/itemized/love-story-2026-107-sample-cache-audit.md": "239ee05c796a46afb7236a08afaf8efcf6d7dc81b7072d30aa2a4c493c021308",
+    "docs/itemized/figures/love-story-2026-107-downloads-by-week-love-story-2026-107-week.svg": "bd212688b23829e1f7462b84df6354f5806ea6e133c362e99119122f97dab375",
+    "docs/itemized/love-story-2026-107-sample-cache-audit.md": "19f72daabf483667399fac748fd84a5df975f8b99331e00e5abdc26c5abaccd9",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

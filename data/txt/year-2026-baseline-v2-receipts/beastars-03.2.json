@@ -37,11 +37,73 @@
     }
   },
   "media_object": "beastars-03.2",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "4acb44f127ddbd594a1185de3d65e8b4560f2e22921c7aaeb66ea0b0a523c1c1",
+        "before_sha256": "19ebe9261b051599b85ed5c229d318c23a8d73c4fd54583fce1ca8dc024af0ec",
+        "path": "docs/itemized/beastars-03.2-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "1e47c080e0be749a8c30e9e864b0c1c39ac2e9474811c57c8b743b006b86ada7",
+        "before_sha256": "0bb50a37ec4e46dbdfb07a182abea5aa377044b1549886890e7550ca88b84de6",
+        "path": "docs/itemized/figures/beastars-03-2-downloads-by-week-beastars-03.2-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:05:22.770301+00:00",
+    "coverage_sha256": "7ad8938205369b0760c2ce02bc690d10e9b9c94459462cf0f84c9e244e8642ab",
+    "day_contract": {
+      "collection_key": "beastars-03.2",
+      "day_products": 105,
+      "first_date": "2026-03-07",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-06-19",
+      "last_index": 105,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "641494a3d273ea2b6df4c7fd5d6a4c6d6c508ba0",
+    "historical_receipt_sha256": "3d3460d85b63e2fc3b41c5436db861d5c1e238fe5927d2583c3e4de3e498773e",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/beastars-03.2.md",
+        "sha256": "9ee623adf5af9a796f4abfe33ece8f991a47f210c7b0726b0f38f93c7cb99a91",
+        "size": 710
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/beastars-03.2.json",
+        "sha256": "b24241e5cd86d58822299611ce8d1e0f9e287c1e1808b46412e4921ef47c86ad",
+        "size": 2857
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/beastars-03.2.json",
+        "sha256": "f5394742801a2f0f5dc90a6a55d55f550ee0b07edfce535c22cb4a937497dff8",
+        "size": 367
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 15,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/beastars-03.2-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "e42df6b4141c70996295cfdbd67560c4f8e8156d0c71ebcb0f6dcc2263425dde",
-    "docs/itemized/beastars-03.2-sample-cache-audit.md": "19ebe9261b051599b85ed5c229d318c23a8d73c4fd54583fce1ca8dc024af0ec",
+    "docs/itemized/beastars-03.2-sample-cache-audit.md": "4acb44f127ddbd594a1185de3d65e8b4560f2e22921c7aaeb66ea0b0a523c1c1",
     "docs/itemized/figures/beastars-03-2-downloads-by-day-day.svg": "46b5758cb607efabd80593e470bf1bcf4bd6d90eaacdaee0f2886e0e1b78e999",
-    "docs/itemized/figures/beastars-03-2-downloads-by-week-beastars-03.2-week.svg": "0bb50a37ec4e46dbdfb07a182abea5aa377044b1549886890e7550ca88b84de6",
+    "docs/itemized/figures/beastars-03-2-downloads-by-week-beastars-03.2-week.svg": "1e47c080e0be749a8c30e9e864b0c1c39ac2e9474811c57c8b743b006b86ada7",
     "docs/itemized/figures/beastars-03.2-carto-4k.webp": "e0212e7d5bbf9c40b689c6bd7f2428044bc2cb5bf8a1efd84a9084501506538e",
     "docs/itemized/figures/beastars-03.2-carto.png": "76b685f5f75d07b843b18034204d5593e46e9e44fab86b99511af5463447bd73",
     "docs/itemized/figures/beastars-03.2-cumulative-detail-btiha-itemized-by-bytes.svg": "8f737621a56aa63edabbbdc17e90eb887ac4eb08074e5bad25c3e2632b4a5694",

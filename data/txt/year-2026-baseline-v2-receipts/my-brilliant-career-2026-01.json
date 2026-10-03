@@ -37,6 +37,68 @@
     }
   },
   "media_object": "my-brilliant-career-2026-01",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "cdf2e89439844f053444456604d896fd8b340d2014cbd2e873929044d10ea2cd",
+        "before_sha256": "75d0cbde375ebdc93c8b686c965ec6b974c19bf504899fa595ef2ba7268b1946",
+        "path": "docs/itemized/my-brilliant-career-2026-01-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "ad9c171f2bc600c6f5104c5b8b4d76a002a180142aa1efe876ac7df671ef5622",
+        "before_sha256": "c584447810d53efbe423963f2eb201f5799007814678d480298787e3f15b5e09",
+        "path": "docs/itemized/figures/my-brilliant-career-2026-01-downloads-by-week-my-brilliant-career-2026-01-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:08:11.388665+00:00",
+    "coverage_sha256": "6f6912880476fb51f9918153b15892cc2eeae1800bf979fd1ec620f164609412",
+    "day_contract": {
+      "collection_key": "my-brilliant-career-2026-01",
+      "day_products": 14,
+      "first_date": "2026-08-18",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-08-31",
+      "last_index": 14,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "06023bce1bef1a091f1b1a95047186f9584a3b18",
+    "historical_receipt_sha256": "757de2e1ffc97ec22868741eb0782f2755ba4cb260b01faf3ba478d4afaa6118",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/my-brilliant-career-2026-01.md",
+        "sha256": "3b4fcd247b87c94e0139c25cd0b8daa6fab97ee641d174295059bb545c7d7277",
+        "size": 575
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/my-brilliant-career-2026-01.json",
+        "sha256": "a77ca58759cc7888f97cb6fe524bcc2b5c42d06ba9d8bd48ee6b4c3557630780",
+        "size": 2166
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/my-brilliant-career-2026-01.json",
+        "sha256": "a9226e2c22765e08e339048b038c26f6ec2bcac8cf50165820df565151a271b2",
+        "size": 379
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 2,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/my-brilliant-career-2026-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "1df57abfc524013c66fa8cc94fec7c633f8e8dadf00600d51bcb8b20fb74153f",
     "docs/itemized/figures/my-brilliant-career-2026-01-carto-4k.webp": "16517912f07aa3213eec4469c1eae4f33c5b458637bd022a255aae4d8638fbf4",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/my-brilliant-career-2026-01-data-lt-1080p-4k.webp": "c9e81e8d6c47e41c8e6bcd07da5f73e5a7210d852fe18c60c2d09d45f9c29404",
     "docs/itemized/figures/my-brilliant-career-2026-01-data-lt-1080p.webp": "da6b8d2bca6ea42a38ea49d4687122310d43e0fe1770c794148d16f77bf921ae",
     "docs/itemized/figures/my-brilliant-career-2026-01-downloads-by-day-day.svg": "b219742b08930dfb88dac01f66ff52040523d8a537b15e1fe4862dc31234715d",
-    "docs/itemized/figures/my-brilliant-career-2026-01-downloads-by-week-my-brilliant-career-2026-01-week.svg": "c584447810d53efbe423963f2eb201f5799007814678d480298787e3f15b5e09",
-    "docs/itemized/my-brilliant-career-2026-01-sample-cache-audit.md": "75d0cbde375ebdc93c8b686c965ec6b974c19bf504899fa595ef2ba7268b1946",
+    "docs/itemized/figures/my-brilliant-career-2026-01-downloads-by-week-my-brilliant-career-2026-01-week.svg": "ad9c171f2bc600c6f5104c5b8b4d76a002a180142aa1efe876ac7df671ef5622",
+    "docs/itemized/my-brilliant-career-2026-01-sample-cache-audit.md": "cdf2e89439844f053444456604d896fd8b340d2014cbd2e873929044d10ea2cd",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

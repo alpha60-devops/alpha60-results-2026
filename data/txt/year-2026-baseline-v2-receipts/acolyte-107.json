@@ -37,9 +37,71 @@
     }
   },
   "media_object": "acolyte-107",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "2ecfa6f1fd2b41533b0b416d95b1bdf5f4a6a1617eb86042c74f6c41ecb4dcb6",
+        "before_sha256": "2699937d0d877c4d59442a6c9e0e31be7e86f9888d0cff792424844d074a429e",
+        "path": "docs/itemized/acolyte-107-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "b00409fb1ef48873313b5cb68273ea56e6fc4be5f3ebe1176e28fe79cd4c9655",
+        "before_sha256": "b70b72636656174b95dcbbfc090210277c19ffed54c4cf6af3d58737ecad948b",
+        "path": "docs/itemized/figures/acolyte-107-downloads-by-week-acolyte-107-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:05:06.670559+00:00",
+    "coverage_sha256": "5aa5df5223546bbd72739f12206c91fce41224a7b71703b63b9f224f1ca5488e",
+    "day_contract": {
+      "collection_key": "acolyte-107",
+      "day_products": 113,
+      "first_date": "2026-05-04",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-08-25",
+      "last_index": 114,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "e0386122591dfff397565b39b0b635690af3600c",
+    "historical_receipt_sha256": "13241037bbccc451180a3edce8d569b8c4078070953457a18356df736f333c82",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/acolyte-107.md",
+        "sha256": "39693b15be45014bef94c92f2d863d2fc0340b7a129a87a7b86bdb9f7fd022d1",
+        "size": 740
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/acolyte-107.json",
+        "sha256": "3e40189d469797eb905f275146d2fa4ee2ece20f5940a4fa71cffd23bb572eea",
+        "size": 2931
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/acolyte-107.json",
+        "sha256": "2e5d8ff35929c1e478bba375ed517f235161f5bfb140ba4835c9eaac9bfee7b2",
+        "size": 364
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 17,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/acolyte-107-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "186a2bc78c38cc66616bf373bdfc4e427287f8b2f3e902af9662edb1f6cef3cb",
-    "docs/itemized/acolyte-107-sample-cache-audit.md": "2699937d0d877c4d59442a6c9e0e31be7e86f9888d0cff792424844d074a429e",
+    "docs/itemized/acolyte-107-sample-cache-audit.md": "2ecfa6f1fd2b41533b0b416d95b1bdf5f4a6a1617eb86042c74f6c41ecb4dcb6",
     "docs/itemized/figures/acolyte-107-carto-4k.webp": "f3b88226ca47e73116c7b790af199a8cc0807833f1395cadea8fce61f2a41b24",
     "docs/itemized/figures/acolyte-107-carto.png": "7f6f42686a651dba172f57172e131926063a87b2106d8c4f409aa6f7ba570cd8",
     "docs/itemized/figures/acolyte-107-cumulative-detail-btiha-itemized-by-bytes.svg": "ed081b1691e994d226de1a82fc7f3b28c406b6b990945e7952ceb84e4529745a",
@@ -48,7 +110,7 @@
     "docs/itemized/figures/acolyte-107-data-lt-1080p-4k.webp": "6c38cfc9f38d125b013b0b5bc02b2142ab149ad7ba476162a96fd112b12475cb",
     "docs/itemized/figures/acolyte-107-data-lt-1080p.webp": "2a4dcfef03a127443f7c897bc9a0c514fc3b62be8ed3b75e4ec4e4e901919ed0",
     "docs/itemized/figures/acolyte-107-downloads-by-day-day.svg": "3b3c0d4cd49ef8852ae48f5462b763c83120b7aa14fba32f8d8caffe02770f20",
-    "docs/itemized/figures/acolyte-107-downloads-by-week-acolyte-107-week.svg": "b70b72636656174b95dcbbfc090210277c19ffed54c4cf6af3d58737ecad948b",
+    "docs/itemized/figures/acolyte-107-downloads-by-week-acolyte-107-week.svg": "b00409fb1ef48873313b5cb68273ea56e6fc4be5f3ebe1176e28fe79cd4c9655",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

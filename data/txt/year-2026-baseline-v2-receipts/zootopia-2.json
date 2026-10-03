@@ -37,6 +37,68 @@
     }
   },
   "media_object": "zootopia-2",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "0e93c4f61a4b50442e8b6720757f99483b62246a54d52603090a19eb459b9d19",
+        "before_sha256": "0d51cb9f42d25389d5fada5944696798cc2ac39a4b9e19dcd1ecd4f36682620d",
+        "path": "docs/itemized/zootopia-2-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "9b7c8c52b18a384ea27c518594fce63e17fe757d28f6ef3aa38f148b22169bc5",
+        "before_sha256": "8478deaaac11bf8ebbac4f5aa8d7fa7b89c340540c77440cebef0cd0b258eff5",
+        "path": "docs/itemized/figures/zootopia-2-downloads-by-week-zootopia-2-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:10:34.368868+00:00",
+    "coverage_sha256": "f539c938da9c61de1fdff0d23ea48ff887742d52f4bbf97d523f6739c8676ee3",
+    "day_contract": {
+      "collection_key": "zootopia-2",
+      "day_products": 182,
+      "first_date": "2026-01-29",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-07-29",
+      "last_index": 182,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "0349cc75e42de40bfcc1b1e844333f2897ffd76d",
+    "historical_receipt_sha256": "90d4a4af6fa46d82289913ad1cfdf1a6c8de1cb2d9cff87913d6cb2753f7ac5b",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/zootopia-2.md",
+        "sha256": "789262eb16c67d4836e7422ae073a4748dfb87436e05b21aa042bb72f002bcaf",
+        "size": 615
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/zootopia-2.json",
+        "sha256": "224030828e491c66ecd3a61885aba4b0c82aad201213c435f2d1e90d35c085dc",
+        "size": 3538
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/zootopia-2.json",
+        "sha256": "2c09508d842dfddb6ec3e9e49b30736b352ccdc06fcbee5646f1cc88a108207e",
+        "size": 364
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 26,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/zootopia-2-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "78a9e8ff56bb404f1cb177a60134b7079aa1bcb136da3c25ade61a02f7ce8934",
     "docs/itemized/figures/zootopia-2-carto-4k.webp": "992daa7468c69d0395bfbb5e0effd9fe758b2c9f3ce50b9119f9e1426c2188d6",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/zootopia-2-data-lt-1080p-4k.webp": "59b10b0ac6f88080331cdca30c1fd7b9eafa20f50f50770752025048b3c33db9",
     "docs/itemized/figures/zootopia-2-data-lt-1080p.webp": "7b3b873fe603ecc997c0bd47b287f20cc2ea0ac950731b41c9eace855d832373",
     "docs/itemized/figures/zootopia-2-downloads-by-day-day.svg": "6ab4c8d1a672135bacf48efe8d4553496c52a6ec6f247bebe283edf9d242e2bc",
-    "docs/itemized/figures/zootopia-2-downloads-by-week-zootopia-2-week.svg": "8478deaaac11bf8ebbac4f5aa8d7fa7b89c340540c77440cebef0cd0b258eff5",
-    "docs/itemized/zootopia-2-sample-cache-audit.md": "0d51cb9f42d25389d5fada5944696798cc2ac39a4b9e19dcd1ecd4f36682620d",
+    "docs/itemized/figures/zootopia-2-downloads-by-week-zootopia-2-week.svg": "9b7c8c52b18a384ea27c518594fce63e17fe757d28f6ef3aa38f148b22169bc5",
+    "docs/itemized/zootopia-2-sample-cache-audit.md": "0e93c4f61a4b50442e8b6720757f99483b62246a54d52603090a19eb459b9d19",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

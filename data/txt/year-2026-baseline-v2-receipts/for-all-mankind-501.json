@@ -37,6 +37,68 @@
     }
   },
   "media_object": "for-all-mankind-501",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "26df68b9ac0520b0ace4ae87795b6d53a35ae9dbbaba66e8306a760a19e02a57",
+        "before_sha256": "ee46d0950fe507c8758edf81203d2fa52f08b6e2cc8a8c9fd823d6eec48a6a89",
+        "path": "docs/itemized/for-all-mankind-501-sample-cache-audit.md"
+      },
+      {
+        "after_sha256": "6255d4b618f34e756c2266ae3ce250dc6a96e3cd26a577c0799dc9aabc0246dc",
+        "before_sha256": "6599a5b44c2711bda9454229b538a45fab811e0359a0959f5ff33b67fba46533",
+        "path": "docs/itemized/figures/for-all-mankind-501-downloads-by-week-for-all-mankind-501-week.svg"
+      }
+    ],
+    "checked_at": "2026-10-03T10:06:41.185185+00:00",
+    "coverage_sha256": "ab649a3ab33df05d1fecbc39671f09258c04d209ac6d5a427bdc07898c75c251",
+    "day_contract": {
+      "collection_key": "for-all-mankind-501",
+      "day_products": 153,
+      "first_date": "2026-03-27",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-08-27",
+      "last_index": 154,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "f3404cdab9ba93df80fe77efbf05d5aae89f7210",
+    "historical_receipt_sha256": "8dbf553408aa7201a9fce66230a4e2ce53fa1c753d21240c6b21b95767f69d59",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/for-all-mankind-501.md",
+        "sha256": "da023550144ab1fad6ec412cd00b63b8f284bca3027ed492fcc9e824b9b586a0",
+        "size": 751
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/for-all-mankind-501.json",
+        "sha256": "d519bea28be1558643afe08b648a8d7e290de6eb8460bc77eb0dccef9d3b8a33",
+        "size": 3323
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/for-all-mankind-501.json",
+        "sha256": "9e61079b753d13bdddd9f32ae04ea4178e2c7d1096c79e5be4204cc92a6122d7",
+        "size": 372
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 22,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/for-all-mankind-501-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "5b48c59f9df6a421374c0b386227af5ebb7f17065b7e80fb5d35607743c4f006",
     "docs/itemized/figures/for-all-mankind-501-carto-4k.webp": "ad09df6f9c3580610d02b45d97c974ea4a2e2e7e3878e9f4acdf7ea89609ff4e",
@@ -47,8 +109,8 @@
     "docs/itemized/figures/for-all-mankind-501-data-lt-1080p-4k.webp": "0ec6f0da1f197e128fc8b4cadf2ccc2f99239944e01d30b450f846a5df4df8eb",
     "docs/itemized/figures/for-all-mankind-501-data-lt-1080p.webp": "376d23ee71da93e2d3e59c7ede2947535c521ed5a3a42441297f185da7811493",
     "docs/itemized/figures/for-all-mankind-501-downloads-by-day-day.svg": "5c963e885c2c881e6b35dce54ef13c0e9edcf4732752a3e1b2a793fa35c27bd5",
-    "docs/itemized/figures/for-all-mankind-501-downloads-by-week-for-all-mankind-501-week.svg": "6599a5b44c2711bda9454229b538a45fab811e0359a0959f5ff33b67fba46533",
-    "docs/itemized/for-all-mankind-501-sample-cache-audit.md": "ee46d0950fe507c8758edf81203d2fa52f08b6e2cc8a8c9fd823d6eec48a6a89",
+    "docs/itemized/figures/for-all-mankind-501-downloads-by-week-for-all-mankind-501-week.svg": "6255d4b618f34e756c2266ae3ce250dc6a96e3cd26a577c0799dc9aabc0246dc",
+    "docs/itemized/for-all-mankind-501-sample-cache-audit.md": "26df68b9ac0520b0ace4ae87795b6d53a35ae9dbbaba66e8306a760a19e02a57",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
