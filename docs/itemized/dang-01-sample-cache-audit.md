@@ -15,22 +15,22 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `dang-01` |
 | imdb_id | [tt40003445](https://www.imdb.com/title/tt40003445/) |
 | wikipedia_url | UNAVAILABLE — no English Wikipedia page exists |
-| Sample dates | 2026-09-09-to-2026-09-11 |
-| Sample days | 3 |
-| BTIH count | 163 |
-| Unique BTIH count | 162 |
-| Downloaders total | 224,069 |
-| Uploaders total | 9,503 |
+| Sample dates | 2026-09-09-to-2026-09-29 |
+| Sample days | 21 |
+| BTIH count | 175 |
+| Unique BTIH count | 174 |
+| Downloaders total | 1,405,793 |
+| Uploaders total | 37,982 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:04Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/dang-01.xz`
-- Hour directories: 71
+- Generated: 2026-10-03T19:10:22Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/dang-01.xz`
+- Hour directories: 503
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
@@ -38,11 +38,22 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `3301adf70fb824f9aca6455b993a9e2f9350ba02f592b05d0612e151db24d0f7`
+- Full-input producer receipt SHA-256: `47f7268fd0709dad61d2f007e52c0398fe493bf8f0a285cd3d5d2368ab07ebcd`
+- Frozen raw archives: 503
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 0
+- Excluded observations: 0
+
+## 3. Media objects file size histogram
 
 ![DANG! collection size histogram](figures/dang-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,29 +76,24 @@ None detected.
 
 ![dang-01 downloads by day](figures/dang-01-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/dang-01-cumulative-aggregate.geojson.gz" data-map-title="DANG! — dang-01" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open DANG! (dang-01) cumulative data map in new window" title="Opens interactive map for DANG! (dang-01) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.62 | 16.92 | 38.77 | 36.43 | 1.28 | 0.50 |
+| 1.75 | 18.92 | 34.70 | 42.86 | 1.15 | 0.62 |
 
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![DANG! cumulative map](figures/dang-01-carto.png)](figures/dang-01-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/dang-01-data-ge-1080p.webp)](figures/dang-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/dang-01-data-lt-1080p.webp)](figures/dang-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
