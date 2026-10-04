@@ -37,6 +37,63 @@
     }
   },
   "media_object": "invite-2026",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "dbccbf7030bb2ecf8fbed22ad54f2b2a8dbba1c459ea3ae8de8b1e2ddc42c28e",
+        "before_sha256": "c263802c0daa5cb8868c915c21b78d45ca12d30f110e440f50e8bf9fa20c06b4",
+        "path": "docs/itemized/invite-2026-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:58:34.609515+00:00",
+    "coverage_sha256": "6b31a955370f96fd039831efc1d464793f7772f484ec38c58df7cfaaea3c14f9",
+    "day_contract": {
+      "collection_key": "invite-2026",
+      "day_products": 52,
+      "first_date": "2026-08-11",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-10-01",
+      "last_index": 52,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "12d569d0b889a2d349db25cfab58759943284fcf",
+    "historical_receipt_sha256": "f3425ff3aaf5f9dd3863f4a60270e130c86e6d6e1adaf3c1de3c7cfe76662732",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/invite-2026.md",
+        "sha256": "3b46c379795c03b0b1ac87e0b94bc5c64a3b07fb96ec667a760e603cfe02814c",
+        "size": 966
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/invite-2026.json",
+        "sha256": "f6419cf73f4f7f14c027aeb5c9c449d4d3041de9c20e29c92cc65704cf47e214",
+        "size": 2454
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/invite-2026.json",
+        "sha256": "9074ce7c4b8949bb1c67140c16694b534a0fcfbc72c20a2930f85566dee7d80a",
+        "size": 363
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 8,
+      "y_tick_labels": 22
+    }
+  },
   "published_files": {
     "data/csv/bytes/invite-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "acf65950cd32bc471c624ba2689bdd119e81320ec3cb3b403286e5068aa27491",
     "docs/itemized/figures/invite-2026-carto-4k.webp": "a9daf955547d545c8ecca69a33a789d115125943a325f3dcc64be05f14a5c80c",
@@ -48,7 +105,7 @@
     "docs/itemized/figures/invite-2026-data-lt-1080p.webp": "f588ddb51fbdbf4a252697a7db399a3186fcc489215110389339560dada743fb",
     "docs/itemized/figures/invite-2026-downloads-by-day-day.svg": "3a85061c8183202ad9b327c0b580debfb3a7961155635443ca354eb225f3df8a",
     "docs/itemized/figures/invite-2026-downloads-by-week-invite-2026-week.svg": "60e2f1668caa035d337131efa4b53415edabf2cb7757197e41fb1474924ed3b8",
-    "docs/itemized/invite-2026-sample-cache-audit.md": "c263802c0daa5cb8868c915c21b78d45ca12d30f110e440f50e8bf9fa20c06b4",
+    "docs/itemized/invite-2026-sample-cache-audit.md": "dbccbf7030bb2ecf8fbed22ad54f2b2a8dbba1c459ea3ae8de8b1e2ddc42c28e",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

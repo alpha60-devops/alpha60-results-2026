@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "4341fcaa451b507499e65582052ad2551c225ddf1aa15d9e01d9486c4e57005c",
-        "before_sha256": "8ff75e62efd3844693df177c49709eb202db889892c8e61205b04f188870b531",
+        "after_sha256": "81f26e9f1503c8d5fe75d92239252ce4d0a83ad79ce0b98aec8d7e0e4db6a4a6",
+        "before_sha256": "4341fcaa451b507499e65582052ad2551c225ddf1aa15d9e01d9486c4e57005c",
         "path": "docs/itemized/silo-301-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "e968230763f84d171fe1b23fac5c20056bb32099e7085ab8f648c77e4c26c382",
-        "before_sha256": "8999201f6653e650e32895c52943156dbc6a8d7af471f3e65c713b7c29a99cf9",
-        "path": "docs/itemized/figures/silo-301-downloads-by-week-silo-301-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:09:31.619633+00:00",
+    "checked_at": "2026-10-04T07:01:21.212828+00:00",
     "coverage_sha256": "b3150296160f82fe4237619c97f15f9cff919bb1086b9792b6b84a43c8762b0d",
     "day_contract": {
       "collection_key": "silo-301",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "3e6e1671c6c92011d29f23a76904de67138f2d1e",
-    "historical_receipt_sha256": "5ce873b887088d5a3381fa30ac580ff3b48068150c61f96edaa5275ef9bf6f81",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "75e97d14219279c679a53b166d799684e3339905115daf83c7aec051e6f062f0",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/silo-301.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/silo-301.md",
         "sha256": "5e5db5c32c29a696ddaeeac55cb8e57e209f80d4f062a351facefc9d02743789",
         "size": 538
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/silo-301.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/silo-301.json",
         "sha256": "cc211d9db133f864b94c4f1a00b33d5ada07002ee7e93f02d17cbfb5eb4c1c8a",
         "size": 2434
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/silo-301.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/silo-301.json",
         "sha256": "d5aadbbe4f09d55c698cb3e6f72c0eb9f986059f9c1eecee82df9d84ff510023",
         "size": 360
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/silo-301-data-lt-1080p.webp": "494871a548ba5a7a60f11b4d0fb024542750c39843206a32c4dd70f777d9a75a",
     "docs/itemized/figures/silo-301-downloads-by-day-day.svg": "603442995a9a2a4433d8d4c7a8efdebe740d37c3c2516542d490a1ecc94af6a2",
     "docs/itemized/figures/silo-301-downloads-by-week-silo-301-week.svg": "e968230763f84d171fe1b23fac5c20056bb32099e7085ab8f648c77e4c26c382",
-    "docs/itemized/silo-301-sample-cache-audit.md": "4341fcaa451b507499e65582052ad2551c225ddf1aa15d9e01d9486c4e57005c",
+    "docs/itemized/silo-301-sample-cache-audit.md": "81f26e9f1503c8d5fe75d92239252ce4d0a83ad79ce0b98aec8d7e0e4db6a4a6",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

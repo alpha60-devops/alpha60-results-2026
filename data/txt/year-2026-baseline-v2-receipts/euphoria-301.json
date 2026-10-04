@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "670a06f7ad3f184cab838f9179974289e294759edaa8ace8a6203b8fc4bb0b19",
-        "before_sha256": "6fb342931d6f0d395f2dcc997ae8326c9846317cdf0ecaba371364f7ce2fc912",
+        "after_sha256": "43819e9525d74e399c587314210156c3c7c7e65d455da392ba141f1a62257424",
+        "before_sha256": "670a06f7ad3f184cab838f9179974289e294759edaa8ace8a6203b8fc4bb0b19",
         "path": "docs/itemized/euphoria-301-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "3cde0781fcedc81e6f08631f78d8e5ccc8797c2195a865f87c14cf34efae1e26",
-        "before_sha256": "e7ab163d70c05f264abe35661c8db12939ee692fd09e93faa50ba0dfb2f00ffe",
-        "path": "docs/itemized/figures/euphoria-301-downloads-by-week-euphoria-301-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:06:24.300984+00:00",
+    "checked_at": "2026-10-04T06:57:18.155493+00:00",
     "coverage_sha256": "63b127c9eabe2f24a17b1c98eb68e2b3a793df72094e613bc4af15f4f0d26d87",
     "day_contract": {
       "collection_key": "euphoria-301",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "7cbaf1de5a83f58ee71c72aae4ae7b2beca1478a",
-    "historical_receipt_sha256": "16575b7192f9e75fab4b9f1a3acfcb7e63808272684872c3a103c068a3fb20e9",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "499acda6ed6dc8577c534fc40c289cd056cdc488a74546faba394f74394d392f",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/euphoria-301.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/euphoria-301.md",
         "sha256": "3bb2520dc2f4f6168cac5a6aca9d7902289f602d096afc06b590daeed5803a0f",
         "size": 546
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/euphoria-301.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/euphoria-301.json",
         "sha256": "ac33855ff9f7869803a713951a81a11b843f3feed62632306b5f59bc338102f2",
         "size": 3231
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/euphoria-301.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/euphoria-301.json",
         "sha256": "13e16a33422849a0dd0ffbfb2cbb73b7a54dcfdd75e04558fdf5d09a84d22b2e",
         "size": 366
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -101,7 +96,7 @@
   },
   "published_files": {
     "data/csv/bytes/euphoria-301-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "622eeaf74269b541a2139c488ecef419eead23cf45207a9823500e002a82d909",
-    "docs/itemized/euphoria-301-sample-cache-audit.md": "670a06f7ad3f184cab838f9179974289e294759edaa8ace8a6203b8fc4bb0b19",
+    "docs/itemized/euphoria-301-sample-cache-audit.md": "43819e9525d74e399c587314210156c3c7c7e65d455da392ba141f1a62257424",
     "docs/itemized/figures/euphoria-301-carto-4k.webp": "d9ce3a51658a645373472dc349ca9848dbc2034520186fa462bc5410104ab8eb",
     "docs/itemized/figures/euphoria-301-carto.png": "9bba2449ee65e3441d7042d0fc1856dabd62087932ab400bec7f402beceb25a4",
     "docs/itemized/figures/euphoria-301-cumulative-detail-btiha-itemized-by-bytes.svg": "a0386ff75bb871ce7c1cecb6595c1b18589d7620937af65ba20e08a217ffcc8f",

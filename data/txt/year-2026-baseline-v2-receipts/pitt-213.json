@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "999982494c17f6a5c9ee747864d36eb8501060d49bf13d822ddad21a6f20ee21",
-        "before_sha256": "e95e227ffc92ac41dfed76bc9fd977abc79fd60e2a99dc29489488c618ecc375",
+        "after_sha256": "ee8aced3f3afb3993a5b934d2bdc7545a87daa98ec0785ede9812ac3b502b432",
+        "before_sha256": "999982494c17f6a5c9ee747864d36eb8501060d49bf13d822ddad21a6f20ee21",
         "path": "docs/itemized/pitt-213-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "6461c37e53cc9c4be32e8f5cd7a15f829d57301cbc7963dafad02aaec8d7157b",
-        "before_sha256": "cb18ad6804bfc995ebd31410dcc6ff2a826a4f7831f4f90cdce0460bd49e5d36",
-        "path": "docs/itemized/figures/pitt-213-downloads-by-week-pitt-213-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:09:04.825866+00:00",
+    "checked_at": "2026-10-04T07:00:44.156803+00:00",
     "coverage_sha256": "35abc9381db675f4a7ebeb92c8836159604fd002208c62000a6a7f2ee8b92fc2",
     "day_contract": {
       "collection_key": "pitt-213",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "7a9bb9093fa9534e783db6b53adcff373f6d1cff",
-    "historical_receipt_sha256": "75c204d2a18fec8441dacc0f1bb3233806a6fbbf370fe8a8742b1a35b86e1447",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "38a6ede97898c21f73deaf22695c61560d817193ae7cfe36aac3fbeb858b0685",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/pitt-213.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/pitt-213.md",
         "sha256": "706c036b16d198f067014653221ed79bb925bd29291a9ace92f3a5558e6c1571",
         "size": 876
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/pitt-213.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/pitt-213.json",
         "sha256": "44582be4fbbc879d4848f622445ac84e4fb8b049993c31789797dd46b90c129d",
         "size": 3350
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/pitt-213.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/pitt-213.json",
         "sha256": "d4d49c663609eba2bb717cae2a4ce78235891951462ef36838dcd258aec16a41",
         "size": 362
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/pitt-213-data-lt-1080p.webp": "88cbab86880933590058d6f3f0b4d6a294b6241d09799f149aa244949303acf1",
     "docs/itemized/figures/pitt-213-downloads-by-day-day.svg": "23b32d5f92cfa2d6bc5678a97b4376c4768c74c342cc2619b46f000a0c1cf6fd",
     "docs/itemized/figures/pitt-213-downloads-by-week-pitt-213-week.svg": "6461c37e53cc9c4be32e8f5cd7a15f829d57301cbc7963dafad02aaec8d7157b",
-    "docs/itemized/pitt-213-sample-cache-audit.md": "999982494c17f6a5c9ee747864d36eb8501060d49bf13d822ddad21a6f20ee21",
+    "docs/itemized/pitt-213-sample-cache-audit.md": "ee8aced3f3afb3993a5b934d2bdc7545a87daa98ec0785ede9812ac3b502b432",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

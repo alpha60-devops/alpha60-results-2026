@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "d33ba1898afd182b5c2e6431b4e70f38ab049100c0cb2b6b107de1ee3516e9b6",
-        "before_sha256": "260e6ec712c7a089723f749fd09c760be5c39fe6a83370772e39b3ce276e6891",
+        "after_sha256": "50a11e93c9754d6d4dfef47e85319794641ae5cede512cb6c696982871c589f6",
+        "before_sha256": "d33ba1898afd182b5c2e6431b4e70f38ab049100c0cb2b6b107de1ee3516e9b6",
         "path": "docs/itemized/dark-winds-401-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "8617f22b7196d4bbc466f527a2575bfca933959cee160560d5c7779930b44e06",
-        "before_sha256": "460d02c0bfda548483fab3d365e2d9b4972d1b977a71bbb5bb134f6f9bf4d2d1",
-        "path": "docs/itemized/figures/dark-winds-401-downloads-by-week-dark-winds-401-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:06:08.917058+00:00",
+    "checked_at": "2026-10-04T06:56:57.729176+00:00",
     "coverage_sha256": "019241f184f600968841328f05c0d12259ad2e4ec81a1790c05cded99e82e477",
     "day_contract": {
       "collection_key": "dark-winds-401",
@@ -68,28 +63,28 @@
       "sparse": true,
       "status": "pass"
     },
-    "historical_receipt_revision": "8ef49bd62fa4232be120aca97397bc6d734d6e42",
-    "historical_receipt_sha256": "a85d64f6684b68708810c909aa301e40bbdd2d2ecf56ae74b84fd2b42c6830a3",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "c02b56c4bd178b47e83ab23af9a67802f474655886c13b4d87065674d87fb0f4",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/dark-winds-401.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/dark-winds-401.md",
         "sha256": "af8fdfb6cf7d022858e49cae8755a7c8e195fc7edda72f3c581d965caf2c78b5",
         "size": 741
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/dark-winds-401.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/dark-winds-401.json",
         "sha256": "c723bccd748f362c2f035b8e3af2a5d706d5b6a5a605645cda7536dd1e09a489",
         "size": 2862
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/dark-winds-401.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/dark-winds-401.json",
         "sha256": "b18d276a45dc4efd45a1af6607b07d6dc0931201943c99f6ed55bb1c27b8cb3a",
         "size": 367
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -101,7 +96,7 @@
   },
   "published_files": {
     "data/csv/bytes/dark-winds-401-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "552b2f83641c619965d8d191c7f4336a20b58c145d62c34df4a1463d425af1e6",
-    "docs/itemized/dark-winds-401-sample-cache-audit.md": "d33ba1898afd182b5c2e6431b4e70f38ab049100c0cb2b6b107de1ee3516e9b6",
+    "docs/itemized/dark-winds-401-sample-cache-audit.md": "50a11e93c9754d6d4dfef47e85319794641ae5cede512cb6c696982871c589f6",
     "docs/itemized/figures/dark-winds-401-carto-4k.webp": "92b4df30f0e6f86ebacee9f7a62547d6e86ae8e99df743c617222766a6dcb65e",
     "docs/itemized/figures/dark-winds-401-carto.png": "b587f0cf54cfded302dc1a3904119196ca448fe99a7d5452c55a4a1898cd6b1f",
     "docs/itemized/figures/dark-winds-401-cumulative-detail-btiha-itemized-by-bytes.svg": "625c560ca8fd5067f253009008a66189d9b4f54eb62cd3f8da99d2ee4f2c6007",

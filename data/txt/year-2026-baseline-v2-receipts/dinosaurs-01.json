@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "5dc80ea47402fa1cd222f956552593e28a8b7ba773e827ea9dff316b01f49026",
-        "before_sha256": "efaf6958c1f6806c94d06bc23ab3fd673681adea3030a5dda94dd8b1737ca813",
+        "after_sha256": "b5a21be5133dd8750d6671353b08d184bd85662ede2e1299d8717d62fa0a0dd1",
+        "before_sha256": "5dc80ea47402fa1cd222f956552593e28a8b7ba773e827ea9dff316b01f49026",
         "path": "docs/itemized/dinosaurs-01-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "6461e533b8cdbf0efb5e491cd38ad5d5bc0919b3196ba270cb887c151f694d0d",
-        "before_sha256": "2218e560a3c7800a84d50f06a1ecda9288c95bfde25d829e6da90c9b087d43fa",
-        "path": "docs/itemized/figures/dinosaurs-01-downloads-by-week-dinosaurs-01-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:06:12.615977+00:00",
+    "checked_at": "2026-10-04T06:57:02.015637+00:00",
     "coverage_sha256": "f616b159dd0b866b1102f6ec8411102e756215c08b430882ab646f81406713ff",
     "day_contract": {
       "collection_key": "dinosaurs-01",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "c428e4fabdf33fce501d5a8592b9e3bf9ef13b76",
-    "historical_receipt_sha256": "293ea93dfbaba1caaa607b2dfbcddc5a1292d290ec9be7fd2449b60bf5052df2",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "ec5a86576a42b557a54ae4064043cbcabe07758138062638f584a57d4512656e",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/dinosaurs-01.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/dinosaurs-01.md",
         "sha256": "31b3ed902d868b374c73e7032a8874853e8f6fb2b0a0533481c40fd4b8952504",
         "size": 797
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/dinosaurs-01.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/dinosaurs-01.json",
         "sha256": "10a5cf699960205e714e7d5b599ea2f19889a5a3c8226a27f1b136fc61f2c4d2",
         "size": 2916
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/dinosaurs-01.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/dinosaurs-01.json",
         "sha256": "5dfb1b340127be14b9b44c3700ead4df59619ce9a44450ab8c5e6f22f37e60eb",
         "size": 366
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -101,7 +96,7 @@
   },
   "published_files": {
     "data/csv/bytes/dinosaurs-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "03d183c7fc94e3ec7b3b9d10073a3ec12ecef19126d4436815322e0c2ac7af75",
-    "docs/itemized/dinosaurs-01-sample-cache-audit.md": "5dc80ea47402fa1cd222f956552593e28a8b7ba773e827ea9dff316b01f49026",
+    "docs/itemized/dinosaurs-01-sample-cache-audit.md": "b5a21be5133dd8750d6671353b08d184bd85662ede2e1299d8717d62fa0a0dd1",
     "docs/itemized/figures/dinosaurs-01-carto-4k.webp": "1b8970fa074ffd39b5e69b04f4f71ea4cfc63073b0de049dac12179b2ad2609e",
     "docs/itemized/figures/dinosaurs-01-carto.png": "66ec36e6e9f3ae30a8b7e4d3bdfdb522b344d524513b1f29da1ed8512e14abd4",
     "docs/itemized/figures/dinosaurs-01-cumulative-detail-btiha-itemized-by-bytes.svg": "aee7f0f2c1db974ca686aae747676e8511c84b85544f674bf70d761a8ef4a74a",

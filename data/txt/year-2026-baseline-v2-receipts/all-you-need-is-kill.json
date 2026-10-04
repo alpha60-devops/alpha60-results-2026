@@ -37,9 +37,66 @@
     }
   },
   "media_object": "all-you-need-is-kill",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "2b358b842a9ad5699b1e9ec4352dc0e8572f53f0f24eddb30ff677a597803d67",
+        "before_sha256": "50a646769ee4f92ab26327d06374e25ecb684c12a456f7508e182bc8e283c55e",
+        "path": "docs/itemized/all-you-need-is-kill-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:55:41.922424+00:00",
+    "coverage_sha256": "dbf676a8866865908b7ea50f079bea2860c8fb294e946e62a9ce4d62725f8539",
+    "day_contract": {
+      "collection_key": "all-you-need-is-kill",
+      "day_products": 162,
+      "first_date": "2026-04-16",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-24",
+      "last_index": 162,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "923f626a25b7571eea1f15214768bbf990b72d01",
+    "historical_receipt_sha256": "a1c243a3631ee3cd0db40daf98cbeab2bb4771095870a75aead64af2b98454c7",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/all-you-need-is-kill.md",
+        "sha256": "d4e141a6553764c72261630672c14ad039420d52a418747e98073682d2678375",
+        "size": 7089
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/all-you-need-is-kill.json",
+        "sha256": "b5667fc46498b30064515d40587d7bf79ebc765529870b1d1da4c11f79472ecb",
+        "size": 3437
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/all-you-need-is-kill.json",
+        "sha256": "11a9ff68577c5ab4a01d979bd49071b2dac39dad54cfc44af561a887dc44f5c2",
+        "size": 374
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 24,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/all-you-need-is-kill-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "fb4848a3953f1ef4821a7c0365d9a4e9d488847e83385abfb9c53624c52af94d",
-    "docs/itemized/all-you-need-is-kill-sample-cache-audit.md": "50a646769ee4f92ab26327d06374e25ecb684c12a456f7508e182bc8e283c55e",
+    "docs/itemized/all-you-need-is-kill-sample-cache-audit.md": "2b358b842a9ad5699b1e9ec4352dc0e8572f53f0f24eddb30ff677a597803d67",
     "docs/itemized/figures/all-you-need-is-kill-carto-4k.webp": "61112eaafcfd57cd1ffb6df66ec9dc4355e5225981063f05bc92535f80e77333",
     "docs/itemized/figures/all-you-need-is-kill-carto.png": "3241ee0c1ac0a3551aeea56447a96cae509b4546162bbc9ed2a25362c3d38ab3",
     "docs/itemized/figures/all-you-need-is-kill-cumulative-detail-btiha-itemized-by-bytes.svg": "bb52b5b34459b8f77402025023d19dc0fa15f27aca6720a40b4c84e704d4345d",

@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "37874d00a5bb89607a146f083a7f5ab7b479cba0a611d808f7ab7a06416f37f6",
-        "before_sha256": "d1f40e31e550c4b10071e416a50aecc5a2ce0e9084abb0b1e354078c8f1fe3d5",
+        "after_sha256": "6215305f7c728fa375b95478c820d0ddbd03b50c189599bc5e4efec1e7d2b6b0",
+        "before_sha256": "37874d00a5bb89607a146f083a7f5ab7b479cba0a611d808f7ab7a06416f37f6",
         "path": "docs/itemized/boys-501-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "49af82d310a47bab171f179095bddb66450540912bf4aea350d72dae38bf96db",
-        "before_sha256": "c8b90fe28a7ee9a182532fae0eb356dffeffd0bcb2586a4686af1883db819543",
-        "path": "docs/itemized/figures/boys-501-downloads-by-week-boys-501-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:05:47.474803+00:00",
+    "checked_at": "2026-10-04T06:56:30.493796+00:00",
     "coverage_sha256": "ac74c6e4811e56c3a38324efc0bf97d8363366dee0744cea6a08db9bbfec6ac2",
     "day_contract": {
       "collection_key": "boys-501",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "25c15a15c6531700caf0715e5ee45985ee0e41a8",
-    "historical_receipt_sha256": "3898221f3b8bbfec6e8e6250ad34d418da409ec079f5615ce1f87928cd8b47d0",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "f2a33b5ae0e7b174119a9c21aba742a599acd36431e5ca0b72fc34b29403a29b",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/boys-501.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/boys-501.md",
         "sha256": "3df071b8ce04daf488981d17ba084695d3bd1db6b8b41b700ec468fc99af2638",
         "size": 611
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/boys-501.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/boys-501.json",
         "sha256": "6736cc93597bd00f10fdd4e0d8c8d31ff4f2384b4dbdcfbb430d78b8c7aedc5e",
         "size": 3278
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/boys-501.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/boys-501.json",
         "sha256": "77dce6ac5f09ceb173571ce3ed7f2d884777c769db4e109c306903133dd99ad4",
         "size": 362
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -101,7 +96,7 @@
   },
   "published_files": {
     "data/csv/bytes/boys-501-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "545833f9fd17e0463d6628aeac9a9804df141b692af2e0bec96633bd73512ee8",
-    "docs/itemized/boys-501-sample-cache-audit.md": "37874d00a5bb89607a146f083a7f5ab7b479cba0a611d808f7ab7a06416f37f6",
+    "docs/itemized/boys-501-sample-cache-audit.md": "6215305f7c728fa375b95478c820d0ddbd03b50c189599bc5e4efec1e7d2b6b0",
     "docs/itemized/figures/boys-501-carto-4k.webp": "d56a9d2dcb1e847406d665f593dd183dacf730245ab8a890417961e576adb196",
     "docs/itemized/figures/boys-501-carto.png": "4d46bcbf8a30a7eb278a09805b0b75db0c3d4ed54c8ef35c86164e036b9de62f",
     "docs/itemized/figures/boys-501-cumulative-detail-btiha-itemized-by-bytes.svg": "99be4e100c5c4052803f963142a3cd183d76efd852792a9b74e196023bd03501",

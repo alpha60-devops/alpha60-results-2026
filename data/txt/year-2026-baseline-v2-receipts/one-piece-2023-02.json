@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "2faa9dfafeabf6d7e3e53fdeff60d0c7a99c22f6dd7453af15a4ab90f3972fa2",
-        "before_sha256": "0e7d4eed606dc0edf1c688925f50a8c7080b20d5091aafcacc2823214ced26b8",
+        "after_sha256": "a71dcd8e9bd36c03311c38f39afb3de81a07b5cf7d461fbeb1e7531aed08b7e4",
+        "before_sha256": "2faa9dfafeabf6d7e3e53fdeff60d0c7a99c22f6dd7453af15a4ab90f3972fa2",
         "path": "docs/itemized/one-piece-2023-02-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "a02a4fdeb7efdd3d5f68d4b4e4fb1d74b1e579a1f60cd51fb352d8859e0a22cf",
-        "before_sha256": "07513b3c43dbb41f980ac2435aae6c595699a0b840fe706bf277f6e82faff6a2",
-        "path": "docs/itemized/figures/one-piece-2023-02-downloads-by-week-one-piece-2023-02-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:08:44.956889+00:00",
+    "checked_at": "2026-10-04T07:00:20.238317+00:00",
     "coverage_sha256": "5c12d4d92a54ea1e88419d7510730467356f113606e6be2bee6e02288ab5849c",
     "day_contract": {
       "collection_key": "one-piece-2023-02",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "53f7c7902668da7ea232fdb8e247ee5050db437d",
-    "historical_receipt_sha256": "db4e9d6d96a91f97fe526250e52955e930d95393e21d24fc9af70de410cfca57",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "d2730fc4c706370c0eff5096c816162dbb729078ffb60f7267a7f1c6ad83e7fa",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/one-piece-2023-02.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/one-piece-2023-02.md",
         "sha256": "09d42bddb83e1e8e2d5671d1ad9518655b959925be82d4c49509a0d845ec7d70",
         "size": 629
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/one-piece-2023-02.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/one-piece-2023-02.json",
         "sha256": "71adb8c7ef2e2beab2a9dd62916e68727e22400347d0b1cea06c758f6fdbe875",
         "size": 3567
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/one-piece-2023-02.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/one-piece-2023-02.json",
         "sha256": "cc7abdca6af3e9953b9f9c442e679494bb307b6e46adf3a25d5433617b432b7c",
         "size": 371
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/one-piece-2023-02-data-lt-1080p.webp": "f0d5920d5bce7390ea93612b80a32a7438be7efd72f62e65d88f536a4e184810",
     "docs/itemized/figures/one-piece-2023-02-downloads-by-day-day.svg": "580857ab64da260970a6c3fdecff501e1a76ed7d75f9a2dadb583fca7efdcb77",
     "docs/itemized/figures/one-piece-2023-02-downloads-by-week-one-piece-2023-02-week.svg": "a02a4fdeb7efdd3d5f68d4b4e4fb1d74b1e579a1f60cd51fb352d8859e0a22cf",
-    "docs/itemized/one-piece-2023-02-sample-cache-audit.md": "2faa9dfafeabf6d7e3e53fdeff60d0c7a99c22f6dd7453af15a4ab90f3972fa2",
+    "docs/itemized/one-piece-2023-02-sample-cache-audit.md": "a71dcd8e9bd36c03311c38f39afb3de81a07b5cf7d461fbeb1e7531aed08b7e4",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

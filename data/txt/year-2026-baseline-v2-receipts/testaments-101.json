@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "8cd25141bdb9a29d01ac58d0f2b1db2251142161528a2a2d8391344bb32b30fe",
-        "before_sha256": "23efc745c02d3c05de88e233f5c4f10acd964ebcde64fd3f3709d37b49744b51",
+        "after_sha256": "caba3a82b5c8b62ae3cd89ef5101bbbbb1f9cd3007db347f6a0e6cc9c8f40e2e",
+        "before_sha256": "8cd25141bdb9a29d01ac58d0f2b1db2251142161528a2a2d8391344bb32b30fe",
         "path": "docs/itemized/testaments-101-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "2dcd6353ab47af3cb1022f80ae8bc994720f631892f36e1cfa6bb30e47016880",
-        "before_sha256": "11c5083359b928983d76a1ef0aa4c720c6a6371c8f4b9684701022274dda5bae",
-        "path": "docs/itemized/figures/testaments-101-downloads-by-week-testaments-101-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:10:13.846458+00:00",
+    "checked_at": "2026-10-04T07:02:09.728070+00:00",
     "coverage_sha256": "a695b85a0d927de05d02b5766f4d71b5669a3be2a21c889ca369c43d92353f1e",
     "day_contract": {
       "collection_key": "testaments-101",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "03e4e3413533189215488bfbc7b6001e1bbdd3b8",
-    "historical_receipt_sha256": "6298edfe0181619cb8f2a3948cc99d81c88d22115cfabb8164353261a3d1a1c8",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "270cbc787a60b7b3c6cf134ff89a73b1b31b35e3a1c72e4ac25b948a521dc9f0",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/testaments-101.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/testaments-101.md",
         "sha256": "dc77263d2e8d0288dcd8907ba836cbbd422a52b578897b42ea17bc578aa76c69",
         "size": 550
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/testaments-101.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/testaments-101.json",
         "sha256": "ae0f7f18f9073b73f57e9defbd159d619aa710193ded66edfec88b7c732ad0a3",
         "size": 2861
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/testaments-101.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/testaments-101.json",
         "sha256": "c38fa1c83ab55c212db1affc5d4a62dc25e31d00b0256ab1f37aa8a4ad2fecec",
         "size": 368
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/testaments-101-data-lt-1080p.webp": "2d462e9852e42d9d7934f22c62b71fbf7c468546714a0e1bb0b07c57f0eb9dc9",
     "docs/itemized/figures/testaments-101-downloads-by-day-day.svg": "162b24baaaa1e1a14c560dcba883bcbc77e39f5e22cb23c90e679e6b9161d314",
     "docs/itemized/figures/testaments-101-downloads-by-week-testaments-101-week.svg": "2dcd6353ab47af3cb1022f80ae8bc994720f631892f36e1cfa6bb30e47016880",
-    "docs/itemized/testaments-101-sample-cache-audit.md": "8cd25141bdb9a29d01ac58d0f2b1db2251142161528a2a2d8391344bb32b30fe",
+    "docs/itemized/testaments-101-sample-cache-audit.md": "caba3a82b5c8b62ae3cd89ef5101bbbbb1f9cd3007db347f6a0e6cc9c8f40e2e",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

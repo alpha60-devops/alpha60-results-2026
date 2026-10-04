@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "85c2afb66dd840d7ea3bcaf3ac11cd9125c81e11f73ff3995782516416025723",
-        "before_sha256": "ecc0823efb52eac7da2232020afb4cd133e6b19030928dd9b9abb1dd9cb1c71f",
+        "after_sha256": "15ca696cbd48c33012e2b4d248786eb559606ce3795f7189cfdda58347119c84",
+        "before_sha256": "85c2afb66dd840d7ea3bcaf3ac11cd9125c81e11f73ff3995782516416025723",
         "path": "docs/itemized/sugar-201-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "b461da560ea3355ba7d3837c3d9846c4703aaa54ec79b0db9368961143250231",
-        "before_sha256": "e1ff88816fbf8f7fb1c73e69caa83eb0b40ff48cc38318e56f8feed2ac1d9286",
-        "path": "docs/itemized/figures/sugar-201-downloads-by-week-sugar-201-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:10:02.137042+00:00",
+    "checked_at": "2026-10-04T07:01:56.512278+00:00",
     "coverage_sha256": "a1c3be228f0253b6fe0cc296a8a1735bc9b218c0c03a0e8537b8fe1979901a76",
     "day_contract": {
       "collection_key": "sugar-201",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "5aee95355c6c0e7a2760d8e2328c3766a69e00b4",
-    "historical_receipt_sha256": "4033117b1b0d5c7080a6a3539182aa791835ce48047d9955a1b18be053a63463",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "e4a15327e6fefa7e480c6a4dc3f7324da31dfb50dabc52b4edae0a4e9ac97716",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/sugar-201.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/sugar-201.md",
         "sha256": "caab5c0f697679fc4b71c013e597ab118b3399bddbcac3cda33472cee0265e0b",
         "size": 540
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/sugar-201.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/sugar-201.json",
         "sha256": "3d2f1b5459c3634c63f27fb10ea9067e7aa58c34b6da5b11ca3ce80fdd390986",
         "size": 2662
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/sugar-201.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/sugar-201.json",
         "sha256": "a16ef0d93abd1cd4c2d452c72970c8f1c62032f78f5f365cfa9a3426f6f633fa",
         "size": 361
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/sugar-201-data-lt-1080p.webp": "d2f1fd21b9220f4d74cda400d89ba4d3655170d59683319934dd92c263f3307f",
     "docs/itemized/figures/sugar-201-downloads-by-day-day.svg": "39bdab4bea6294fa687d8c4c3ea0f731d17c491cca83acab7ad9d498bc8971b1",
     "docs/itemized/figures/sugar-201-downloads-by-week-sugar-201-week.svg": "b461da560ea3355ba7d3837c3d9846c4703aaa54ec79b0db9368961143250231",
-    "docs/itemized/sugar-201-sample-cache-audit.md": "85c2afb66dd840d7ea3bcaf3ac11cd9125c81e11f73ff3995782516416025723",
+    "docs/itemized/sugar-201-sample-cache-audit.md": "15ca696cbd48c33012e2b4d248786eb559606ce3795f7189cfdda58347119c84",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

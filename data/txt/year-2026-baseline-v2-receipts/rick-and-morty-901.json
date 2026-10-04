@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "e7a3d9f03efaebf60772556549b486a0ccc60bcaae3da25aed857c231b265c4d",
-        "before_sha256": "5af961e4085beca1bd66c0bc035f9ba37d5e4441273350a9f1722d537732f2d1",
+        "after_sha256": "290f5f6096a04d5991c8ca34cf2135a0fb86377ba1659738954cfc1235ecbdec",
+        "before_sha256": "e7a3d9f03efaebf60772556549b486a0ccc60bcaae3da25aed857c231b265c4d",
         "path": "docs/itemized/rick-and-morty-901-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "2af3cb3e91966b865d749e23d5f2e545e78bb6c6734f5cbc8ead274ea164da21",
-        "before_sha256": "a1c2a4ecf0e278deb542b665e0d922a263abe21509aaf81b811dbe584992bd3e",
-        "path": "docs/itemized/figures/rick-and-morty-901-downloads-by-week-rick-and-morty-901-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:09:19.156922+00:00",
+    "checked_at": "2026-10-04T07:01:03.169360+00:00",
     "coverage_sha256": "70291f4f0222c710e8244a292f453f84d3be75dff8e5c890e922b4e1df993a39",
     "day_contract": {
       "collection_key": "rick-and-morty-901",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "dd33772696dd3befc6a21f8dfc64e4abc8422bc0",
-    "historical_receipt_sha256": "c4d0f7bbdb5001945c96c0890d160509b4bc6f77289410ab5359f6eda205da57",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "a698880b55598b89e3ecd577be50d5979a8aed42f88755a96836639108817b1a",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/rick-and-morty-901.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/rick-and-morty-901.md",
         "sha256": "68dd20755ec81dbc29aa52c9373c8e0ad4beabc4827c32764f97c331aa61798c",
         "size": 558
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/rick-and-morty-901.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/rick-and-morty-901.json",
         "sha256": "c29274076598fb73e2b30ad8cf1576fabd40c642ddcadf8f8622b78bddce2eaf",
         "size": 2877
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/rick-and-morty-901.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/rick-and-morty-901.json",
         "sha256": "18ad91f62039113437fb69b7e7c835e71f9a188d1f625e17b32fd2f1b5309251",
         "size": 372
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/rick-and-morty-901-data-lt-1080p.webp": "7d6c4f110aa46a64dd67db424cca5f34acac2e8210c704afa5e76a00d5418150",
     "docs/itemized/figures/rick-and-morty-901-downloads-by-day-day.svg": "c2427888091b174c6c7d069aeb8d9fa917196f46c65f84f839281b753105ee3f",
     "docs/itemized/figures/rick-and-morty-901-downloads-by-week-rick-and-morty-901-week.svg": "2af3cb3e91966b865d749e23d5f2e545e78bb6c6734f5cbc8ead274ea164da21",
-    "docs/itemized/rick-and-morty-901-sample-cache-audit.md": "e7a3d9f03efaebf60772556549b486a0ccc60bcaae3da25aed857c231b265c4d",
+    "docs/itemized/rick-and-morty-901-sample-cache-audit.md": "290f5f6096a04d5991c8ca34cf2135a0fb86377ba1659738954cfc1235ecbdec",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

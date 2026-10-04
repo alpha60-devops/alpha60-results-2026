@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "de09a3014a5a95418fa88782b749e15ab79bc8ed4dd3588f9d5fa4d7d87cfac6",
-        "before_sha256": "06fb82f4ffaed25049244973e9466eb672fd0eea4dd7f0aca5a1361911802613",
+        "after_sha256": "806402ec78b414fc769163db44d9172bd8dec27a26fdf71dff55613ae77d2748",
+        "before_sha256": "de09a3014a5a95418fa88782b749e15ab79bc8ed4dd3588f9d5fa4d7d87cfac6",
         "path": "docs/itemized/olympics-2026-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "d18207054bc068d99d615255110a2eae1397148022f212e424b1c103553028db",
-        "before_sha256": "074b163c6b9a1d70e68a577f894bd3680e977b59853a5ceb6705dc8ccc935817",
-        "path": "docs/itemized/figures/olympics-2026-downloads-by-week-olympics-2026-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:08:34.039559+00:00",
+    "checked_at": "2026-10-04T07:00:06.968332+00:00",
     "coverage_sha256": "af3562f3259b79c2651de41d724e6d68316631c23c062f2e3ad70c0fddbfeb29",
     "day_contract": {
       "collection_key": "olympics-2026",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "33ca0ba2fad0c470090ddd6c22bc3d0dd3503c0d",
-    "historical_receipt_sha256": "356018c4d9f891aebfab635de39287d9ad7f604ed144f8e2a96d7ac1ff1b9646",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "8ba8794be62b92c9ab70990c03657f7a43a1ab848cb9d99c209ee31ba3802306",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/olympics-2026.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/olympics-2026.md",
         "sha256": "1322731584f9ce0bf428aa12414013f1b53589fe0d2f5afa6833dc21b1f16529",
         "size": 621
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/olympics-2026.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/olympics-2026.json",
         "sha256": "9f3a2ea0db185212689592a39c467a6a232e4fe2b85c568b37444c6662d01714",
         "size": 2876
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/olympics-2026.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/olympics-2026.json",
         "sha256": "78ca65228d088995a107552425bcedf8abf7301de032695418a43e7bc8a60067",
         "size": 367
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/olympics-2026-data-lt-1080p.webp": "b3eab4bb01ca0a93228a75274263fd71fa0cc717842df7a462d7f0f76fc26adb",
     "docs/itemized/figures/olympics-2026-downloads-by-day-day.svg": "a070453d9d7c7b948596524526dbd084fc040890648212d2816a9609386bc9cd",
     "docs/itemized/figures/olympics-2026-downloads-by-week-olympics-2026-week.svg": "d18207054bc068d99d615255110a2eae1397148022f212e424b1c103553028db",
-    "docs/itemized/olympics-2026-sample-cache-audit.md": "de09a3014a5a95418fa88782b749e15ab79bc8ed4dd3588f9d5fa4d7d87cfac6",
+    "docs/itemized/olympics-2026-sample-cache-audit.md": "806402ec78b414fc769163db44d9172bd8dec27a26fdf71dff55613ae77d2748",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

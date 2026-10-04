@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "2216e3cdd22eb002501405b9182289295a02396205c92f5b8048d73d3eacf368",
-        "before_sha256": "63a2a299b505506d08c95648300af0cb8570a7ee8dfda540a8db69d884bc4f92",
+        "after_sha256": "eb97d7c3a5d499d257e836035c68fde6dc340337d21b8c02c0c334ce099ed3a2",
+        "before_sha256": "2216e3cdd22eb002501405b9182289295a02396205c92f5b8048d73d3eacf368",
         "path": "docs/itemized/backrooms-2026-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "8392278cb2dfdce62813039ec5817934f4d7cee6b9714bb0b8fc658989bb6712",
-        "before_sha256": "7adabc8c1fef44d2f4d89b38ed6dcfb920ab50e76a4c598e41d7e5de7fddd6db",
-        "path": "docs/itemized/figures/backrooms-2026-downloads-by-week-backrooms-2026-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:05:13.835328+00:00",
+    "checked_at": "2026-10-04T06:55:50.283444+00:00",
     "coverage_sha256": "fd6e9938602f3a6f0a63010c32ecbfcebb4d3d54323a2e8a0befd22cf25ea712",
     "day_contract": {
       "collection_key": "backrooms-2026",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "5c7404c255298e29e4036c60238f7b16e5b98e2b",
-    "historical_receipt_sha256": "2f9e96a6251fbc4b06caf4deab8ed704eabba66ff5e84bcb49fe095c13ac73c6",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "0dfc190e7d3cca9ea203d6b432e343a8219ae10ed9e4faf3a16774802cdb76a8",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/backrooms-2026.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/backrooms-2026.md",
         "sha256": "3d984463c2e557cba91e7b957cce846c35ea72b2484528ed013726780040d0f1",
         "size": 545
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/backrooms-2026.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/backrooms-2026.json",
         "sha256": "53564d2c24b58038043340a861bfe892fddbb198166da6be8f25caf16440dcb3",
         "size": 2458
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/backrooms-2026.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/backrooms-2026.json",
         "sha256": "45fcb53775a9f093691a44468930059277c067357e4195e1d0716e9420de4889",
         "size": 366
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -101,7 +96,7 @@
   },
   "published_files": {
     "data/csv/bytes/backrooms-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "3aee20d6714c58c05561a1d8f64a6496ed7ab02186839c7f2143857467aeb6e2",
-    "docs/itemized/backrooms-2026-sample-cache-audit.md": "2216e3cdd22eb002501405b9182289295a02396205c92f5b8048d73d3eacf368",
+    "docs/itemized/backrooms-2026-sample-cache-audit.md": "eb97d7c3a5d499d257e836035c68fde6dc340337d21b8c02c0c334ce099ed3a2",
     "docs/itemized/figures/backrooms-2026-carto-4k.webp": "76f26b272441bc1595e2c24099cdc65fe3864ad878c75c26aec54db0e54908e6",
     "docs/itemized/figures/backrooms-2026-carto.png": "9bb53b11c4045480b340f8a1ef4900952e4a2cf7485512df3fa20a111b6e3bdc",
     "docs/itemized/figures/backrooms-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "b67ad67b10f915714b3c523b3727618ca11d495518c8f1e11b43c930b137db51",

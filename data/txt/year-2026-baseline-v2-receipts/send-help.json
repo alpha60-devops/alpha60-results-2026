@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "5c815d608c18984617d7c9fcfb3b64cc04f5fcbba1de8b6bd801edf2d889a26f",
-        "before_sha256": "6140b84c5161c9f1a9e01c23eebd8350f1f4c2f71610d9d644a7e6bb6cfb678f",
+        "after_sha256": "6e744a08275ce5650faeb90db98baa75a9507c7b4ca27a0959507d8ea004b544",
+        "before_sha256": "5c815d608c18984617d7c9fcfb3b64cc04f5fcbba1de8b6bd801edf2d889a26f",
         "path": "docs/itemized/send-help-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "48f05946423c696903c40dd2880cdda488db3d5787f9c017bf405a8aa215d382",
-        "before_sha256": "7b35ee9cd2abcd7c851b2480198a9ad8fd59f7603509f97c0c84a81727705059",
-        "path": "docs/itemized/figures/send-help-downloads-by-week-send-help-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:09:27.627194+00:00",
+    "checked_at": "2026-10-04T07:01:16.559495+00:00",
     "coverage_sha256": "36ca8b22c9a3ee3b999fc8e336a6a96cac39c8b0bdf0247486b5bd860656a5d8",
     "day_contract": {
       "collection_key": "send-help",
@@ -68,28 +63,28 @@
       "sparse": true,
       "status": "pass"
     },
-    "historical_receipt_revision": "fbd2eaa858a6bc99cb7a8d0fc4121119c1c50af9",
-    "historical_receipt_sha256": "bc961144f217a9b7e1b51b80ef1c18d1cacb1d2016c9589bcde66ed82a20f3f2",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "f37a5f79f72f2206aaf4789f8e042fbdb12dd2c94b3259b418fdfcc56014023d",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/send-help.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/send-help.md",
         "sha256": "1282b0b14bfa709c5238aee3da8d477381a2148181ec702b0aefd23aacb458f5",
         "size": 908
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/send-help.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/send-help.json",
         "sha256": "02a538380955c51b215ad22f3bf98e5a9a47d61e4b74b5a6c5d939c0fca50d35",
         "size": 3409
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/send-help.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/send-help.json",
         "sha256": "182d29d33fdf7949debee5fff5f37df465fba22a33bfd9dae8bc038a6223f55f",
         "size": 362
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/send-help-data-lt-1080p.webp": "70d2d0bc938708771c008887a8e74dc016cfb3ea34b18fe763b42fbf8b5f9d5a",
     "docs/itemized/figures/send-help-downloads-by-day-day.svg": "12f8668345bad7b35616b928bf101700b820cd457d1f968da7367ad54e4ec580",
     "docs/itemized/figures/send-help-downloads-by-week-send-help-week.svg": "48f05946423c696903c40dd2880cdda488db3d5787f9c017bf405a8aa215d382",
-    "docs/itemized/send-help-sample-cache-audit.md": "5c815d608c18984617d7c9fcfb3b64cc04f5fcbba1de8b6bd801edf2d889a26f",
+    "docs/itemized/send-help-sample-cache-audit.md": "6e744a08275ce5650faeb90db98baa75a9507c7b4ca27a0959507d8ea004b544",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

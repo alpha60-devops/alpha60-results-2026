@@ -37,6 +37,63 @@
     }
   },
   "media_object": "lanterns-101",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "1d2978625fb363b71f338032b05835238cc7846c567bf190ebdb649930c3967a",
+        "before_sha256": "2274db06707d72a28ebcfde9f320b8d7c5116a3f72f23b777156e7a5be040975",
+        "path": "docs/itemized/lanterns-101-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:58:47.119317+00:00",
+    "coverage_sha256": "3e74810279d4ee19b29d6e60fea9bc3e5f4153e50c451c46a3dc27126740d9be",
+    "day_contract": {
+      "collection_key": "lanterns-101",
+      "day_products": 43,
+      "first_date": "2026-08-17",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-28",
+      "last_index": 43,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "bdbe4027c22c053d6c091df741f0f3ad5b5b996f",
+    "historical_receipt_sha256": "b1f375a2dc032aa2ad0ffb2dfc3134de4f13a8cd866f075e18d2883350797a8b",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/lanterns-101.md",
+        "sha256": "ec9054b9a88eafaf26059c925d14da24e1c7c5f8b24b4bcb14716a4ce1288bbb",
+        "size": 895
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/lanterns-101.json",
+        "sha256": "de09bcf2530e77e0e61353df40009ae9f38c212c477c878aef6a98e9dd7d4bfa",
+        "size": 2390
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/lanterns-101.json",
+        "sha256": "6dc0fa62e536fd50bafc132c8943989d74aa3a53ad8be9cc86ec9ecf226fc486",
+        "size": 364
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 7,
+      "y_tick_labels": 22
+    }
+  },
   "published_files": {
     "data/csv/bytes/lanterns-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "197d69dc54b3fae4dbc20c6489df921433e3426ba64ec86978fbfe8ff655952c",
     "docs/itemized/figures/lanterns-101-carto-4k.webp": "4ee6df0861528af6ec1cb0b5ab79d5196aba52400b3eda6f8068f6c0c111ca0f",
@@ -48,7 +105,7 @@
     "docs/itemized/figures/lanterns-101-data-lt-1080p.webp": "3e8f3fd8b42e6558da096e9144b20b5ab1dca13ee648289c39a0d07c5bda6bdb",
     "docs/itemized/figures/lanterns-101-downloads-by-day-day.svg": "0965dc592ae8a79ca6599ba595dd80aa4f1dff9c3e0ee230f6cf4ec5aae79ce1",
     "docs/itemized/figures/lanterns-101-downloads-by-week-lanterns-101-week.svg": "baa2405b1ef4d515462e0f0f6852227a8a1166a994b3c09442c45f96860c536f",
-    "docs/itemized/lanterns-101-sample-cache-audit.md": "2274db06707d72a28ebcfde9f320b8d7c5116a3f72f23b777156e7a5be040975",
+    "docs/itemized/lanterns-101-sample-cache-audit.md": "1d2978625fb363b71f338032b05835238cc7846c567bf190ebdb649930c3967a",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

@@ -37,6 +37,63 @@
     }
   },
   "media_object": "lego-star-wars-the-mandalorian-2026",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "4484dc015a069a33e067f5a5bd90de623b65c4755f2293e1bbf0f6c245e12825",
+        "before_sha256": "49848492e1612161f2f520c3d1edbd55908ee209d3262e11e9f8558048039c80",
+        "path": "docs/itemized/lego-star-wars-the-mandalorian-2026-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:58:50.847748+00:00",
+    "coverage_sha256": "f37f9cbcf8678b7be3c03978da0070c06ad218d694380ff57187d8c3c04e9ef1",
+    "day_contract": {
+      "collection_key": "lego-star-wars-the-mandalorian-2026",
+      "day_products": 30,
+      "first_date": "2026-09-03",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-10-02",
+      "last_index": 30,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "11359ec4fc7e84ffff2bec9e7c272ab69aed969c",
+    "historical_receipt_sha256": "90ad50cd500263a1c8ba98c561003257e22793df1fbecdb274153f2a76594e7c",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/lego-star-wars-the-mandalorian-2026.md",
+        "sha256": "152acfe95608a5b87ef058b10e0903ba0943890a71875ccb02b6688931e1ccf5",
+        "size": 939
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/lego-star-wars-the-mandalorian-2026.json",
+        "sha256": "272d059fec40765faf57a8af0619a21654ff3bf9b7ff095009e0fcffa74d5f15",
+        "size": 2373
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/lego-star-wars-the-mandalorian-2026.json",
+        "sha256": "1b27fd432cf0aad2ab3ae2e1d22cf5639ac099cfeaaf8685643619665b0bb03b",
+        "size": 387
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 5,
+      "y_tick_labels": 22
+    }
+  },
   "published_files": {
     "data/csv/bytes/lego-star-wars-the-mandalorian-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "a42246a98f5c0c17e6fb652b375f6179e39e2eb371e9e76b97c80d94d6c3588b",
     "docs/itemized/figures/lego-star-wars-the-mandalorian-2026-carto-4k.webp": "babcbe762b6f466add21c86da5ce83b782bba37ecc9c8602d2e5f84bfe8400fa",
@@ -48,7 +105,7 @@
     "docs/itemized/figures/lego-star-wars-the-mandalorian-2026-data-lt-1080p.webp": "b77bc736c4cc154d8a891869fbfc00e251b7987b43172d61c7b25b40ec5ab02f",
     "docs/itemized/figures/lego-star-wars-the-mandalorian-2026-downloads-by-day-day.svg": "41e469e78e9a6e90ea2cf4f9d02a16bbd67c8a02deb365fbcaf4ab86686fc01e",
     "docs/itemized/figures/lego-star-wars-the-mandalorian-2026-downloads-by-week-lego-star-wars-the-mandalorian-2026-week.svg": "b49a40f558e0ae21d9af06ca483a21a6b4ee01c16e1d4c68529111b5bd0c0c63",
-    "docs/itemized/lego-star-wars-the-mandalorian-2026-sample-cache-audit.md": "49848492e1612161f2f520c3d1edbd55908ee209d3262e11e9f8558048039c80",
+    "docs/itemized/lego-star-wars-the-mandalorian-2026-sample-cache-audit.md": "4484dc015a069a33e067f5a5bd90de623b65c4755f2293e1bbf0f6c245e12825",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

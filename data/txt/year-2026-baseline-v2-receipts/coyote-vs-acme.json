@@ -37,9 +37,66 @@
     }
   },
   "media_object": "coyote-vs-acme",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "5e1797ac0bce759a8f535bacc20b0887f92d5f4a3e57b01792fb2463024ae7fb",
+        "before_sha256": "db36bd6ba7e5b47fae5c14e5d7c6066dde7ce7e024fde0192de09bf1ce85c653",
+        "path": "docs/itemized/coyote-vs-acme-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:56:53.285709+00:00",
+    "coverage_sha256": "2b5600e40cd3de6dc37fea2fd1ac4a3fc6dcbfc311eb16af46ebc6af43a4811a",
+    "day_contract": {
+      "collection_key": "coyote-vs-acme",
+      "day_products": 29,
+      "first_date": "2026-08-31",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-28",
+      "last_index": 29,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "a07681ce1138bbf1c4364101d6f8a37d774dc0a5",
+    "historical_receipt_sha256": "e515edfd91b43b56f59895b65c350aef55c03befba909d5d76c48536dd100869",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/coyote-vs-acme.md",
+        "sha256": "7dff68d60aa9412752d74533e45a053ad7c1e027baed6dd217eba1dd51c47871",
+        "size": 897
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/coyote-vs-acme.json",
+        "sha256": "625dc556fcef5f92ad08c67ac52ae050045cac11b4b1208dab4e654f86779850",
+        "size": 2281
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/coyote-vs-acme.json",
+        "sha256": "3e12dacc7c8dad8e9bcd3f97532710c4c0ffc8545277676b0571d244eaab940d",
+        "size": 366
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 5,
+      "y_tick_labels": 22
+    }
+  },
   "published_files": {
     "data/csv/bytes/coyote-vs-acme-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "cb42f74d18d3eb4c31347ff50872c8559f363e7d210d64169bcb987f5c849414",
-    "docs/itemized/coyote-vs-acme-sample-cache-audit.md": "db36bd6ba7e5b47fae5c14e5d7c6066dde7ce7e024fde0192de09bf1ce85c653",
+    "docs/itemized/coyote-vs-acme-sample-cache-audit.md": "5e1797ac0bce759a8f535bacc20b0887f92d5f4a3e57b01792fb2463024ae7fb",
     "docs/itemized/figures/coyote-vs-acme-carto-4k.webp": "4d7c319110cf5e3599805165974130c1d945d0cd97bcf89f9340668988da261d",
     "docs/itemized/figures/coyote-vs-acme-carto.png": "90d274c5afd84af19ed01c64490c85a10253507babee3450ce30c8665b7a32b3",
     "docs/itemized/figures/coyote-vs-acme-cumulative-detail-btiha-itemized-by-bytes.svg": "e677c7b452251caa466a717c3414606790af9dd3a8107c42155ad1136e6cc50c",

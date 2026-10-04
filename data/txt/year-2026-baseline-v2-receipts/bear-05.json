@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "efb953cc138d5cad100d935165000ffe8c026172980211ef0ad2bb34660d99cd",
-        "before_sha256": "3e9760bae7715b3e69de38928a4fa0933b07b18ec594ea291866056d792fba53",
+        "after_sha256": "fa22b77c250b2d16f9d89096432fd1276293a9b796e5234e7b88fb4ffb5d760e",
+        "before_sha256": "efb953cc138d5cad100d935165000ffe8c026172980211ef0ad2bb34660d99cd",
         "path": "docs/itemized/bear-05-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "666761b03017a89ed85cd6f61b94c2a0fe3c6cceba64b7f8d8008a4f2ca35efd",
-        "before_sha256": "27b6d57fde445517fd4b08594bae3be871722edc56c99abfe162d6f494ec4b96",
-        "path": "docs/itemized/figures/bear-05-downloads-by-week-bear-05-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:05:20.118561+00:00",
+    "checked_at": "2026-10-04T06:55:57.507200+00:00",
     "coverage_sha256": "e2bc8832b29aeb44378f330e18de70b752956044e8f6f303239118ce685fb35b",
     "day_contract": {
       "collection_key": "bear-05",
@@ -68,28 +63,28 @@
       "sparse": true,
       "status": "pass"
     },
-    "historical_receipt_revision": "f4708eb2bb99b96c0461d5c5c9fe8b8ca75ab740",
-    "historical_receipt_sha256": "9060f93f475cf23d098e2629af06ab347d5b46e7a7b66b30fd66e06351742ca2",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "84b6852d298b0ef3caa713eb8fbcc5f9b5980c27a536c5a38fc448b8141c6b82",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/bear-05.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/bear-05.md",
         "sha256": "1056e2c7e063145357e56d811f8a04dd535450694d51902899597c8e58b3fd04",
         "size": 639
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/bear-05.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/bear-05.json",
         "sha256": "21eb770fe5ca86301bfec1d9c51b879190ce4cc2e1189f48f6851d4ac1fa8489",
         "size": 2607
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/bear-05.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/bear-05.json",
         "sha256": "88722c7f6845924a07d770e982f010107df026c5321f7f0d49008dfb4f992a8e",
         "size": 358
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -101,7 +96,7 @@
   },
   "published_files": {
     "data/csv/bytes/bear-05-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "40eca92a567f657c36a7b77ca1f29193f109b72892dec5cc90c7130bdfa29ec6",
-    "docs/itemized/bear-05-sample-cache-audit.md": "efb953cc138d5cad100d935165000ffe8c026172980211ef0ad2bb34660d99cd",
+    "docs/itemized/bear-05-sample-cache-audit.md": "fa22b77c250b2d16f9d89096432fd1276293a9b796e5234e7b88fb4ffb5d760e",
     "docs/itemized/figures/bear-05-carto-4k.webp": "797800b37dbda49a196a9b62019ab059818c28b46106a0b74c85b7ceb82ebc6b",
     "docs/itemized/figures/bear-05-carto.png": "8c2de1804589b9c7d921c1d5ac3c619a23a36603b27410759a905ef8a2adbea9",
     "docs/itemized/figures/bear-05-cumulative-detail-btiha-itemized-by-bytes.svg": "4c9dab93a1e60dfda03af8f1ec56ed6ab94a6f236fa8eba64574f0930777ca41",

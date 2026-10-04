@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "717935281711e12b4376a90738898c7c3bce3257075903971d546d9cf58ae267",
-        "before_sha256": "11885e29c005c87d2310cf4e857fc78f5d8aebf1c6027097571a5c5ff166af1f",
+        "after_sha256": "78934151b79856eb7d90c22ea16b8bba80fba5b1949907dc8bc66401ec5ded9f",
+        "before_sha256": "717935281711e12b4376a90738898c7c3bce3257075903971d546d9cf58ae267",
         "path": "docs/itemized/hijack-201-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "dbcdd7b07d0330287255b9bdaf587481e98cbdb2192dac68c5d73fd52b909954",
-        "before_sha256": "744074176550b35df692da204daa4eb7c59ce0eb836e268ff701864a04568e52",
-        "path": "docs/itemized/figures/hijack-201-downloads-by-week-hijack-201-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:06:52.631114+00:00",
+    "checked_at": "2026-10-04T06:57:56.077129+00:00",
     "coverage_sha256": "2c8d912243baf2fe69bc9592b090827d5482a4d88269f3b29d11f094cf6feee2",
     "day_contract": {
       "collection_key": "hijack-201",
@@ -68,28 +63,28 @@
       "sparse": true,
       "status": "pass"
     },
-    "historical_receipt_revision": "649f5a2f36b672475552dd455959ecd9aae39862",
-    "historical_receipt_sha256": "080b4d3d5ea9cd7047c838051f5845a1e3ac3bf91a938e80d59e2996fdf97125",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "b16a9a3d769c1e6947d720d1f776f6886b2335469eb6b20cdc5e0b54a63329a3",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/hijack-201.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/hijack-201.md",
         "sha256": "7f877ce8822940fc4d93c75727c18dc83ed52786cca64ace1630285663e2712a",
         "size": 733
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/hijack-201.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/hijack-201.json",
         "sha256": "aef7367848aad67a46fd8c291f772daff341fde60271afae5fd87170c74915c7",
         "size": 2855
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/hijack-201.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/hijack-201.json",
         "sha256": "6710c8074a862c1336e8e92a9ded2e1d4c0dfbec81faa3733613fc69da83f348",
         "size": 363
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/hijack-201-data-lt-1080p.webp": "07baeeb5d09c45f7c63802fb408a03e2d054da3810f815b62cdc119ca680d20c",
     "docs/itemized/figures/hijack-201-downloads-by-day-day.svg": "d69e6f0f722681d46a37f963da1b7828325a1883891d9c8918a37ae689a04d09",
     "docs/itemized/figures/hijack-201-downloads-by-week-hijack-201-week.svg": "dbcdd7b07d0330287255b9bdaf587481e98cbdb2192dac68c5d73fd52b909954",
-    "docs/itemized/hijack-201-sample-cache-audit.md": "717935281711e12b4376a90738898c7c3bce3257075903971d546d9cf58ae267",
+    "docs/itemized/hijack-201-sample-cache-audit.md": "78934151b79856eb7d90c22ea16b8bba80fba5b1949907dc8bc66401ec5ded9f",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

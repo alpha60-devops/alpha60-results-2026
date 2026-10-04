@@ -37,6 +37,63 @@
     }
   },
   "media_object": "mandalorian-and-grogu",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "1d584987c29839c47d773507c11a8a5febb16b5bee9e6dc59475c23d6067699e",
+        "before_sha256": "45de30df08f8962d51800a9438eaab3cb5e1906dc0e57698f74f919a4590eb9f",
+        "path": "docs/itemized/mandalorian-and-grogu-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:59:01.331897+00:00",
+    "coverage_sha256": "8be01a53d68a3f71f891b49b376bf29813f0eb9c0d39eaea9c4493d9da7c04c1",
+    "day_contract": {
+      "collection_key": "mandalorian-and-grogu",
+      "day_products": 84,
+      "first_date": "2026-06-23",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-14",
+      "last_index": 84,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "b164b6ddfab9fc95193615618edc8b656b306da5",
+    "historical_receipt_sha256": "5063d3de721d44ed5ab6daea55279bef2e29e6173f3840e690b5a5076d8f14db",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/mandalorian-and-grogu.md",
+        "sha256": "e52a80c184f791fe999158515534f1193a192844963856c101ee0b1b0d2f0f8b",
+        "size": 988
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/mandalorian-and-grogu.json",
+        "sha256": "509454ed7715244f13619b545b3e7729513cb34ee428ec25140b0b2121516f9a",
+        "size": 2754
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/mandalorian-and-grogu.json",
+        "sha256": "415a5a942d5c4cd221e4b2241727ce8cb9f03bd4797168a94c0ce6d5da9940fb",
+        "size": 373
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 12,
+      "y_tick_labels": 22
+    }
+  },
   "published_files": {
     "data/csv/bytes/mandalorian-and-grogu-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "8fdcfce9295f9a50b7b5b5efac960573fd5f576c6b6b6296cad486a5471da4de",
     "docs/itemized/figures/mandalorian-and-grogu-carto-4k.webp": "434bd44acb79afab814284ff85d03066f98d91fb0baf45e40e9454b4ec8a8918",
@@ -48,7 +105,7 @@
     "docs/itemized/figures/mandalorian-and-grogu-data-lt-1080p.webp": "2c03f2c0e9c3188612930ac07b48fc4c7528ac340245d12e11a257a14eab065b",
     "docs/itemized/figures/mandalorian-and-grogu-downloads-by-day-day.svg": "465ce4e628644e678bdf9b8dec8598e2fcf55d3feb6cc06235b9a158b87efc5e",
     "docs/itemized/figures/mandalorian-and-grogu-downloads-by-week-mandalorian-and-grogu-week.svg": "e53acd09796c219cf51b0bd283e63ec953281872400a08a6381cebc9d6332328",
-    "docs/itemized/mandalorian-and-grogu-sample-cache-audit.md": "45de30df08f8962d51800a9438eaab3cb5e1906dc0e57698f74f919a4590eb9f",
+    "docs/itemized/mandalorian-and-grogu-sample-cache-audit.md": "1d584987c29839c47d773507c11a8a5febb16b5bee9e6dc59475c23d6067699e",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

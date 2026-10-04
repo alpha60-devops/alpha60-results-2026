@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "e34324c9f8b0983cdacfae1552e7972d517b684e30de20cd885f7eb6a6825d82",
-        "before_sha256": "459badd9f0998d9c7b45e7e678502e90b7c5022e1f31311da04f41768e9cdaf6",
+        "after_sha256": "1571557b39e32991d7a4124107b1a6813c9e3cad0b1ad8a501d3fa6f1bec44d2",
+        "before_sha256": "e34324c9f8b0983cdacfae1552e7972d517b684e30de20cd885f7eb6a6825d82",
         "path": "docs/itemized/bridgerton-04.2-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "b873e365823e8c13c6f072507ed17f53f1c31c406fb7760b0e86bc3c0f309ccf",
-        "before_sha256": "256bb16d8d76c36d48ae7c5b2c7752990b31db26ffb1b6531b3f3108473ef5be",
-        "path": "docs/itemized/figures/bridgerton-04-2-downloads-by-week-bridgerton-04.2-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:06:05.826628+00:00",
+    "checked_at": "2026-10-04T06:56:52.030114+00:00",
     "coverage_sha256": "c894acc7bcdf557bc5358babeef5eb92551836b0cfb1f17194ab04c6da767bae",
     "day_contract": {
       "collection_key": "bridgerton-04.2",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "ad963fd177a9e13285cbcdca26d8dcd7d39e9e74",
-    "historical_receipt_sha256": "e473a47ce126b24ce64598e710462073c4038224623572932f6c34b52bb090cc",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "21c9ce04f1654c52714ceb08a9df4c208c415d0a22a96bfbd8a41e7a8c522080",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/bridgerton-04.2.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/bridgerton-04.2.md",
         "sha256": "3ecd2ed1c2c9aacb1a582902e6467ac86d63ea33f8945031f89d449bc94c3767",
         "size": 625
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/bridgerton-04.2.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/bridgerton-04.2.json",
         "sha256": "834f1a03634a2ffee72915279eacd238a0a66fc6f27e0ecb162a969e3b0abdfa",
         "size": 3621
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/bridgerton-04.2.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/bridgerton-04.2.json",
         "sha256": "e6e936d5ccc718a82d32bbcfc869ef24ca99999a692ddc61fe8cc5c3a268dca9",
         "size": 369
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -101,7 +96,7 @@
   },
   "published_files": {
     "data/csv/bytes/bridgerton-04.2-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "7574ad685169cd26181bef1d8dc3c9a46e72e072a116e956064e43d6f8bfccb0",
-    "docs/itemized/bridgerton-04.2-sample-cache-audit.md": "e34324c9f8b0983cdacfae1552e7972d517b684e30de20cd885f7eb6a6825d82",
+    "docs/itemized/bridgerton-04.2-sample-cache-audit.md": "1571557b39e32991d7a4124107b1a6813c9e3cad0b1ad8a501d3fa6f1bec44d2",
     "docs/itemized/figures/bridgerton-04-2-downloads-by-day-day.svg": "372961adeefd8014a0438a4f2652f43c6ade3a8f698b47b6539f89a79f24a371",
     "docs/itemized/figures/bridgerton-04-2-downloads-by-week-bridgerton-04.2-week.svg": "b873e365823e8c13c6f072507ed17f53f1c31c406fb7760b0e86bc3c0f309ccf",
     "docs/itemized/figures/bridgerton-04.2-carto-4k.webp": "9e7e1496bfc014f767d4d98ce18178a482582241c23b413c3eacea4f22bbe5a6",

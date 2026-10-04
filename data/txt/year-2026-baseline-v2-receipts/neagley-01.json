@@ -37,6 +37,63 @@
     }
   },
   "media_object": "neagley-01",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "4159894f1eb1117ae6cc29a32cb41250345ec0fbd28650042b55dbe93343611e",
+        "before_sha256": "550c0d377589fb57e3bf16eab78354235c194d6a181af88e9c53e4f24b4353cd",
+        "path": "docs/itemized/neagley-01-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:59:39.706137+00:00",
+    "coverage_sha256": "0ef740a2bfa2f31df8960895e2614d01d030bfa16e0fd408775bca678c6d4953",
+    "day_contract": {
+      "collection_key": "neagley-01",
+      "day_products": 15,
+      "first_date": "2026-09-17",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-10-01",
+      "last_index": 15,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "5e00e010e48e93b35e56198eee3d9d08d5a1c534",
+    "historical_receipt_sha256": "2e383cbed9aa57cfddec79586bf2c4ddbdd8632129b2b1a732f7cbbe2e9ad18b",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/neagley-01.md",
+        "sha256": "e9aaf0e746b03ea32bf45040411105aeca9e8899b20d68f93bcef9b0cfbc4f3a",
+        "size": 889
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/neagley-01.json",
+        "sha256": "ad0c900cf62da1ba5d3c6ce9bf43988cd5fca93c82b6e4d55194abc1f6f959b5",
+        "size": 2155
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/neagley-01.json",
+        "sha256": "c6a3556ac960af3bf67daa82c44fb169fa1a93de6a593d413aa1c0bd41655ae8",
+        "size": 362
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 3,
+      "y_tick_labels": 22
+    }
+  },
   "published_files": {
     "data/csv/bytes/neagley-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "6e510974a5d361dbb346bce12cb703da14cf6afc9a883da15094efdb5b1b1865",
     "docs/itemized/figures/neagley-01-carto-4k.webp": "72b224410f4123b355943ff14342f75820258222f0a791c969733b2ff58d80f0",
@@ -48,7 +105,7 @@
     "docs/itemized/figures/neagley-01-data-lt-1080p.webp": "f89085e432b1844303bbaa3137b2c5ef89dc80b99302b965536091a1f3fad467",
     "docs/itemized/figures/neagley-01-downloads-by-day-day.svg": "aba4f6b11981650a731d39d6b5cca6bb1558589403f87f860c1c56fd149ec2e1",
     "docs/itemized/figures/neagley-01-downloads-by-week-neagley-01-week.svg": "fae5684ad1b984d06dc456c561659865e80bd45f4a88405cdf753054f73b3d78",
-    "docs/itemized/neagley-01-sample-cache-audit.md": "550c0d377589fb57e3bf16eab78354235c194d6a181af88e9c53e4f24b4353cd",
+    "docs/itemized/neagley-01-sample-cache-audit.md": "4159894f1eb1117ae6cc29a32cb41250345ec0fbd28650042b55dbe93343611e",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "78193f8028d8ca904dc5b6493b2cd5912a18412406120412c134a4c260625ee2",
-        "before_sha256": "46998e54b85938bdeb2ddf2c2e445654ae5eecd77fbc15fc06e9e3c8b7d47233",
+        "after_sha256": "b3623635a87d8f7ac5939092b861c103312ad5d2135f52ca23dfc9c11f5da1f8",
+        "before_sha256": "78193f8028d8ca904dc5b6493b2cd5912a18412406120412c134a4c260625ee2",
         "path": "docs/itemized/star-city-101-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "66ac07481e779602c44102615a0412ae54afd0841599ecb514b114ae6d876dfc",
-        "before_sha256": "ade777c861995dfce35ba7ca2e45aaebbfeb903d5b62f2e20adef1f751210f95",
-        "path": "docs/itemized/figures/star-city-101-downloads-by-week-star-city-101-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:09:43.866411+00:00",
+    "checked_at": "2026-10-04T07:01:36.142433+00:00",
     "coverage_sha256": "5e436f5fcc542d8d411d022662805fb1d5d19ce36d62dbca47efbaf29fed8cf5",
     "day_contract": {
       "collection_key": "star-city-101",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "c31aba45b871a574ce0bfdee24a432fa4d75eff9",
-    "historical_receipt_sha256": "b1b35ab29c15cebaf0ec5f48bc63806d67b39de04a40dcb95326645e70ab71f4",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "2cad65d60e4e7ffe97f67834f99534776ec3a929c4427d72fbf3585ffb48616c",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/star-city-101.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/star-city-101.md",
         "sha256": "6bf7982498238ea8c3d5d65edf54fe3ec69169de487051ed0c8891c4c8e9908a",
         "size": 548
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/star-city-101.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/star-city-101.json",
         "sha256": "b88160ae73c5aa9106364520a56c1370df879f2457a445b7a31ab2754009ad61",
         "size": 2857
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/star-city-101.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/star-city-101.json",
         "sha256": "b9fcc3d416f6980ece79eda3f649b6d4fcc9811b55a25fc44dfc1a4544fef95d",
         "size": 367
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/star-city-101-data-lt-1080p.webp": "2a48453e84a4daed13e3505e0f8d71dc9974aab61e7f95490a62951dbe3bf43f",
     "docs/itemized/figures/star-city-101-downloads-by-day-day.svg": "46b9d9a83ebf9f4ad923f994801a4d819d9fa0ff065300c820d90ec8f1ee1c70",
     "docs/itemized/figures/star-city-101-downloads-by-week-star-city-101-week.svg": "66ac07481e779602c44102615a0412ae54afd0841599ecb514b114ae6d876dfc",
-    "docs/itemized/star-city-101-sample-cache-audit.md": "78193f8028d8ca904dc5b6493b2cd5912a18412406120412c134a4c260625ee2",
+    "docs/itemized/star-city-101-sample-cache-audit.md": "b3623635a87d8f7ac5939092b861c103312ad5d2135f52ca23dfc9c11f5da1f8",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

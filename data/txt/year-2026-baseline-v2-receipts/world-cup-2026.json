@@ -37,6 +37,63 @@
     }
   },
   "media_object": "world-cup-2026",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "62726c69af3ffceb79b31181029e798aafb8f459c7b87741a4c2ea709ba4b286",
+        "before_sha256": "6e3553495d3b4de8de2d1a376f50f8ce9507e700e7790eb7d65786fb56f56101",
+        "path": "docs/itemized/world-cup-2026-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T07:02:23.377177+00:00",
+    "coverage_sha256": "f72906c12653f60bda0b06387fe2d976465b49a40ab421c66ba7bb65a5ace84c",
+    "day_contract": {
+      "collection_key": "world-cup-2026",
+      "day_products": 93,
+      "first_date": "2026-06-29",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-29",
+      "last_index": 93,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "3a0b90b71be605782749e4df312a7c9b65d2105c",
+    "historical_receipt_sha256": "9374a985ee5eb90fb9725e011580759f24fe1c8d51f7cbda61e481770c49d6da",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/world-cup-2026.md",
+        "sha256": "9bab298cc4970b6338752965505c75e47575c3de9cb13f5fd62cf1a46a950328",
+        "size": 903
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/world-cup-2026.json",
+        "sha256": "a7dfd11123a532d0cc2146abb0fe4a34c5fe8f42f49dada074b94d49badf4a6d",
+        "size": 2798
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/world-cup-2026.json",
+        "sha256": "8a5e4513b757a688230247af9c81dbb594e53297eb8b8a156760f21e9841778e",
+        "size": 366
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 14,
+      "y_tick_labels": 22
+    }
+  },
   "published_files": {
     "data/csv/bytes/world-cup-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "288cfba64b0a26cb509985694e11cdbf0404c45820e7676b48f8c25d5fa05d34",
     "docs/itemized/figures/world-cup-2026-carto-4k.webp": "ad0f219836d78e9ce8104220c57804f562bc7cba21b92c5f81d95c2b3ca2521f",
@@ -48,7 +105,7 @@
     "docs/itemized/figures/world-cup-2026-data-lt-1080p.webp": "a4bf49d7ed63d7610ccbbf0337ce556c513382f3b95c091c1b45455d1e8d8e7b",
     "docs/itemized/figures/world-cup-2026-downloads-by-day-day.svg": "9cd96e9a287880e7ecf6b5866972b423cd9b298b57c468cfca3de2faacce3019",
     "docs/itemized/figures/world-cup-2026-downloads-by-week-world-cup-2026-week.svg": "4eab196fdf057bc88aeddb352d1fc62038d4910155cd91c5d0ff9a58adeaa5ea",
-    "docs/itemized/world-cup-2026-sample-cache-audit.md": "6e3553495d3b4de8de2d1a376f50f8ce9507e700e7790eb7d65786fb56f56101",
+    "docs/itemized/world-cup-2026-sample-cache-audit.md": "62726c69af3ffceb79b31181029e798aafb8f459c7b87741a4c2ea709ba4b286",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

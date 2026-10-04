@@ -37,6 +37,63 @@
     }
   },
   "media_object": "ghost-in-the-shell-2026-01",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "374d3a98d3f53a2da926f189fd2b6d267bdcff2121ef6a813f3a35bbaa8c5e1c",
+        "before_sha256": "48fa679d0d8b594340390456d39a507cec1cf6ddc2ecdcab4e7f550c1d0222ca",
+        "path": "docs/itemized/ghost-in-the-shell-2026-01-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:57:45.434516+00:00",
+    "coverage_sha256": "dee02642d744342daa371bca0d61b20c443a910ec296da19ce0da49ad4b7a588",
+    "day_contract": {
+      "collection_key": "ghost-in-the-shell-2026-01",
+      "day_products": 77,
+      "first_date": "2026-07-15",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-29",
+      "last_index": 77,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "408dceba27cb2ff4e73d45476ff08579fa9dce80",
+    "historical_receipt_sha256": "b7fe3465042e5a994b6dcf92a74124555532ec41df61327c5d6cd7ba80146514",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/ghost-in-the-shell-2026-01.md",
+        "sha256": "2df78f8353c92888f6c99677ef98fa5772d84062f899ecad895ff6a613349877",
+        "size": 926
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/ghost-in-the-shell-2026-01.json",
+        "sha256": "3bf60703e1e32b6b8f00ba917b1ef81c560989e2619d81025379d8c6e38a731b",
+        "size": 2718
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/ghost-in-the-shell-2026-01.json",
+        "sha256": "eadff83198d30949341cc6ca7bd6ba5ca7c22b263eda2649c872fa2e8c416708",
+        "size": 378
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 11,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/ghost-in-the-shell-2026-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "e4a5e893dd00c1673f18641260e039d17426200c5dcf477dd2abb32f3f4977b4",
     "docs/itemized/figures/ghost-in-the-shell-2026-01-carto-4k.webp": "0c3f6391dec32ecf48dcbe7720a8c6c31d9c7194dc5664f31649b87860d71e3d",
@@ -48,7 +105,7 @@
     "docs/itemized/figures/ghost-in-the-shell-2026-01-data-lt-1080p.webp": "7c066ea87f0fcb06a8aebd407e7d7df3cb2587f5e865d2b9b13018483ce01431",
     "docs/itemized/figures/ghost-in-the-shell-2026-01-downloads-by-day-day.svg": "1d392681ba660829bb300c807fa4cf698376552693e2e940be0916ac7951ec98",
     "docs/itemized/figures/ghost-in-the-shell-2026-01-downloads-by-week-ghost-in-the-shell-2026-01-week.svg": "9c23d49328ab67331150f2e0650a57162e932b87727d9527f81b418c46dc1955",
-    "docs/itemized/ghost-in-the-shell-2026-01-sample-cache-audit.md": "48fa679d0d8b594340390456d39a507cec1cf6ddc2ecdcab4e7f550c1d0222ca",
+    "docs/itemized/ghost-in-the-shell-2026-01-sample-cache-audit.md": "374d3a98d3f53a2da926f189fd2b6d267bdcff2121ef6a813f3a35bbaa8c5e1c",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

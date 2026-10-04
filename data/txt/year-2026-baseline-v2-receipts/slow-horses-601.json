@@ -37,6 +37,63 @@
     }
   },
   "media_object": "slow-horses-601",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "41b8717c15e720bb35aece19fbd7a7948d761e027d3b54ca444a8f75d8742f54",
+        "before_sha256": "d4a66f0f1fc46cb689f7391baae8260862c1e8fbb20ce803ca1b5da2debafb17",
+        "path": "docs/itemized/slow-horses-601-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T07:01:21.655930+00:00",
+    "coverage_sha256": "9be971bbf49ba72e157d6fa2435d9c24a3cd60bfda8d460deb14ff3749ff540a",
+    "day_contract": {
+      "collection_key": "slow-horses-601",
+      "day_products": 14,
+      "first_date": "2026-09-16",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-29",
+      "last_index": 14,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "93cffbc099fc02d4966a9d9fb8447bfb93bc7fc5",
+    "historical_receipt_sha256": "4ad75d5b2790defcf005029f0f6bbe6e0e87478bb713e13598f5959f5a397eb7",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/slow-horses-601.md",
+        "sha256": "f91411277faace676bb73f44df6e4433c6f98c6c1e03812de426e5634bbabaa5",
+        "size": 899
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/slow-horses-601.json",
+        "sha256": "1716aeceb0ea523881bcdfff69c536ba44bed07a2a33877d4bc40a891c0078bf",
+        "size": 2166
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/slow-horses-601.json",
+        "sha256": "d70d2e3cc599ebc84955a727e09c399a5054a837b13a8c393d37015b3a915d2b",
+        "size": 367
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 2,
+      "y_tick_labels": 22
+    }
+  },
   "published_files": {
     "data/csv/bytes/slow-horses-601-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "dab69237e5d4eaea10ffd373487ef6f335c263ffd44449c7e60b5bddc7d4babe",
     "docs/itemized/figures/slow-horses-601-carto-4k.webp": "50ac302c459996f716d74ec0c49e4b171aa5307ae894779457e23044e1c3a2e0",
@@ -48,7 +105,7 @@
     "docs/itemized/figures/slow-horses-601-data-lt-1080p.webp": "d51bee8ad0b50cfd89a6f311e9ec86e1687bcbd46621510e7ead4889825026ab",
     "docs/itemized/figures/slow-horses-601-downloads-by-day-day.svg": "d54f46797cde172d746f38ff78d15e61b01ef590504713bc0e99e08e687c8469",
     "docs/itemized/figures/slow-horses-601-downloads-by-week-slow-horses-601-week.svg": "dfb985ea1fc8de674d3f39a79720272b6699f491bc9a814840e3443802f27fde",
-    "docs/itemized/slow-horses-601-sample-cache-audit.md": "d4a66f0f1fc46cb689f7391baae8260862c1e8fbb20ce803ca1b5da2debafb17",
+    "docs/itemized/slow-horses-601-sample-cache-audit.md": "41b8717c15e720bb35aece19fbd7a7948d761e027d3b54ca444a8f75d8742f54",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

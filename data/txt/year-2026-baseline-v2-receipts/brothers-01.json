@@ -37,9 +37,66 @@
     }
   },
   "media_object": "brothers-01",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "8b35cbeb78c31ad5b9f1b21f21b568dc2e2479395c4ed82a4ce108012d391c02",
+        "before_sha256": "dcace8d36a3a99fd80c4c84a1dd4523f28931b0372fd88fc3cf85f49ba502069",
+        "path": "docs/itemized/brothers-01-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:56:52.236004+00:00",
+    "coverage_sha256": "9fec268640832c428816fcba0da701f87aae1f6b55ee7054715d360781c5a4cf",
+    "day_contract": {
+      "collection_key": "brothers-01",
+      "day_products": 8,
+      "first_date": "2026-09-24",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-10-01",
+      "last_index": 8,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "ccf503770a7a0ea74e44bfe58ffd24ad89771025",
+    "historical_receipt_sha256": "0dfc2d6797cc260d5bdd83d85ae3e005937a9d30b1314b36ae770e1279788743",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/brothers-01.md",
+        "sha256": "abf8d0817850feb0c3baf17d74035446ac25517a9d4c9053399337be98ef7f58",
+        "size": 891
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/brothers-01.json",
+        "sha256": "ff8346b0e66a3fe3a4563c4687bf13cdcf4a5b3679c2f1f26180aa1a8fd0fa9d",
+        "size": 2122
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/brothers-01.json",
+        "sha256": "0fd0c225321cec38994dba2ba82f134fee09525433a4815339150c332896e657",
+        "size": 361
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 2,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/brothers-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "3337de32fcd1096ed2401b91e82558b0a997f254ee8a9a38b7ffc724d58597a1",
-    "docs/itemized/brothers-01-sample-cache-audit.md": "dcace8d36a3a99fd80c4c84a1dd4523f28931b0372fd88fc3cf85f49ba502069",
+    "docs/itemized/brothers-01-sample-cache-audit.md": "8b35cbeb78c31ad5b9f1b21f21b568dc2e2479395c4ed82a4ce108012d391c02",
     "docs/itemized/figures/brothers-01-carto-4k.webp": "e3b95559725d665e9b62305a16db0bdddf9c098ee89914bc9b76d76c0e5c680f",
     "docs/itemized/figures/brothers-01-carto.png": "d7d111459564cc6ea0b7c3cf63c3170daa7cd971a864c466c3fc7a648a47ef54",
     "docs/itemized/figures/brothers-01-cumulative-detail-btiha-itemized-by-bytes.svg": "0658eb6aedff7f0cce5f48b7525af57f4fd87221ee25da7fd86d77b6356d4a3e",

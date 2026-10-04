@@ -37,9 +37,66 @@
     }
   },
   "media_object": "crew-girl-01",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "07861b93fecc54210b0dcdec58dd3d8048f0c38c327e44be920a247c39ee6135",
+        "before_sha256": "e26ccf86428ff4dbb6e4454bebea4f7a2a5f0d671dffbcceb88b23e074a8fcbc",
+        "path": "docs/itemized/crew-girl-01-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:56:53.718812+00:00",
+    "coverage_sha256": "1a4be057d2f04709fe56e8b7f45b6701a5432bd19e065049e5c11c021919f0e3",
+    "day_contract": {
+      "collection_key": "crew-girl-01",
+      "day_products": 14,
+      "first_date": "2026-09-10",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-23",
+      "last_index": 14,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "1ef6df84d317a51c62b14c3da98aa8d2ee5e4043",
+    "historical_receipt_sha256": "a6615571af6cc1c8b88d5d684a8aa23563a4a37ca4c2c7d3a9c9174251457d88",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/crew-girl-01.md",
+        "sha256": "38a13b28b60afce17fa2a5f693cf397ab1a50f563127cf161f2b1e1035211369",
+        "size": 893
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/crew-girl-01.json",
+        "sha256": "48c3552f6c2795fe075976560c2c48b0d93f75ac8bae1d90941a969da1508a32",
+        "size": 2154
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/crew-girl-01.json",
+        "sha256": "999ff6c66ade47eb0c1b34dd7b62998f86d66cd9fb0ea9e70010e8618525b6f9",
+        "size": 364
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 2,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/crew-girl-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "d460c6f342bbf940f0ce6e172b2ce1c95378fb10669c837072a10a899704ee87",
-    "docs/itemized/crew-girl-01-sample-cache-audit.md": "e26ccf86428ff4dbb6e4454bebea4f7a2a5f0d671dffbcceb88b23e074a8fcbc",
+    "docs/itemized/crew-girl-01-sample-cache-audit.md": "07861b93fecc54210b0dcdec58dd3d8048f0c38c327e44be920a247c39ee6135",
     "docs/itemized/figures/crew-girl-01-carto-4k.webp": "24f9bd0ae1986c80d8cdb4bdfd38e20ae83fcbc9809839deff10bf988c8fe69e",
     "docs/itemized/figures/crew-girl-01-carto.png": "ad4d84e125f90667decb67519d2daa195343e54a2ddd18c2797a66c0b7c93815",
     "docs/itemized/figures/crew-girl-01-cumulative-detail-btiha-itemized-by-bytes.svg": "a9e05bf532f5a78b6871c1cf9ec4182396c064d67376893396ab3c8b4a8564cd",

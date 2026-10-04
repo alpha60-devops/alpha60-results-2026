@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "1a202b36f0946cb25911d35e71706d4b25f9f946b2ab1509173315383d22ac30",
-        "before_sha256": "00d5cbcc070c2594bfdcb7221a2481d1e9be421d80d04b2804d93474b23670db",
+        "after_sha256": "e01081db6e3205aaf368772ffab6761baa378704d7665ce193f8844ef0c448d3",
+        "before_sha256": "1a202b36f0946cb25911d35e71706d4b25f9f946b2ab1509173315383d22ac30",
         "path": "docs/itemized/toy-story-5-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "03c9022b70e3b8f78e263486fe1e5f32114a15f18a4e7e5c1683ceb1da162942",
-        "before_sha256": "37c708ee8e0aae425aa736a0d2e0bef385a8eab1a41380ef02308f36ffffeb9b",
-        "path": "docs/itemized/figures/toy-story-5-downloads-by-week-toy-story-5-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:10:14.962654+00:00",
+    "checked_at": "2026-10-04T07:02:10.951104+00:00",
     "coverage_sha256": "97dadd55466218371bdf856147d2da1b48dee2e9bba204c37e480a90fed473b9",
     "day_contract": {
       "collection_key": "toy-story-5",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "4fcee2add29788187412ac1dab4c38bb25653ac0",
-    "historical_receipt_sha256": "ba4e86456fee6b12cefcedffdab84e76a3f3f34fa69f636462fe197ba20a742e",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "baa37ecdbb8520fce23d1489ae85e0b95be84834b16b26269b304412673d1060",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/toy-story-5.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/toy-story-5.md",
         "sha256": "ea695ded7b69bd61cc74d3e2c8d37a88834ac36e25f626d7f975c5c306674952",
         "size": 543
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/toy-story-5.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/toy-story-5.json",
         "sha256": "1ed906be262d2ba890edf2dfd00580d696334d14a47242249daa992099744814",
         "size": 2162
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/toy-story-5.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/toy-story-5.json",
         "sha256": "750db12282fab584b607df9d1bb94142583ca0645672e8739d0c686ce3f07091",
         "size": 363
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -110,7 +105,7 @@
     "docs/itemized/figures/toy-story-5-data-lt-1080p.webp": "440c7b057238e6613ee28156d5f06f8e7f5a22843db75deb05582d45678e5567",
     "docs/itemized/figures/toy-story-5-downloads-by-day-day.svg": "69fa55ebccac1832d3fdf47b07e413fd6aa9e9a49fb0a75ccc3df7f8f8ff62e9",
     "docs/itemized/figures/toy-story-5-downloads-by-week-toy-story-5-week.svg": "03c9022b70e3b8f78e263486fe1e5f32114a15f18a4e7e5c1683ceb1da162942",
-    "docs/itemized/toy-story-5-sample-cache-audit.md": "1a202b36f0946cb25911d35e71706d4b25f9f946b2ab1509173315383d22ac30",
+    "docs/itemized/toy-story-5-sample-cache-audit.md": "e01081db6e3205aaf368772ffab6761baa378704d7665ce193f8844ef0c448d3",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

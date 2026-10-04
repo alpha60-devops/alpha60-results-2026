@@ -37,9 +37,66 @@
     }
   },
   "media_object": "drama-2026",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "e9a1da1d46d4ae124a0d90964a2c4557d82a44de7a02728177dffa6dcd35258e",
+        "before_sha256": "fe5ca50201838b092cd31681237b38405871c30f848607c9d7a92c7287c51e0c",
+        "path": "docs/itemized/drama-2026-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-04T06:57:03.995306+00:00",
+    "coverage_sha256": "dc6e5e58936c22652852935a9c626c5e5e83b57f2e061668088940475cb927fa",
+    "day_contract": {
+      "collection_key": "drama-2026",
+      "day_products": 60,
+      "first_date": "2026-08-04",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-10-02",
+      "last_index": 60,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": false,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "9cac1a8e18adc3594f4bc194a344105da7213cda",
+    "historical_receipt_sha256": "4da1cc414834f73e32ca7bf1ed993e91f75e99a2bbfe682290d82f091989073c",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/drama-2026.md",
+        "sha256": "d831ebc37e6ed0bf7f8a7bb56544bdb5aa6e3f3ed4ab3bed69aad6c7386cd50b",
+        "size": 892
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/drama-2026.json",
+        "sha256": "8a7420e546e69c6b28da9e717379cbe3d7013b2d8f01d34f11e56be58eb03f22",
+        "size": 2514
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/drama-2026.json",
+        "sha256": "54a70d56d987899c96e9fab49ad18be359b697aa12fda3824eabe7b41bfa5339",
+        "size": 362
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 9,
+      "y_tick_labels": 22
+    }
+  },
   "published_files": {
     "data/csv/bytes/drama-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "31742255e5b4a6c04cc81d844431adea29005e065f55ec102a0366cbdd40c753",
-    "docs/itemized/drama-2026-sample-cache-audit.md": "fe5ca50201838b092cd31681237b38405871c30f848607c9d7a92c7287c51e0c",
+    "docs/itemized/drama-2026-sample-cache-audit.md": "e9a1da1d46d4ae124a0d90964a2c4557d82a44de7a02728177dffa6dcd35258e",
     "docs/itemized/figures/drama-2026-carto-4k.webp": "1880183e4465095c78782e14dedbdeded556043b7f81abf3b439c92fd663f5be",
     "docs/itemized/figures/drama-2026-carto.png": "1068ec264fb3d32c8e2da38065642abe9531f55bbff2a7254c3456f045428779",
     "docs/itemized/figures/drama-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "4c688cef94725c7432593b0c267d03fee2283f74125c435835f79a022a0018df",

@@ -42,17 +42,12 @@
     "cache_products_unchanged": true,
     "changes": [
       {
-        "after_sha256": "4acb44f127ddbd594a1185de3d65e8b4560f2e22921c7aaeb66ea0b0a523c1c1",
-        "before_sha256": "19ebe9261b051599b85ed5c229d318c23a8d73c4fd54583fce1ca8dc024af0ec",
+        "after_sha256": "708f3d914913f8c6b6a5c6d2f0eb996c34ab962474f0a8b926e33f2e5870c3b3",
+        "before_sha256": "4acb44f127ddbd594a1185de3d65e8b4560f2e22921c7aaeb66ea0b0a523c1c1",
         "path": "docs/itemized/beastars-03.2-sample-cache-audit.md"
-      },
-      {
-        "after_sha256": "1e47c080e0be749a8c30e9e864b0c1c39ac2e9474811c57c8b743b006b86ada7",
-        "before_sha256": "0bb50a37ec4e46dbdfb07a182abea5aa377044b1549886890e7550ca88b84de6",
-        "path": "docs/itemized/figures/beastars-03-2-downloads-by-week-beastars-03.2-week.svg"
       }
     ],
-    "checked_at": "2026-10-03T10:05:22.770301+00:00",
+    "checked_at": "2026-10-04T06:56:00.448143+00:00",
     "coverage_sha256": "7ad8938205369b0760c2ce02bc690d10e9b9c94459462cf0f84c9e244e8642ab",
     "day_contract": {
       "collection_key": "beastars-03.2",
@@ -68,28 +63,28 @@
       "sparse": false,
       "status": "pass"
     },
-    "historical_receipt_revision": "641494a3d273ea2b6df4c7fd5d6a4c6d6c508ba0",
-    "historical_receipt_sha256": "3d3460d85b63e2fc3b41c5436db861d5c1e238fe5927d2583c3e4de3e498773e",
+    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
+    "historical_receipt_sha256": "5fbfb9c27d9f347bfdcccb5deccb6403ec2cc0225c6079e8d8ee4f34ead9f538",
     "human_review_claimed": false,
     "immutable_publication_evidence": {
       "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/beastars-03.2.md",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/beastars-03.2.md",
         "sha256": "9ee623adf5af9a796f4abfe33ece8f991a47f210c7b0726b0f38f93c7cb99a91",
         "size": 710
       },
       "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/beastars-03.2.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/beastars-03.2.json",
         "sha256": "b24241e5cd86d58822299611ce8d1e0f9e287c1e1808b46412e4921ef47c86ad",
         "size": 2857
       },
       "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/beastars-03.2.json",
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/beastars-03.2.json",
         "sha256": "f5394742801a2f0f5dc90a6a55d55f550ee0b07edfce535c22cb4a937497dff8",
         "size": 367
       }
     },
     "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "834a62f1dda3071906190c64caef241282d90bff",
+    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
     "status": "pass",
     "week_graph": {
       "polylines": 2,
@@ -101,7 +96,7 @@
   },
   "published_files": {
     "data/csv/bytes/beastars-03.2-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "e42df6b4141c70996295cfdbd67560c4f8e8156d0c71ebcb0f6dcc2263425dde",
-    "docs/itemized/beastars-03.2-sample-cache-audit.md": "4acb44f127ddbd594a1185de3d65e8b4560f2e22921c7aaeb66ea0b0a523c1c1",
+    "docs/itemized/beastars-03.2-sample-cache-audit.md": "708f3d914913f8c6b6a5c6d2f0eb996c34ab962474f0a8b926e33f2e5870c3b3",
     "docs/itemized/figures/beastars-03-2-downloads-by-day-day.svg": "46b5758cb607efabd80593e470bf1bcf4bd6d90eaacdaee0f2886e0e1b78e999",
     "docs/itemized/figures/beastars-03-2-downloads-by-week-beastars-03.2-week.svg": "1e47c080e0be749a8c30e9e864b0c1c39ac2e9474811c57c8b743b006b86ada7",
     "docs/itemized/figures/beastars-03.2-carto-4k.webp": "e0212e7d5bbf9c40b689c6bd7f2428044bc2cb5bf8a1efd84a9084501506538e",
