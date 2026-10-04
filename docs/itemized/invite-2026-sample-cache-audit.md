@@ -15,34 +15,45 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `invite-2026` |
 | imdb_id | [tt14173636](https://www.imdb.com/title/tt14173636/) |
 | wikipedia_url | [The Invite](https://en.wikipedia.org/wiki/The_Invite) |
-| Sample dates | 2026-08-11-to-2026-09-11 |
-| Sample days | 32 |
-| BTIH count | 95 |
-| Unique BTIH count | 92 |
-| Downloaders total | 4,632,833 |
-| Uploaders total | 879,035 |
+| Sample dates | 2026-08-11-to-2026-10-01 |
+| Sample days | 52 |
+| BTIH count | 102 |
+| Unique BTIH count | 98 |
+| Downloaders total | 6,582,065 |
+| Uploaders total | 1,159,888 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:06Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/invite-2026.xz`
-- Hour directories: 757
+- Generated: 2026-10-03T19:10:22Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/invite-2026.xz`
+- Hour directories: 1235
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
-- Hourly discontinuities: 0 (0 missing hours)
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Hourly discontinuities: 1 (2 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
-None detected.
+- hourly gap: last `2026-09-11 23:05`, resumed `2026-09-12 02:05` — missing 2 hour(s)
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `89f746bb2b9822616de7e1884804e79e4f351ea5dc2b23bbbd180d933b9a5265`
+- Full-input producer receipt SHA-256: `ccdea20c9d4f42a9c4c5f5fe3507f07732fd6860a9d1635f42a9ebb4e58c7c7d`
+- Frozen raw archives: 1235
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 0
+- Excluded observations: 0
+
+## 3. Media objects file size histogram
 
 ![The Invite collection size histogram](figures/invite-2026-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,29 +76,24 @@ None detected.
 
 ![invite-2026 downloads by day](figures/invite-2026-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/invite-2026-cumulative-aggregate.geojson.gz" data-map-title="The Invite — invite-2026" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Invite (invite-2026) cumulative data map in new window" title="Opens interactive map for The Invite (invite-2026) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 3.45 | 19.76 | 25.74 | 32.66 | 1.82 | 0.54 |
+| 4.51 | 23.40 | 30.54 | 38.71 | 2.24 | 0.60 |
 
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![The Invite cumulative map](figures/invite-2026-carto.png)](figures/invite-2026-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/invite-2026-data-ge-1080p.webp)](figures/invite-2026-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/invite-2026-data-lt-1080p.webp)](figures/invite-2026-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
