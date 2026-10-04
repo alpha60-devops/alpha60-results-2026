@@ -81,6 +81,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.33 | 15.33 | 34.86 | 45.26 | 1.26 | 0.74 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.78%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Fallout cumulative map](figures/fallout-2024-206-carto.png)](figures/fallout-2024-206-carto-4k.webp){:target="_blank" rel="noopener"}

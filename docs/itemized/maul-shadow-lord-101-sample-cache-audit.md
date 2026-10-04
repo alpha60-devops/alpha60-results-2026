@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 1.29 | 17.54 | 34.64 | 43.46 | 1.22 | 0.80 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.95%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Star Wars: Maul - Shadow Lord cumulative map](figures/maul-shadow-lord-101-carto.png)](figures/maul-shadow-lord-101-carto-4k.webp){:target="_blank" rel="noopener"}

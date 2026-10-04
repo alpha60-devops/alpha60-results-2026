@@ -81,6 +81,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.13 | 18.44 | 34.44 | 42.69 | 0.99 | 0.80 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.49%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Star Wars: Visions Presents — The Ninth Jedi cumulative map](figures/star-wars-visions-the-ninth-jedi-01-carto.png)](figures/star-wars-visions-the-ninth-jedi-01-carto-4k.webp){:target="_blank" rel="noopener"}

@@ -82,6 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 0.98 | 14.88 | 33.96 | 44.84 | 1.31 | 0.69 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 96.66%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Dark Winds cumulative map](figures/dark-winds-401-carto.png)](figures/dark-winds-401-carto-4k.webp){:target="_blank" rel="noopener"}

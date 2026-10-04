@@ -80,6 +80,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.92 | 14.54 | 37.47 | 42.89 | 1.02 | 0.74 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.58%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Zootopia cumulative map](figures/zootopia-2-carto.png)](figures/zootopia-2-carto-4k.webp){:target="_blank" rel="noopener"}

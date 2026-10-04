@@ -80,6 +80,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.80 | 16.22 | 37.55 | 40.89 | 1.09 | 0.81 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.36%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Enola Holmes 3 cumulative map](figures/enola-holmes-3-carto.png)](figures/enola-holmes-3-carto-4k.webp){:target="_blank" rel="noopener"}

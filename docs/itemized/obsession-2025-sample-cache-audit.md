@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 2.79 | 17.12 | 36.84 | 37.23 | 1.36 | 0.70 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 96.04%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Obsession cumulative map](figures/obsession-2025-carto.png)](figures/obsession-2025-carto-4k.webp){:target="_blank" rel="noopener"}

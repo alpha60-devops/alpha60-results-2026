@@ -80,6 +80,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.18 | 14.28 | 35.66 | 45.35 | 0.99 | 0.70 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.16%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Stranger Things cumulative map](figures/stranger-things-05.3-carto.png)](figures/stranger-things-05.3-carto-4k.webp){:target="_blank" rel="noopener"}

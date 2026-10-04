@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 3.70 | 16.77 | 31.08 | 39.23 | 1.64 | 0.69 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 93.11%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![House of the Dragon cumulative map](figures/house-of-the-dragon-308-carto.png)](figures/house-of-the-dragon-308-carto-4k.webp){:target="_blank" rel="noopener"}

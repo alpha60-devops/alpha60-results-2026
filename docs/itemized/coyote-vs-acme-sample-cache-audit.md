@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-10-03T19:10:22Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/coyote-vs-acme.xz`
@@ -49,11 +49,11 @@ None detected.
 - Excluded raw members: 0
 - Excluded observations: 0
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Coyote vs. Acme collection size histogram](figures/coyote-vs-acme-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -76,24 +76,29 @@ None detected.
 
 ![coyote-vs-acme downloads by day](figures/coyote-vs-acme-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/coyote-vs-acme-cumulative-aggregate.geojson.gz" data-map-title="Coyote vs. Acme — coyote-vs-acme" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Coyote vs. Acme (coyote-vs-acme) cumulative data map in new window" title="Opens interactive map for Coyote vs. Acme (coyote-vs-acme) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 3.42 | 26.38 | 26.53 | 40.86 | 2.26 | 0.54 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Coyote vs. Acme cumulative map](figures/coyote-vs-acme-carto.png)](figures/coyote-vs-acme-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/coyote-vs-acme-data-ge-1080p.webp)](figures/coyote-vs-acme-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/coyote-vs-acme-data-lt-1080p.webp)](figures/coyote-vs-acme-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

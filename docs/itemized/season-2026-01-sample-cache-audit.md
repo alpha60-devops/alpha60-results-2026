@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-10-03T19:10:22Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/season-2026-01.xz`
@@ -595,11 +595,11 @@ cause was not established by this run. Each gap remains explicit.
 - Excluded raw members: 0
 - Excluded observations: 0
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![The Season collection size histogram](figures/season-2026-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -622,24 +622,29 @@ cause was not established by this run. Each gap remains explicit.
 
 ![season-2026-01 downloads by day](figures/season-2026-01-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/season-2026-01-cumulative-aggregate.geojson.gz" data-map-title="The Season — season-2026-01" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Season (season-2026-01) cumulative data map in new window" title="Opens interactive map for The Season (season-2026-01) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 1.23 | 16.92 | 36.56 | 43.35 | 1.08 | 0.86 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![The Season cumulative map](figures/season-2026-01-carto.png)](figures/season-2026-01-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/season-2026-01-data-ge-1080p.webp)](figures/season-2026-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/season-2026-01-data-lt-1080p.webp)](figures/season-2026-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

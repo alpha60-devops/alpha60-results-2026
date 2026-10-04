@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 1.28 | 16.41 | 35.25 | 42.39 | 1.13 | 0.84 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 97.30%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Mating Season cumulative map](figures/mating-season-01-carto.png)](figures/mating-season-01-carto-4k.webp){:target="_blank" rel="noopener"}

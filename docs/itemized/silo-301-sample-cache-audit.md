@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 2.73 | 18.85 | 31.28 | 42.16 | 1.65 | 0.77 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 97.44%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Silo cumulative map](figures/silo-301-carto.png)](figures/silo-301-carto-4k.webp){:target="_blank" rel="noopener"}

@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 1.51 | 15.93 | 35.32 | 43.27 | 1.35 | 0.75 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.13%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![The Testaments cumulative map](figures/testaments-101-carto.png)](figures/testaments-101-carto-4k.webp){:target="_blank" rel="noopener"}

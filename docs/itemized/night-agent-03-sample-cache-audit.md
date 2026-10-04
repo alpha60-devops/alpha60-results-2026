@@ -81,6 +81,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.94 | 15.99 | 34.90 | 44.09 | 1.22 | 0.79 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.93%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Night Agent cumulative map](figures/night-agent-03-carto.png)](figures/night-agent-03-carto-4k.webp){:target="_blank" rel="noopener"}

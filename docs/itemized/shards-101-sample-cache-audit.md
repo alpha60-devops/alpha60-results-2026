@@ -81,6 +81,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 2.02 | 18.34 | 32.27 | 42.08 | 1.54 | 0.76 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 97.01%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![The Shards cumulative map](figures/shards-101-carto.png)](figures/shards-101-carto-4k.webp){:target="_blank" rel="noopener"}

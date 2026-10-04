@@ -62,8 +62,12 @@ jobs:
               encoding="utf-8"
           )
           links = re.findall(r"\[[^]]+\]\(([^)]+)\)", include)
-          if len(links) != 71 or len(set(links)) != 71:
-              raise SystemExit("year-2026 index must contain 71 unique links")
+          counts = re.findall(r"^- (\d+) Media Objects$", index, re.MULTILINE)
+          if len(counts) != 1 or int(counts[0]) < 1:
+              raise SystemExit("year-2026 index must declare one positive cohort count")
+          expected_count = int(counts[0])
+          if len(links) != expected_count or len(set(links)) != expected_count:
+              raise SystemExit(f"year-2026 index must contain {expected_count} unique links")
           missing_pages = [link for link in links if not Path(link).is_file()]
           if missing_pages:
               raise SystemExit(f"missing itemized pages: {missing_pages}")

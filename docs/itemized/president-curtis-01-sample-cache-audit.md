@@ -81,6 +81,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 2.51 | 19.17 | 30.45 | 39.90 | 1.78 | 0.63 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 94.44%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![President Curtis cumulative map](figures/president-curtis-01-carto.png)](figures/president-curtis-01-carto-4k.webp){:target="_blank" rel="noopener"}

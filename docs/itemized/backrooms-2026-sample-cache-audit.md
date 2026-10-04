@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 2.10 | 18.58 | 32.33 | 38.44 | 1.24 | 0.74 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 93.43%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Backrooms cumulative map](figures/backrooms-2026-carto.png)](figures/backrooms-2026-carto-4k.webp){:target="_blank" rel="noopener"}

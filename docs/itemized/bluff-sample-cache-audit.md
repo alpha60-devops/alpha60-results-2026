@@ -80,6 +80,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 3.19 | 12.76 | 35.87 | 44.21 | 1.05 | 0.67 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 97.75%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![The Bluff cumulative map](figures/bluff-carto.png)](figures/bluff-carto-4k.webp){:target="_blank" rel="noopener"}

@@ -83,6 +83,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 2.84 | 16.73 | 34.11 | 41.37 | 1.56 | 0.66 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 97.27%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Invincible cumulative map](figures/invincible-401-carto.png)](figures/invincible-401-carto-4k.webp){:target="_blank" rel="noopener"}

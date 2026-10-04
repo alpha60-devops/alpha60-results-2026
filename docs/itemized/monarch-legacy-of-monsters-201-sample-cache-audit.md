@@ -83,6 +83,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.57 | 16.59 | 35.10 | 43.72 | 1.19 | 0.80 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.97%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Monarch: Legacy of Monsters cumulative map](figures/monarch-legacy-of-monsters-201-carto.png)](figures/monarch-legacy-of-monsters-201-carto-4k.webp){:target="_blank" rel="noopener"}

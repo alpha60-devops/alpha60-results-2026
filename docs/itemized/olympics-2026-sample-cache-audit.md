@@ -80,6 +80,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 0.93 | 13.66 | 35.99 | 47.27 | 0.95 | 0.70 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 99.50%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Olympics cumulative map](figures/olympics-2026-carto.png)](figures/olympics-2026-carto-4k.webp){:target="_blank" rel="noopener"}

@@ -82,6 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.15 | 16.37 | 35.26 | 43.33 | 1.12 | 0.78 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.01%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![For All Mankind cumulative map](figures/for-all-mankind-501-carto.png)](figures/for-all-mankind-501-carto-4k.webp){:target="_blank" rel="noopener"}

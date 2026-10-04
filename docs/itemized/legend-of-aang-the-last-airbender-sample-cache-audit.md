@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 1.55 | 19.50 | 21.02 | 28.09 | 2.60 | 0.35 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 73.11%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![The Legend of Aang: The Last Airbender cumulative map](figures/legend-of-aang-the-last-airbender-carto.png)](figures/legend-of-aang-the-last-airbender-carto-4k.webp){:target="_blank" rel="noopener"}

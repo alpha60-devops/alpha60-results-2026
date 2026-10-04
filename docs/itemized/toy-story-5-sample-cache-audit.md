@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 3.12 | 19.55 | 34.34 | 33.11 | 1.67 | 0.73 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 92.52%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Toy Story 5 cumulative map](figures/toy-story-5-carto.png)](figures/toy-story-5-carto-4k.webp){:target="_blank" rel="noopener"}

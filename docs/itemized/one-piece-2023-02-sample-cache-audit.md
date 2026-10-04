@@ -80,6 +80,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.64 | 16.00 | 35.66 | 43.48 | 1.14 | 0.80 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.72%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![One Piece 2023 cumulative map](figures/one-piece-2023-02-carto.png)](figures/one-piece-2023-02-carto-4k.webp){:target="_blank" rel="noopener"}

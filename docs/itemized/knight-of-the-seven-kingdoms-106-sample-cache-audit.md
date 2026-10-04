@@ -83,6 +83,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.74 | 14.63 | 34.21 | 44.58 | 1.23 | 0.77 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 97.16%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Knight of the Seven Kingdoms cumulative map](figures/knight-of-the-seven-kingdoms-106-carto.png)](figures/knight-of-the-seven-kingdoms-106-carto-4k.webp){:target="_blank" rel="noopener"}

@@ -81,6 +81,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.20 | 14.69 | 35.45 | 44.07 | 1.18 | 0.72 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 97.31%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Love Story 2026 cumulative map](figures/love-story-2026-107-carto.png)](figures/love-story-2026-107-carto-4k.webp){:target="_blank" rel="noopener"}

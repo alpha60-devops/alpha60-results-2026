@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 2.27 | 17.21 | 36.82 | 39.64 | 1.32 | 0.81 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.07%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Super Mario Galaxy Movie cumulative map](figures/super-mario-galaxy-movie-carto.png)](figures/super-mario-galaxy-movie-carto-4k.webp){:target="_blank" rel="noopener"}

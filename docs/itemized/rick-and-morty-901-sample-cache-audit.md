@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 2.17 | 18.77 | 34.02 | 40.18 | 1.73 | 0.75 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 97.62%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Rick and Morty cumulative map](figures/rick-and-morty-901-carto.png)](figures/rick-and-morty-901-carto-4k.webp){:target="_blank" rel="noopener"}

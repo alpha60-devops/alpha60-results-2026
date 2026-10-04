@@ -81,6 +81,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 4.16 | 14.83 | 41.70 | 32.73 | 1.21 | 0.69 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 95.32%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![The Furious cumulative map](figures/furious-2025-carto.png)](figures/furious-2025-carto-4k.webp){:target="_blank" rel="noopener"}

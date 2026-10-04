@@ -82,6 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.65 | 14.63 | 33.34 | 47.22 | 1.16 | 0.67 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.67%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Hijack cumulative map](figures/hijack-201-carto.png)](figures/hijack-201-carto-4k.webp){:target="_blank" rel="noopener"}

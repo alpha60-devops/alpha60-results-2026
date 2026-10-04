@@ -85,6 +85,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 3.51 | 17.33 | 34.63 | 40.40 | 1.70 | 0.73 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.30%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![House of the Dragon cumulative map](figures/house-of-the-dragon-301-carto.png)](figures/house-of-the-dragon-301-carto-4k.webp){:target="_blank" rel="noopener"}

@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 1.35 | 17.15 | 35.12 | 42.55 | 1.14 | 0.85 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.16%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![The Legend of Vox Machina cumulative map](figures/legend-of-vox-machina-410-carto.png)](figures/legend-of-vox-machina-410-carto-4k.webp){:target="_blank" rel="noopener"}

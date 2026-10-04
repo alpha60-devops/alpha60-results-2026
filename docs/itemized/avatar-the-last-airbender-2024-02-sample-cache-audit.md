@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 2.12 | 16.92 | 36.44 | 40.76 | 1.32 | 0.81 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.37%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Avatar: The Last Airbender cumulative map](figures/avatar-the-last-airbender-2024-02-carto.png)](figures/avatar-the-last-airbender-2024-02-carto-4k.webp){:target="_blank" rel="noopener"}

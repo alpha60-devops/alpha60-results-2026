@@ -82,6 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.84 | 15.58 | 37.34 | 39.43 | 1.24 | 0.79 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 96.22%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Project Hail Mary cumulative map](figures/project-hail-mary-carto.png)](figures/project-hail-mary-carto-4k.webp){:target="_blank" rel="noopener"}

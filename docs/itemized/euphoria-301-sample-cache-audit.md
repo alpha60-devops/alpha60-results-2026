@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 1.84 | 16.67 | 34.74 | 43.35 | 1.38 | 0.78 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.76%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Euphoria cumulative map](figures/euphoria-301-carto.png)](figures/euphoria-301-carto-4k.webp){:target="_blank" rel="noopener"}

@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 1.37 | 17.12 | 35.10 | 42.80 | 1.30 | 0.83 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.52%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Star City cumulative map](figures/star-city-101-carto.png)](figures/star-city-101-carto-4k.webp){:target="_blank" rel="noopener"}

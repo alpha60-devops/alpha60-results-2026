@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 1.37 | 15.79 | 36.16 | 43.01 | 1.29 | 0.81 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.43%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Beef cumulative map](figures/beef-02-carto.png)](figures/beef-02-carto-4k.webp){:target="_blank" rel="noopener"}

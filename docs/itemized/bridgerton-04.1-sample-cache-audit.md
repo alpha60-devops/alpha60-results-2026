@@ -81,6 +81,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.59 | 15.63 | 34.58 | 45.13 | 1.28 | 0.73 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.94%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Bridgerton cumulative map](figures/bridgerton-04.1-carto.png)](figures/bridgerton-04.1-carto-4k.webp){:target="_blank" rel="noopener"}

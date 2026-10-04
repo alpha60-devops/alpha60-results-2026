@@ -82,6 +82,8 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.16 | 14.75 | 36.08 | 44.40 | 1.19 | 0.71 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.29%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![The Dinosaurs cumulative map](figures/dinosaurs-01-carto.png)](figures/dinosaurs-01-carto-4k.webp){:target="_blank" rel="noopener"}

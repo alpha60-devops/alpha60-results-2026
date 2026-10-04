@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 1.80 | 20.85 | 33.52 | 40.15 | 1.31 | 0.79 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.42%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![X-Men '97 cumulative map](figures/x-men-97-201-carto.png)](figures/x-men-97-201-carto-4k.webp){:target="_blank" rel="noopener"}

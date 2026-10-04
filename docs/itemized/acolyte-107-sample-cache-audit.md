@@ -82,6 +82,7 @@ description: "Cache coverage and visualization audit for one media object."
 | --- | --- | --- | --- | --- | --- |
 | 1.13 | 16.02 | 36.40 | 43.49 | 1.05 | 0.83 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.92%. The 16 regenerated October objects use the corrected calculation.
 
 ### Network infrastructure
 

@@ -80,6 +80,8 @@ None detected.
 | --- | --- | --- | --- | --- | --- |
 | 1.35 | 16.98 | 35.05 | 43.01 | 1.20 | 0.85 |
 
+Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.44%. The 16 regenerated October objects use the corrected calculation.
+
 ### Network infrastructure
 
 [![Sugar cumulative map](figures/sugar-201-carto.png)](figures/sugar-201-carto-4k.webp){:target="_blank" rel="noopener"}
