@@ -15,22 +15,22 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `ghost-in-the-shell-2026-01` |
 | imdb_id | [tt36517689](https://www.imdb.com/title/tt36517689/) |
 | wikipedia_url | [The Ghost in the Shell (2026 TV series)](https://en.wikipedia.org/wiki/The_Ghost_in_the_Shell_(2026_TV_series)) |
-| Sample dates | 2026-07-15-to-2026-09-08 |
-| Sample days | 56 |
-| BTIH count | 489 |
-| Unique BTIH count | 441 |
-| Downloaders total | 16,475,846 |
-| Uploaders total | 2,103,434 |
+| Sample dates | 2026-07-15-to-2026-09-29 |
+| Sample days | 77 |
+| BTIH count | 616 |
+| Unique BTIH count | 568 |
+| Downloaders total | 25,558,676 |
+| Uploaders total | 3,159,601 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:05Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/ghost-in-the-shell-2026-01.xz`
-- Hour directories: 1340
+- Generated: 2026-10-03T19:10:22Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/ghost-in-the-shell-2026-01.xz`
+- Hour directories: 1844
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
@@ -38,11 +38,22 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `ee0ee9113207da7834cfd320e954cca9e33faa82b0eab9c2585594cb4217b6d3`
+- Full-input producer receipt SHA-256: `1f9d9ccbed1302185c2f3f8da0871bcddaa91e98972c6886e107820e9c04066b`
+- Frozen raw archives: 1844
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 4
+- Excluded observations: 3918
+
+## 3. Media objects file size histogram
 
 ![The Ghost in the Shell collection size histogram](figures/ghost-in-the-shell-2026-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,29 +76,24 @@ None detected.
 
 ![ghost-in-the-shell-2026-01 downloads by day](figures/ghost-in-the-shell-2026-01-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/ghost-in-the-shell-2026-01-cumulative-aggregate.geojson.gz" data-map-title="The Ghost in the Shell — ghost-in-the-shell-2026-01" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Ghost in the Shell (ghost-in-the-shell-2026-01) cumulative data map in new window" title="Opens interactive map for The Ghost in the Shell (ghost-in-the-shell-2026-01) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.05 | 18.27 | 38.98 | 38.29 | 1.10 | 0.89 |
+| 1.20 | 18.82 | 39.10 | 38.98 | 1.04 | 0.87 |
 
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![The Ghost in the Shell cumulative map](figures/ghost-in-the-shell-2026-01-carto.png)](figures/ghost-in-the-shell-2026-01-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/ghost-in-the-shell-2026-01-data-ge-1080p.webp)](figures/ghost-in-the-shell-2026-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/ghost-in-the-shell-2026-01-data-lt-1080p.webp)](figures/ghost-in-the-shell-2026-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
