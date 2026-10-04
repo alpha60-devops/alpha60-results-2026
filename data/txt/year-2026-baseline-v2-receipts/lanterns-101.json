@@ -2,96 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt26545992",
     "imdb_id": "tt26545992",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "6656be3d8315f03fadc210e4c02ee453f4692396",
     "wikidata_id": "Q110556821",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lanterns_(TV_series)"
   },
-  "coverage_sha256": "edc9c7da9fe651d0e6f894896317f246df06098152a07ce9c5c77c441db045ae",
-  "generated_at": "2026-09-14T00:12:09.161778+00:00",
+  "coverage_sha256": "3e74810279d4ee19b29d6e60fea9bc3e5f4153e50c451c46a3dc27126740d9be",
+  "generated_at": "2026-10-04T06:46:48.785437+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/lanterns-101.cache/cache.20260906.tar.xz",
-      "sha256": "eb6329d86041e7e85473e539356db25b879b0ee4dbd641b1abf1a3d143943952",
-      "size": 382262108
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/archives/lanterns-101.cache/cache.20260928.tar.xz",
+      "sha256": "335f51ba2ad2dbea9e39c3186c7d1c6749410bba56d3fd7bac7778984a8891d7",
+      "size": 1017717324
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/lanterns-101.md",
-      "sha256": "be389a2ba2afddcf26ebaee1cf0b6aaf28f075ba48b3dad534531d2ed355a1bd",
-      "size": 545
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/lanterns-101.md",
+      "sha256": "ec9054b9a88eafaf26059c925d14da24e1c7c5f8b24b4bcb14716a4ce1288bbb",
+      "size": 895
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/lanterns-101.json",
-      "sha256": "aa05cfceef51dfdb0f64b512733b3535d416e09d56d091b9f695c574cae7f317",
-      "size": 2166
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/lanterns-101.json",
+      "sha256": "de09bcf2530e77e0e61353df40009ae9f38c212c477c878aef6a98e9dd7d4bfa",
+      "size": 2390
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/lanterns-101.json",
-      "sha256": "c1aec06db5d19402226f4659771dbda4c0b8cecb65459a851a54cbd1023413cd",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/lanterns-101.json",
+      "sha256": "6dc0fa62e536fd50bafc132c8943989d74aa3a53ad8be9cc86ec9ecf226fc486",
       "size": 364
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
-      "size": 97281
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/inputs/worker-map.json",
+      "sha256": "4e7bee1a946a83d7091a8d7d4ec3bf79044dc0a8e25dfc7478a1f26639cf5404",
+      "size": 240593
     }
   },
   "media_object": "lanterns-101",
   "published_files": {
-    "data/csv/bytes/lanterns-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "8ccd4d0934c7b9d39a8a8bfda5686422bbac7081f0a52027bbf090c77c6146a0",
-    "docs/itemized/figures/lanterns-101-carto-4k.webp": "fabb4e84ce77aa099bf5a75f244d2a605d4f076f6f53cf9776b6b54799d2b50a",
-    "docs/itemized/figures/lanterns-101-carto.png": "e8850cf05311784c42245b3d26a38d9b5f3b071d2623ae2cffeb61e4a430cf68",
-    "docs/itemized/figures/lanterns-101-cumulative-detail-btiha-itemized-by-bytes.svg": "855daec26d4cde81a46b6ec5026c46538180340e75a363ce7ec999d1250af060",
-    "docs/itemized/figures/lanterns-101-data-ge-1080p-4k.webp": "23d6921b103ec2d9b034d02561ada6fe0a86c4a492582ffc62ce0fc11ae468ad",
-    "docs/itemized/figures/lanterns-101-data-ge-1080p.webp": "d4b771143b32b529fde7645880823b48527157b1524ea7a04db01883046bf90e",
-    "docs/itemized/figures/lanterns-101-data-lt-1080p-4k.webp": "f6dff14a1ef6c2098a9f913a56e7f8e9a1277ae678729507d5a0eb113b071d77",
-    "docs/itemized/figures/lanterns-101-data-lt-1080p.webp": "71c80da12c9d1b623875460499467c686a8daf9315b0bb14430b0feb2e547cc2",
-    "docs/itemized/figures/lanterns-101-downloads-by-day-day.svg": "d14416ad110b4b3e3d3e0bee9c0154d28df93f26b5d8762e29066be735ee71ed",
-    "docs/itemized/figures/lanterns-101-downloads-by-week-lanterns-101-week.svg": "658cea6da5a9a421f31f6ee8f61c8ae3aad591dfdbad8c80f9a5213b7bb72f9d",
-    "docs/itemized/lanterns-101-sample-cache-audit.md": "9d96c00224620a5ecf57ebe78f726719281c4f754fdd4a223f67d4eb415421f9",
+    "data/csv/bytes/lanterns-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "197d69dc54b3fae4dbc20c6489df921433e3426ba64ec86978fbfe8ff655952c",
+    "docs/itemized/figures/lanterns-101-carto-4k.webp": "4ee6df0861528af6ec1cb0b5ab79d5196aba52400b3eda6f8068f6c0c111ca0f",
+    "docs/itemized/figures/lanterns-101-carto.png": "f74155f3876247371fb565512648c735621a25ad802c22f0a0f4bbd6055780ab",
+    "docs/itemized/figures/lanterns-101-cumulative-detail-btiha-itemized-by-bytes.svg": "1ef165ec74bfa82bbeafeb2bf504412f733485f8bfa425f7445a714048329f39",
+    "docs/itemized/figures/lanterns-101-data-ge-1080p-4k.webp": "019f6a03513cae76bad280feefed1899d3c89bf6f1639554c5c5d58ab6f71eee",
+    "docs/itemized/figures/lanterns-101-data-ge-1080p.webp": "378e9242c55630d81972a19703db89f4e911ae186c7e87cb71f50fc55c02c626",
+    "docs/itemized/figures/lanterns-101-data-lt-1080p-4k.webp": "9123a659718d420c66cd6feead32a9762aae7ae91b70e0506e840cc5d53fbb22",
+    "docs/itemized/figures/lanterns-101-data-lt-1080p.webp": "3e8f3fd8b42e6558da096e9144b20b5ab1dca13ee648289c39a0d07c5bda6bdb",
+    "docs/itemized/figures/lanterns-101-downloads-by-day-day.svg": "0965dc592ae8a79ca6599ba595dd80aa4f1dff9c3e0ee230f6cf4ec5aae79ce1",
+    "docs/itemized/figures/lanterns-101-downloads-by-week-lanterns-101-week.svg": "baa2405b1ef4d515462e0f0f6852227a8a1166a994b3c09442c45f96860c536f",
+    "docs/itemized/lanterns-101-sample-cache-audit.md": "2274db06707d72a28ebcfde9f320b8d7c5116a3f72f23b777156e7a5be040975",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-code",
+      "revision": "ec8be71a1ed3b70772040d6c254762788206313a",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-carto-geo.exe",
+      "sha256": "854e258846a4a2d678c62ad00fba4c91dceed1c1fc54a5ceba2ce9efd2edb1c7",
+      "size": 45250536
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/lanterns-101/tmp/lanterns-101-cumulative-btiha.geojson",
-        "sha256": "a19880daeb3a0e47d0193002ef3997db941beefbc48d84450be4d095abb14528",
-        "size": 85804188
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/lanterns-101/tmp/lanterns-101-cumulative-btiha.geojson",
+        "sha256": "f97232f5aed6ff68aee96eceeb10514863b67a7b9db2c50d43c736a5961682c6",
+        "size": 137068357
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/lanterns-101/tmp/lanterns-101-cumulative-btiha-media-objects.json",
-        "sha256": "877a79e82a402c9e901db59252c15243d147a27a97175cb0988f33f06ad4c54b",
-        "size": 452577
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/lanterns-101/tmp/lanterns-101-cumulative-btiha-media-objects.json",
+        "sha256": "6ba048e9efc8657313c4be5880f880a78c8f40fce7b26c1631e488cac5a7fc06",
+        "size": 453181
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "lanterns-101",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-meta-collection.exe",
+      "sha256": "8f1bd1d5de637a3cdd4c104c76f4e322b3141743e473202610cce6d39c76553d",
+      "size": 8579520
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -99,13 +99,13 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          69.0,
-          59.0,
-          44.0,
-          38.0,
-          29.0,
-          28.0,
-          28.0,
+          53.0,
+          42.0,
+          32.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
           26.0,
           26.0
         ],
@@ -118,12 +118,12 @@
           "London",
           "Seoul",
           "Amsterdam",
+          "Istanbul",
           "Lelystad",
           "New York City",
           "Shanghai",
-          "Istanbul",
-          "Moscow",
-          "Toronto"
+          "Leipzig",
+          "Hangzhou"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -132,11 +132,11 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          50.0,
-          46.0,
-          35.0,
-          30.0,
-          29.0,
+          41.0,
+          37.0,
+          26.0,
+          26.0,
+          26.0,
           26.0,
           26.0,
           26.0,
@@ -150,13 +150,13 @@
           "Nanjing",
           "Seoul",
           "London",
-          "Guatemala City",
-          "Lelystad",
-          "Amsterdam",
           "Istanbul",
-          "Moscow",
+          "Amsterdam",
+          "Lelystad",
+          "Leipzig",
+          "Guatemala City",
           "Shanghai",
-          "Leipzig"
+          "Moscow"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -166,7 +166,7 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 21,
+        "x_tick_labels": 22,
         "y_tick_labels": 22
       },
       "histogram": {
@@ -189,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 3,
-        "y_tick_labels": 20
+        "x_tick_labels": 7,
+        "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "ec8be71a1ed3b70772040d6c254762788206313a",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "6656be3d8315f03fadc210e4c02ee453f4692396"
   },
   "status": "passed",
   "validation_source": "render-receipt",
