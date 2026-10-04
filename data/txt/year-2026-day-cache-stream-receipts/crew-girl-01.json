@@ -1,0 +1,86 @@
+{
+  "allow_leading_sparse": false,
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "available_day_products": 14,
+  "cache_members": 2567,
+  "collection_key": "crew-girl-01",
+  "downstream_cache_synthesis": {
+    "cache_members": {
+      "cumulative": 196,
+      "week": 386
+    },
+    "derived_durations": [
+      "week",
+      "cumulative"
+    ],
+    "producer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-cache-samples.exe",
+      "sha256": "bb585e99f912ccf962e3f4277c2c627cfa0fdee03c99a3b9d50d8d87cdf1b290",
+      "size": 40140320
+    },
+    "sample_anchor": {
+      "directories": [
+        "2026-09-10-at-00-00",
+        "2026-09-23-at-00-00"
+      ],
+      "keys": [
+        "crew-girl-01"
+      ],
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/crew-girl-01/tmp/crew-girl-01-released-day-sample-anchor",
+      "raw_samples_opened": false,
+      "synthetic": true
+    },
+    "schema": "alpha60-released-day-downstream-cache/1",
+    "source_duration": "day",
+    "status": "pass"
+  },
+  "first_date": "2026-09-10",
+  "first_index": 1,
+  "indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "last_date": "2026-09-23",
+  "last_index": 14,
+  "missing_indices": [],
+  "sample_span_days": 14,
+  "schema": "alpha60-day-cache-stream-contract/1",
+  "selection": {
+    "admitted_cache_members": 2567,
+    "archive_mutated": false,
+    "excluded_cache_members": 0,
+    "policy": "released-sample-endpoints-in-place",
+    "required_first_date": "2026-09-10",
+    "required_last_date": "2026-09-23",
+    "required_span_days": 14,
+    "schema": "alpha60-released-day-cache-window/1",
+    "source_cache_members": 2567,
+    "source_first_date": "2026-09-10",
+    "source_first_index": 1,
+    "source_last_date": "2026-09-23",
+    "source_last_index": 14
+  },
+  "sparse": false,
+  "status": "pass"
+}
