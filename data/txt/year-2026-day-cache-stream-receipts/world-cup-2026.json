@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 72,
-  "cache_members": 35252,
+  "available_day_products": 93,
+  "cache_members": 47306,
   "collection_key": "world-cup-2026",
   "downstream_cache_synthesis": {
     "cache_members": {
       "cumulative": 574,
-      "week": 5636
+      "week": 7358
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
-      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
-      "size": 30067072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-cache-samples.exe",
+      "sha256": "bb585e99f912ccf962e3f4277c2c627cfa0fdee03c99a3b9d50d8d87cdf1b290",
+      "size": 40140320
     },
     "sample_anchor": {
       "directories": [
         "2026-06-29-at-00-00",
-        "2026-09-08-at-00-00"
+        "2026-09-29-at-00-00"
       ],
       "keys": [
         "world-cup-2026"
       ],
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/world-cup-2026/tmp/world-cup-2026-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/world-cup-2026/tmp/world-cup-2026-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -117,27 +117,48 @@
     69,
     70,
     71,
-    72
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93
   ],
-  "last_date": "2026-09-08",
-  "last_index": 72,
+  "last_date": "2026-09-29",
+  "last_index": 93,
   "missing_indices": [],
-  "sample_span_days": 72,
+  "sample_span_days": 93,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 35252,
+    "admitted_cache_members": 47306,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-06-29",
-    "required_last_date": "2026-09-08",
-    "required_span_days": 72,
+    "required_last_date": "2026-09-29",
+    "required_span_days": 93,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 35252,
+    "source_cache_members": 47306,
     "source_first_date": "2026-06-29",
     "source_first_index": 1,
-    "source_last_date": "2026-09-08",
-    "source_last_index": 72
+    "source_last_date": "2026-09-29",
+    "source_last_index": 93
   },
   "sparse": false,
   "status": "pass"
