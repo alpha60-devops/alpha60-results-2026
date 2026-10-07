@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 14,
-  "cache_members": 945,
+  "available_day_products": 42,
+  "cache_members": 3069,
   "collection_key": "my-brilliant-career-2026-01",
   "downstream_cache_synthesis": {
     "cache_members": {
-      "cumulative": 73,
-      "week": 138
+      "cumulative": 80,
+      "week": 442
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
-      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
-      "size": 30067072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
     },
     "sample_anchor": {
       "directories": [
         "2026-08-18-at-00-00",
-        "2026-08-31-at-00-00"
+        "2026-09-28-at-00-00"
       ],
       "keys": [
         "my-brilliant-career-2026-01"
       ],
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/my-brilliant-career-2026-01/tmp/my-brilliant-career-2026-01-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/my-brilliant-career-2026-01/tmp/my-brilliant-career-2026-01-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -59,27 +59,55 @@
     11,
     12,
     13,
-    14
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
   ],
-  "last_date": "2026-08-31",
-  "last_index": 14,
+  "last_date": "2026-09-28",
+  "last_index": 42,
   "missing_indices": [],
-  "sample_span_days": 14,
+  "sample_span_days": 42,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 945,
+    "admitted_cache_members": 3069,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-08-18",
-    "required_last_date": "2026-08-31",
-    "required_span_days": 14,
+    "required_last_date": "2026-09-28",
+    "required_span_days": 42,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 945,
+    "source_cache_members": 3069,
     "source_first_date": "2026-08-18",
     "source_first_index": 1,
-    "source_last_date": "2026-08-31",
-    "source_last_index": 14
+    "source_last_date": "2026-09-28",
+    "source_last_index": 42
   },
   "sparse": false,
   "status": "pass"

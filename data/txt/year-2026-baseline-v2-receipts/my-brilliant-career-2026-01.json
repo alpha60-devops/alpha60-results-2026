@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt37352716",
     "imdb_id": "tt37352716",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q135011543",
     "wikipedia_url": "https://en.wikipedia.org/wiki/My_Brilliant_Career_(TV_series)"
   },
-  "coverage_sha256": "6f6912880476fb51f9918153b15892cc2eeae1800bf979fd1ec620f164609412",
-  "generated_at": "2026-09-14T03:10:37.590040+00:00",
+  "coverage_sha256": "fcc24299c23d22bc8253c0e47124069c35e6746f054363e2237acde58312004c",
+  "generated_at": "2026-10-07T18:11:14.282758+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/my-brilliant-career-2026-01.cache/cache.20260831.tar.xz",
-      "sha256": "c55ae48da47a91a59a2e9f77dd77b33825fcb1113997f3fc9910c36bfd38bfd2",
-      "size": 38453156
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/my-brilliant-career-2026-01.cache/cache.20260928.tar.xz",
+      "sha256": "c0f2677e81bf084e41ab8167b6c1d111398842f2e3659b60e41971b9bfbdb480",
+      "size": 136791748
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/my-brilliant-career-2026-01.md",
-      "sha256": "3b4fcd247b87c94e0139c25cd0b8daa6fab97ee641d174295059bb545c7d7277",
-      "size": 575
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/my-brilliant-career-2026-01.md",
+      "sha256": "930cc8313eabc6cabd3b580a02d5d52475689cdf13ce586b1005fdb667ab66ee",
+      "size": 998
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/my-brilliant-career-2026-01.json",
-      "sha256": "a77ca58759cc7888f97cb6fe524bcc2b5c42d06ba9d8bd48ee6b4c3557630780",
-      "size": 2166
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/my-brilliant-career-2026-01.json",
+      "sha256": "d78beb9e519781462ba151ff470b950ae81c8c2a0078929245de2372ba3b58e7",
+      "size": 2467
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/my-brilliant-career-2026-01.json",
-      "sha256": "a9226e2c22765e08e339048b038c26f6ec2bcac8cf50165820df565151a271b2",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/my-brilliant-career-2026-01.json",
+      "sha256": "e189994ba574ae897b2d0df76cda4a138313e5f8b1928f6f76554acb6fe5886d",
       "size": 379
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
-      "size": 94076
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "my-brilliant-career-2026-01",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "a25583d0c71668840c75501bb1418d926cf73a5f706c47937fa12b6085476b51",
-        "before_sha256": "cdf2e89439844f053444456604d896fd8b340d2014cbd2e873929044d10ea2cd",
-        "path": "docs/itemized/my-brilliant-career-2026-01-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:59:38.680695+00:00",
-    "coverage_sha256": "6f6912880476fb51f9918153b15892cc2eeae1800bf979fd1ec620f164609412",
-    "day_contract": {
-      "collection_key": "my-brilliant-career-2026-01",
-      "day_products": 14,
-      "first_date": "2026-08-18",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-08-31",
-      "last_index": 14,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "5cf49320a98c35bae54a210054a4e6200122d917ae1778a924dc6135e55c855f",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/my-brilliant-career-2026-01.md",
-        "sha256": "3b4fcd247b87c94e0139c25cd0b8daa6fab97ee641d174295059bb545c7d7277",
-        "size": 575
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/my-brilliant-career-2026-01.json",
-        "sha256": "a77ca58759cc7888f97cb6fe524bcc2b5c42d06ba9d8bd48ee6b4c3557630780",
-        "size": 2166
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/my-brilliant-career-2026-01.json",
-        "sha256": "a9226e2c22765e08e339048b038c26f6ec2bcac8cf50165820df565151a271b2",
-        "size": 379
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 2,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/my-brilliant-career-2026-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "1df57abfc524013c66fa8cc94fec7c633f8e8dadf00600d51bcb8b20fb74153f",
-    "docs/itemized/figures/my-brilliant-career-2026-01-carto-4k.webp": "16517912f07aa3213eec4469c1eae4f33c5b458637bd022a255aae4d8638fbf4",
-    "docs/itemized/figures/my-brilliant-career-2026-01-carto.png": "830786a27103d980f757517e3fd91fb64584c81a45413a70cddb05069715de42",
-    "docs/itemized/figures/my-brilliant-career-2026-01-cumulative-detail-btiha-itemized-by-bytes.svg": "3fa6325e0ada3a3aff2ec14c784aa42a74d2a90476174203da5c6ff23cb69779",
-    "docs/itemized/figures/my-brilliant-career-2026-01-data-ge-1080p-4k.webp": "a2a4772f9fd1ad6cb8502d59beb2b0c59345e5d5c6d5fef9ddfac30d71b42f7c",
-    "docs/itemized/figures/my-brilliant-career-2026-01-data-ge-1080p.webp": "3104e3822a73de0407a5449ba249ad68a8de53050b9b7994a3d33f0679e750a7",
-    "docs/itemized/figures/my-brilliant-career-2026-01-data-lt-1080p-4k.webp": "c9e81e8d6c47e41c8e6bcd07da5f73e5a7210d852fe18c60c2d09d45f9c29404",
-    "docs/itemized/figures/my-brilliant-career-2026-01-data-lt-1080p.webp": "da6b8d2bca6ea42a38ea49d4687122310d43e0fe1770c794148d16f77bf921ae",
-    "docs/itemized/figures/my-brilliant-career-2026-01-downloads-by-day-day.svg": "b219742b08930dfb88dac01f66ff52040523d8a537b15e1fe4862dc31234715d",
-    "docs/itemized/figures/my-brilliant-career-2026-01-downloads-by-week-my-brilliant-career-2026-01-week.svg": "ad9c171f2bc600c6f5104c5b8b4d76a002a180142aa1efe876ac7df671ef5622",
-    "docs/itemized/my-brilliant-career-2026-01-sample-cache-audit.md": "a25583d0c71668840c75501bb1418d926cf73a5f706c47937fa12b6085476b51",
+    "data/csv/bytes/my-brilliant-career-2026-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "8b9f3ad795953e48178dcbcf90baace9ccb793b75670f49f880bc5dccc04862f",
+    "docs/itemized/figures/my-brilliant-career-2026-01-carto-4k.webp": "bd8013f40832b75a93fe6e30b14b656b0e99193a0bc2ca1cb0afe674b2d0b816",
+    "docs/itemized/figures/my-brilliant-career-2026-01-carto.png": "071186b05cea5c578af6e3f7a252f3d6786bffc082c32136b97c7802966cb1e3",
+    "docs/itemized/figures/my-brilliant-career-2026-01-cumulative-detail-btiha-itemized-by-bytes.svg": "0747d6b9684185973fdba518f57d7c45a4725636c3b1a630fcf08e5c3e31201b",
+    "docs/itemized/figures/my-brilliant-career-2026-01-data-ge-1080p-4k.webp": "a78107a38519e972eddea66582b317876654b8f6b4529b1fd2939da3733d6cf7",
+    "docs/itemized/figures/my-brilliant-career-2026-01-data-ge-1080p.webp": "b70068a9f4f1ec39a88a9dc26310842b2de5eb5d95771cfc668872ed2dee8c8c",
+    "docs/itemized/figures/my-brilliant-career-2026-01-data-lt-1080p-4k.webp": "faed86d28027dc7a5b16534302584e9b3910243bd4e5d61c8b3219f8db14ea8b",
+    "docs/itemized/figures/my-brilliant-career-2026-01-data-lt-1080p.webp": "06fb480ff0d64aaef95e5215ec838efd8daf0e0a59f247411d110f33cadd79af",
+    "docs/itemized/figures/my-brilliant-career-2026-01-downloads-by-day-day.svg": "72c0c9c00571beac53f7863856026f2a8f1ccc42c68d541343e55ef3fd4b7c5b",
+    "docs/itemized/figures/my-brilliant-career-2026-01-downloads-by-week-my-brilliant-career-2026-01-week.svg": "5fb38fc85ebdaf0b6753db14c7520b255d2b96c4f2359859df96d3497870c017",
+    "docs/itemized/my-brilliant-career-2026-01-sample-cache-audit.md": "14b10e5f2a392b96f2cbd5b9c7d895f476854244a0cd207ec15368ddaf7d7486",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
-      "dirty": true,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/my-brilliant-career-2026-01/tmp/my-brilliant-career-2026-01-cumulative-btiha.geojson",
-        "sha256": "9fef062310beb11f63da370c3ef42cdb0f607f7ae4af4b6634103a9cb2e57f26",
-        "size": 26825744
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/my-brilliant-career-2026-01/tmp/my-brilliant-career-2026-01-cumulative-btiha.geojson",
+        "sha256": "aef5f86887525dce341975606465fa08d22f5d3870ec49c7ae6335a56db8c575",
+        "size": 59141639
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/my-brilliant-career-2026-01/tmp/my-brilliant-career-2026-01-cumulative-btiha-media-objects.json",
-        "sha256": "dbeef48c48bc25e1b68e1d9910e527417d390433f301fcf0aea3696f1fd59171",
-        "size": 126171
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/my-brilliant-career-2026-01/tmp/my-brilliant-career-2026-01-cumulative-btiha-media-objects.json",
+        "sha256": "20d4cc9dd6103cfde368deb357c05055776ec97a54f468d5f1e1ced0f972cb85",
+        "size": 149174
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "my-brilliant-career-2026-01",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,31 +99,31 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          77.0,
-          41.0,
+          83.0,
+          53.0,
+          50.0,
+          48.0,
+          45.0,
+          43.0,
           39.0,
-          33.0,
-          30.0,
-          30.0,
-          28.0,
-          26.0,
-          26.0
+          38.0,
+          31.0
         ],
         "image_references": [
           "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
         ],
         "label_count": 10,
         "labels": [
-          "Nanjing",
           "Seoul",
-          "Lelystad",
-          "Amsterdam",
+          "Nanjing",
           "Istanbul",
+          "Amsterdam",
+          "Lelystad",
           "London",
           "Shanghai",
           "Hangzhou",
           "Ashburn",
-          "Moscow"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -189,14 +132,14 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          50.0,
-          26.0,
-          26.0,
-          26.0,
-          26.0,
-          26.0,
-          26.0,
-          26.0,
+          64.0,
+          39.0,
+          35.0,
+          33.0,
+          32.0,
+          30.0,
+          29.0,
+          27.0,
           26.0
         ],
         "image_references": [
@@ -206,12 +149,12 @@
         "labels": [
           "Nanjing",
           "Seoul",
+          "Istanbul",
           "Lelystad",
           "Amsterdam",
-          "Istanbul",
-          "Shanghai",
           "Ashburn",
           "London",
+          "Shanghai",
           "Hangzhou",
           "Moscow"
         ],
@@ -223,11 +166,11 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 14,
-        "y_tick_labels": 22
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
       },
       "histogram": {
-        "bars": 23,
+        "bars": 26,
         "role": "histogram",
         "status": "passed",
         "x_label": "SIZE IN GB",
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 2,
-        "y_tick_labels": 22
+        "x_tick_labels": 6,
+        "y_tick_labels": 20
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
