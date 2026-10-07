@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt8036976",
     "imdb_id": "tt8036976",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q132200341",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Send_Help"
   },
-  "coverage_sha256": "36ca8b22c9a3ee3b999fc8e336a6a96cac39c8b0bdf0247486b5bd860656a5d8",
-  "generated_at": "2026-09-14T05:13:33.975556+00:00",
+  "coverage_sha256": "be17d2e1cd492062802b76a2d0d45103d6e9ff3e50c373b7118db10c81036d2f",
+  "generated_at": "2026-10-07T18:14:21.734617+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/send-help.cache/cache.20260906.tar.xz",
-      "sha256": "d234b067dd816bc4bf2147cbce8fc4e2420be53bebd313d31a244443698e66f3",
-      "size": 2920064088
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/send-help.cache/cache.20260924.tar.xz",
+      "sha256": "97b4771792b66bb3aac67764a14d87947af0296c26dbb1ae7a579f72abb48bee",
+      "size": 3149179776
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/send-help.md",
-      "sha256": "1282b0b14bfa709c5238aee3da8d477381a2148181ec702b0aefd23aacb458f5",
-      "size": 908
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/send-help.md",
+      "sha256": "ab6de87044a44eff498e96f3bc18c06c46b71a8f759a5fa5e2ecb0b2b1de1f32",
+      "size": 77770
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/send-help.json",
-      "sha256": "02a538380955c51b215ad22f3bf98e5a9a47d61e4b74b5a6c5d939c0fca50d35",
-      "size": 3409
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/send-help.json",
+      "sha256": "5c2eaf4915dd2e8a0b5cef0405175a44e4db243cb35f596de41e56f3967d5dbf",
+      "size": 3656
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/send-help.json",
-      "sha256": "182d29d33fdf7949debee5fff5f37df465fba22a33bfd9dae8bc038a6223f55f",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/send-help.json",
+      "sha256": "99b77b80fe3653c027c08b71ef1e91b58ea6b01888685ac47f4166d415b48890",
       "size": 362
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
-      "size": 97281
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "send-help",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "6e744a08275ce5650faeb90db98baa75a9507c7b4ca27a0959507d8ea004b544",
-        "before_sha256": "5c815d608c18984617d7c9fcfb3b64cc04f5fcbba1de8b6bd801edf2d889a26f",
-        "path": "docs/itemized/send-help-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T07:01:16.559495+00:00",
-    "coverage_sha256": "36ca8b22c9a3ee3b999fc8e336a6a96cac39c8b0bdf0247486b5bd860656a5d8",
-    "day_contract": {
-      "collection_key": "send-help",
-      "day_products": 167,
-      "first_date": "2026-03-23",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-06",
-      "last_index": 168,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": true,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "f37a5f79f72f2206aaf4789f8e042fbdb12dd2c94b3259b418fdfcc56014023d",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/send-help.md",
-        "sha256": "1282b0b14bfa709c5238aee3da8d477381a2148181ec702b0aefd23aacb458f5",
-        "size": 908
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/send-help.json",
-        "sha256": "02a538380955c51b215ad22f3bf98e5a9a47d61e4b74b5a6c5d939c0fca50d35",
-        "size": 3409
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/send-help.json",
-        "sha256": "182d29d33fdf7949debee5fff5f37df465fba22a33bfd9dae8bc038a6223f55f",
-        "size": 362
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 24,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/send-help-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "63555a6bd7e8c1fec3aed3d79de365e9a679ad31d7b30e0959b3a152f6fb2657",
-    "docs/itemized/figures/send-help-carto-4k.webp": "f841246a46a35e8f1c67e96c2ef334579a5a608a45db3789a9af519e54d6ff20",
-    "docs/itemized/figures/send-help-carto.png": "2623353dd78c3e6bc341d83b6b49fa766a0c9120fd95663316b2984225d6528b",
+    "data/csv/bytes/send-help-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "a5cb634ba1c2ddffad8426a251bd412e44777aeac7a47419af3221b15f1243a7",
+    "docs/itemized/figures/send-help-carto-4k.webp": "27df819954e6da405f435ff830cebeb3d5d158b1dc77b89f7ebf632406959ae2",
+    "docs/itemized/figures/send-help-carto.png": "324ec24668e9047c0308fa45fc15d0480945cb01a75f7da31758c06bb91ea650",
     "docs/itemized/figures/send-help-cumulative-detail-btiha-itemized-by-bytes.svg": "3683e5d0714953d746104521080b02537d85431aab067b0ec22cfc955f4ffd15",
-    "docs/itemized/figures/send-help-data-ge-1080p-4k.webp": "098db50699d8ee9eaa86717e4e8928c6f4f2ae442a84fe45bd9bcec4d7aecdc6",
-    "docs/itemized/figures/send-help-data-ge-1080p.webp": "cd275a21232853e4daff0c369ac24669396a2cffb701fa6ed71175ca262f7170",
-    "docs/itemized/figures/send-help-data-lt-1080p-4k.webp": "15cc80becd1d4af4dae277e305ccdfa13a3c524333972b1ef1129765c5d6e6c8",
-    "docs/itemized/figures/send-help-data-lt-1080p.webp": "70d2d0bc938708771c008887a8e74dc016cfb3ea34b18fe763b42fbf8b5f9d5a",
-    "docs/itemized/figures/send-help-downloads-by-day-day.svg": "12f8668345bad7b35616b928bf101700b820cd457d1f968da7367ad54e4ec580",
-    "docs/itemized/figures/send-help-downloads-by-week-send-help-week.svg": "48f05946423c696903c40dd2880cdda488db3d5787f9c017bf405a8aa215d382",
-    "docs/itemized/send-help-sample-cache-audit.md": "6e744a08275ce5650faeb90db98baa75a9507c7b4ca27a0959507d8ea004b544",
+    "docs/itemized/figures/send-help-data-ge-1080p-4k.webp": "d11cd719a7f1ab65dcf684f40631846723815e8f8e99963e6b09ba290a0d40c4",
+    "docs/itemized/figures/send-help-data-ge-1080p.webp": "33b7e1e867d85383cad514de5cd3e69f277499678e19c8c24fd3f11a4a4fd292",
+    "docs/itemized/figures/send-help-data-lt-1080p-4k.webp": "4ae4b5d307f57cef950bb3baa1103d43fa1354f8f7a3cd519430e690b8f6a1d5",
+    "docs/itemized/figures/send-help-data-lt-1080p.webp": "85976679096deb2f4ca85ae7f623ef43b9ffd8c48f63e304817507e639f3b10b",
+    "docs/itemized/figures/send-help-downloads-by-day-day.svg": "25807dee6da0a19e0b1dcb0fca566458e35c4a90b0d096f39087a25285dbcee5",
+    "docs/itemized/figures/send-help-downloads-by-week-send-help-week.svg": "6e7f50101ba77deac917305986c2e6c2ac455ef34fd53cb03035153f83afc1b2",
+    "docs/itemized/send-help-sample-cache-audit.md": "113d02d4db48987e0f009ff75767246694c943a3f6d93500b6a51eb07982c9ab",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/send-help/tmp/send-help-cumulative-btiha.geojson",
-        "sha256": "db0db509e17bb5c8e9a896819abbcd830f501f669e977a6bb8d1e214cc3e66a4",
-        "size": 406770610
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/scratch-storage/mounted/results-native-work-r9-v11/send-help/tmp/send-help-cumulative-btiha.geojson",
+        "sha256": "bd319941ec4a66598a0a6180aa44f2b8fcb3262eb4ee1571cf3b5a635c2691cb",
+        "size": 422844528
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/send-help/tmp/send-help-cumulative-btiha-media-objects.json",
-        "sha256": "9ca85cdfe99877096863380b4178ff23f46aa8b45936a8490d31cf2cb22d2948",
-        "size": 845702
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/scratch-storage/mounted/results-native-work-r9-v11/send-help/tmp/send-help-cumulative-btiha-media-objects.json",
+        "sha256": "41fb62eb890bf34b7e29c31aab8b90041ad3cef5f23f72dffed5bea5b4a06bcc",
+        "size": 845709
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "send-help",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,10 +99,10 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          83.0,
-          39.0,
-          34.0,
-          28.0,
+          76.0,
+          38.0,
+          31.0,
+          27.0,
           26.0,
           26.0,
           26.0,
@@ -175,8 +118,8 @@
           "Seoul",
           "Istanbul",
           "Moscow",
-          "Shanghai",
           "London",
+          "Shanghai",
           "Amsterdam",
           "Hangzhou",
           "Saint Petersburg",
@@ -189,13 +132,13 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          47.0,
-          45.0,
-          42.0,
+          51.0,
+          44.0,
+          44.0,
           30.0,
+          28.0,
           27.0,
-          26.0,
-          26.0,
+          27.0,
           26.0,
           26.0
         ],
@@ -209,9 +152,9 @@
           "Moscow",
           "Istanbul",
           "Shanghai",
-          "Amsterdam",
-          "Saint Petersburg",
           "London",
+          "Saint Petersburg",
+          "Amsterdam",
           "Hangzhou",
           "Incheon"
         ],
@@ -224,7 +167,7 @@
         "role": "day-graph",
         "status": "passed",
         "x_tick_labels": 21,
-        "y_tick_labels": 22
+        "y_tick_labels": 20
       },
       "histogram": {
         "bars": 25,
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 24,
-        "y_tick_labels": 22
+        "x_tick_labels": 27,
+        "y_tick_labels": 20
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
