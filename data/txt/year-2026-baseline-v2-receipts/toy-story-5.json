@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt29355505",
     "imdb_id": "tt29355505",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q113641997",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Toy_Story_5"
   },
-  "coverage_sha256": "97dadd55466218371bdf856147d2da1b48dee2e9bba204c37e480a90fed473b9",
-  "generated_at": "2026-09-14T07:06:35.241467+00:00",
+  "coverage_sha256": "65f7959c3d973ade0e634f3112ca01aaad4bad9f2c5befb988913539ee9c8fd7",
+  "generated_at": "2026-10-07T18:17:04.309087+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/toy-story-5.cache/cache.20260908.tar.xz",
-      "sha256": "09c1091cc079c6e943d21fe717559528562c0ad3ce470caa33ffc30fbc0f4d2d",
-      "size": 373645604
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/toy-story-5.cache/cache.20260915.tar.xz",
+      "sha256": "33eed3cfcd6efe9ac3de51d859c8efe850d89b0bf77b66df660356cf5eb0524d",
+      "size": 618243868
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/toy-story-5.md",
-      "sha256": "ea695ded7b69bd61cc74d3e2c8d37a88834ac36e25f626d7f975c5c306674952",
-      "size": 543
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/toy-story-5.md",
+      "sha256": "9a2959f8ddf22589420dfba4fe3d468715dea10e361bd697b6359eab039bc822",
+      "size": 891
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/toy-story-5.json",
-      "sha256": "1ed906be262d2ba890edf2dfd00580d696334d14a47242249daa992099744814",
-      "size": 2162
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/toy-story-5.json",
+      "sha256": "cac28a35ca1791b95163ace97605f81e8f79d511cfce06f2be9d9863c8f87b29",
+      "size": 8655
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/toy-story-5.json",
-      "sha256": "750db12282fab584b607df9d1bb94142583ca0645672e8739d0c686ce3f07091",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/toy-story-5.json",
+      "sha256": "9e33faef560c9baa0e8e01888c14e83459f9c14087e759d0a414e2b15d5dd9f7",
       "size": 363
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
-      "size": 94076
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "toy-story-5",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "e01081db6e3205aaf368772ffab6761baa378704d7665ce193f8844ef0c448d3",
-        "before_sha256": "1a202b36f0946cb25911d35e71706d4b25f9f946b2ab1509173315383d22ac30",
-        "path": "docs/itemized/toy-story-5-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T07:02:10.951104+00:00",
-    "coverage_sha256": "97dadd55466218371bdf856147d2da1b48dee2e9bba204c37e480a90fed473b9",
-    "day_contract": {
-      "collection_key": "toy-story-5",
-      "day_products": 21,
-      "first_date": "2026-08-19",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-08",
-      "last_index": 21,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "baa37ecdbb8520fce23d1489ae85e0b95be84834b16b26269b304412673d1060",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/toy-story-5.md",
-        "sha256": "ea695ded7b69bd61cc74d3e2c8d37a88834ac36e25f626d7f975c5c306674952",
-        "size": 543
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/toy-story-5.json",
-        "sha256": "1ed906be262d2ba890edf2dfd00580d696334d14a47242249daa992099744814",
-        "size": 2162
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/toy-story-5.json",
-        "sha256": "750db12282fab584b607df9d1bb94142583ca0645672e8739d0c686ce3f07091",
-        "size": 363
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 3,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/toy-story-5-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "72f19e4f6ddfa965ffbefc9744b75ea32de5296de4b27df3308e4bb52798ff58",
-    "docs/itemized/figures/toy-story-5-carto-4k.webp": "f088735a6d2ce1d9692e16b35e7cde5c9082bb158907bc94d1a551022015052b",
-    "docs/itemized/figures/toy-story-5-carto.png": "4b905c7b6a5e81bdcd66401ccec857402fb949578e0c1118c796c2fd5da07f5a",
-    "docs/itemized/figures/toy-story-5-cumulative-detail-btiha-itemized-by-bytes.svg": "fe7bd2fc9ba9365c431a1ea767898350708cbddcd6b73908741ebc80567a73c4",
-    "docs/itemized/figures/toy-story-5-data-ge-1080p-4k.webp": "ad903857534d7a5843da71d1dc5968bc30bcb854291870c5c9b3b13504b48602",
-    "docs/itemized/figures/toy-story-5-data-ge-1080p.webp": "b499b992815fbf99a385bfa53aecea759e3ad48250bc37b5ae37f915826ad92a",
-    "docs/itemized/figures/toy-story-5-data-lt-1080p-4k.webp": "2964090cfb9101da4ccdf5c81ae8677b126ec7674def93866fa6250e4293ae72",
-    "docs/itemized/figures/toy-story-5-data-lt-1080p.webp": "440c7b057238e6613ee28156d5f06f8e7f5a22843db75deb05582d45678e5567",
-    "docs/itemized/figures/toy-story-5-downloads-by-day-day.svg": "69fa55ebccac1832d3fdf47b07e413fd6aa9e9a49fb0a75ccc3df7f8f8ff62e9",
-    "docs/itemized/figures/toy-story-5-downloads-by-week-toy-story-5-week.svg": "03c9022b70e3b8f78e263486fe1e5f32114a15f18a4e7e5c1683ceb1da162942",
-    "docs/itemized/toy-story-5-sample-cache-audit.md": "e01081db6e3205aaf368772ffab6761baa378704d7665ce193f8844ef0c448d3",
+    "data/csv/bytes/toy-story-5-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "6da0de58c2f5f4ee076507842437c914a50ad0f3d4ff47079f286ef09bee6117",
+    "docs/itemized/figures/toy-story-5-carto-4k.webp": "05ae8ae6afa0d73edc417cf2254e13bd2c92d0a21606cd235e2ed797dff2d759",
+    "docs/itemized/figures/toy-story-5-carto.png": "efef68598fbc5e584c96d8ad5ab69b9de4916b266e24f0643bbf218deffea674",
+    "docs/itemized/figures/toy-story-5-cumulative-detail-btiha-itemized-by-bytes.svg": "cabbce86db4f7d1756d892acc2fae368b739058b4e9d217e3a67c95037c723c6",
+    "docs/itemized/figures/toy-story-5-data-ge-1080p-4k.webp": "9a7937546002f03a9ed5445dcf5bb9b0093afac2ce5cc55df1195684a78cb583",
+    "docs/itemized/figures/toy-story-5-data-ge-1080p.webp": "3e1ff7bfb48a7440fca5f8eeb93e71ad6a545b75f52148f5ddb4da44c2000901",
+    "docs/itemized/figures/toy-story-5-data-lt-1080p-4k.webp": "b630b6c7cd2bb62a9d031f4b447c4e34ea26664d599b7e99facb79ff8486dce7",
+    "docs/itemized/figures/toy-story-5-data-lt-1080p.webp": "8d5fedfca0ba56ad171128b2fef8cb4700d405c946fd2ef05fc04803ebc44005",
+    "docs/itemized/figures/toy-story-5-downloads-by-day-day.svg": "2426c1017b88dce5e6578c75dc5b9be8f146cb6ff46c069698bc476015b34886",
+    "docs/itemized/figures/toy-story-5-downloads-by-week-toy-story-5-week.svg": "a0179694c5f99c8df188206a5b22c60b5d8b97385bfd8b2c1f08a2cd382ff46b",
+    "docs/itemized/toy-story-5-sample-cache-audit.md": "d0c62abc61fef7b0da5cd35a8c3c1b804f2e6959660aac3761641b735c007182",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
-      "dirty": true,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/toy-story-5/tmp/toy-story-5-cumulative-btiha.geojson",
-        "sha256": "81acc8348c1e1b42ecfafaaf1cb09b1cdfb561816006bfa6dbacd95ab4cf6be1",
-        "size": 79051977
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/toy-story-5/tmp/toy-story-5-cumulative-btiha.geojson",
+        "sha256": "43866d645535c205e6230516a581c90fb4e3309454c25219cb4e64c5f2103ec6",
+        "size": 97279634
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/toy-story-5/tmp/toy-story-5-cumulative-btiha-media-objects.json",
-        "sha256": "95542afe0ae67733aac1cf6d0e57479587ea5f3a58dc9d5272e677176d7539f9",
-        "size": 340603
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/toy-story-5/tmp/toy-story-5-cumulative-btiha-media-objects.json",
+        "sha256": "bbbfe5935d1a1064bd342dc059f44a0cbfbe8ca64aee601464f6f78dbc9b9311",
+        "size": 350684
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "toy-story-5",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -174,11 +117,11 @@
           "Nanjing",
           "Seoul",
           "London",
-          "Lelystad",
           "Amsterdam",
+          "Lelystad",
+          "Istanbul",
           "Ashburn",
           "Shanghai",
-          "Istanbul",
           "Guatemala City",
           "Hangzhou"
         ],
@@ -189,9 +132,9 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          53.0,
-          30.0,
-          28.0,
+          42.0,
+          26.0,
+          26.0,
           26.0,
           26.0,
           26.0,
@@ -206,13 +149,13 @@
         "labels": [
           "Nanjing",
           "Seoul",
+          "London",
           "Lelystad",
           "Moscow",
-          "Amsterdam",
-          "London",
-          "Guatemala City",
-          "Shanghai",
           "Istanbul",
+          "Amsterdam",
+          "Shanghai",
+          "Guatemala City",
           "Hangzhou"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
@@ -223,7 +166,7 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 21,
+        "x_tick_labels": 28,
         "y_tick_labels": 22
       },
       "histogram": {
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 3,
-        "y_tick_labels": 22
+        "x_tick_labels": 4,
+        "y_tick_labels": 20
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
