@@ -24,7 +24,7 @@ project.
 
 ## 2026 Results
 
-- 77 Media Objects
+- 78 Media Objects
 {% capture media_objects %}{% include year-2026-0-media-objects.txt %}{% endcapture %}{{ media_objects | replace: '.md)', '.html)' }}
 
 <div style="height: 50px;"></div>
