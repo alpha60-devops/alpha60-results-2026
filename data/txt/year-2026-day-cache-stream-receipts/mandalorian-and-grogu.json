@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 84,
-  "cache_members": 21471,
+  "available_day_products": 98,
+  "cache_members": 28521,
   "collection_key": "mandalorian-and-grogu",
   "downstream_cache_synthesis": {
     "cache_members": {
-      "cumulative": 498,
-      "week": 3242
+      "cumulative": 509,
+      "week": 4252
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-cache-samples.exe",
-      "sha256": "bb585e99f912ccf962e3f4277c2c627cfa0fdee03c99a3b9d50d8d87cdf1b290",
-      "size": 40140320
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
     },
     "sample_anchor": {
       "directories": [
         "2026-06-23-at-00-00",
-        "2026-09-14-at-00-00"
+        "2026-09-28-at-00-00"
       ],
       "keys": [
         "mandalorian-and-grogu"
       ],
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/mandalorian-and-grogu/tmp/mandalorian-and-grogu-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/mandalorian-and-grogu/tmp/mandalorian-and-grogu-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -129,27 +129,41 @@
     81,
     82,
     83,
-    84
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98
   ],
-  "last_date": "2026-09-14",
-  "last_index": 84,
+  "last_date": "2026-09-28",
+  "last_index": 98,
   "missing_indices": [],
-  "sample_span_days": 84,
+  "sample_span_days": 98,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 21471,
+    "admitted_cache_members": 28521,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-06-23",
-    "required_last_date": "2026-09-14",
-    "required_span_days": 84,
+    "required_last_date": "2026-09-28",
+    "required_span_days": 98,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 21471,
+    "source_cache_members": 28521,
     "source_first_date": "2026-06-23",
     "source_first_index": 1,
-    "source_last_date": "2026-09-14",
-    "source_last_index": 84
+    "source_last_date": "2026-09-28",
+    "source_last_index": 98
   },
   "sparse": false,
   "status": "pass"

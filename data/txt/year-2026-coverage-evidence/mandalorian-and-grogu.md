@@ -1,8 +1,8 @@
 # Cache coverage report — mandalorian-and-grogu
 
-- Generated: 2026-10-03T19:10:22Z
+- Generated: 2026-10-07T14:25:16Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/mandalorian-and-grogu.xz`
-- Hour directories: 1996
+- Hour directories: 2332
 - Zero-length sample files: 0
 - Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 1 (15 missing hours)
@@ -15,9 +15,9 @@
 
 ## Frozen validation evidence
 
-- Frozen content SHA-256: `56ab4cafd27de178d96b56bb114a9f8b6b9feb8487dfbfadae1c526447117eac`
-- Full-input producer receipt SHA-256: `4ba1588ed874776a9c4d53bb72afa98cb9addde32f6bf4bc9c4a992d3f6d5274`
-- Frozen raw archives: 1996
+- Frozen content SHA-256: `02ced277c0dbe6392a39f23c1c62b9a694c48f7762810a02d768bda03e997f05`
+- Full-input producer receipt SHA-256: `08593e25e612f597c383cc4b874550cb80bf4ad3dee2f35852b68c2ba2f9228c`
+- Frozen raw archives: 2332
 - Empty sampler observations remain explicit gaps; no observations were imputed.
 - Out-of-scope records retain the collection factory's established filtering.
 - Excluded raw members: 0
