@@ -1,20 +1,1368 @@
 # Cache coverage report — bear-05
 
-- Generated: 2026-09-13T17:13:03Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz`
-- Hour directories: 1839
-- Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Generated: 2026-10-07T14:25:15Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz`
+- Hour directories: 2319
+- Zero-length sample files: 1337
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 1 (29 missing hours)
 - Missing days: 1
+
+Zero-length records are missing sampler observations. Their
+cause was not established by this run. Each gap remains explicit.
+
+## Zero-length sample files
+
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear (2022) S05 (1080p DSNP WEB-DL x265 10bit EAC3 5.1 Silence) REPACK-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear (2022) S05 (1080p DSNP WEB-DL x265 10bit EAC3 5.1 Silence) REPACK-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear (2022) S05 (1080p DSNP WEB-DL x265 10bit EAC3 5.1 Silence)-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear (Season 5) DV HDR10 WEB-DL 2160p-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear (Season 5) DV HDR10 WEB-DL 2160p-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear (Season 5) DV HDR10 WEB-DL 2160p-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear (Season 5) DV HDR10 WEB-DL 2160p-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear (Season 5) WEB-DL 1080p-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear (Season 5) WEB-DL 1080p-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear - Stagione 05 (2026)-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear - Stagione 05 (2026)-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear - Stagione 5 (2026) [Completa] WEB-DL 2160p DVHDR10-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear - Stagione 5 (2026) [Completa] WEB-DL 2160p DVHDR10-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear - Stagione 5 (2026) [Completa] WEB-DL 2160p DVHDR10-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2022 S05 1080p DSNP WEB-DL x265 10bit EAC3 5 1 Silence REPACK [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2022 S05 1080p DSNP WEB-DL x265 10bit EAC3 5 1 Silence REPACK [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2022 S05 1080p DSNP WEB-DL x265 10bit EAC3 5 1 Silence REPACK [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2026 S05 1080p DSNP WEB-DL H 264 DUAL EAC3 TSRG [IPT](1)-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2026 S05 1080p DSNP WEB-DL H 264 DUAL EAC3 TSRG [IPT](1)-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2026 S05 1080p DSNP WEB-DL H 264 DUAL EAC3 TSRG [IPT](1)-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2026 S05 1080p DSNP WEB-DL H 264 DUAL EAC3 TSRG [IPT](1)-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2026 S05 1080p DSNP WEB-DL H 264 DUAL EAC3 TSRG [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2026 S05 1080p DSNP WEB-DL H 264 DUAL EAC3 TSRG [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2026 S05 1080p DSNP WEB-DL H 264 DUAL EAC3 TSRG [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 2026 S05 1080p DSNP WEB-DL H 264 DUAL EAC3 TSRG [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X1 HDTV XviD Castellano-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X1 HDTV XviD Castellano-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X1 HDTV XviD Castellano-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X2 HDTV XviD Castellano-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X2 HDTV XviD Castellano-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X2 HDTV XviD Castellano-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X3 HDTV XviD Castellano-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X3 HDTV XviD Castellano-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X3 HDTV XviD Castellano-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X3 HDTV XviD Castellano-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X3 HDTV XviD Castellano-2026-08-14-at-18-56.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X4 HDTV XviD Castellano-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X4 HDTV XviD Castellano-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X4 HDTV XviD Castellano-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X5 HDTV XviD Castellano-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X5 HDTV XviD Castellano-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X6 HDTV XviD Castellano-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X6 HDTV XviD Castellano-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X6 HDTV XviD Castellano-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X6 HDTV XviD Castellano-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X7 HDTV XviD Castellano-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X7 HDTV XviD Castellano-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear 5X8 HDTV XviD Castellano-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p DSNP WEB-DL DUAL DDP5 1 H 264-TURG [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p DSNP WEB-DL DUAL DDP5 1 H 264-TURG [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 1080p WEBRip x265-DH [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p DSNP WEB-DL DDP5 1 DV HDR H 265 DUAL-SiGLA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p DSNP WEB-DL DDP5 1 H 265-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p DSNP WEB-DL DV HDR DDP5 1 H 265 MP4-BEN THE MEN [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p DSNP WEB-DL DV HDR DDP5 1 H 265 MP4-BEN THE MEN [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p DSNP WEB-DL DV HDR DDP5 1 H 265 MP4-BEN THE MEN [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p HULU WEB-DL H 265-FLUX [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 2160p HULU WEB-DL H 265-FLUX [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 720p - PW-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 720p - PW-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 720p - PW-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 720p WEB EAC3 H 264-AFO [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 720p WEB EAC3 H 264-AFO [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 720p WEB EAC3 H 264-AFO [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 720p WEB EAC3 H 264-AFO [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 NORDiC 1080p DSNP WEB-DL H 264-NORViNE [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 NORDiC 1080p DSNP WEB-DL H 264-NORViNE [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 NORDiC 1080p DSNP WEB-DL H 265-NORViNE [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05 NORDiC 1080p DSNP WEB-DL H 265-NORViNE [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E01 Soda 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E02 Lamb 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-56.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 The Bear 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 The Bear 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 The Bear 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E03 The Bear 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E04 Ribs 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 1080p WEB h264-ETHEL .exe-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 1080p WEB h264-ETHEL .exe-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 1080p WEB h264-ETHEL .exe-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 1080p WEB h264-ETHEL.exe-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 1080p WEB h264-ETHEL.exe-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 1080p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 720p DSNP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 720p DSNP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E05 Raspberries 720p DSNP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E06 Focaccia 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 1080p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 1080p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 1080p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E07 Caramel 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 720p 10bit WEBRip 2CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.501]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.501]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.501]-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.502]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.502]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.502]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.503]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.503]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.503]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.503]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.504]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.505]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.505]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.505]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.506]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.506]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.507]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.507]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.507]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.507]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.508]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 1080p][Cap.508]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.501]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.501]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.501]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.501]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.501]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.502]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.503]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.503]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.503]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.504]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.505]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.506]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.506]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.506]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.506]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.506]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.507]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.508]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.508]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV 720p][Cap.508]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.501]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.501]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.502]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.502]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.502]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.503]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.503]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.504]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.504]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.504]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.505]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.505]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.505]-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.506]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.506]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.506]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.506]-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.507]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.507]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear [HDTV][Cap.507]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The Bear.2022.1080P.LATINO-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.ColdFilm-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.ColdFilm-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.ColdFilm-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.DNSP.WEB-DL.DDP5.1.H.265.HEVC-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.DNSP.WEB-DL.DDP5.1.H.265.HEVC-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.DNSP.WEB-DL.DDP5.1.H.265.HEVC-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.DSNP.WEB-DL.ENG.ITA.H264-TheBlackKing-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.Ru.Ultradox-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.Ru.Ultradox-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.Ru.Ultradox-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.ViruseProject-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.ViruseProject-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.ViruseProject-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.1080p.WEBRip.x265-KONTRAST-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DNSP.WEB-DL.DDP5.1.DV.HDR.H.265.HEVC-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DNSP.WEB-DL.DDP5.1.DV.HDR.H.265.HEVC-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DNSP.WEB-DL.DDP5.1.DV.HDR.H.265.HEVC-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DNSP.WEB-DL.DDP5.1.DV.HDR.H.265.HEVC-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DSNP.WEB-DL.DV.HDR-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DSNP.WEB-DL.DV.HDR-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DSNP.WEB-DL.DV.HDR-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DSNP.WEB-DL.DV.HDR.DDP5.1.H265.MP4-BEN.THE.MEN-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DSNP.WEB-DL.DV.HDR.DDP5.1.H265.MP4-BEN.THE.MEN-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DSNP.WEB-DL.DV.HDR.DDP5.1.H265.MP4-BEN.THE.MEN-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.DSNP.WEB-DL.DV.HDR.DDP5.1.H265.MP4-BEN.THE.MEN-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.ITA.ENG.DSNP.WEB-DL.DDP5.1.DV.HDR.H.265-MeM.GP-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.2160p.ITA.ENG.DSNP.WEB-DL.DDP5.1.DV.HDR.H.265-MeM.GP-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.400p.ColdFilm-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.400p.ColdFilm-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.400p.ColdFilm-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.400p.ColdFilm-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.400p.ViruseProject-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.400p.ViruseProject-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720.HEVC.x265-MeGusta-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720p.ColdFilm-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720p.ColdFilm-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720p.ColdFilm-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720p.ColdFilm-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720p.WEBDL-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720p.WEBDL-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720p.WEBDL-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.720p.WEBDL-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.ITA.WEBRIP.x264-mkeagle3-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.WEB-DLRip.HDRezka Studio-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.WEB-DLRip.HDRezka Studio-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05.WEBDL.1080p.Ukr.Eng-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.WEB.h264-TRB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.WEB.h264-TRB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.WEB.h264-TRB-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.2160p.WEB.h265-TRB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.2160p.WEB.h265-TRB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.2160p.WEB.h265-TRB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.480p.x264-mSD [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.480p.x264-mSD [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.480p.x264-mSD [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.HDR.2160p.WEB.h265-ETHEL [IPT](1)-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.Soda.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.Soda.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.Soda.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.Soda.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.Soda.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.Soda.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.Soda.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.XviD-AFG [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.XviD-AFG [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.rus.LostFilm.TV.avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E01.rus.LostFilm.TV.avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-56.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.WEB.h264-TRB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.WEB.h264-TRB-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.WEB.h264-TRB-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.2160p.WEB.h265-TRB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.2160p.WEB.h265-TRB-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.480p.x264-mSD [IPT]-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.XviD-AFG [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.XviD-AFG [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.XviD-AFG [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.rus.LostFilm.TV.avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.rus.LostFilm.TV.avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E02.rus.LostFilm.TV.avi-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.Mint.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.Mint.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.Mint.480p.x264-mSD [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.Mint.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.Mint.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.Mint.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.Mint.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.Mint.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.XviD-AFG [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.XviD-AFG [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.XviD-AFG [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.rus.LostFilm.TV.avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.rus.LostFilm.TV.avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E03.rus.LostFilm.TV.avi-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.WEB.h264-TRB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.WEB.h264-TRB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.WEB.h264-TRB-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.WEB.h264-TRB-2026-08-14-at-18-56.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.480p.x264-mSD [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.480p.x264-mSD [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.Ribs.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.Ribs.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.Ribs.480p.x264-mSD [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.Ribs.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.Ribs.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.Ribs.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.Ribs.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.Ribs.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.Ribs.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.XviD-AFG [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.XviD-AFG [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.XviD-AFG [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.rus.LostFilm.TV.avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.rus.LostFilm.TV.avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E04.rus.LostFilm.TV.avi-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.480p.x264-mSD [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.XviD-AFG [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.XviD-AFG [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E05.rus.LostFilm.TV.avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.WEB.h264-TRB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.480p.x264-mSD [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.480p.x264-mSD [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.Focaccia.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.Focaccia.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.Focaccia.480p.x264-mSD [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.Focaccia.480p.x264-mSD [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.Focaccia.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.Focaccia.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.Focaccia.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.Focaccia.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.XviD-AFG [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.XviD-AFG [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.XviD-AFG [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E06.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.480p.x264-mSD [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.Caramel.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.Caramel.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.Caramel.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.Caramel.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.Caramel.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.Caramel.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.Caramel.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.XviD-AFG [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.XviD-AFG [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.rus.LostFilm.TV.avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.rus.LostFilm.TV.avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E07.rus.LostFilm.TV.avi-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.WEB.h264-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.1080p.rus.LostFilm.TV.mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.2026.WEB-DL.1080p-Dual-Lat-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.480p.x264-mSD [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.480p.x264-mSD [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.Subtitulado.Esp.SC.mp4-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.WEB.H264-AFO [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.720p.rus.LostFilm.TV.mp4-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.FINAL.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.FINAL.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.HDR.2160p.WEB.h265-ETHEL [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.XviD-AFG [IPT]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.XviD-AFG [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.S05E08.rus.LostFilm.TV.avi-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.s05.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.s05.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.s05.HD720p.WEBRip.Rus.RuDub.tv-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The.Bear.s05.HD720p.WEBRip.Rus.RuDub.tv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/The_Bear_s05_[Delta_Dubbing]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[BEST-TORRENTS.COM] The.Bear.Sezon05.MULTi.1080p.DSNP.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[BEST-TORRENTS.COM] The.Bear.Sezon05.MULTi.2160p.DSNP.WEB-DL.DV.HDR.H.265.DDP5.1-K83-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[BEST-TORRENTS.COM] The.Bear.Sezon05.MULTi.2160p.DSNP.WEB-DL.DV.HDR.H.265.DDP5.1-K83-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[BEST-TORRENTS.COM] The.Bear.Sezon05.MULTi.2160p.DSNP.WEB-DL.DV.HDR.H.265.DDP5.1-K83-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[BEST-TORRENTS.COM] The.Bear.Sezon05.MULTi.2160p.DSNP.WEB-DL.DV.HDR.H.265.DDP5.1-K83-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[DEVIL-TORRENTS.PL] The.Bear.Sezon05.MULTi.1080p.DSNP.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[DEVIL-TORRENTS.PL] The.Bear.Sezon05.MULTi.1080p.DSNP.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[DEVIL-TORRENTS.PL] The.Bear.Sezon05.MULTi.1080p.DSNP.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[DEVIL-TORRENTS.PL] The.Bear.Sezon05.MULTi.2160p.DSNP.WEB-DL.DV.HDR.H.265.DDP5.1-K83-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[DEVIL-TORRENTS.PL] The.Bear.Sezon05.MULTi.2160p.DSNP.WEB-DL.DV.HDR.H.265.DDP5.1-K83-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[Ex-torrenty.org]The.Bear.S05.MULTi.1080p.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[Ex-torrenty.org]The.Bear.S05.MULTi.1080p.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[Ex-torrenty.org]The.Bear.S05.MULTi.1080p.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[Ex-torrenty.org]The.Bear.S05.MULTi.1080p.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.1080p.VP-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.1080p.VP-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.1080p.VP-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.1080p.VP-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.1080p.VP-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.1080p.VP-2026-08-14-at-18-56.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.400p.VP-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.400p.VP-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.400p.VP-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.DV.HDR10.WEB.DL.2160p-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.DV.HDR10.WEB.DL.2160p-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.DV.HDR10.WEB.DL.2160p-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.WEB.DL.1080p-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.WEB.DL.1080p-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05.WEB.DL.1080p-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05E01.1080p.VP-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05E01.1080p.VP-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05E01.400p.VP-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05E01.400p.VP-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05E01.400p.VP-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/[rutor.is]The.Bear.S05E01.400p.VP-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E01 Soda 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E02 Lamb 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 Mint 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 The Bear 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E03 The Bear 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E04 Ribs 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E05 Raspberries 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E06 Focaccia 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 Caramel 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 MULTI 1080p WEB H264-HiggsBoson-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E07 MULTI 1080p WEB H264-HiggsBoson-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 720p 10bit WEBRip 2CH x265 HEVC-PSA-2026-08-14-at-18-56.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 1080p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DD 5 1 DoVi H 265-playWEB-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DD 5 1 HDR H 265-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV H 265-Kitsune-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV H 265-NTb-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-FLUX-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 DV HDR10Plus H 265-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 H 265-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 2160p DSNP WEB-DL DDP5 1 H 265-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The Bear S05E08 The Original Beef of Chicagoland 720p DSNP WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.1080p.WEB.h264-ETHEL-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.1080p.WEB.h264-ETHEL-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.1080p.WEB.h264-ETHEL-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.1080p.WEB.h264-ETHEL-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.720p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.720p.HEVC.x265-MeGusta-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.720p.WEB.H264-AFO-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.720p.WEB.H264-AFO-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.Soda.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E01.Soda.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.1080p.WEB.h264-ETHEL-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.720p.HEVC.x265-MeGusta-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.720p.WEB.H264-AFO-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.720p.WEB.H264-AFO-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.720p.WEB.H264-AFO-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.Lamb.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.Lamb.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.Lamb.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.Lamb.720p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.Lamb.720p.HEVC.x265-MeGusta-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E02.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.1080p.WEB.h264-ETHEL-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.1080p.WEB.h264-ETHEL-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.720p.HEVC.x265-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.Mint.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.Mint.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.Mint.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E03.Mint.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.1080p.WEB.h264-ETHEL-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.1080p.WEB.h264-ETHEL-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.1080p.WEB.h264-ETHEL-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.720p.HEVC.x265-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.720p.HEVC.x265-MeGusta-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.720p.WEB.H264-AFO-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.720p.WEB.H264-AFO-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.720p.WEB.H264-AFO-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.Ribs.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.Ribs.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.Ribs.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.Ribs.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.Ribs.720p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E04.Ribs.720p.HEVC.x265-MeGusta-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.1080p.WEB.h264-ETHEL-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.1080p.WEB.h264-ETHEL-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.1080p.WEB.h264-ETHEL-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.720p.HEVC.x265-MeGusta-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.720p.WEB.H264-AFO-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.720p.WEB.H264-AFO-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.Raspberries.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.Raspberries.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.Raspberries.720p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.Raspberries.720p.HEVC.x265-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E05.Raspberries.720p.HEVC.x265-MeGusta-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.1080p.WEB.h264-ETHEL-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.1080p.WEB.h264-ETHEL-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.720p.HEVC.x265-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.Focaccia.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.Focaccia.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.Focaccia.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.Focaccia.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.Focaccia.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.Focaccia.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E06.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.1080p.WEB.h264-ETHEL-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.1080p.WEB.h264-ETHEL-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.720p.WEB.H264-AFO-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.720p.WEB.H264-AFO-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.720p.WEB.H264-AFO-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.720p.WEB.H264-AFO-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.Caramel.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.Caramel.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.Caramel.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E07.Caramel.720p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.1080p.AV1.10bit-MeGusta-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.1080p.WEB.h264-ETHEL-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.1080p.WEB.h264-ETHEL-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.720p.HEVC.x265-MeGusta-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.The.Original.Beef.of.Chicagoland.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.The.Original.Beef.of.Chicagoland.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.The.Original.Beef.of.Chicagoland.720p.HEVC.x265-MeGusta-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/www.UIndex.org    -    The.Bear.S05E08.The.Original.Beef.of.Chicagoland.720p.HEVC.x265-MeGusta-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/Медведь The Bear Сезон 5 Серии 1-2 из 10 (Дуччо Фаббри, Кристофер Сторер) [2026, США, Драма, комедия, HEVC, HDR10, HDR10+, [rutracker-6875876]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/Медведь The Bear Сезон 5 Серии 1-2 из 10 (Дуччо Фаббри, Кристофер Сторер) [2026, США, Драма, комедия, HEVC, HDR10, HDR10+, [rutracker-6875876]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/Медведь The Bear Сезон 5 Серии 1-2 из 10 (Дуччо Фаббри, Кристофер Сторер) [2026, США, Драма, комедия, HEVC, HDR10, HDR10+, [rutracker-6875876]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/Медведь The Bear Сезон 5 Серии 1-2 из 10 (Дуччо Фаббри, Кристофер Сторер) [2026, США, Драма, комедия, WEB-DL 1080p] MVO (H [rutracker-6875850]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/Медведь The Bear Сезон 5 Серии 1-8 из 8 (Дуччо Фаббри) [2026, США, драма, комедия, WEB-DL 720p] MVO (LostFilm) + MVO (HDre [rutracker-6883059]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/Медведь The Bear Сезон 5 Серии 1-8 из 8 (Дуччо Фаббри, Кристофер Сторер) [2026, США, Драма, комедия, HEVC, HDR10, HDR10+, [rutracker-6875876]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/Медведь The Bear Сезон 5 Серии 1-8 из 8 (Дуччо Фаббри, Кристофер Сторер) [2026, США, Драма, комедия, HEVC, HDR10, HDR10+, [rutracker-6875876]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/Медведь The Bear Сезон 5 Серии 1-8 из 8 (Дуччо Фаббри, Кристофер Сторер) [2026, США, Драма, комедия, HEVC, HDR10, HDR10+, [rutracker-6875876]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/Медведь The Bear Сезон 5 Серии 1-8 из 8 (Дуччо Фаббри, Кристофер Сторер) [2026, США, Драма, комедия, WEB-DL 1080p] 4 x MVO [rutracker-6875850]-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/Медведь The Bear Сезон 5 Серии 1-8 из 8 (Дуччо Фаббри, Кристофер Сторер) [2026, США, Драма, комедия, WEB-DL 1080p] 4 x MVO [rutracker-6875850]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/【高清剧集网发布 www.BTHDTV.com】熊家餐馆.第五季[全8集][简繁英字幕].The.Bear.S05.2160p.DSNP.WEB-DL.DDP.5.1.HDR10.H.265-BlackTV-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/【高清剧集网发布 www.BTHDTV.com】熊家餐馆.第五季[全8集][简繁英字幕].The.Bear.S05.2160p.DSNP.WEB-DL.DDP.5.1.HDR10.H.265-BlackTV-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/熊家餐馆 第五季.电影港 地址发布页 www.dygang.me 收藏不迷路-2026-08-14-at-18-22.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/bear-05.xz/2026-08-14-at-18-02.tar.xz/熊家餐馆 第五季.电影港 地址发布页 www.dygang.me 收藏不迷路-2026-08-14-at-18-35.json`
 
 ## Sample archive discontinuities
 
 - hourly gap: last `2026-08-14 18:02`, resumed `2026-08-16 00:02` — missing 29 hour(s)
 - missing day: `2026-08-15`
 
-## Review
 
-Confirm the sampler state and disk capacity on the sampling
-hosts for every zero-length file and discontinuity above
-before treating the aggregate outputs as complete.
+## Frozen validation evidence
+
+- Frozen content SHA-256: `97a9465956e610dec652680b3ebbce8fd7c5e77d712b4f0ca5b92b64e59c4134`
+- Full-input producer receipt SHA-256: `c3d849b6a98935041eb2bdf3647a05533742e174b1c26fc9144371dc7f5cbd3c`
+- Frozen raw archives: 2319
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 11
+- Excluded observations: 4309

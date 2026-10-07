@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 77,
-  "cache_members": 40841,
+  "available_day_products": 97,
+  "cache_members": 51721,
   "collection_key": "bear-05",
   "downstream_cache_synthesis": {
     "cache_members": {
       "cumulative": 544,
-      "week": 6453
+      "week": 7541
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
-      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
-      "size": 30067072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
     },
     "sample_anchor": {
       "directories": [
         "2026-06-26-at-00-00",
-        "2026-09-11-at-00-00"
+        "2026-10-01-at-00-00"
       ],
       "keys": [
         "bear-05"
       ],
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/bear-05/tmp/bear-05-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/bear-05/tmp/bear-05-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -122,29 +122,49 @@
     75,
     76,
     77,
-    78
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98
   ],
-  "last_date": "2026-09-11",
-  "last_index": 78,
+  "last_date": "2026-10-01",
+  "last_index": 98,
   "missing_indices": [
     51
   ],
-  "sample_span_days": 78,
+  "sample_span_days": 98,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 40841,
+    "admitted_cache_members": 51721,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-06-26",
-    "required_last_date": "2026-09-11",
-    "required_span_days": 78,
+    "required_last_date": "2026-10-01",
+    "required_span_days": 98,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 40841,
+    "source_cache_members": 51721,
     "source_first_date": "2026-06-26",
     "source_first_index": 1,
-    "source_last_date": "2026-09-11",
-    "source_last_index": 78
+    "source_last_date": "2026-10-01",
+    "source_last_index": 98
   },
   "sparse": true,
   "status": "pass"
