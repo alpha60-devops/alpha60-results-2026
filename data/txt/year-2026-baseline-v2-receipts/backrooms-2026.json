@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt26657236",
     "imdb_id": "tt26657236",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q125131076",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Backrooms_(film)"
   },
-  "coverage_sha256": "fd6e9938602f3a6f0a63010c32ecbfcebb4d3d54323a2e8a0befd22cf25ea712",
-  "generated_at": "2026-09-13T20:28:39.902408+00:00",
+  "coverage_sha256": "ffa83f220b8a1caeeb7a72038e1ced17fa2aa971f26d1e922950bfe2398a29c2",
+  "generated_at": "2026-10-07T18:03:49.644463+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/backrooms-2026.cache/cache.20260908.tar.xz",
-      "sha256": "88b3f43e2aeb01d555647fa9670ca6b1dfb8bc9b5d21fa166f24f2b9172a52b3",
-      "size": 1126175732
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/backrooms-2026.cache/cache.20260929.tar.xz",
+      "sha256": "e5ea1d1b67c00f3e5a76cca5e9f718997673fd4f5597eecb773a74a55a3b6b30",
+      "size": 1895220000
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/backrooms-2026.md",
-      "sha256": "3d984463c2e557cba91e7b957cce846c35ea72b2484528ed013726780040d0f1",
-      "size": 545
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/backrooms-2026.md",
+      "sha256": "100205105addc59405ce57181772e298f4e11aa91b3d9642d0f244b042680af5",
+      "size": 894
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/backrooms-2026.json",
-      "sha256": "53564d2c24b58038043340a861bfe892fddbb198166da6be8f25caf16440dcb3",
-      "size": 2458
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/backrooms-2026.json",
+      "sha256": "8cbf45004967a2be228690a584cde9e285a8b664e7a3ed64b034934864520c2d",
+      "size": 2694
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/backrooms-2026.json",
-      "sha256": "45fcb53775a9f093691a44468930059277c067357e4195e1d0716e9420de4889",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/backrooms-2026.json",
+      "sha256": "33292d23bbeb904468e70a750c90f889330adbf0aee907a729677371d69c3c5d",
       "size": 366
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
-      "size": 97281
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "backrooms-2026",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "eb97d7c3a5d499d257e836035c68fde6dc340337d21b8c02c0c334ce099ed3a2",
-        "before_sha256": "2216e3cdd22eb002501405b9182289295a02396205c92f5b8048d73d3eacf368",
-        "path": "docs/itemized/backrooms-2026-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:55:50.283444+00:00",
-    "coverage_sha256": "fd6e9938602f3a6f0a63010c32ecbfcebb4d3d54323a2e8a0befd22cf25ea712",
-    "day_contract": {
-      "collection_key": "backrooms-2026",
-      "day_products": 56,
-      "first_date": "2026-07-15",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-08",
-      "last_index": 56,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "0dfc190e7d3cca9ea203d6b432e343a8219ae10ed9e4faf3a16774802cdb76a8",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/backrooms-2026.md",
-        "sha256": "3d984463c2e557cba91e7b957cce846c35ea72b2484528ed013726780040d0f1",
-        "size": 545
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/backrooms-2026.json",
-        "sha256": "53564d2c24b58038043340a861bfe892fddbb198166da6be8f25caf16440dcb3",
-        "size": 2458
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/backrooms-2026.json",
-        "sha256": "45fcb53775a9f093691a44468930059277c067357e4195e1d0716e9420de4889",
-        "size": 366
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 8,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/backrooms-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "3aee20d6714c58c05561a1d8f64a6496ed7ab02186839c7f2143857467aeb6e2",
-    "docs/itemized/backrooms-2026-sample-cache-audit.md": "eb97d7c3a5d499d257e836035c68fde6dc340337d21b8c02c0c334ce099ed3a2",
-    "docs/itemized/figures/backrooms-2026-carto-4k.webp": "76f26b272441bc1595e2c24099cdc65fe3864ad878c75c26aec54db0e54908e6",
-    "docs/itemized/figures/backrooms-2026-carto.png": "9bb53b11c4045480b340f8a1ef4900952e4a2cf7485512df3fa20a111b6e3bdc",
-    "docs/itemized/figures/backrooms-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "b67ad67b10f915714b3c523b3727618ca11d495518c8f1e11b43c930b137db51",
-    "docs/itemized/figures/backrooms-2026-data-ge-1080p-4k.webp": "d741a59345603a7e98ef8ffcf671524b747b1ed5e9654b0a6643a66bc0ce592a",
-    "docs/itemized/figures/backrooms-2026-data-ge-1080p.webp": "e5163c7e9c141dac92c1037c1635749e8ed2f93b4a8060ba1f9a102965e51947",
-    "docs/itemized/figures/backrooms-2026-data-lt-1080p-4k.webp": "31618dfd6b1c8262870a101096096b7a9679a791e478d6dee0c71c04a5dfd394",
-    "docs/itemized/figures/backrooms-2026-data-lt-1080p.webp": "77fd86ddd859b11d9df5fe10969c9bcfdaae6231b8854707f1f015eeb5ae9be9",
-    "docs/itemized/figures/backrooms-2026-downloads-by-day-day.svg": "d873af035d481a4047e9e6d72a7a90ab89e68921ed1abcb0af6306ef4c517db2",
-    "docs/itemized/figures/backrooms-2026-downloads-by-week-backrooms-2026-week.svg": "8392278cb2dfdce62813039ec5817934f4d7cee6b9714bb0b8fc658989bb6712",
+    "data/csv/bytes/backrooms-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "a52ffb0dbdc45e56145ce16aa9a8978d0d4bb9fe4d4f52f971bf7a7ee6cfeadd",
+    "docs/itemized/backrooms-2026-sample-cache-audit.md": "111ba482e4653577796326d31f8a5878d106e6bd7d577611a9358f7db8c2cc9b",
+    "docs/itemized/figures/backrooms-2026-carto-4k.webp": "af2bcda5bf9a502b2202e8c8a173d01fd47dfbaa515a788d50dcf31e7f114bda",
+    "docs/itemized/figures/backrooms-2026-carto.png": "3a2d278056316eb699fe217a6a4e3852bcbd43c3e79a7a2ca9dc5f4069e2171f",
+    "docs/itemized/figures/backrooms-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "af377bb208e60956f0f261c273f4279ec037fb277d14ff9ca40bb1590ced49c6",
+    "docs/itemized/figures/backrooms-2026-data-ge-1080p-4k.webp": "e2acf59299a26d83f6fc99d3bb353cfcfe23f80c1528da2ffc20fc8f0ea359cb",
+    "docs/itemized/figures/backrooms-2026-data-ge-1080p.webp": "0307441b6346b763666e8727f3c44b3ca2bee2d00f79d607e1cd17c0f7e01b76",
+    "docs/itemized/figures/backrooms-2026-data-lt-1080p-4k.webp": "1d5884482bd3e592fe1841b751b8a1197d127b098acc34ce6c9eb14361b04868",
+    "docs/itemized/figures/backrooms-2026-data-lt-1080p.webp": "5bdf9889338e67ce367bb9c1fe9511271d94cfc5b0ef56021bb41ee72da6e28d",
+    "docs/itemized/figures/backrooms-2026-downloads-by-day-day.svg": "844647f8ed85114f6d2a91c21de629733305937481c7608b80150df6589417dd",
+    "docs/itemized/figures/backrooms-2026-downloads-by-week-backrooms-2026-week.svg": "c247a435689c650a2faaf6049ba843802717493975916c256f012114740c2756",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/backrooms-2026/tmp/backrooms-2026-cumulative-btiha.geojson",
-        "sha256": "52744bdfa64e6d9b2620bd9165f1767a939aa17609dcb06346d4ba620e53d147",
-        "size": 199478639
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/backrooms-2026/tmp/backrooms-2026-cumulative-btiha.geojson",
+        "sha256": "f8bda80b2d6c424a8182b282c52c565250c4acb3e0c9639c59a30f9a817af8c3",
+        "size": 260284123
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/backrooms-2026/tmp/backrooms-2026-cumulative-btiha-media-objects.json",
-        "sha256": "46322d86ca52a47a5022364a2121a4b0d919fa66de7b2ef9e34f15f4d9adf4df",
-        "size": 626977
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/backrooms-2026/tmp/backrooms-2026-cumulative-btiha-media-objects.json",
+        "sha256": "60467578a3c5742dce61954068035a6140fc768f7e79412d58c349a5fb8d7afb",
+        "size": 644059
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "backrooms-2026",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,7 +99,7 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          43.0,
+          35.0,
           26.0,
           26.0,
           26.0,
@@ -173,12 +116,12 @@
         "labels": [
           "Nanjing",
           "Seoul",
-          "Amsterdam",
           "London",
-          "Lelystad",
+          "Amsterdam",
           "Istanbul",
-          "Moscow",
+          "Lelystad",
           "Shanghai",
+          "Moscow",
           "Hangzhou",
           "Budapest"
         ],
@@ -189,28 +132,28 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          72.0,
+          87.0,
+          46.0,
           45.0,
-          41.0,
-          38.0,
-          34.0,
-          30.0,
-          30.0,
-          30.0,
-          27.0
+          42.0,
+          37.0,
+          37.0,
+          33.0,
+          31.0,
+          28.0
         ],
         "image_references": [
           "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
         ],
         "label_count": 10,
         "labels": [
-          "Seoul",
           "Nanjing",
+          "Seoul",
           "Moscow",
-          "Amsterdam",
-          "Lelystad",
           "Istanbul",
+          "Amsterdam",
           "London",
+          "Lelystad",
           "Shanghai",
           "Hangzhou",
           "Saint Petersburg"
@@ -223,8 +166,8 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 28,
-        "y_tick_labels": 20
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
       },
       "histogram": {
         "bars": 24,
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 8,
+        "x_tick_labels": 11,
         "y_tick_labels": 20
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
