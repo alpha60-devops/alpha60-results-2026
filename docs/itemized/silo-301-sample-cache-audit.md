@@ -15,22 +15,22 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `silo-301` |
 | imdb_id | [tt14688458](https://www.imdb.com/title/tt14688458/) |
 | wikipedia_url | [Silo (TV series)](https://en.wikipedia.org/wiki/Silo_(TV_series)) |
-| Sample dates | 2026-07-03-to-2026-08-27 |
-| Sample days | 56 |
+| Sample dates | 2026-07-03-to-2026-10-01 |
+| Sample days | 91 |
 | BTIH count | 238 |
 | Unique BTIH count | 236 |
-| Downloaders total | 14,320,213 |
-| Uploaders total | 1,706,771 |
+| Downloaders total | 20,614,817 |
+| Uploaders total | 2,185,267 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:09Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/silo-301.xz`
-- Hour directories: 1327
+- Generated: 2026-10-07T13:31:30Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/silo-301.xz`
+- Hour directories: 2167
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
@@ -38,11 +38,22 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `b2946178e0b0ea5c39f95a7477f54b089cb5d870df34e70c35e52ba48556a193`
+- Full-input producer receipt SHA-256: `6d63661798778a00de47b3a80f7bba28874c87a4755d31de34e49d3f98fff22d`
+- Frozen raw archives: 2167
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 0
+- Excluded observations: 0
+
+## 3. Media objects file size histogram
 
 ![Silo collection size histogram](figures/silo-301-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,31 +76,24 @@ None detected.
 
 ![silo-301 downloads by day](figures/silo-301-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/silo-301-cumulative-aggregate.geojson.gz" data-map-title="Silo — silo-301" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Silo (silo-301) cumulative data map in new window" title="Opens interactive map for Silo (silo-301) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.73 | 18.85 | 31.28 | 42.16 | 1.65 | 0.77 |
+| 2.85 | 19.97 | 31.53 | 43.25 | 1.62 | 0.79 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 97.44%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Silo cumulative map](figures/silo-301-carto.png)](figures/silo-301-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/silo-301-data-ge-1080p.webp)](figures/silo-301-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/silo-301-data-lt-1080p.webp)](figures/silo-301-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

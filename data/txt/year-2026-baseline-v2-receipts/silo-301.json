@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt14688458",
     "imdb_id": "tt14688458",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q108456738",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Silo_(TV_series)"
   },
-  "coverage_sha256": "b3150296160f82fe4237619c97f15f9cff919bb1086b9792b6b84a43c8762b0d",
-  "generated_at": "2026-09-14T05:26:16.624354+00:00",
+  "coverage_sha256": "961c8228b99e96f8d886dc76126315c277dc58ddad7da950d7c79e2395d57891",
+  "generated_at": "2026-10-07T18:14:48.625738+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/silo-301.cache/cache.20260827.tar.xz",
-      "sha256": "4879adf8fc63d14de3b1272b9905c704c2f8548dda62257d4e13e56ff3cfc815",
-      "size": 895811100
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/silo-301.cache/cache.20261001.tar.xz",
+      "sha256": "68ee180ace7e0fa34a67511b21dcfc3dbac2d78565af56d4a0a2fd38d4158569",
+      "size": 1604849336
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/silo-301.md",
-      "sha256": "5e5db5c32c29a696ddaeeac55cb8e57e209f80d4f062a351facefc9d02743789",
-      "size": 538
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/silo-301.md",
+      "sha256": "d5d72c4832d88074eaaf0b104e2189bd21f62ef0b47f6f2d5f838930a20118f5",
+      "size": 887
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/silo-301.json",
-      "sha256": "cc211d9db133f864b94c4f1a00b33d5ada07002ee7e93f02d17cbfb5eb4c1c8a",
-      "size": 2434
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/silo-301.json",
+      "sha256": "f1c20441ace4a672c6c7ad5b2229dd118e7756d9a7556af7427eef0b61870bcf",
+      "size": 2788
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/silo-301.json",
-      "sha256": "d5aadbbe4f09d55c698cb3e6f72c0eb9f986059f9c1eecee82df9d84ff510023",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/silo-301.json",
+      "sha256": "0d00f196cfc72c80e4ca36a1d687acfbc2295bb50092aed9fa3d2473f4d21d61",
       "size": 360
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
-      "size": 94076
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "silo-301",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "81f26e9f1503c8d5fe75d92239252ce4d0a83ad79ce0b98aec8d7e0e4db6a4a6",
-        "before_sha256": "4341fcaa451b507499e65582052ad2551c225ddf1aa15d9e01d9486c4e57005c",
-        "path": "docs/itemized/silo-301-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T07:01:21.212828+00:00",
-    "coverage_sha256": "b3150296160f82fe4237619c97f15f9cff919bb1086b9792b6b84a43c8762b0d",
-    "day_contract": {
-      "collection_key": "silo-301",
-      "day_products": 56,
-      "first_date": "2026-07-03",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-08-27",
-      "last_index": 56,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "75e97d14219279c679a53b166d799684e3339905115daf83c7aec051e6f062f0",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/silo-301.md",
-        "sha256": "5e5db5c32c29a696ddaeeac55cb8e57e209f80d4f062a351facefc9d02743789",
-        "size": 538
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/silo-301.json",
-        "sha256": "cc211d9db133f864b94c4f1a00b33d5ada07002ee7e93f02d17cbfb5eb4c1c8a",
-        "size": 2434
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/silo-301.json",
-        "sha256": "d5aadbbe4f09d55c698cb3e6f72c0eb9f986059f9c1eecee82df9d84ff510023",
-        "size": 360
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 8,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/silo-301-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "15b602f274fd45f9a1574a8de15114802d17f9377bf367f6d63e1a14767e7f4f",
-    "docs/itemized/figures/silo-301-carto-4k.webp": "c269976bb3f11251f15103ed0a74cad0945b5ec4dc750e9d6d22158fe8a71c5a",
-    "docs/itemized/figures/silo-301-carto.png": "09f2e416572c43c0249101be57f6d3a46473d24ab304d7824af1242ab393d52d",
+    "data/csv/bytes/silo-301-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "6b4e56f454ce1efb826240623842808b7b143c5354fa7543d625bf53e8076af4",
+    "docs/itemized/figures/silo-301-carto-4k.webp": "1d1ac5f8abcd045d768c3d9ffe083de5fa7ae7aa6836359592fb206506ea9b9b",
+    "docs/itemized/figures/silo-301-carto.png": "bc609f0a4cccb98ef8b6b22527fb53c83e6e34f54ac828049076da97f68f0cbf",
     "docs/itemized/figures/silo-301-cumulative-detail-btiha-itemized-by-bytes.svg": "794095baea102c05e06115d5525ed96487a57f6e0ecaa184df5a1ab3c38ee067",
-    "docs/itemized/figures/silo-301-data-ge-1080p-4k.webp": "56510354496c95a0f69b6982d622898379ce4ed124c5b683f4e2e5a7da602b0a",
-    "docs/itemized/figures/silo-301-data-ge-1080p.webp": "6b2f55088287d41f35b98b2c7ff4a3d16944ef2bd720d21ca3ceaf55cc728f60",
-    "docs/itemized/figures/silo-301-data-lt-1080p-4k.webp": "57fa745a946fc3fcab5b6f9cde2189b3bf18609a1277d029b437b38500bea687",
-    "docs/itemized/figures/silo-301-data-lt-1080p.webp": "494871a548ba5a7a60f11b4d0fb024542750c39843206a32c4dd70f777d9a75a",
-    "docs/itemized/figures/silo-301-downloads-by-day-day.svg": "603442995a9a2a4433d8d4c7a8efdebe740d37c3c2516542d490a1ecc94af6a2",
-    "docs/itemized/figures/silo-301-downloads-by-week-silo-301-week.svg": "e968230763f84d171fe1b23fac5c20056bb32099e7085ab8f648c77e4c26c382",
-    "docs/itemized/silo-301-sample-cache-audit.md": "81f26e9f1503c8d5fe75d92239252ce4d0a83ad79ce0b98aec8d7e0e4db6a4a6",
+    "docs/itemized/figures/silo-301-data-ge-1080p-4k.webp": "ff22b7490c22afe71261dd6b36b9c8e4bd8b83cf0fa19ef626e3fe76c9bf8a3e",
+    "docs/itemized/figures/silo-301-data-ge-1080p.webp": "306f847c5a37fd8588197e2923a9e041074d51e49ab044e8aa7968a89433c069",
+    "docs/itemized/figures/silo-301-data-lt-1080p-4k.webp": "1d16d7fd338d2f660df1aaaac53f6c7a49335974dfe2c3d18b77dea9ea75c0fc",
+    "docs/itemized/figures/silo-301-data-lt-1080p.webp": "9e425a586db5bc7ee9ccffeafd064eeebe55ea254bf915620958f893ec672256",
+    "docs/itemized/figures/silo-301-downloads-by-day-day.svg": "8b7342e82491465f566bbfd938b50a13393f8c0a700fe11091c17a513a6f2545",
+    "docs/itemized/figures/silo-301-downloads-by-week-silo-301-week.svg": "ef6a3c093861ba75ebae8786a04a4415e1a7657ad1e6b7fc9feb9df6ce376a4d",
+    "docs/itemized/silo-301-sample-cache-audit.md": "ba51db9bbaf0fa819425f2ac39b9a5637ef58e54fe932b646a8c3a6815f35650",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
-      "dirty": true,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/silo-301/tmp/silo-301-cumulative-btiha.geojson",
-        "sha256": "2c1cc4245c0b9edb5dfa062a80f2e6ca42fbcb3982a3522fd92a25442dcb8880",
-        "size": 198723167
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/silo-301/tmp/silo-301-cumulative-btiha.geojson",
+        "sha256": "614d92b02e7173e8c724103768df609e810ba2a4db3f20ba2e998f8548e359ce",
+        "size": 263937703
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/silo-301/tmp/silo-301-cumulative-btiha-media-objects.json",
-        "sha256": "f638ef5e2cc4ea3e6278a914ce62f39924336c2474007fa1648414b8d0ca957f",
-        "size": 343596
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/silo-301/tmp/silo-301-cumulative-btiha-media-objects.json",
+        "sha256": "288e0bf8874ecf92ade7d961d3b23f42d2aea94213c768898a6ad3b397e73805",
+        "size": 343682
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "silo-301",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,14 +99,14 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          75.0,
-          47.0,
-          40.0,
-          38.0,
-          37.0,
-          31.0,
-          29.0,
-          26.0,
+          88.0,
+          46.0,
+          45.0,
+          45.0,
+          35.0,
+          35.0,
+          32.0,
+          28.0,
           26.0
         ],
         "image_references": [
@@ -173,14 +116,14 @@
         "labels": [
           "Seoul",
           "Nanjing",
-          "Amsterdam",
           "London",
-          "Lelystad",
+          "Amsterdam",
           "Istanbul",
+          "Lelystad",
           "Shanghai",
           "Hangzhou",
           "Moscow",
-          "Incheon"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -189,15 +132,15 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          83.0,
-          45.0,
-          41.0,
-          40.0,
+          68.0,
+          44.0,
+          39.0,
           36.0,
+          33.0,
+          31.0,
           30.0,
-          30.0,
-          29.0,
-          27.0
+          28.0,
+          28.0
         ],
         "image_references": [
           "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
@@ -206,14 +149,14 @@
         "labels": [
           "Seoul",
           "Nanjing",
-          "Amsterdam",
-          "Lelystad",
           "Istanbul",
+          "Amsterdam",
           "London",
-          "Hangzhou",
+          "Lelystad",
           "Shanghai",
-          "Madrid",
-          "Moscow"
+          "Hangzhou",
+          "Moscow",
+          "Madrid"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,7 +166,7 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 28,
+        "x_tick_labels": 23,
         "y_tick_labels": 22
       },
       "histogram": {
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 8,
-        "y_tick_labels": 20
+        "x_tick_labels": 13,
+        "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
