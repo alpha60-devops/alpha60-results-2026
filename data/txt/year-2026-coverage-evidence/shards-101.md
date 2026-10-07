@@ -1,20 +1,244 @@
 # Cache coverage report — shards-101
 
-- Generated: 2026-09-13T17:13:09Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz`
-- Hour directories: 799
-- Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Generated: 2026-10-07T11:57:09Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz`
+- Hour directories: 1135
+- Zero-length sample files: 213
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 1 (29 missing hours)
 - Missing days: 1
+
+Zero-length records are missing sampler observations. Their
+cause was not established by this run. Each gap remains explicit.
+
+## Zero-length sample files
+
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards 1X1 HDTV XviD Castellano-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards 1X2 HDTV XviD Castellano-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards 1X2 HDTV XviD Castellano-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01 WEB-DLRip-AVC-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01 WEB-DLRip-AVC-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 1080p x265-ELiTE [IPT]-2026-08-14-at-18-44.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 720p WEB H264-JFF [IPT]-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 720p WEB H264-JFF [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 720p WEB H264-JFF[EZTVx.to].mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 720p WEB H264-JFF[EZTVx.to].mkv-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 720p WEB H264-JFF[EZTVx.to].mkv-2026-08-14-at-18-44.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 720p x264-FENiX [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 720p x264-FENiX [IPT]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 1080p DSNP WEB-DL DDP5 1 H 264-RAWR [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 1080p DSNP WEB-DL DDP5 1 H 264-RAWR [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 1080p DSNP WEB-DL DDP5 1 H 264-RAWR [IPT]-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 2160p HULU WEB-DL DD 5 1 H 265-playWEB [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E01 Pilot 720p DSNP WEB-DL DDP5 1 H 264-RAWR [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 1080p WEB HEVC x265-RMTeam [IPT]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 1080p WEB HEVC x265-RMTeam [IPT]-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 1080p x265-ELiTE [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 1080p x265-ELiTE [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 1080p x265-ELiTE [IPT]-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 720p WEB H264-JFF [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 720p WEB H264-JFF[EZTVx.to].mkv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 720p WEB H264-JFF[EZTVx.to].mkv-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 720p WEB H264-JFF[EZTVx.to].mkv-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 720p x264-FENiX [IPT]-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 720p x264-FENiX [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 720p x264-FENiX [IPT]-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 Don't You Want Me 2160p HULU WEB-DL DD 5 1 H 265-playWEB [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 Don't You Want Me 2160p HULU WEB-DL DD 5 1 H 265-playWEB [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 Dont You Want Me 1080p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 Dont You Want Me 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 Dont You Want Me 1080p DSNP WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 Dont You Want Me 1080p DSNP WEB-DL DDP5 1 H 264-RAWR [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 Dont You Want Me 1080p DSNP WEB-DL DDP5 1 H 264-RAWR [IPT]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 Dont You Want Me 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 Dont You Want Me 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards S01E02 Dont You Want Me 720p DSNP WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV 1080p][Cap.101]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV 1080p][Cap.101]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV 1080p][Cap.101]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV 1080p][Cap.101]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV 1080p][Cap.102]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV 1080p][Cap.102]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV 1080p][Cap.102]-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV 720p][Cap.102]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV 720p][Cap.102]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV][Cap.101]-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV][Cap.101]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV][Cap.101]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The Shards [HDTV][Cap.101]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01.1080p.HULU.WEB-DL.H.264-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01.1080p.HULU.WEB-DL.H.264-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01.2160p.HULU.WEB-DL.H.265-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01.2160p.HULU.WEB-DL.H.265-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.2160p.WEB.H265-CAKES [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.2160p.WEB.H265-CAKES [IPT]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.2160p.WEB.H265-CAKES [IPT]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.480p.x264-mSD [IPT](1)-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.480p.x264-mSD [IPT](1)-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.480p.x264-mSD [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.480p.x264-mSD [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.480p.x264-mSD [IPT]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-44.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.MULTi.1080p.WEB.H264-AZR [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.Pilot.1080p.DSNP.WEB-DL.ENG.ITA.DDP5.1.H265-TheBlackKing.mkv-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.Pilot.1080p.DSNP.WEB-DL.ENG.ITA.DDP5.1.H265-TheBlackKing.mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.Pilot.1080p.DSNP.WEB-DL.ENG.ITA.DDP5.1.H265-TheBlackKing.mkv-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.Pilot.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.Pilot.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.Pilot.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP.mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.Pilot.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP.mkv-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.Pilot.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP.mkv-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.XviD-AFG [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.XviD-AFG [IPT]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.XviD-AFG [IPT]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01E02.1080p.ColdFilm-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01E02.1080p.ColdFilm-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01E02.400p.ColdFilm-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E01E02.400p.ColdFilm-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.WEB.H264-CAKES [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.WEB.H264-CAKES [IPT]-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.1080p.x265-ELiTE-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.2160p.WEB.H265-CAKES [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.480p.x264-mSD [IPT](1)-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.480p.x264-mSD [IPT](1)-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.480p.x264-mSD [IPT](1)-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.480p.x264-mSD [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.480p.x264-mSD [IPT]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.480p.x264-mSD [IPT]-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.720p.HEVC.x265-MeGusta [IPT](1)-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.720p.HEVC.x265-MeGusta [IPT](1)-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.720p.HEVC.x265-MeGusta [IPT](1)-2026-08-14-at-18-44.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.Don't.You.Want.Me.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.Don't.You.Want.Me.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.Don't.You.Want.Me.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP.mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.Dont.You.Want.Me.1080p.DSNP.WEB-DL.ENG.ITA.DDP5.1.H265-TheBlackKing.mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.Dont.You.Want.Me.1080p.DSNP.WEB-DL.ENG.ITA.DDP5.1.H265-TheBlackKing.mkv-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.Dont.You.Want.Me.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.Dont.You.Want.Me.1080p.HEVC.x265-MeGusta-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.MULTi.1080p.WEB.H264-AZR [IPT]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.MULTi.1080p.WEB.H264-AZR [IPT]-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E02.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-44.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.720p.x264-FENiX-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.720p.x264-FENiX-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.720p.x264-FENiX-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.Aiutami!.Rhonda.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP.mkv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.Aiutami!.Rhonda.ITA.ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264-MeM.GP.mkv-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01E03.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01e01.Pilot.Dsnp.Web.H264-Byor.mp4-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01e01.Pilot.Dsnp.Web.H264-Byor.mp4-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01e01.Pilot.Vostfr.Dsnp.Web.H264-Byor.mp4-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01e02.Dont.You.Want.Me.Dsnp.Web.H264-Byor.mp4-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01e02.Dont.You.Want.Me.Dsnp.Web.H264-Byor.mp4-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01e02.Dont.You.Want.Me.Vostfr.Dsnp.Web.H264-Byor.mp4-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01e02.Dont.You.Want.Me.Vostfr.Dsnp.Web.H264-Byor.mp4-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.S01e02.Dont.You.Want.Me.Vostfr.Dsnp.Web.H264-Byor.mp4-2026-08-14-at-18-40.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.s01.HD720p.WEBRip.Rus.RuDub.tv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.s01.WEBRip.XviD.Rus.RuDub.tv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/The.Shards.s01.WEBRip.XviD.Rus.RuDub.tv-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/[DEVIL-TORRENTS.PL] The.Shards.S01E01-E02.MULTi.1080p.DSNP.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/[DEVIL-TORRENTS.PL] The.Shards.S01E01-E02.MULTi.720p.DSNP.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/[DEVIL-TORRENTS.PL] The.Shards.S01E01-E02.MULTi.720p.DSNP.WEB-DL.H.264.DDP5.1-K83-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/[XTORRENTY.ORG] The.Shards.2026.S01E01-02.MULTi.1080p.DSNP.WEB-DL.H.264.DD5.1-RX-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/[XTORRENTY.ORG] The.Shards.2026.S01E01-02.MULTi.1080p.DSNP.WEB-DL.H.264.DD5.1-RX-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/the.shards.s01.HDR.D.2.0.18+.web-dlrip.xvid.ac3.-hqh-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/the.shards.s01.HDR.D.2.0.18+.web-dlrip.xvid.ac3.-hqh-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/the.shards.s01e01.1080p.web.h264-cakes[EZTVx.to].mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/the.shards.s01e01.1080p.web.h264-cakes[EZTVx.to].mkv-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/the.shards.s01e02.1080p.web.h264-cakes[EZTVx.to].mkv-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/the.shards.s01e02.1080p.web.h264-cakes[EZTVx.to].mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/the.shards.s01e03.1080p.web.h264-cakes[EZTVx.to].mkv-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/the.shards.s01e03.1080p.web.h264-cakes[EZTVx.to].mkv-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/www.UIndex.org    -    The Shards S01E01 Pilot 1080p DSNP WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/www.UIndex.org    -    The Shards S01E01 Pilot 2160p HULU WEB-DL DD 5 1 H 265-playWEB-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/www.UIndex.org    -    The Shards S01E01 Pilot 2160p HULU WEB-DL DD 5 1 H 265-playWEB-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/www.UIndex.org    -    The Shards S01E01 Pilot 2160p HULU WEB-DL DD 5 1 H 265-playWEB-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/www.UIndex.org    -    The Shards S01E02 Don't You Want Me 2160p HULU WEB-DL DD 5 1 H 265-playWEB-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/www.UIndex.org    -    The Shards S01E02 Don't You Want Me 2160p HULU WEB-DL DD 5 1 H 265-playWEB-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/Осколки The Shards Сезон 1 Серии 1-2 из 10 (Райан Мерфи, Макс Уинклер) [2026, США, триллер, драма, детектив, ужасы, SDR, W [rutracker-6892067]-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/Осколки The Shards Сезон 1 Серии 1-2 из 10 (Райан Мерфи, Макс Уинклер) [2026, США, триллер, драма, детектив, ужасы, SDR, W [rutracker-6892067]-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/Осколки The Shards Сезон 1 Серии 1-2 из 10 (Райан Мерфи, Макс Уинклер) [2026, США, триллер, драма, детектив, ужасы, SDR, W [rutracker-6892067]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/Осколки The Shards Сезон 1 Серии 1-2 из 10 (Райан Мерфи, Макс Уинклер) [2026, США, триллер, драма, детектив, ужасы, WEB-DL [rutracker-6891904]-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/Осколки The Shards Сезон 1 Серии 1-2 из 10 (Райан Мерфи, Макс Уинклер) [2026, США, триллер, драма, детектив, ужасы, WEB-DL [rutracker-6891904]-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/【高清剧集网发布 www.PTHDTV.com】青春碎片[第01-02集][简繁英字幕].The.Shards.S01.1080p.DSNP.WEB-DL.DDP.5.1.H.264-BlackTV-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/【高清剧集网发布 www.PTHDTV.com】青春碎片[第01-02集][简繁英字幕].The.Shards.S01.1080p.DSNP.WEB-DL.DDP.5.1.H.264-BlackTV-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/【高清剧集网发布 www.PTHDTV.com】青春碎片[第01-02集][简繁英字幕].The.Shards.S01.1080p.DSNP.WEB-DL.DDP.5.1.H.264-BlackTV-2026-08-14-at-18-36.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/青春碎片.The.Shards.S01E01.1080p.CHS&ENG.www.xingfan.cc.mp4-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/青春碎片.The.Shards.S01E01.1080p.CHS&ENG.www.xingfan.cc.mp4-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/青春碎片.The.Shards.S01E01.1080p.CHS&ENG.www.xingfan.cc.mp4-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/青春碎片.The.Shards.S01E02.1080p.CHS&ENG.www.xingfan.cc.mp4-2026-08-14-at-18-20.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/青春碎片.The.Shards.S01E02.1080p.CHS&ENG.www.xingfan.cc.mp4-2026-08-14-at-18-24.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/青春碎片.The.Shards.S01E02.1080p.CHS&ENG.www.xingfan.cc.mp4-2026-08-14-at-18-28.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/青春碎片.The.Shards.S01E02.1080p.CHS&ENG.www.xingfan.cc.mp4-2026-08-14-at-18-32.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/shards-101.xz/2026-08-14-at-18-00.tar.xz/青春碎片.The.Shards.S01E02.1080p.CHS&ENG.www.xingfan.cc.mp4-2026-08-14-at-18-40.json`
 
 ## Sample archive discontinuities
 
 - hourly gap: last `2026-08-14 18:00`, resumed `2026-08-16 00:00` — missing 29 hour(s)
 - missing day: `2026-08-15`
 
-## Review
 
-Confirm the sampler state and disk capacity on the sampling
-hosts for every zero-length file and discontinuity above
-before treating the aggregate outputs as complete.
+## Frozen validation evidence
+
+- Frozen content SHA-256: `5f2a548e0c09c943976a56aac9d23f2eef35574de12e0e9977a3c3c32a122f50`
+- Full-input producer receipt SHA-256: `15bcf1287f92a38dbf8ee54d7b1443a71f0ecc8e713ab77a66bdccac632227be`
+- Frozen raw archives: 1135
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 0
+- Excluded observations: 0
