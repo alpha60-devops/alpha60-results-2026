@@ -1,0 +1,80 @@
+{
+  "allow_leading_sparse": false,
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "available_day_products": 8,
+  "cache_members": 1793,
+  "collection_key": "stranger-things-tales-from-85-02",
+  "downstream_cache_synthesis": {
+    "cache_members": {
+      "cumulative": 251,
+      "week": 502
+    },
+    "derived_durations": [
+      "week",
+      "cumulative"
+    ],
+    "producer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
+    },
+    "sample_anchor": {
+      "directories": [
+        "2026-09-17-at-00-00",
+        "2026-09-24-at-00-00"
+      ],
+      "keys": [
+        "stranger-things-tales-from-85-02"
+      ],
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/stranger-things-tales-from-85-02/tmp/stranger-things-tales-from-85-02-released-day-sample-anchor",
+      "raw_samples_opened": false,
+      "synthetic": true
+    },
+    "schema": "alpha60-released-day-downstream-cache/1",
+    "source_duration": "day",
+    "status": "pass"
+  },
+  "first_date": "2026-09-17",
+  "first_index": 1,
+  "indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "last_date": "2026-09-24",
+  "last_index": 8,
+  "missing_indices": [],
+  "sample_span_days": 8,
+  "schema": "alpha60-day-cache-stream-contract/1",
+  "selection": {
+    "admitted_cache_members": 1793,
+    "archive_mutated": false,
+    "excluded_cache_members": 0,
+    "policy": "released-sample-endpoints-in-place",
+    "required_first_date": "2026-09-17",
+    "required_last_date": "2026-09-24",
+    "required_span_days": 8,
+    "schema": "alpha60-released-day-cache-window/1",
+    "source_cache_members": 1793,
+    "source_first_date": "2026-09-17",
+    "source_first_index": 1,
+    "source_last_date": "2026-09-24",
+    "source_last_index": 8
+  },
+  "sparse": false,
+  "status": "pass"
+}
