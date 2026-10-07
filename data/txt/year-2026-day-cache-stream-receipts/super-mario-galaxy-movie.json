@@ -10,32 +10,643 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 126,
-  "cache_members": 34962,
+  "available_day_products": 147,
+  "cache_members": 42199,
   "collection_key": "super-mario-galaxy-movie",
   "downstream_cache_synthesis": {
     "cache_members": {
       "cumulative": 349,
-      "week": 5094
+      "week": 6129
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
-      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
-      "size": 30067072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
+    },
+    "retained_derivation": {
+      "actual_executor": "ord",
+      "adopted_json_products": {
+        "super-mario-galaxy-movie-cumulative.json": {
+          "sha256": "7c813cc5c1a66005d24a3bb9e694f7ea3efc4ac7b8842b488d9e0c0764bf0913",
+          "size": 15956
+        },
+        "super-mario-galaxy-movie-swarm-day-00001-2026-05-06.json": {
+          "sha256": "aff7419085280e9d3b76555a97276f29c2ee211174801599858dda0c0dc73184",
+          "size": 463
+        },
+        "super-mario-galaxy-movie-swarm-day-00002-2026-05-07.json": {
+          "sha256": "6f0ca0e608709e20d874df4f8c7091326648fa3d204d176d27312cd38e321e2c",
+          "size": 463
+        },
+        "super-mario-galaxy-movie-swarm-day-00003-2026-05-08.json": {
+          "sha256": "ae1f6bc2a70d560926f6400e11c9b30457536cf8e0cc3ae2bf47becafffd02dc",
+          "size": 463
+        },
+        "super-mario-galaxy-movie-swarm-day-00004-2026-05-09.json": {
+          "sha256": "b3e615cd3817725a0c3e1693358f4c1ff48e26af8689928688ed6c3cecbf1a5e",
+          "size": 463
+        },
+        "super-mario-galaxy-movie-swarm-day-00005-2026-05-10.json": {
+          "sha256": "3409562aacb6d2d7f2e656ac92dcce28242a7651f6d81abe550dc33caabeb498",
+          "size": 463
+        },
+        "super-mario-galaxy-movie-swarm-day-00006-2026-05-11.json": {
+          "sha256": "882e61d8792077b9da8dc2460e4914c78c1dadc606c449269d6394d469ea2e5e",
+          "size": 463
+        },
+        "super-mario-galaxy-movie-swarm-day-00007-2026-05-12.json": {
+          "sha256": "466510251db879e3fc714aae3f15699d0ad7453fa5de3c95548fd9f3162e0bf4",
+          "size": 463
+        },
+        "super-mario-galaxy-movie-swarm-day-00008-2026-05-13.json": {
+          "sha256": "78c4eaeac270d68d362c2d2f86a213b49e914c2b5d2b03306b6136b3bfb995a8",
+          "size": 463
+        },
+        "super-mario-galaxy-movie-swarm-day-00009-2026-05-14.json": {
+          "sha256": "d4441724355fb1c73035dc8e708de78a88f7364d07adf51ab3694cb45831f625",
+          "size": 463
+        },
+        "super-mario-galaxy-movie-swarm-day-00010-2026-05-15.json": {
+          "sha256": "d301c541fa47f91db2952109283e366514beb237dac5359e02946abcd398a2b4",
+          "size": 464
+        },
+        "super-mario-galaxy-movie-swarm-day-00011-2026-05-16.json": {
+          "sha256": "a544c7fb075ec86df19a809e1c491757d48c915db5c634d17b126ae258d8cc63",
+          "size": 464
+        },
+        "super-mario-galaxy-movie-swarm-day-00012-2026-05-17.json": {
+          "sha256": "36d5fa31ed735c59dd7288118fd5a1d9c4a38de0b3e9dc715e8dc61467f162dd",
+          "size": 464
+        },
+        "super-mario-galaxy-movie-swarm-day-00013-2026-05-18.json": {
+          "sha256": "4a148c80f712febf6074508f5b493c66ac36e59b769a188aa911c466cb075c2e",
+          "size": 464
+        },
+        "super-mario-galaxy-movie-swarm-day-00014-2026-05-19.json": {
+          "sha256": "58c39cc01351303dc0d7e2d308b26d9fa1ffdab2bfd39db01d561a136c4b40ef",
+          "size": 464
+        },
+        "super-mario-galaxy-movie-swarm-day-00015-2026-05-20.json": {
+          "sha256": "d4bd7c3cfbe26f84e886a997b9e341b19d24b5eb0572565ae25a9c1dbd3440d0",
+          "size": 464
+        },
+        "super-mario-galaxy-movie-swarm-day-00016-2026-05-21.json": {
+          "sha256": "82b59268a474004bba79a32cc28c4bffcc4fbd17159a4e9bb79106d94411774d",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00017-2026-05-22.json": {
+          "sha256": "0821872282ab252e1db2b2fcc4b2c344b6c2d716f8cedb1f2853a66adc80761f",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00018-2026-05-23.json": {
+          "sha256": "af21c8c9b0bf551ca916bd7bd0404e9dea46babd2e855d8e137a387c14ebf3bd",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00019-2026-05-24.json": {
+          "sha256": "baad50b41522f29434c0e510ad1d199328e2ba2ae478ecc4434684ebd482f026",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00020-2026-05-25.json": {
+          "sha256": "201cabeadb97fc0d1f32f6d96df68166cd944f56ae972e93528ef523e67c2b2b",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00021-2026-05-26.json": {
+          "sha256": "7ba7d685aee8deed0596356cc2419200041759522f87e2c1180c9dfe2b38f1db",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00022-2026-05-27.json": {
+          "sha256": "031d7f9be86018daad155aee906d3ce0c72cc20f250c02be303d4269d0370280",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00023-2026-05-28.json": {
+          "sha256": "afeefc472559202b934d74fe35ed809e3420acac057e574a656d578222737c61",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00024-2026-05-29.json": {
+          "sha256": "20590d59e75d0f097ef6dacbfc0a74c4c009b27420d1b929bf41f949c828a166",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00025-2026-05-30.json": {
+          "sha256": "714e013cbf1ac7eb6d6d0d6387f6290df59039f4097f801c6ac9c527e78bbe55",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00026-2026-05-31.json": {
+          "sha256": "3fdbea1abdccf919f01cc796c15bb4b5c178813e481dd45a1e0803e0e5e0900e",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00027-2026-06-01.json": {
+          "sha256": "b834b7e9ddd13e0460e39aa126dc5440101475b6049237060e52bfe0e642ed22",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00028-2026-06-02.json": {
+          "sha256": "e7f975045adfbf42c3f9c64982f7e526e9b3352628d9ae49a4152caab4298708",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00029-2026-06-03.json": {
+          "sha256": "399b0922fed8a7246ba3972f3f8fc24aea5e63653a5af86abc1aa47fbaf12eea",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00030-2026-06-04.json": {
+          "sha256": "6d025956a50a17c16dbb1b45b1983b240423a1fbc6dc1d34aacb9e352e267275",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00031-2026-06-05.json": {
+          "sha256": "6c23dc183c2ce38d334a2edcf56634effbe5e770b915a443363b1508497839be",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00032-2026-06-06.json": {
+          "sha256": "c9a3eec5de0e5f00d91877fe9adcfb7b6223863157c8747753b6462e77184936",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00033-2026-06-07.json": {
+          "sha256": "edd5add3aed2cf8bf29874cdb82add89cbc26f06acb1c3aa61a22482db5bde72",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00034-2026-06-08.json": {
+          "sha256": "93877394d6016132a122355cd5e57c5783fff1aa16ec5e589bff4f4b1af58165",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00035-2026-06-09.json": {
+          "sha256": "dc78c6ec9061d1aba47fd363d77609b9a24377a6f99890d6a34a841f052c5f76",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00036-2026-06-10.json": {
+          "sha256": "3341b49d90387e7bce6e8c5dfe42dcaad845364f01cc80864f95ea1c6a592dc6",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00037-2026-06-11.json": {
+          "sha256": "aa3fb1987ad5e4d36ff1258ea552ae309c7876951d7df0513a5b8fbc7b23bd23",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00038-2026-06-12.json": {
+          "sha256": "5e4360a4c928c77ae2131cc4762e87cebc3dd0d2b67df530e215d418a7e92d0c",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00039-2026-06-13.json": {
+          "sha256": "3d2531c152875a6dac0dc184fe496d362f834029cf3f5b7e93d988668ba50407",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00040-2026-06-14.json": {
+          "sha256": "497695f0c50a0900fbd2b343afe807a373ca6cd210b5f64349b5f4b2a2438f5c",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00041-2026-06-15.json": {
+          "sha256": "22dfd96e1ee139f714f81a5fffbc3daa1eeeef76d933bd76d96cecb600755f0d",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00042-2026-06-16.json": {
+          "sha256": "d036b22edc9a1f669f1c949818aef021a2e44eb6b096642ef29a4b8fd84e907c",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00043-2026-06-17.json": {
+          "sha256": "6236b6564b4c635c31c46faf9468eb9419276595b8871351bc7ecabe38eb4382",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00044-2026-06-18.json": {
+          "sha256": "432e7ae2b19e445ff79d60a212be36519aa653d5d2d7bd57349c46ac5306aac9",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00045-2026-06-19.json": {
+          "sha256": "3ff429f975074324aa1a433789caf71082e2dada3c0ef438ba9bf29286a81d86",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00046-2026-06-20.json": {
+          "sha256": "688d395f67453e27f78434379cdcbf1af50737d2ba6d08d9534b6312693f573e",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00047-2026-06-21.json": {
+          "sha256": "53568cfca2b7a61bb0da227f4877d688cec91b3deb761d22f8bfbb5736b5d71a",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00048-2026-06-22.json": {
+          "sha256": "c4263b963a75f123437a01016836b1b99876afdaee739346e5e2e00de82eb635",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00049-2026-06-23.json": {
+          "sha256": "9f3bbc4be243f378e1c543c4cc5176ab48d2e54a77966f8c4b9132f51dfd8870",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00050-2026-06-24.json": {
+          "sha256": "fe59bcdbb6b2ab455063b635e8c7f28609326130f6559066a6249297acf94d36",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00051-2026-06-25.json": {
+          "sha256": "03c38325cd49d458008e3a93add479fe7885f4a84a93783968fb7441c7b0ea97",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00052-2026-06-26.json": {
+          "sha256": "f1028b8ee09da5ede2c27b1fb4e965af6469dcc29cac63c62383e542a8366827",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00053-2026-06-27.json": {
+          "sha256": "32c7c9b6646ba97029a5c2f02cb9126c97873408ed5cd6d701067c8633e3a722",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00054-2026-06-28.json": {
+          "sha256": "7ab994eca8c6740ff8139a14156f5f9e4224610101a852db05c0f487d29e5b4f",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00055-2026-06-29.json": {
+          "sha256": "1156384135a29970f6b676acb6c39b3b5f39c81f629024a702ed9ceb718fee56",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00056-2026-06-30.json": {
+          "sha256": "5a94a5dac84e54d400eec46666b937f5299101bfa767489352badb7c3cc1147a",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00057-2026-07-01.json": {
+          "sha256": "7e8e95a8233d3e1a450f333f31b9e6b07083944fa6dae689c29dd2f9721991d0",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00058-2026-07-02.json": {
+          "sha256": "40d148529ca2299835dbeda4b8c21de1c8855828e2e32672c59dc9844e6710b7",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00059-2026-07-03.json": {
+          "sha256": "a6b15b4ea81a7009daf92e85aadda1e545d65f7d814bc3446f509e8115b2ab56",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00060-2026-07-04.json": {
+          "sha256": "a34c3953db43df6b033e9934ce2ed8f5a0ab9b31cf6f1f58ecd5247d3f811a7a",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00061-2026-07-05.json": {
+          "sha256": "6ef9b3dec678735be740a6664ffaaf4dc462f0e834f8eba5ceb1060a36bee8e8",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00062-2026-07-06.json": {
+          "sha256": "1b7fcd9607c25e3b4b75bf9a9cb3b96964370a4d3809d7285ac89632047c474a",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00063-2026-07-07.json": {
+          "sha256": "419560835033033fb8af230fa24bc2cb4a6820fdc6197410b228301a9efe20f0",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00064-2026-07-08.json": {
+          "sha256": "04e17d289117e3ebadcebcae4b168e0dcc727b8f4bcc419a9c9c98e3c6b3cc2d",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00065-2026-07-09.json": {
+          "sha256": "70a121ad46ec6e529f9965209c833e79f95a3d0fb4423cf23a0917d41785d265",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00066-2026-07-10.json": {
+          "sha256": "5314da1fb8aaaada2db61bff93bd44b2e9858a87abbe9ddcd0bd684a88f96ea4",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00067-2026-07-11.json": {
+          "sha256": "f7a754c4b8d147bf40600a48ab9da514a368c38eb13b1d9048de71f50cb2f44e",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00068-2026-07-12.json": {
+          "sha256": "ab9848750fd12e9e04051cb34988ea2006516a90b5499dc0fbc0a0d582983e7c",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00069-2026-07-13.json": {
+          "sha256": "02f6478a99d3150b0b32cf396ac06f8ff4d3c377372a397025ccdee7a9bb39ab",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00070-2026-07-14.json": {
+          "sha256": "447224d2a4ed5845d0c17bb20511e20c55756a55fe67aeab2f6738b270b85b0b",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00071-2026-07-15.json": {
+          "sha256": "43eb684c87b22ade53f754995fa9c918c9b1b7919a0efcc40795fdbeb80a0434",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00072-2026-07-16.json": {
+          "sha256": "0f1f8f9378c836cdaa676f15084928e7f0f27917da2fee0fa077022afe0ccdb9",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00073-2026-07-17.json": {
+          "sha256": "9b16ead208e7f4b20d8f5091f6d40a0483e8d5a4b22b569dbfd48750400f51b7",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00074-2026-07-18.json": {
+          "sha256": "d1b3946397676a7b2da11e9cbe620540835448fceb68d3a94aa9bca4abccd2c0",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00075-2026-07-19.json": {
+          "sha256": "580a69d853a71d6783d1d94ea9a4df79d279527d8e40d66137d570799b7d6729",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00076-2026-07-20.json": {
+          "sha256": "4e870205c0904cc804dbc2fe877cab1eb2d5848a041caa2d93b55a830404105f",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00077-2026-07-21.json": {
+          "sha256": "777633be0b89049aa5e9de9ce6e39513b916925adf9624f9e857dcc34a4a2d41",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00078-2026-07-22.json": {
+          "sha256": "f833a8223e927cc838cda02126d2e5042746197c4de53f70bcca7451f0175d1d",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00079-2026-07-23.json": {
+          "sha256": "2030c60fb6b32e5fec21026a37ee3cbeff18697b6441d0549ab032a2d16047ad",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00080-2026-07-24.json": {
+          "sha256": "56a4884d0184590a0ae8f2c7f1e9de16515f0720ee9bf85d6000d1c9f016593a",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00081-2026-07-25.json": {
+          "sha256": "d5094b818e3cbc2b65c7089866b004bb8f63024b43765286b025c837559fbf13",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00082-2026-07-26.json": {
+          "sha256": "4da8e28e6a74db8bc373361a7ecd7b8acfe0576c8496e1a398b15d339720242c",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00083-2026-07-27.json": {
+          "sha256": "b79970d0582e9ded154be991c34a2a9ed66a3ec2fcd756d6153b29eca16f3695",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00084-2026-07-28.json": {
+          "sha256": "bef3609d091623c8e2fbab44b50f2f54486c0ed23e15cc08d3a4a15b86e57b3b",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00085-2026-07-29.json": {
+          "sha256": "f4cdd31585d9d32258b94a3e672ff1e85f7a469e38aa4904708a6a30f7f5d4f3",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00086-2026-07-30.json": {
+          "sha256": "8c57f68f993479ed86ac5a689400835a3449685b9c1ad9d5e6e8447818e711f9",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00087-2026-07-31.json": {
+          "sha256": "09f4c3344f0b9189fbde7013b7579b2ce0b662f6f1a679ef6f70d69c50213b09",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00088-2026-08-01.json": {
+          "sha256": "e5160d4a202af298f78dc26fef2c3ae0e50bab82b67534114ec9d28329ac85c5",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00089-2026-08-02.json": {
+          "sha256": "c3d5d5dc604583d2551d4d9be377deeab1aeb0a148a903370daee9bae15e67bf",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00090-2026-08-03.json": {
+          "sha256": "cea87781ee219e92e9e2740dff9334027483b1553e916638aa6184f36f4eb70e",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00091-2026-08-04.json": {
+          "sha256": "d9d6b68f44d6a084b6d823d2be4845fef82e9dbf519286e1ed8673aa3568c750",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00092-2026-08-05.json": {
+          "sha256": "46fcb776cef3a61b213824ebd52d5f4e256260840ecb03399c11ed679c562a0b",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00093-2026-08-06.json": {
+          "sha256": "3d1243579c82f7f56fb17b98c6d1cc4f065beaa57c3cf986d4158a3d88b006b1",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00094-2026-08-07.json": {
+          "sha256": "13f07a2cbc456ca9593717cf0fb93d025223655757a68e85f7de6e39bed4db67",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00095-2026-08-08.json": {
+          "sha256": "b6338b4e85a29361f3ebb8990e9a4e4affd88c6c74c74925431684b6fbfc9790",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00096-2026-08-09.json": {
+          "sha256": "cb8e9a8128b32788af0712ed7d3fbed834631f75ccc104b4a9b9df6560c9ef5c",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00097-2026-08-10.json": {
+          "sha256": "239997453b46870c9cee81fff554e535a758dcafdfa4642956b7ecd05baede2c",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00098-2026-08-11.json": {
+          "sha256": "8cc577eb05796c2609fdf6ee2bade5850b27c251316c771d0d142e2d8cccc144",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00099-2026-08-12.json": {
+          "sha256": "fd4fb916d3c770409cac2191b13fc4c70f94b55287d97042053a353a3a492a88",
+          "size": 465
+        },
+        "super-mario-galaxy-movie-swarm-day-00100-2026-08-13.json": {
+          "sha256": "e738c8bcd179053d13f3886b957b0d2b0a27282faafcc76e1853fa29ebad5092",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00101-2026-08-14.json": {
+          "sha256": "66e5b81391870eecaf3be97c6ff46087dc97b2b8abca3fce9af2b632134f8d37",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00102-2026-08-15.json": {
+          "sha256": "66ad2ba96ed3841a01e35a72577a11562e3ff30ea54f9e0a5b545ad87ed97bc3",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00103-2026-08-16.json": {
+          "sha256": "6feda1c84475312cc3eb06ad886a7228a83d0e8818031633b775dd9d58fd5006",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00104-2026-08-17.json": {
+          "sha256": "35c3c2f21d7dbe732745738eaa35bd71b37a8b17bf30bbf3fbe249e2d5e6dd11",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00105-2026-08-18.json": {
+          "sha256": "5ed5bc752d5360492c5b25c23e5fd7fe1efb22512da546612c42d1c76104ed2f",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00106-2026-08-19.json": {
+          "sha256": "a41d705680044d020b6c837b198cd12b6a12f6f77865ac4fdcb329cc823f95c2",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00107-2026-08-20.json": {
+          "sha256": "442c2780abdde411a88831ff68c0862b0fb5984db317bf15e1c5755ea1c1943b",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00108-2026-08-21.json": {
+          "sha256": "03601a4a52d80c672876b7dc738f9cc7537ec38f49984dd90abd92431a5c4d49",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00109-2026-08-22.json": {
+          "sha256": "a928a6bbcdeeb3237d165e90c0881dbb909e8b5cef5760161a7efd4a26f705f5",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00110-2026-08-23.json": {
+          "sha256": "f2d8a2cb525dcd4819b3bc75fe2603a3a0363db1f72c20b3a37ee5472256ce4c",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00111-2026-08-24.json": {
+          "sha256": "3eed57639fbe5e504db0d347655e61032fa9f98bac234ecfbcb696373b5f1868",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00112-2026-08-25.json": {
+          "sha256": "5e6a09043a92f974fac7024958f53e0fd5e370ef2f520d9f470b8ec8cd5252b6",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00113-2026-08-26.json": {
+          "sha256": "517c71b32de423ec26dc552b8b1675caa4a51d1c82430f54e3141bff43b8760f",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00114-2026-08-27.json": {
+          "sha256": "0d1541300df31b4ff4cb7d964ba0100bce9ddba4091f214238d43fde4b9f9b66",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00115-2026-08-28.json": {
+          "sha256": "7bec61791e91c9a45b72d555dfbaa953f1e799988aac9cf2ce2eed9c2ced109d",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00116-2026-08-29.json": {
+          "sha256": "4fe77edbfa46761e33b6e2851a2ddc76d6c7d7b975139756a4f86a79bcaae501",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00117-2026-08-30.json": {
+          "sha256": "e6a6df1218360d5233892fb67d2ea9d099618236968bddde6e51cfe782803f6f",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00118-2026-08-31.json": {
+          "sha256": "88e83e312f9e6b73038846d543ffdff532fb1b2f2b075bba09d6bde173592434",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00119-2026-09-01.json": {
+          "sha256": "c6aa11908298a0364ce265c993130fa7289efd47ccfa96bdaeb8c427c12fd171",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00120-2026-09-02.json": {
+          "sha256": "160513262f9c7fba342037f5a2d03088b54260685de04b259ad986922ac92b17",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00121-2026-09-03.json": {
+          "sha256": "603faa156b1fb2520b68dddf1118de0f7cc289507590ba1ee59832e98f9aa3b1",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00122-2026-09-04.json": {
+          "sha256": "debc5a2a1abeb203334dd453664e27899eeaf1b595d1e94d73dc19ddc2305f1d",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00123-2026-09-05.json": {
+          "sha256": "297a1f385469170e5e364b9feaf019b3daa57a298bf4286b1d67fd4527c223aa",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00124-2026-09-06.json": {
+          "sha256": "abfe2006315aee767e1f7bd6455d2b3a9314912414a2362c4bcac91900ffb623",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00125-2026-09-07.json": {
+          "sha256": "9b2df62b556b7c5ea71b458b05781c9517db7be0500ef3442394ad6c63fd8a27",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00126-2026-09-08.json": {
+          "sha256": "b38b3134977ba6a0625cdc75a9005559a09dd94f5fec0f1b3f5cad2d66804418",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00127-2026-09-09.json": {
+          "sha256": "58b36ec36c6bf7fbcb150e9bdde0b01bd10b75ae09509a28fd4e235fffb3bfaa",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00128-2026-09-10.json": {
+          "sha256": "21e877f0bc3bdd51fd39b8b392d3725a6ff96272347ad229c651475ba1e461ea",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00129-2026-09-11.json": {
+          "sha256": "54e64a20d611df1e401294340ce025868328dbc3a8fef728db732b82fd2b67d2",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00130-2026-09-12.json": {
+          "sha256": "7de6d2187c886e33f1730fb279803ade97eb0939ce04bd4ced6055fc8b5b4c72",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00131-2026-09-13.json": {
+          "sha256": "6a02101c3d9d872a26a442e5cb17da0d97c02327e5b53aeb78a361ecfedafd0e",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00132-2026-09-14.json": {
+          "sha256": "dd637b004abe8d2b991932f9872ab792585296e2335cfe4535fb19a4ec142296",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00133-2026-09-15.json": {
+          "sha256": "a2f4a91c5867f31f0049d940122bfc1fba93265d456cb82fdcce6ec341ae046b",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00134-2026-09-16.json": {
+          "sha256": "a71abd288122e1f2c5189d23f8209c546ea59b22caf34f629a38110fc4527109",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00135-2026-09-17.json": {
+          "sha256": "c41d20619b9fba7cc58431c7954bda86977e82e9ed03641e923a1bc9ded6fd84",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00136-2026-09-18.json": {
+          "sha256": "17ebc701911ae78db0b2acb828733322a78f9d3b77a6d9830914957779ed87cd",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00137-2026-09-19.json": {
+          "sha256": "316bf7dae095f512aee9dadc10058b2318eedfa0769d9fb9214ce8d29d804c90",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00138-2026-09-20.json": {
+          "sha256": "acafb49734b635fb604783bc1a351aa60e6db287ab0c9ddc6951ff1328d98cab",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00139-2026-09-21.json": {
+          "sha256": "64cea805bc36335f0bcda8a218ed2c0302fd589d33baded5c8d2c6d19349a351",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00140-2026-09-22.json": {
+          "sha256": "68971473e23289cc430439e6de57dfd8bd8a787a596ebc41eed9846bba1c2318",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00141-2026-09-23.json": {
+          "sha256": "ee2e69352d2651e9ef58c591e05ab6f74d32b2740f3ac489970b2d8e63935875",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00142-2026-09-24.json": {
+          "sha256": "13b524ba9c6d54e156ed2485c6c1bb612d3c58cf56fd3c6aa85e56970be080a3",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00143-2026-09-25.json": {
+          "sha256": "428f183d826813d91318ed6b27717f32798b7d3679003b2449d7e1ce4788ad20",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00144-2026-09-26.json": {
+          "sha256": "111b974c469c0f0defc8010b0c13d8696a4579acc56f0d5f083673cac5e57000",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00145-2026-09-27.json": {
+          "sha256": "e7edfe7f961525fbf3c6618318786f0046db2dd929bb0a08bfe544a2b61d4458",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00146-2026-09-28.json": {
+          "sha256": "2e3c34c84cfaff2aa83b5f8b44412e98bc279e269fd0a0deb89da41a1729ce94",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-swarm-day-00147-2026-09-29.json": {
+          "sha256": "6f977df46b54978c2e035ebc5f851974c0520d8c98743a87586947d544038613",
+          "size": 466
+        },
+        "super-mario-galaxy-movie-week.json": {
+          "sha256": "8c1402a30fbde5625394a01f324c67ed77ea9f41879bcef465a4cbd15679d6d5",
+          "size": 2770307
+        }
+      },
+      "cache_native_invocations": 0,
+      "hardlink_view": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/super-mario-galaxy-movie/tmp/retained-day-cache-input/cache.20260929",
+      "original_input_host": "ord",
+      "original_scripts_modified": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/runtime/retained-substeps-v1/super-mario-galaxy-movie/resume-results-from-retained-substeps.py",
+      "preflight_sha256": "e236a921d0500c033d1845015854f76fa21ba1738e5e7c4306cf762cf51068c0",
+      "raw_samples_opened": false,
+      "request_sha256": "7221116e9eca1955231da2eb3dcc9cff3e87eb647a38ba66ca98da43f81c2800",
+      "retained_day_extraction": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/super-mario-galaxy-movie/tmp/cache/cache.20260929",
+      "sha256": "65de49c42070c494f25b650d6745b936073f6f0d7b4b1015ba6e53fe3ea6b9d9"
     },
     "sample_anchor": {
       "directories": [
         "2026-05-06-at-00-00",
-        "2026-09-08-at-00-00"
+        "2026-09-29-at-00-00"
       ],
       "keys": [
         "super-mario-galaxy-movie"
       ],
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/super-mario-galaxy-movie/tmp/super-mario-galaxy-movie-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/super-mario-galaxy-movie/tmp/super-mario-galaxy-movie-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -171,27 +782,48 @@
     123,
     124,
     125,
-    126
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147
   ],
-  "last_date": "2026-09-08",
-  "last_index": 126,
+  "last_date": "2026-09-29",
+  "last_index": 147,
   "missing_indices": [],
-  "sample_span_days": 126,
+  "sample_span_days": 147,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 34962,
+    "admitted_cache_members": 42199,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-05-06",
-    "required_last_date": "2026-09-08",
-    "required_span_days": 126,
+    "required_last_date": "2026-09-29",
+    "required_span_days": 147,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 34962,
+    "source_cache_members": 42199,
     "source_first_date": "2026-05-06",
     "source_first_index": 1,
-    "source_last_date": "2026-09-08",
-    "source_last_index": 126
+    "source_last_date": "2026-09-29",
+    "source_last_index": 147
   },
   "sparse": false,
   "status": "pass"

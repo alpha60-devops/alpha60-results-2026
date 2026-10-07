@@ -15,22 +15,22 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `super-mario-galaxy-movie` |
 | imdb_id | [tt28650488](https://www.imdb.com/title/tt28650488/) |
 | wikipedia_url | [The Super Mario Galaxy Movie](https://en.wikipedia.org/wiki/The_Super_Mario_Galaxy_Movie) |
-| Sample dates | 2026-05-06-to-2026-09-08 |
-| Sample days | 126 |
+| Sample dates | 2026-05-06-to-2026-09-29 |
+| Sample days | 147 |
 | BTIH count | 349 |
 | Unique BTIH count | 328 |
-| Downloaders total | 39,338,561 |
-| Uploaders total | 3,205,388 |
+| Downloaders total | 42,920,698 |
+| Uploaders total | 3,217,552 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:10Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/super-mario-galaxy-movie.xz`
-- Hour directories: 3023
+- Generated: 2026-10-07T10:10:22Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/super-mario-galaxy-movie.xz`
+- Hour directories: 3527
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
@@ -38,11 +38,22 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `424ecea6799de4a981e986050eb8615203b1927988f8545cb7d9271b2b80c667`
+- Full-input producer receipt SHA-256: `df85f366483e6b2c9329894f25d5bf6f956e35455d9105450a5b642e8569810f`
+- Frozen raw archives: 3527
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 8
+- Excluded observations: 51158
+
+## 3. Media objects file size histogram
 
 ![Super Mario Galaxy Movie collection size histogram](figures/super-mario-galaxy-movie-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,31 +76,24 @@ None detected.
 
 ![super-mario-galaxy-movie downloads by day](figures/super-mario-galaxy-movie-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/super-mario-galaxy-movie-cumulative-aggregate.geojson.gz" data-map-title="Super Mario Galaxy Movie — super-mario-galaxy-movie" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Super Mario Galaxy Movie (super-mario-galaxy-movie) cumulative data map in new window" title="Opens interactive map for Super Mario Galaxy Movie (super-mario-galaxy-movie) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.27 | 17.21 | 36.82 | 39.64 | 1.32 | 0.81 |
+| 2.18 | 17.94 | 37.03 | 40.72 | 1.31 | 0.82 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.07%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Super Mario Galaxy Movie cumulative map](figures/super-mario-galaxy-movie-carto.png)](figures/super-mario-galaxy-movie-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/super-mario-galaxy-movie-data-ge-1080p.webp)](figures/super-mario-galaxy-movie-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/super-mario-galaxy-movie-data-lt-1080p.webp)](figures/super-mario-galaxy-movie-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
