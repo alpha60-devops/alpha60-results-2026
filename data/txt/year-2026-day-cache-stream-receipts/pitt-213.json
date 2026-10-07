@@ -10,32 +10,44 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 162,
-  "cache_members": 64033,
+  "available_day_products": 176,
+  "cache_members": 69927,
   "collection_key": "pitt-213",
   "downstream_cache_synthesis": {
     "cache_members": {
       "cumulative": 421,
-      "week": 9573
+      "week": 10415
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
-      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
-      "size": 30067072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
+    },
+    "retained_derivation": {
+      "actual_executor": "bonifacio",
+      "diagnostic_backup": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/scratch-storage/mounted/pitt-results-retained-native-r9-v1/native-adoption-v2-original-diagnostics",
+      "original_json_repeated": false,
+      "original_native_repeated": false,
+      "original_scripts_modified": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/runtime/pitt-complete-native-adoption-v2/adopt-pitt-complete-native-results.py",
+      "preflight_sha256": "15c128b75eb2a2f2f6399a84aaef49d7fc4f680ef3f0bf529b7a1c8b5629b69f",
+      "request_sha256": "fddfedd0d9d2f985cd25d46df83b9f537a59eca1884be7ff0d87098d65c74ec0",
+      "retained_native_files": 409,
+      "sha256": "773fefb27cb9c670e1133500039713739310c2965315eaf5ec81c12686f14d1f"
     },
     "sample_anchor": {
       "directories": [
         "2026-04-03-at-00-00",
-        "2026-09-11-at-00-00"
+        "2026-09-25-at-00-00"
       ],
       "keys": [
         "pitt-213"
       ],
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/pitt-213/tmp/pitt-213-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/results-work/pitt-213/tmp/pitt-213-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -207,27 +219,41 @@
     159,
     160,
     161,
-    162
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176
   ],
-  "last_date": "2026-09-11",
-  "last_index": 162,
+  "last_date": "2026-09-25",
+  "last_index": 176,
   "missing_indices": [],
-  "sample_span_days": 162,
+  "sample_span_days": 176,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 64033,
+    "admitted_cache_members": 69927,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-04-03",
-    "required_last_date": "2026-09-11",
-    "required_span_days": 162,
+    "required_last_date": "2026-09-25",
+    "required_span_days": 176,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 64033,
+    "source_cache_members": 69927,
     "source_first_date": "2026-04-03",
     "source_first_index": 1,
-    "source_last_date": "2026-09-11",
-    "source_last_index": 162
+    "source_last_date": "2026-09-25",
+    "source_last_index": 176
   },
   "sparse": false,
   "status": "pass"
