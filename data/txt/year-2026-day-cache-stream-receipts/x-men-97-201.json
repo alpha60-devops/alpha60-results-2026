@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 70,
-  "cache_members": 17597,
+  "available_day_products": 84,
+  "cache_members": 21153,
   "collection_key": "x-men-97-201",
   "downstream_cache_synthesis": {
     "cache_members": {
       "cumulative": 254,
-      "week": 2531
+      "week": 3039
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
-      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
-      "size": 30067072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
     },
     "sample_anchor": {
       "directories": [
         "2026-07-02-at-00-00",
-        "2026-09-09-at-00-00"
+        "2026-09-23-at-00-00"
       ],
       "keys": [
         "x-men-97-201"
       ],
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/x-men-97-201/tmp/x-men-97-201-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/x-men-97-201/tmp/x-men-97-201-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -115,27 +115,41 @@
     67,
     68,
     69,
-    70
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84
   ],
-  "last_date": "2026-09-09",
-  "last_index": 70,
+  "last_date": "2026-09-23",
+  "last_index": 84,
   "missing_indices": [],
-  "sample_span_days": 70,
+  "sample_span_days": 84,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 17597,
+    "admitted_cache_members": 21153,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-07-02",
-    "required_last_date": "2026-09-09",
-    "required_span_days": 70,
+    "required_last_date": "2026-09-23",
+    "required_span_days": 84,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 17597,
+    "source_cache_members": 21153,
     "source_first_date": "2026-07-02",
     "source_first_index": 1,
-    "source_last_date": "2026-09-09",
-    "source_last_index": 70
+    "source_last_date": "2026-09-23",
+    "source_last_index": 84
   },
   "sparse": false,
   "status": "pass"
