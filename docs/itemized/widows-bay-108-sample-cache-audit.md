@@ -15,22 +15,22 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `widows-bay-108` |
 | imdb_id | [tt33332385](https://www.imdb.com/title/tt33332385/) |
 | wikipedia_url | [Widow's Bay](https://en.wikipedia.org/wiki/Widow%27s_Bay) |
-| Sample dates | 2026-06-03-to-2026-09-08 |
-| Sample days | 98 |
+| Sample dates | 2026-06-03-to-2026-09-29 |
+| Sample days | 119 |
 | BTIH count | 381 |
 | Unique BTIH count | 377 |
-| Downloaders total | 28,428,812 |
-| Uploaders total | 1,915,229 |
+| Downloaders total | 32,745,151 |
+| Uploaders total | 2,078,948 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:10Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz`
-- Hour directories: 2336
+- Generated: 2026-10-07T14:25:18Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz`
+- Hour directories: 2840
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
@@ -38,11 +38,22 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `98252c876d63923c8ccac8cc05f1f66586ea9080a93108dce0d3409470918c7a`
+- Full-input producer receipt SHA-256: `b00e8ed3d7ccf6583afa52a15f75188567fd9ea18e8b564bbdfee7962e5a409d`
+- Frozen raw archives: 2840
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 15
+- Excluded observations: 144552
+
+## 3. Media objects file size histogram
 
 ![Widows Bay collection size histogram](figures/widows-bay-108-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,31 +76,24 @@ None detected.
 
 ![widows-bay-108 downloads by day](figures/widows-bay-108-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/widows-bay-108-cumulative-aggregate.geojson.gz" data-map-title="Widows Bay — widows-bay-108" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Widows Bay (widows-bay-108) cumulative data map in new window" title="Opens interactive map for Widows Bay (widows-bay-108) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.48 | 17.93 | 34.70 | 41.66 | 1.40 | 0.81 |
+| 1.69 | 18.93 | 34.47 | 42.65 | 1.45 | 0.82 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 97.98%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Widows Bay cumulative map](figures/widows-bay-108-carto.png)](figures/widows-bay-108-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/widows-bay-108-data-ge-1080p.webp)](figures/widows-bay-108-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/widows-bay-108-data-lt-1080p.webp)](figures/widows-bay-108-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

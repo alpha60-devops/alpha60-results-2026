@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt33332385",
     "imdb_id": "tt33332385",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q136498700",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Widow%27s_Bay"
   },
-  "coverage_sha256": "644958932f5531392c9eb8014cf742891a3d5c7731087dc667c199af0fa5ad41",
-  "generated_at": "2026-09-14T07:26:14.489329+00:00",
+  "coverage_sha256": "af5c21ffc2e37acd3353240362539a58270e8f44fe4a6a900e0e98efda74c36c",
+  "generated_at": "2026-10-07T18:17:33.369461+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/widows-bay-108.cache/cache.20260908.tar.xz",
-      "sha256": "7bd419a1728010fd117afa87ddefa4af0bf8d9586e85afa0bf3cd95162b34034",
-      "size": 1322314424
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/widows-bay-108.cache/cache.20260929.tar.xz",
+      "sha256": "4c140ee489871e7d631baba2b5011e9e70b7dd858f92684ecf171f464d0ab65a",
+      "size": 1851238320
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/widows-bay-108.md",
-      "sha256": "e346984e9ad830ebf56583ee36238cc3b44c2d50ea1809145dc5c59befb181c0",
-      "size": 550
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/widows-bay-108.md",
+      "sha256": "b9b057af18391ce0136bafc45e23c03e949e877e183bb527da81c76de17e7da3",
+      "size": 905
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/widows-bay-108.json",
-      "sha256": "8093e9775b448c767a565bdb6e165a4179bf4cea4ef536aca0e2752fb92de37e",
-      "size": 2794
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/widows-bay-108.json",
+      "sha256": "d66f1087f48a292cd6c9742d291152759ab2adfe88ef5616c8223b35522bdc36",
+      "size": 3072
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/widows-bay-108.json",
-      "sha256": "87c73a2550308b96c41cf0cbcb94eefd0e1572e34b230039c2261ab11f35e78a",
-      "size": 366
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/widows-bay-108.json",
+      "sha256": "bd100bb4a7ea2a3b61779b4ebc92df8e9b8d617f6f6574a377f392796a8f0e0c",
+      "size": 368
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
-      "size": 94076
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "widows-bay-108",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "e695a561365a3c360b2ee0b8090b42b71727f449ce32c2c9946411939e5ff7d2",
-        "before_sha256": "7c2276fccab8990c2879cbbe218ad1521481bf9674e84324c2eabe97d8bffee9",
-        "path": "docs/itemized/widows-bay-108-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T07:02:16.922510+00:00",
-    "coverage_sha256": "644958932f5531392c9eb8014cf742891a3d5c7731087dc667c199af0fa5ad41",
-    "day_contract": {
-      "collection_key": "widows-bay-108",
-      "day_products": 98,
-      "first_date": "2026-06-03",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-08",
-      "last_index": 98,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "bc75942cc369f9d4678d910c4d8d75cb60fc9c59656c4ad4fb17eaf6ea3bc62a",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/widows-bay-108.md",
-        "sha256": "e346984e9ad830ebf56583ee36238cc3b44c2d50ea1809145dc5c59befb181c0",
-        "size": 550
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/widows-bay-108.json",
-        "sha256": "8093e9775b448c767a565bdb6e165a4179bf4cea4ef536aca0e2752fb92de37e",
-        "size": 2794
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/widows-bay-108.json",
-        "sha256": "87c73a2550308b96c41cf0cbcb94eefd0e1572e34b230039c2261ab11f35e78a",
-        "size": 366
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 14,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/widows-bay-108-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "18d501c37e1741bda5398a561b8333885eb6d9bc670f640868898539765d98c7",
-    "docs/itemized/figures/widows-bay-108-carto-4k.webp": "3520d5792b874946456088fb6066701dc83926933bea810d6ceecf24be974caa",
-    "docs/itemized/figures/widows-bay-108-carto.png": "f765fbf65261a32224b509671bae12e6137e58410df9405ba17a32df499be501",
+    "data/csv/bytes/widows-bay-108-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "d03e887e085c7ef9370b149a83859975cc68ba625a878734f44c33691865cc8e",
+    "docs/itemized/figures/widows-bay-108-carto-4k.webp": "482e8d78c6d0019458b585e6188ec542f18b4e91bd150061fc9d4e03d5b115f6",
+    "docs/itemized/figures/widows-bay-108-carto.png": "52e7b570dd12d878e236b6e68759826e2f10295a57f5629ac2115cdf07e8d42e",
     "docs/itemized/figures/widows-bay-108-cumulative-detail-btiha-itemized-by-bytes.svg": "0e78defbf74d62c7c67d1a9db38c01d587fa83d525c6c81a749239221a0a4a7c",
-    "docs/itemized/figures/widows-bay-108-data-ge-1080p-4k.webp": "69720a67f6e3c0e8a01275b98c2f31b823baf7130d4816994b3c87778bf02acf",
-    "docs/itemized/figures/widows-bay-108-data-ge-1080p.webp": "9b9eaf170d13878962efd85ab0e65ff7c3674e0c5eb421675161f2d4fd0f60be",
-    "docs/itemized/figures/widows-bay-108-data-lt-1080p-4k.webp": "44208a306444d22c48f168e5f19386b13ec9f47dd1d904aa79508655299457bf",
-    "docs/itemized/figures/widows-bay-108-data-lt-1080p.webp": "f1b82aa47c1a81057dd5344a707072816b9eb727a1718d179be786b8d5f1800c",
-    "docs/itemized/figures/widows-bay-108-downloads-by-day-day.svg": "52839cc580b4b8f5a41da16f51e770a747c4006a3d46fef241397d0949752e6c",
-    "docs/itemized/figures/widows-bay-108-downloads-by-week-widows-bay-108-week.svg": "9edbba3b1b9a3757a7e41f3a5fd018997329aae0b33cb8c119cb7df87f028071",
-    "docs/itemized/widows-bay-108-sample-cache-audit.md": "e695a561365a3c360b2ee0b8090b42b71727f449ce32c2c9946411939e5ff7d2",
+    "docs/itemized/figures/widows-bay-108-data-ge-1080p-4k.webp": "965c659d51a8b9212ba9cbd4ceb34633c7cc8a81d9d4a765d9c89a226ab16027",
+    "docs/itemized/figures/widows-bay-108-data-ge-1080p.webp": "caa6672f75e0fbda1e1ec66e2d535810de19e65060b5c50a2ef02ec1d7962936",
+    "docs/itemized/figures/widows-bay-108-data-lt-1080p-4k.webp": "2ff4b47365f2f32c2fe9adf510385bc54b77f7083024d5970bcf5c9c28ab6053",
+    "docs/itemized/figures/widows-bay-108-data-lt-1080p.webp": "19ab10dc4a97ae9690237ee636d508cb9a5bddb4c7935be75864636f7cb8a5c5",
+    "docs/itemized/figures/widows-bay-108-downloads-by-day-day.svg": "31e74ce8d4aafc67117103415a677ec0ac60d80f100bb7ed609daa158b2bff94",
+    "docs/itemized/figures/widows-bay-108-downloads-by-week-widows-bay-108-week.svg": "d1c45ae374b0e9772ca13788aee2181d4aa38eafb5a88c72c6a1e16a7f68b00e",
+    "docs/itemized/widows-bay-108-sample-cache-audit.md": "eedd9f3acf3b0d299690dd7569e0b42211b6afef34902f258ff28a4761db774f",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
-      "dirty": true,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/widows-bay-108/tmp/widows-bay-108-cumulative-btiha.geojson",
-        "sha256": "c63283cec81e6d5810e6d71e5c50370dd4ad946bf2dc003082bab90c42b3403b",
-        "size": 358931822
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/scratch-storage/mounted/results-native-work-r9-v11/widows-bay-108/tmp/widows-bay-108-cumulative-btiha.geojson",
+        "sha256": "c263fc66af4df2d67616e5543a16dbbde3098791cd7a299da99e19e31bd4e14d",
+        "size": 400738834
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/widows-bay-108/tmp/widows-bay-108-cumulative-btiha-media-objects.json",
-        "sha256": "1695a781a836a47e43e8d201b5eb322310a11377bdf9f42387ec5cfceefb5014",
-        "size": 783847
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/scratch-storage/mounted/results-native-work-r9-v11/widows-bay-108/tmp/widows-bay-108-cumulative-btiha-media-objects.json",
+        "sha256": "aa55d7c502660775769532e5135d475d92c6bad2d5720b2e73615604dec73763",
+        "size": 783912
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "widows-bay-108",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,13 +99,13 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          81.0,
-          39.0,
+          79.0,
+          43.0,
           35.0,
-          32.0,
-          30.0,
-          29.0,
-          29.0,
+          35.0,
+          31.0,
+          28.0,
+          27.0,
           26.0,
           26.0
         ],
@@ -174,11 +117,11 @@
           "Seoul",
           "Nanjing",
           "Istanbul",
-          "Amsterdam",
           "London",
+          "Amsterdam",
           "Shanghai",
-          "Lelystad",
           "Hangzhou",
+          "Lelystad",
           "Moscow",
           "Incheon"
         ],
@@ -189,14 +132,14 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          47.0,
-          37.0,
+          51.0,
+          44.0,
+          33.0,
           31.0,
+          30.0,
+          30.0,
+          29.0,
           28.0,
-          27.0,
-          27.0,
-          27.0,
-          26.0,
           26.0
         ],
         "image_references": [
@@ -209,10 +152,10 @@
           "Istanbul",
           "Amsterdam",
           "Shanghai",
-          "Lelystad",
-          "Hangzhou",
-          "Moscow",
           "London",
+          "Moscow",
+          "Hangzhou",
+          "Lelystad",
           "Incheon"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
@@ -223,8 +166,8 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 25,
-        "y_tick_labels": 20
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
       },
       "histogram": {
         "bars": 35,
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 14,
-        "y_tick_labels": 22
+        "x_tick_labels": 17,
+        "y_tick_labels": 20
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
