@@ -1,11 +1,11 @@
 # Cache coverage report — hoppers
 
-- Generated: 2026-09-13T17:13:06Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/hoppers.xz`
-- Hour directories: 4026
+- Generated: 2026-10-07T14:25:16Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/hoppers.xz`
+- Hour directories: 4378
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
-- Hourly discontinuities: 5 (9 missing hours)
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Hourly discontinuities: 6 (18 missing hours)
 - Missing days: 0
 
 ## Sample archive discontinuities
@@ -15,9 +15,15 @@
 - hourly gap: last `2026-06-02 22:03`, resumed `2026-06-03 02:03` — missing 3 hour(s)
 - hourly gap: last `2026-06-12 22:03`, resumed `2026-06-13 00:03` — missing 1 hour(s)
 - hourly gap: last `2026-08-30 22:03`, resumed `2026-08-31 00:03` — missing 1 hour(s)
+- hourly gap: last `2026-09-10 22:03`, resumed `2026-09-11 08:03` — missing 9 hour(s)
 
-## Review
 
-Confirm the sampler state and disk capacity on the sampling
-hosts for every zero-length file and discontinuity above
-before treating the aggregate outputs as complete.
+## Frozen validation evidence
+
+- Frozen content SHA-256: `3b35ceee6d19cc901d2d7ad3aa7e12d514cb55cffbceaf0842cf424cf41445c9`
+- Full-input producer receipt SHA-256: `6b6c599c5167f566263d525ca56eb042ed6cbca3535b239776e2015c2c24c972`
+- Frozen raw archives: 4378
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 0
+- Excluded observations: 0

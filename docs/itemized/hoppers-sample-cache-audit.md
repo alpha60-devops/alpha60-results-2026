@@ -15,23 +15,23 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `hoppers` |
 | imdb_id | [tt26443616](https://www.imdb.com/title/tt26443616/) |
 | wikipedia_url | [Hoppers (film)](https://en.wikipedia.org/wiki/Hoppers_(film)) |
-| Sample dates | 2026-03-26-to-2026-09-10 |
-| Sample days | 169 |
+| Sample dates | 2026-03-26-to-2026-09-25 |
+| Sample days | 184 |
 | BTIH count | 352 |
 | Unique BTIH count | 335 |
-| Downloaders total | 45,186,008 |
-| Uploaders total | 3,267,288 |
+| Downloaders total | 47,327,944 |
+| Uploaders total | 3,351,924 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:06Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/hoppers.xz`
-- Hour directories: 4026
+- Generated: 2026-10-07T14:25:16Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/hoppers.xz`
+- Hour directories: 4378
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
-- Hourly discontinuities: 5 (9 missing hours)
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Hourly discontinuities: 6 (18 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
@@ -41,12 +41,24 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2026-06-02 22:03`, resumed `2026-06-03 02:03` — missing 3 hour(s)
 - hourly gap: last `2026-06-12 22:03`, resumed `2026-06-13 00:03` — missing 1 hour(s)
 - hourly gap: last `2026-08-30 22:03`, resumed `2026-08-31 00:03` — missing 1 hour(s)
+- hourly gap: last `2026-09-10 22:03`, resumed `2026-09-11 08:03` — missing 9 hour(s)
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `3b35ceee6d19cc901d2d7ad3aa7e12d514cb55cffbceaf0842cf424cf41445c9`
+- Full-input producer receipt SHA-256: `6b6c599c5167f566263d525ca56eb042ed6cbca3535b239776e2015c2c24c972`
+- Frozen raw archives: 4378
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 0
+- Excluded observations: 0
+
+## 3. Media objects file size histogram
 
 ![Hoppers collection size histogram](figures/hoppers-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -69,31 +81,24 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![hoppers downloads by day](figures/hoppers-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/hoppers-cumulative-aggregate.geojson.gz" data-map-title="Hoppers — hoppers" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Hoppers (hoppers) cumulative data map in new window" title="Opens interactive map for Hoppers (hoppers) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.08 | 16.72 | 36.49 | 40.75 | 1.24 | 0.82 |
+| 2.29 | 17.32 | 36.87 | 41.43 | 1.28 | 0.82 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.10%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Hoppers cumulative map](figures/hoppers-carto.png)](figures/hoppers-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/hoppers-data-ge-1080p.webp)](figures/hoppers-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/hoppers-data-lt-1080p.webp)](figures/hoppers-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

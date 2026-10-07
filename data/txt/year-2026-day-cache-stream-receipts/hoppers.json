@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 169,
-  "cache_members": 42288,
+  "available_day_products": 184,
+  "cache_members": 47564,
   "collection_key": "hoppers",
   "downstream_cache_synthesis": {
     "cache_members": {
       "cumulative": 352,
-      "week": 6523
+      "week": 7226
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
-      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
-      "size": 30067072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
     },
     "sample_anchor": {
       "directories": [
         "2026-03-26-at-00-00",
-        "2026-09-10-at-00-00"
+        "2026-09-25-at-00-00"
       ],
       "keys": [
         "hoppers"
       ],
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/hoppers/tmp/hoppers-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/hoppers/tmp/hoppers-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -214,27 +214,42 @@
     166,
     167,
     168,
-    169
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184
   ],
-  "last_date": "2026-09-10",
-  "last_index": 169,
+  "last_date": "2026-09-25",
+  "last_index": 184,
   "missing_indices": [],
-  "sample_span_days": 169,
+  "sample_span_days": 184,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 42288,
+    "admitted_cache_members": 47564,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-03-26",
-    "required_last_date": "2026-09-10",
-    "required_span_days": 169,
+    "required_last_date": "2026-09-25",
+    "required_span_days": 184,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 42288,
+    "source_cache_members": 47564,
     "source_first_date": "2026-03-26",
     "source_first_index": 1,
-    "source_last_date": "2026-09-10",
-    "source_last_index": 169
+    "source_last_date": "2026-09-25",
+    "source_last_index": 184
   },
   "sparse": false,
   "status": "pass"

@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt26443616",
     "imdb_id": "tt26443616",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q128798957",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hoppers_(film)"
   },
-  "coverage_sha256": "c468b0fbc57fdd4e831eaf34e097bc42bfcb85c267093d0c14d328764ee9ccee",
-  "generated_at": "2026-09-14T01:13:53.565768+00:00",
+  "coverage_sha256": "8e4c9ef3e57d5e1f31bf485a583d5935e7a5e86a471f83eda06b68f23f0dd8f1",
+  "generated_at": "2026-10-07T18:07:38.114069+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/hoppers.cache/cache.20260910.tar.xz",
-      "sha256": "c14dafe4cc4df37d613a7348ead3e2ca558521935579b98dc3585dbb7039aa36",
-      "size": 2668528840
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/hoppers.cache/cache.20260925.tar.xz",
+      "sha256": "65aacc4fed8e752047b6f74cfc9449030ad5f26bab26c8bc2b04f32fe89df4e0",
+      "size": 2905077400
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/hoppers.md",
-      "sha256": "8660b9266f4179a77f574d7072066f439dd22c8b744a10dc27b5e46ac9445905",
-      "size": 961
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/hoppers.md",
+      "sha256": "8c1c568f17801a04c96526ae8f859a85e49c9a6165dcaa03c43b29fc133281b7",
+      "size": 1399
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/hoppers.json",
-      "sha256": "3c716338a94f708203af252c73c3ddc63e30e34bc08adf59fcfe2fdd801caefb",
-      "size": 3409
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/hoppers.json",
+      "sha256": "94b0933e40a7545084e3f6dd4ae3aa0508042364bbaae94a5d0e75bd74d8d434",
+      "size": 3612
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/hoppers.json",
-      "sha256": "cfd1345ce27bede60c1fb1d58768c0cf2f729cc0d5873eff078ead1c42d6c919",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/hoppers.json",
+      "sha256": "43f62628f5d0bd3fdac7852c41f7a8ec31c85ae13dfd5da492acad8db951032b",
       "size": 361
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
-      "size": 94076
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "hoppers",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "132c226c791f8d696abc3276b3404b530cb24ba85cc922857795c4eecdd39bb9",
-        "before_sha256": "fbaeb98a0e7c8006f36eff139d5d17e963b678560bdc313741c02c7394183d1a",
-        "path": "docs/itemized/hoppers-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:58:15.539146+00:00",
-    "coverage_sha256": "c468b0fbc57fdd4e831eaf34e097bc42bfcb85c267093d0c14d328764ee9ccee",
-    "day_contract": {
-      "collection_key": "hoppers",
-      "day_products": 169,
-      "first_date": "2026-03-26",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-10",
-      "last_index": 169,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "a87321183a825d46349cdf797d1ccb0edb1a08f13f51f1d33a87febff6f6adbd",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/hoppers.md",
-        "sha256": "8660b9266f4179a77f574d7072066f439dd22c8b744a10dc27b5e46ac9445905",
-        "size": 961
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/hoppers.json",
-        "sha256": "3c716338a94f708203af252c73c3ddc63e30e34bc08adf59fcfe2fdd801caefb",
-        "size": 3409
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/hoppers.json",
-        "sha256": "cfd1345ce27bede60c1fb1d58768c0cf2f729cc0d5873eff078ead1c42d6c919",
-        "size": 361
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 25,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/hoppers-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "249f62af0b8a9e8eb510c55b5f47b8017b9a76235f50299999b1ff2b5d020fa0",
-    "docs/itemized/figures/hoppers-carto-4k.webp": "d924883ce2d273ce0bb442a54a5d84fb74214136de900ea9fe05fd8c6d8bf654",
-    "docs/itemized/figures/hoppers-carto.png": "a5a0d80128bfe2f7473e09026f17d33267b76f8c121bc577523f357ebe1a63ed",
+    "data/csv/bytes/hoppers-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "e1dd81a272e81e8524fb2dc35e20f0fd41acb723128a3b1dfdfaa5b6abb04035",
+    "docs/itemized/figures/hoppers-carto-4k.webp": "4b907e33ea0e7a6ef354382b8cd24fbe8d9f2919e1f261bc2fa45efaa8c24148",
+    "docs/itemized/figures/hoppers-carto.png": "0d8a2728367cecf1c30937fe492cde7e67cccdcc7850dd186a039962e6dd8761",
     "docs/itemized/figures/hoppers-cumulative-detail-btiha-itemized-by-bytes.svg": "46e03e0e5e229e8dba0fce4b1f35eea3b30d36882eb15fc1dc831d748ee9ace9",
-    "docs/itemized/figures/hoppers-data-ge-1080p-4k.webp": "19019f169998d7151c9e506fcd4e1061f9bfcf9f6f3e77e19547b579a5436792",
-    "docs/itemized/figures/hoppers-data-ge-1080p.webp": "32cc91bbdf4ac4c4a18657a15a564a747ac76729108f19f1b723ae6b0c2a01de",
-    "docs/itemized/figures/hoppers-data-lt-1080p-4k.webp": "23bbbb14b142cec80cf92ad8e361e53f7ee9f59aa0f52e50c0bc961f4b854d55",
-    "docs/itemized/figures/hoppers-data-lt-1080p.webp": "6e12d211dac698631dc8b2fd5223911c9804accb4dc24972aeb740a2c89b9703",
-    "docs/itemized/figures/hoppers-downloads-by-day-day.svg": "0083a48c96a554f6a13472870548f20477286185cd0357cde7a32c62b03c508c",
-    "docs/itemized/figures/hoppers-downloads-by-week-hoppers-week.svg": "776623e1a57f08aa65369872236a3c1389d2a29dc947eb0ca95a1da66a9f67f3",
-    "docs/itemized/hoppers-sample-cache-audit.md": "132c226c791f8d696abc3276b3404b530cb24ba85cc922857795c4eecdd39bb9",
+    "docs/itemized/figures/hoppers-data-ge-1080p-4k.webp": "d1a8e75613211847dac994b504e123348af5d2ed908b594d01894f59639b4731",
+    "docs/itemized/figures/hoppers-data-ge-1080p.webp": "4131cd8ea0020cac910fee1043a16a2340bd0f80478aef801bfdf08eded6fea4",
+    "docs/itemized/figures/hoppers-data-lt-1080p-4k.webp": "15af953ac47ce4b439956add50325fc3265ba9d68963772a18a95fb484e655c9",
+    "docs/itemized/figures/hoppers-data-lt-1080p.webp": "11c38a455b2fb0a897c7899d911839cbe75766234cc305427bf07f0db89941da",
+    "docs/itemized/figures/hoppers-downloads-by-day-day.svg": "ffdbf908fade87bd060d5905c8a967280caa8ebc4bad470e01ced40889f4be00",
+    "docs/itemized/figures/hoppers-downloads-by-week-hoppers-week.svg": "e6a322bbb5874794513ad339e7b97f16509dd87457e97989e005fe8371e48562",
+    "docs/itemized/hoppers-sample-cache-audit.md": "ac4e2a050e295bbaee3018577c90c9d9326283c181e4f35fee05ec45abae34bd",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
-      "dirty": true,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/hoppers/tmp/hoppers-cumulative-btiha.geojson",
-        "sha256": "b0f1f1d62c537dafec2aed3ef076a0889e6e58fe1df8f3dd1bb50217f2c75a37",
-        "size": 459704810
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/hoppers/tmp/hoppers-cumulative-btiha.geojson",
+        "sha256": "f842f528363d5bf84990d956d798c36bb17ea4c1473679049b9a29debf025d73",
+        "size": 481504097
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/hoppers/tmp/hoppers-cumulative-btiha-media-objects.json",
-        "sha256": "5d3bd4699544643f64231b39b08e46c97af5c2cb3753967d751efa37ccb1d3b9",
-        "size": 641943
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/hoppers/tmp/hoppers-cumulative-btiha-media-objects.json",
+        "sha256": "fb14ced1d70a378a68c9bf8328563afe1fb36bbe87b9878f0b4af6ac0c403acb",
+        "size": 641961
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "hoppers",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,8 +99,8 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          71.0,
-          31.0,
+          68.0,
+          32.0,
           26.0,
           26.0,
           26.0,
@@ -174,10 +117,10 @@
           "Nanjing",
           "Seoul",
           "Istanbul",
-          "Amsterdam",
-          "Shanghai",
-          "Moscow",
           "London",
+          "Shanghai",
+          "Amsterdam",
+          "Moscow",
           "Hangzhou",
           "Lelystad",
           "Incheon"
@@ -189,11 +132,11 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          47.0,
-          42.0,
-          38.0,
+          45.0,
+          44.0,
+          37.0,
           30.0,
-          28.0,
+          27.0,
           27.0,
           26.0,
           26.0,
@@ -223,7 +166,7 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 22,
+        "x_tick_labels": 21,
         "y_tick_labels": 22
       },
       "histogram": {
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 25,
-        "y_tick_labels": 22
+        "x_tick_labels": 27,
+        "y_tick_labels": 20
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
