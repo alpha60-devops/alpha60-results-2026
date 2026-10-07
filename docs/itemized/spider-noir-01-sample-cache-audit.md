@@ -15,34 +15,2756 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `spider-noir-01` |
 | imdb_id | [tt30460310](https://www.imdb.com/title/tt30460310/) |
 | wikipedia_url | [Spider-Noir](https://en.wikipedia.org/wiki/Spider-Noir) |
-| Sample dates | 2026-05-27-to-2026-09-08 |
-| Sample days | 105 |
+| Sample dates | 2026-05-27-to-2026-09-29 |
+| Sample days | 126 |
 | BTIH count | 878 |
 | Unique BTIH count | 867 |
-| Downloaders total | 85,901,037 |
-| Uploaders total | 5,395,713 |
+| Downloaders total | 96,861,514 |
+| Uploaders total | 5,620,478 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:09Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz`
-- Hour directories: 2477
-- Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Generated: 2026-10-07T10:10:22Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz`
+- Hour directories: 2981
+- Zero-length sample files: 2705
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 1 (26 missing hours)
 - Missing days: 0
+
+Zero-length records are missing sampler observations. Their
+cause was not established by this run. Each gap remains explicit.
+
+### Zero-length sample files
+
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir (2026) Eng 1080p WEBRip x265 DDP 5.1 ESub-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir (2026) Eng 1080p WEBRip x265 DDP 5.1 ESub-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir (2026) Eng 1080p WEBRip x265 DDP 5.1 ESub-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir (AC3)-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir (AC3)-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir - Season 1 - AV1 1080p 7RIP-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir - Season 1 - AV1 1080p 7RIP-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir - Season 1 - AV1 1080p 7RIP-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir - Season 1 - AV1 1080p 7RIP-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X1 HDTV XviD Castellano-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X1 HDTV XviD Castellano-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X1 HDTV XviD Castellano-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X1 HDTV XviD Castellano-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X2 HDTV XviD Castellano-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X2 HDTV XviD Castellano-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X2 HDTV XviD Castellano-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X2 HDTV XviD Castellano-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X3 HDTV XviD Castellano-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X3 HDTV XviD Castellano-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X3 HDTV XviD Castellano-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X4 HDTV XviD Castellano-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X4 HDTV XviD Castellano-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X4 HDTV XviD Castellano-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X4 HDTV XviD Castellano-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X5 HDTV XviD Castellano-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X5 HDTV XviD Castellano-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X5 HDTV XviD Castellano-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X6 HDTV XviD Castellano-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X7 HDTV XviD Castellano-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X7 HDTV XviD Castellano-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X7 HDTV XviD Castellano-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X8 HDTV XviD Castellano-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X8 HDTV XviD Castellano-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X8 HDTV XviD Castellano-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 1X8 HDTV XviD Castellano-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 2026 S01 Complete 1080p AMZN WEB-DL H 264 DDP5 1-UBWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 2026 S01 Complete 1080p AMZN WEB-DL H 264 DDP5 1-UBWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir 2026 S01 Complete 1080p AMZN WEB-DL H 264 DDP5 1-UBWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir S01 RHS color-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir S01 RHS color-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir S01 RHS color-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir S01 RHS color-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir Season 1 Mp4 1080p-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir Season 1 Mp4 1080p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir Season 1 Mp4 1080p-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir Season 1 Mp4 1080p-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir Season 1 Mp4 1080p-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir [2026] Season One True Hue YG-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir [2026] Season One True Hue YG-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir [2026] Season One True Hue YG-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir [2026] Season One True Hue YG-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider Noir.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) (Castellano-Inglés+subs) WEBRip 1080p x265-EAC3 EAC3 Atmos-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) (Castellano-Inglés+subs) WEBRip 1080p x265-EAC3 EAC3 Atmos-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) (Castellano-Inglés+subs) WEBRip 1080p x265-EAC3 EAC3 Atmos-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) - 2160p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) - 2160p-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) - 2160p-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) - 2160p-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) - 2160p-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) 2160p 4K HDR10 DV WEB-DL Dual Audio [Hindi + English] ESub ~ RemuxDoc-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) 2160p 4K HDR10 DV WEB-DL Dual Audio [Hindi + English] ESub ~ RemuxDoc-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) C+BW 720p x265 10bit-VRC-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) C+BW 720p x265 10bit-VRC-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) C+BW 720p x265 10bit-VRC-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) C+BW 720p x265 10bit-VRC-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) S01 (1080p AMZN WEB-DL x265 10bit EAC3 Atmos 5.1 Silence)-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) S01 (1080p AMZN WEB-DL x265 10bit EAC3 Atmos 5.1 Silence)-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) S01 (1080p AMZN WEB-DL x265 10bit EAC3 Atmos 5.1 Silence)-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) S01 (1080p AMZN WEB-DL x265 10bit EAC3 Atmos 5.1 Silence)-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) S01 - B&W (1080p AMZN WEB-DL x265 10bit EAC3 Atmos 5.1 Silence)-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) S01 - B&W (1080p AMZN WEB-DL x265 10bit EAC3 Atmos 5.1 Silence)-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) S01 - B&W (1080p AMZN WEB-DL x265 10bit EAC3 Atmos 5.1 Silence)-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) S01 - B&W (1080p AMZN WEB-DL x265 10bit EAC3 Atmos 5.1 Silence)-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) [tmdbid-220102] [COLOR]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026) [tmdbid-220102] [COLOR]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026)-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026)-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (2026)-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.101]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.101]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.101]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.101]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.102]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.102]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.102]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.102]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.102]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.102]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.103]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.103]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.105]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.105]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.106]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.106]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.107]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.107]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.107]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.107]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.107]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.108]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.108]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Blanco y Negro) [HDTV 1080p][Cap.108]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Season 1) (2026) WEB-DL 1080p [UKR_ENG] [Hurtom]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Season 1) (2026) WEB-DL 1080p [UKR_ENG] [Hurtom]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Season 1) (2026) WEB-DL 1080p [UKR_ENG] [Hurtom]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Season 1) DV HDR10 WEB-DL 2160p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (Season 1) DV HDR10 WEB-DL 2160p-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir ([HDTV][Cap.107]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir ([HDTV][Cap.107]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir ([HDTV][Cap.107]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir ([HDTV][Cap.107]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir ([HDTV][Cap.108]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir ([HDTV][Cap.108]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir ([HDTV][Cap.108]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir ([HDTV][Cap.108]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (seriál) 2026 UHDR+DV cz en (color)-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (seriál) 2026 UHDR+DV cz en (color)-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir (seriál) 2026 UHDR+DV cz en (color)-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E01 - Step Into My Office - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E01 - Step Into My Office - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E01 - Step Into My Office - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E01 - Step Into My Office - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E01 - Step Into My Office - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E02 - Tread Lightly - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E02 - Tread Lightly - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E02 - Tread Lightly - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E03 - Double Cross - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E03 - Double Cross - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E04 - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E04 - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E04 - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E05 - Betrayal - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E05 - Betrayal - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E05 - Betrayal - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E05 - FC - 4320p HDR Ai Upscale 5.1 Atmos MultiSubs MKV -Mesc-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E05 - FC - 4320p HDR Ai Upscale 5.1 Atmos MultiSubs MKV -Mesc-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E05 - FC - 4320p HDR Ai Upscale 5.1 Atmos MultiSubs MKV -Mesc-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E05 - FC - 4320p HDR Ai Upscale 5.1 Atmos MultiSubs MKV -Mesc-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E05 - FC - 4320p HDR Ai Upscale 5.1 Atmos MultiSubs MKV -Mesc-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E06 - Nightmare on a Gurney - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E06 - Nightmare on a Gurney - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E07 - Nobodys Hero - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E07 - Nobodys Hero - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E08 - The Man in the Mask - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E08 - The Man in the Mask - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - S01E08 - The Man in the Mask - 4320p HDR Ai Upscale -Mesc-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - Season 1 [Black and White]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - Season 1 [Black and White]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - Season 1 [Black and White]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - Season 1 [Color]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - Season 1 [Color]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - Season 1 [Color]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir - Season 1 [Color]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 1 - LostFilm.TV [1080p]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 1 - LostFilm.TV [MP4]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 1 - LostFilm.TV [MP4]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 1 - LostFilm.TV-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 1 - LostFilm.TV-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 1 - LostFilm.TV-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 1080p AMZN WEB-DL H 264 DDP5 1-UBWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 1080p AMZN WEB-DL H 264 DDP5 1-UBWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 2160p AMZN WEB-DL DoVi H 265 10bit DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 2160p AMZN WEB-DL DoVi H 265 10bit DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 2160p AMZN WEB-DL DoVi H 265 10bit DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 2160p AMZN WEB-DL H 265 DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 2160p AMZN WEB-DL H 265 DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 2160p AMZN WEB-DL H 265 DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 2160p AMZN WEB-DL H 265 DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 2160p AMZN WEB-DL HDR10 H 265 10bit DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 2160p AMZN WEB-DL HDR10 H 265 10bit DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Authentic BW Complete 2160p AMZN WEB-DL HDR10 H 265 10bit DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Complete 1080p AMZN WEB-DL H 264 DDP5 1-UBWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Complete 1080p AMZN WEB-DL H 264 DDP5 1-UBWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Complete 1080p AMZN WEB-DL H 264 DDP5 1-UBWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Complete 2160p AMZN WEB-DL H 265 DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Complete 2160p AMZN WEB-DL H 265 DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Complete 2160p AMZN WEB-DL H 265 DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Complete 2160p AMZN WEB-DL H 265 DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Complete 2160p AMZN WEB-DL HDR10 H 265 10bit DDP5 1 Atmos-UBWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Complete Hindi Dual Audio www.ExtraFlix.pw 720p Web-DL ESubs-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Complete Hindi Dual Audio www.ExtraFlix.pw 720p Web-DL ESubs-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Renkli ve SB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Renkli ve SB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 S01 Renkli ve SB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 Season 1 Complete 1080p WEB x264 [i_c]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 Season 1 Complete 1080p WEB x264 [i_c]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 Season 1 Complete 1080p WEB x264 [i_c]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 Season 1 Complete 1080p WEB x264 [i_c]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 Season 1 Complete 1080p WEB x264 [i_c]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 Season 1 Complete 720p WEB x264 [i_c]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 Season 1 Complete 720p WEB x264 [i_c]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir 2026 Season 1 Complete 720p WEB x264 [i_c]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p AMZN WEB-DL DUAL DDP5 1 Atmos H 264-TURG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p AMZN WEB-DL DUAL DDP5 1 Atmos H 264-TURG [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p AMZN WEB-DL DUAL DDP5 1 Atmos H 264-TURG [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p DUAL AMZN WEB-DL x264 EAC3 Atmos 5 1-HdT [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p DUAL AMZN WEB-DL x264 EAC3 Atmos 5 1-HdT [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p DUAL AMZN WEB-DL x264 EAC3 Atmos 5 1-HdT [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p WEBRip 10bit DDP5 1 x265-NeoNoir [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p WEBRip 10bit DDP5 1 x265-NeoNoir [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p WEBRip 10bit DDP5 1 x265-NeoNoir [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 1080p WEBRip 10bit DDP5 1 x265-NeoNoir [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2026 WEB-DL 1080p x264 FULLHD Preto e Branco Autêntico DUAL 5.1-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2026 WEB-DL 1080p x264 FULLHD Preto e Branco Autêntico DUAL 5.1-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2026 WEB-DL 1080p x264 FULLHD True-Hue DUAL 5.1-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2026 WEB-DL 1080p x264 FULLHD True-Hue DUAL 5.1-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2026 WEB-DL 1080p x264 FULLHD True-Hue DUAL 5.1-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2026 WEB-DL 1080p x264 FULLHD True-Hue DUAL 5.1-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DUAL DDP5 1 Atmos DoVi HDR H 265-TURG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p AMZN WEB-DL DUAL DDP5 1 Atmos DoVi HDR H 265-TURG [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p CZ EN-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p CZ EN-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p CZ EN-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 2160p-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p - PW-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p - PW-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p - PW-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p - PW-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p 10bit DS4K AMZN WEBRip x265 HEVC [Hindi DDP 5.1 + English DDP 5.1] ESub - Immortal-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p 10bit DS4K AMZN WEBRip x265 HEVC [Hindi DDP 5.1 + English DDP 5.1] ESub - Immortal-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p 10bit DS4K AMZN WEBRip x265 HEVC [Hindi DDP 5.1 + English DDP 5.1] ESub - Immortal-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p 10bit DS4K AMZN WEBRip x265 HEVC [Hindi DDP 5.1 + English DDP 5.1] ESub - Immortal-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 1080p AMZN WEB-DL DUAL DDP5 1 Atmos H 264-TURG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 2160p AMZN WEB-DL DUAL DDP5 1 Atmos DoVi HDR H 265-TURG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 2160p AMZN WEB-DL DUAL DDP5 1 Atmos DoVi HDR H 265-TURG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 2160p AMZN WEB-DL DUAL DDP5 1 Atmos DoVi HDR H 265-TURG [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 2160p AMZN WEB-DL DUAL DDP5 1 Atmos DoVi HDR H 265-TURG [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 720p 10bit DS4K AMZN WEBRip x265 HEVC [Hindi DDP 5.1 + English DDP 5.1] ESub - Immortal-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 720p 10bit DS4K AMZN WEBRip x265 HEVC [Hindi DDP 5.1 + English DDP 5.1] ESub - Immortal-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 720p 10bit DS4K AMZN WEBRip x265 HEVC [Hindi DDP 5.1 + English DDP 5.1] ESub - Immortal-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Black White 1080p AMZN WEB-DL DDP 5 1 H 264-SPWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 Black White 1080p AMZN WEB-DL DDP 5 1 H 264-SPWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 True Color 1080p AMZN WEB-DL DDP 5 1 H 264-SPWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 [Black and White] [DUB] [Dragon Money Studio] 1080p-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 [Black and White] [DUB] [Dragon Money Studio] 1080p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 [Color] [DUB] [Dragon Money Studio] 1080p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 [Color] [DUB] [Dragon Money Studio] 1080p-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 [Color] [DUB] [Dragon Money Studio] 1080p-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 web 10bit hevc-d3g [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 web 10bit hevc-d3g [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01 web 10bit hevc-d3g [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 - LostFilm.TV [1080p]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 - LostFilm.TV [1080p]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 - LostFilm.TV [1080p]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 - LostFilm.TV [1080p]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 - LostFilm.TV [MP4]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 - LostFilm.TV [MP4]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 - LostFilm.TV [MP4]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 BW Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 BW Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E01 Step Into My Office True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 - LostFilm.TV [1080p]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 - LostFilm.TV [1080p]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 - LostFilm.TV [1080p]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 - LostFilm.TV [1080p]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 - LostFilm.TV [1080p]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 - LostFilm.TV [MP4]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 - LostFilm.TV [MP4]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 - LostFilm.TV [MP4]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E02 Tread Lightly True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 - LostFilm.TV [1080p]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 - LostFilm.TV [1080p]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 - LostFilm.TV [1080p]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 - LostFilm.TV [MP4]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 - LostFilm.TV [MP4]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 - LostFilm.TV-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 - LostFilm.TV-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 - LostFilm.TV-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 - LostFilm.TV-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 BW Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 BW Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 BW Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E03 Double Cross True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 - LostFilm.TV [MP4]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 - LostFilm.TV [MP4]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 - LostFilm.TV [MP4]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 - LostFilm.TV-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 - LostFilm.TV-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 - LostFilm.TV-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake I'll Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake I'll Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake I'll Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake I'll Never Make Again 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake I'll Never Make Again 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake I'll Never Make Again 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake I'll Never Make Again 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake I'll Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake I'll Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake I'll Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p WEBRip 10Bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p WEBRip 10Bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p WEBRip 10Bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 A Mistake Ill Never Make Again BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 BW A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 BW A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E04 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 - LostFilm.TV [1080p]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 - LostFilm.TV [1080p]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 - LostFilm.TV [1080p]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 - LostFilm.TV [MP4]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 - LostFilm.TV [MP4]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 - LostFilm.TV [MP4]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 - LostFilm.TV-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 - LostFilm.TV-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 - LostFilm.TV-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 Betrayal True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E05 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 - LostFilm.TV [1080p]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 - LostFilm.TV [1080p]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 - LostFilm.TV [1080p]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 - LostFilm.TV [1080p]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 - LostFilm.TV-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 - LostFilm.TV-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 BW Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 BW Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 BW Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E06 Nightmare on a Gurney True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV [1080p]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV [1080p]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV [MP4]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV [MP4]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV [MP4]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV [MP4]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV [MP4]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV [MP4]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 - LostFilm.TV-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobody's Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E07 Nobodys Hero True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 - LostFilm.TV [1080p]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 - LostFilm.TV [1080p]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 - LostFilm.TV [1080p]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 - LostFilm.TV [MP4]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 - LostFilm.TV [MP4]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 - LostFilm.TV [MP4]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 - LostFilm.TV-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 - LostFilm.TV-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 - LostFilm.TV-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S01E08 The Man in the Mask True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S1 2160p-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S1 2160p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S1 2160p-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir S1 2160p-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [2026] S01 B-W Dual YG-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [2026] S01 B-W Dual YG-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap101]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap101]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap101]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap101]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap102]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap102]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap102]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap102]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap103]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap103]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap103]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap103]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap104]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap104]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap104]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap104]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap105]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap105]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap105]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap105]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap107]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap107]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap108]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap108]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 1080p][Cap108]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.101]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.101]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.101]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.101]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.101]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.102]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.102]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.102]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.103]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.103]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.103]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.103]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.103]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.104]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.104]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.104]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.104]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.104]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.104]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.105]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.105]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.105]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.106]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV 720p][Cap.106]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.101]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.101]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.101]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.101]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.102]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.102]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.103]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.103]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.103]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.103]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.104]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.104]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.104]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.105]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.105]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.106]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.106]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.106]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.106]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.106]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.107]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.107]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.107]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.108]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.108]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.108]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir [HDTV][Cap.108]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir+S01E01+cz+dabing.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir+S01E01+cz+dabing.mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir+S01E01+cz+dabing.mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.2026.Stagione.1.Completa.AMZN.WEB-DL.AAC2.0.H.264-C0P-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.2026.Stagione.1.Completa.AMZN.WEB-DL.AAC2.0.H.264-C0P-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E1.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E2.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E3.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E3.1080p.Spanish.Spain.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E3.1080p.Spanish.Spain.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E3.1080p.Spanish.Spain.mp4-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E4.1080p.Spanish.Spain.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E4.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E4.1080p.Spanish.Spain.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E4.1080p.Spanish.Spain.mp4-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E5.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E5.1080p.Spanish.Spain.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E5.1080p.Spanish.Spain.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E6.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E6.1080p.Spanish.Spain.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E7.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E7.1080p.Spanish.Spain.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E7.1080p.Spanish.Spain.mp4-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E8.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Black.White.version.S1E8.1080p.Spanish.Spain.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.COLOR.VER.S01.2160p.AMZN.WEB-DL.SDR-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.COLOR.VER.S01.2160p.AMZN.WEB-DL.SDR-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.COLOR.VER.S01.2160p.AMZN.WEB-DL.SDR-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.COLOR.VER.S01.2160p.AMZN.WEB-DL.SDR-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.COLOR.VER.S01.2160p.AMZN.WEB-DL.SDR-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E1.1080p.Spanish.Spain.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E1.1080p.Spanish.Spain.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E1.1080p.Spanish.Spain.mp4-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E1.1080p.Spanish.Spain.mp4-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E2.1080p.Spanish.Spain.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E2.1080p.Spanish.Spain.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E2.1080p.Spanish.Spain.mp4-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E3.1080p.Spanish.Spain.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E4.1080p.Spanish.Spain.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E4.1080p.Spanish.Spain.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E4.1080p.Spanish.Spain.mp4-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E5.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E5.1080p.Spanish.Spain.mp4-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E6.1080p.Spanish.Spain.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E6.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E6.1080p.Spanish.Spain.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E6.1080p.Spanish.Spain.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E6.1080p.Spanish.Spain.mp4-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E7.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E7.1080p.Spanish.Spain.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.Colored.version.S1E8.1080p.Spanish.Spain.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.NOIR.VER.S01.2160p.AMZN.WEB-DL.DV.HDR-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.NOIR.VER.S01.2160p.AMZN.WEB-DL.DV.HDR-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.NOIR.VER.S01.2160p.AMZN.WEB-DL.DV.HDR-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.NOIR.VER.S01.2160p.AMZN.WEB-DL.DV.HDR-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.NOIR.VER.S01.2160p.AMZN.WEB-DL.DV.HDR-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.BW.DDP5.1.ENG.Atmos.ITA.H265-TheBlackKing-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.BW.DDP5.1.ENG.Atmos.ITA.H265-TheBlackKing-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.BW.DDP5.1.ENG.Atmos.ITA.H265-TheBlackKing-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.BW.DDP5.1.ENG.Atmos.ITA.H265-TheBlackKing-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.BW.DDP5.1.ENG.Atmos.ITA.H265-TheBlackKing-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.Color.DDP5.1.ENG.Atmos.ITA.H265-TheBlackKing-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.Color.DDP5.1.ENG.Atmos.ITA.H265-TheBlackKing-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.Color.DDP5.1.ENG.Atmos.ITA.H265-TheBlackKing-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.DUAL.DDP5.1.Atmos.H.264-TURG-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.DUAL.DDP5.1.Atmos.H.264-TURG-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.DUAL.DDP5.1.Atmos.H.264-TURG-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.HDR.H.265-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.HDR.H.265-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.B.and.W.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.HDR.H.265-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.B.and.W.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.HDR.H.265-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.B.and.W.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.HDR.H.265-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.ITA-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.ITA-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.ITA-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.ITA-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.NewComers-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.NewComers-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.WEBRip.x265-KONTRAST-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.WEBRip.x265-KONTRAST-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.WEBRip.x265-KONTRAST-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.WEBRip.x265-KONTRAST-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.1080p.WEBRip.x265-KONTRAST-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.AMZN.WEB-DL.1080p-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.AMZN.WEB-DL.1080p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.AMZN.WEB-DL.1080p-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.AMZN.WEB-DL.1080p-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.AMZN.WEB-DL.1080p-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.AMZN.WEB-DL.2160p.DV.HDR10-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.AMZN.WEB-DL.2160p.DV.HDR10-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.AMZN.WEB-DL.2160p.DV.HDR10-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.AMZN.WEB-DL.2160p.DV.HDR10-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.BW.AMZN.WEB-DL.2160p.DV.HDR10-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.BW.AMZN.WEB-DL.2160p.DV.HDR10-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.BW.AMZN.WEB-DL.2160p.DV.HDR10-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.BW.AMZN.WEB-DL.2160p.DV.HDR10-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.color.WEB-DLRip-AVC.x264.seleZen-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.color.WEB-DLRip-AVC.x264.seleZen-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.color.WEB-DLRip-AVC.x264.seleZen-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.color.WEB-DLRip-AVC.x264.seleZen-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.color.WEB-DLRip.x264.seleZen-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.color.WEB-DLRip.x264.seleZen-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.color.WEB-DLRip.x264.seleZen-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2026.color.WEB-DLRip.x264.seleZen-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.HDR.H.265-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.HDR.H.265-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.HDR.H.265-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.B.and.W.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.HDR.H.265-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.B.and.W.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.HDR.H.265-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.SDR-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.SDR-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.SDR-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.2160p.WEB-DL.DV.HDR10+.MULTi.LAT.ITA.HINDI.Atmoa.H265.MP4-BEN.THE.MEN-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.400p.NewComers-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.400p.NewComers-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.400p.NewComers-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.400p.NewComers-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.400p.NewComers-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.720p.AMZN.COLORIZED.WEB-DL.DDP5.1.H.264.DUAL-EcK-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.720p.AMZN.COLORIZED.WEB-DL.DDP5.1.H.264.DUAL-EcK-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.720p.AMZN.COLORIZED.WEB-DL.DDP5.1.H.264.DUAL-EcK-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.720p.AMZN.COLORIZED.WEB-DL.DDP5.1.H.264.DUAL-EcK-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.720p.AMZN.COLORIZED.WEB-DL.DDP5.1.H.264.DUAL-EcK-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.Alternative.Cut.MULTi.VF2.1080p.WEB.H264-FW-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.WEBRip.x265-KONTRAST-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.WEBRip.x265-KONTRAST-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.1080p.WEBRip.x265-KONTRAST-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.2026.AMZN.WEB-DL.1080p-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.2026.AMZN.WEB-DL.1080p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.2026.AMZN.WEB-DL.1080p-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.2026.AMZN.WEB-DL.1080p-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.2160p.WEB.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.2160p.WEB.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.2160p.WEB.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.ITA.ENG.1080p.AMZN.WEB-DL.DDP5.1.H.264-MeM.GP-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.ITA.ENG.1080p.AMZN.WEB-DL.DDP5.1.H.264-MeM.GP-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.ITA.ENG.1080p.AMZN.WEB-DL.DDP5.1.H.264-MeM.GP-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.ITA.ENG.2160p.AMZN.WEB-DL.DDP5.1.DV.HDR10+.H.265-MeM.GP-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.ITA.ENG.2160p.AMZN.WEB-DL.DDP5.1.DV.HDR10+.H.265-MeM.GP-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.ITA.ENG.2160p.AMZN.WEB-DL.DDP5.1.DV.HDR10+.H.265-MeM.GP-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.WEB-DL.1080p.x264.[Hurtom]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.WEB-DL.1080p.x264.[Hurtom]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.WEB-DL.1080p.x264.[Hurtom]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.WEB-DL.2160p.x265.[Hurtom]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.WEB-DL.2160p.x265.[Hurtom]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.WEB-DL.2160p.x265.[Hurtom]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.WEB-DL.2160p.x265.[Hurtom]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.WEB-DLRip.LF-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.WEB-DLRip.LF-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.BW.WEB-DLRip.LF-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.C.WEB-DLRip.LF-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.C.WEB-DLRip.LF-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.C.WEB-DLRip.LF-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOR.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOR.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOR.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOR.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOR.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOR.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOR.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOR.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOR.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLORIZED.FRENCH.WEBRip.x264-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLORIZED.FRENCH.WEBRip.x264-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLORIZED.FRENCH.WEBRip.x264-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLORIZED.VOSTFR.WEBRip.x264-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLORIZED.VOSTFR.WEBRip.x264-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLORIZED.VOSTFR.WEBRip.x264-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOUR.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOUR.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOUR.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOUR.2160p.WEB.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOUR.2160p.WEB.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOUR.2160p.WEB.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.COLOUR.2160p.WEB.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.ITA.ENG.1080p.AMZN.WEBRip.BW.Version.AAC.x265-Pir8-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.ITA.ENG.2160p.AMZN.WEB-DL.DDP5.1.DV.HDR10+.H.265-MeM.GP-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.ITA.ENG.2160p.AMZN.WEB-DL.DDP5.1.DV.HDR10+.H.265-MeM.GP-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.ITA.ENG.2160p.AMZN.WEB-DL.DDP5.1.DV.HDR10+.H.265-MeM.GP-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.MULTi.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.MULTi.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.MULTi.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.MULTi.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.MULTi.VF2.1080p.WEB.H264-FW-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.MULTi.VF2.1080p.WEB.H264-FW-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.MULTi.VF2.1080p.WEB.H264-FW-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.MULTi.VF2.1080p.WEB.H264-FW-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.True-Hue.ITA.ENG.1080p.AMZN.WEB-DL.DDP5.1.H.264-MeM.GP-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.WEB-DL.1080p.x264.[Hurtom]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.WEB-DL.1080p.x264.[Hurtom]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.WEB-DL.1080p.x264.[Hurtom]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.WEB-DL.2160p.x265.[Hurtom]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.WEBDL.2160p.DV.HDR.3Ukr.Eng-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.WEBDL.2160p.DV.HDR.3Ukr.Eng-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.[Bolly4u.dog] WEB-DL Dual Audio 480p 1.3GB.mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.[Bolly4u.dog] WEB-DL Dual Audio 480p 1.3GB.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.[Bolly4u.dog] WEB-DL Dual Audio 480p 1.3GB.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.[Bolly4u.dog] WEB-DL Dual Audio 480p 1.3GB.mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.[Bolly4u.dog] WEB-DL Dual Audio 480p 1.3GB.mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.[Bolly4u.dog] WEB-DL Dual Audio 480p 1.3GB.mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.[Bolly4u.dog] WEB-DL Dual Audio 720p 3GB.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01.[Bolly4u.dog] WEB-DL Dual Audio 720p 3GB.mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-04.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-04.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-04.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-04.BW.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-04.BW.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-04.BW.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-04.BW.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-08.1080p.AMZN.WEB-DL.ITA-ENG.DDP5.1.H.264-G66-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-08.1080p.AMZN.WEB-DL.ITA-ENG.DDP5.1.H.264-G66-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-08.1080p.AMZN.WEB-DL.ITA-ENG.DDP5.1.H.265-G66-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-08.1080p.AMZN.WEB-DL.ITA-ENG.DDP5.1.H.265-G66-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-08.BW.1080p.AMZN.WEB-DL.ITA-ENG.DDP5.1.H.264-G66-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-08.BW.1080p.AMZN.WEB-DL.ITA-ENG.DDP5.1.H.264-G66-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-08.BW.1080p.AMZN.WEB-DL.ITA-ENG.DDP5.1.H.264-G66-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-08.BW.1080p.AMZN.WEB-DL.ITA-ENG.DDP5.1.H.264-G66-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-08.BW.1080p.AMZN.WEB-DL.ITA-ENG.DDP5.1.H.265-G66-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01-08.BW.1080p.AMZN.WEB-DL.ITA-ENG.DDP5.1.H.265-G66-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.2160p.WEB.H265-TRB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.2160p.WEB.H265-TRB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.2160p.WEB.H265-TRB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.720p.x264-FENiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.720p.x264-FENiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.720p.x264-FENiX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.720p.x264-FENiX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.BW.MULTi.2160p.AMZN.WEB-DL.DV.HDR.H265.DDP5.1.Atmos-K83.mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.XviD-AFG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.BW.XviD-AFG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.Step.Into.My.Office.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.rus.LostFilm.TV.avi-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.rus.LostFilm.TV.avi-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.rus.LostFilm.TV.avi-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E01.rus.LostFilm.TV.avi-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.1080p.WEB.H264-TRB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.1080p.WEB.H264-TRB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.1080p.WEB.H264-TRB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.1080p.WEB.H264-TRB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.1080p.WEB.H264-TRB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.Tread.Lightly.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.rus.LostFilm.TV.avi-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.rus.LostFilm.TV.avi-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.rus.LostFilm.TV.avi-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E02.rus.LostFilm.TV.avi-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.Double.Cross.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.rus.LostFilm.TV.avi-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E03.rus.LostFilm.TV.avi-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.I.ll.Never.Make.Again.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.I.ll.Never.Make.Again.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.I.ll.Never.Make.Again.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.I.ll.Never.Make.Again.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.COLORIZED.1080p.WEB.H264-TRB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.COLORIZED.1080p.WEB.H264-TRB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.COLORIZED.1080p.WEB.H264-TRB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.COLORIZED.1080p.WEB.H264-TRB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.COLORIZED.1080p.WEB.H264-TRB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.rus.LostFilm.TV.avi-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.rus.LostFilm.TV.avi-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.rus.LostFilm.TV.avi-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.rus.LostFilm.TV.avi-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.rus.LostFilm.TV.avi-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E04.rus.LostFilm.TV.avi-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05-08.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05-08.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05-08.BW.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05-08.BW.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05-08.BW.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05-08.BW.2160p.AMZN.WEB-DL.ITA.ENG.DDP5.1.DV.HDR.H.265-G66-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.Betrayal.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.rus.LostFilm.TV.avi-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E05.rus.LostFilm.TV.avi-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.2160p.WEB.H265-TRB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.2160p.WEB.H265-TRB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.2160p.WEB.H265-TRB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.2160p.WEB.H265-TRB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.2160p.WEB.H265-TRB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.AMZN.WEB-DL.ITA.ENG.DDP5.1.H.264-G66.mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.AMZN.WEB-DL.ITA.ENG.DDP5.1.H.264-G66.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.AMZN.WEB-DL.ITA.ENG.DDP5.1.H.264-G66.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E06.Nightmare.on.a.Gurney.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobody.s.Hero.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobody.s.Hero.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobody.s.Hero.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobody.s.Hero.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobody.s.Hero.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E07.Nobodys.Hero.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.1080p.WEB.H264-TRB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.1080p.WEB.H264-TRB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.1080p.WEB.H264-TRB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.1080p.WEB.H264-TRB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.1080p.WEB.H264-TRB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.COLORIZED.DV.2160p.WEB.H265-RENESUS [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.COLORIZED.DV.2160p.WEB.H265-RENESUS [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.COLORIZED.DV.2160p.WEB.H265-RENESUS [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.COLORIZED.DV.2160p.WEB.H265-RENESUS [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.FINAL.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.FINAL.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BLOOM.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.AMZN.WEB-DL.ITA.ENG.DDP5.1.H.264-G66.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.AMZN.WEB-DL.ITA.ENG.DDP5.1.H.264-G66.mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.AMZN.WEB-DL.ITA.ENG.DDP5.1.H.264-G66.mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.480p.x264-mSD [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.XviD-AFG [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir.S01E08.The.Man.in.the.Mask.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir_(s01)_NewStudio_2160p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir_(s01)_NewStudio_2160p-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir_(s01)_NewStudio_2160p-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir_(s01)_NewStudio_2160p-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir_(s01.COLOUR)_NewStudio_2160p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-Noir_(s01.COLOUR)_NewStudio_2160p-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-noir.(Season 01).Dragon Money Studio-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider-noir.(Season 01).Dragon Money Studio-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-KRATOS-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-KRATOS-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-KRATOS-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-KRATOS-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-KRATOS-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01.720p.Hindi.Multi.WEB.HDRip.DDP.5.1.x264.MSubs-india4Movies.ORG-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01.720p.Hindi.Multi.WEB.HDRip.DDP.5.1.x264.MSubs-india4Movies.ORG-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01.720p.Hindi.Multi.WEB.HDRip.DDP.5.1.x264.MSubs-india4Movies.ORG-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01.Color.WEB-DLRip.HDRezka Studio-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01.Color.WEB-DLRip.HDRezka Studio-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.2026.S01_BW_WEB-DLRip.HDRezka Studio-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.1080p.ColdFilm-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.1080p.ColdFilm-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.400p.ColdFilm-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.400p.ColdFilm-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.400p.ColdFilm-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.400p.ColdFilm-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.400p.ColdFilm-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.720p.ColdFilm-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.720p.ColdFilm-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.720p.ColdFilm-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.720p.ColdFilm-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01.720p.ColdFilm-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01E01.1080p.ColdFilm.mkv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01E01.1080p.ColdFilm.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01E01.1080p.ColdFilm.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01E01.720p.ColdFilm.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01E01.720p.ColdFilm.mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.B.a.W.S01E01.720p.ColdFilm.mkv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p.CW.Ru.Ultradox-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p.CW.Ru.Ultradox-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p.CW.Ru.Ultradox-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p.CW.Ru.Ultradox-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p.ColdFilm-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p.ColdFilm-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p.Ru.Ultradox-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p.Ru.Ultradox-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p_RHS.BW-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p_RHS.BW-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p_RHS.BW-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p_RHS.color-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p_RHS.color-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p_RHS.color-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p_RHS.color-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.1080p_RHS.color-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.2026.Color verssion.WEB-DL.1080p-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.2026.Color verssion.WEB-DL.1080p-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.2026.Color verssion.WEB-DL.1080p-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.2026.Color verssion.WEB-DL.1080p-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.400p.CW.Ru.Ultradox-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.400p.CW.Ru.Ultradox-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.400p.CW.Ru.Ultradox-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.400p.CW.Ru.Ultradox-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.400p.ColdFilm-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.400p.Ru.Ultradox-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.400p.Ru.Ultradox-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.400p.Ru.Ultradox-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.720p.CW.Ru.Ultradox-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.720p.CW.Ru.Ultradox-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.720p.CW.Ru.Ultradox-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.720p.ColdFilm-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.720p.ColdFilm-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.720p.ColdFilm-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.720p.Ru.Ultradox-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.720p.Ru.Ultradox-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.720p.Ru.Ultradox-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.BW-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.BW-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.FRENCH.WEBRip.x264-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.MULTi.VF2.1080p.WEB.EAC3.5.1.H264-TFA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.MULTi.VF2.1080p.WEB.EAC3.5.1.H264-TFA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.MULTi.VF2.1080p.WEB.EAC3.5.1.H264-TFA-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.VOSTFR.WEBRip.x264-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.VOSTFR.WEBRip.x264-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.VOSTFR.WEBRip.x264-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.VOSTFR.WEBRip.x264-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.color-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.color-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.color-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.color-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.{B&W}.1080p.DS4K.10bit.{60FPS}.WEBRIP.x265.Dual.Audio.[Hindi+English].DDP.Atmos.5.1.Esub.[-=DUS=-] [IPT]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.{B&W}.1080p.DS4K.10bit.{60FPS}.WEBRIP.x265.Dual.Audio.[Hindi+English].DDP.Atmos.5.1.Esub.[-=DUS=-] [IPT]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.{B&W}.1080p.DS4K.10bit.{60FPS}.WEBRIP.x265.Dual.Audio.[Hindi+English].DDP.Atmos.5.1.Esub.[-=DUS=-] [IPT]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01.{B&W}.1080p.DS4K.10bit.{60FPS}.WEBRIP.x265.Dual.Audio.[Hindi+English].DDP.Atmos.5.1.Esub.[-=DUS=-] [IPT]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E01.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E01.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E02.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E02.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E02.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E02.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E02.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E02.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E02.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E03.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E03.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E03.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E03.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E03.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E03.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E03.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E03.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E03.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E04.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E04.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E04.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E04.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E04.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E04.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E04.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E04.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E05.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E05.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E05.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E05.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E06.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E07.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E07.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E07.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E07.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E07.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E07.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E07.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E08.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E08.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E08.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.S01E08.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.HD720p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.HD720p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.HD720p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.HD720p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.WEBRip.x264.Rus.RuDub.tv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.WEBRip.x264.Rus.RuDub.tv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.WEBRip.x264.Rus.RuDub.tv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.Colored.WEBRip.x264.Rus.RuDub.tv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.HD720p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.HD720p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Spider.Noir.s01.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BEST-TORRENTS.COM] Spider-Noir.Sezon01.MULTi.2160p.AMZN.WEB-DL.H265.DDP5.1.Atmos-K83-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BEST-TORRENTS.COM] Spider-Noir.Sezon01.MULTi.2160p.AMZN.WEB-DL.H265.DDP5.1.Atmos-K83-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BEST-TORRENTS.COM] Spider-Noir.Sezon01.MULTi.2160p.AMZN.WEB-DL.H265.DDP5.1.Atmos-K83-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BEST-TORRENTS.COM] Spider-Noir.Sezon01.MULTi.2160p.AMZN.WEB-DL.H265.DDP5.1.Atmos-K83-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BEST-TORRENTS.COM] Spider-Noir.Sezon01.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BEST-TORRENTS.COM] Spider-Noir.Sezon01.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BEST-TORRENTS.COM] Spider-Noir.Sezon01.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BEST-TORRENTS.COM] Spider-Noir.Sezon01.PL.AMZN.WEB-DL.H264.DDP5.1-K83-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BEST-TORRENTS.COM] Spider-Noir.Sezon01.PL.AMZN.WEB-DL.H264.DDP5.1-K83-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BLVCK] Spider-Noir.S01E04.Un.errore.che.non.ripetero.BW.ITA.2160p.DDP5.1.DV.HDR10+.H.265-MeM.mkv-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BLVCK] Spider-Noir.S01E04.Un.errore.che.non.ripetero.BW.ITA.2160p.DDP5.1.DV.HDR10+.H.265-MeM.mkv-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[BLVCK] Spider-Noir.S01E04.Un.errore.che.non.ripetero.BW.ITA.2160p.DDP5.1.DV.HDR10+.H.265-MeM.mkv-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.MULTi.1080p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.MULTi.1080p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.MULTi.1080p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.MULTi.2160p.AMZN.WEB-DL.H265.DDP5.1.Atmos-K83-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.MULTi.2160p.AMZN.WEB-DL.H265.DDP5.1.Atmos-K83-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.MULTi.2160p.AMZN.WEB-DL.H265.DDP5.1.Atmos-K83-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.PL.AMZN.WEB-DL.H264.DDP5.1-K83-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.PL.AMZN.WEB-DL.H264.DDP5.1-K83-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[DEVIL-TORRENTS.PL] Spider-Noir.Sezon01.PL.AMZN.WEB-DL.H264.DDP5.1-K83-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[Ex-torrenty.org]Spider-Noir.S01.MULTi.720p.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[Ex-torrenty.org]Spider-Noir.S01.MULTi.720p.WEB-DL.H264.DDP5.1.Atmos-K83-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[NOOBDL]Spider-Noir.S01.Authentic.BW.2160p.WEB-DL.x265.DVp5-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[NOOBDL]Spider-Noir.S01.Authentic.BW.2160p.WEB-DL.x265.DVp5-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[NOOBDL]Spider-Noir.S01.Authentic.BW.2160p.WEB-DL.x265.DVp5-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[NOOBDL]Spider-Noir.S01.True-Hue.Full.Color.2160p.WEB-DL.x265.DVp5-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[NOOBDL]Spider-Noir.S01.True-Hue.Full.Color.2160p.WEB-DL.x265.DVp5-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[NOOBDL]Spider-Noir.S01.True-Hue.Full.Color.2160p.WEB-DL.x265.DVp5-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[NOOBDL]Spider-Noir.S01.True-Hue.Full.Color.2160p.WEB-DL.x265.DVp5-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[XTORRENTY.ORG] SpiderNoir.2026.S01.MULTi.1080p.AMZN.WEB-DL.H.265.DD5.1-RX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[XTORRENTY.ORG] SpiderNoir.2026.S01.MULTi.1080p.AMZN.WEB-DL.H.265.DD5.1-RX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_1080p_CHb_versija-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_1080p_CHb_versija-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_1080p_Cvetnaja_versija-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_1080p_Cvetnaja_versija-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_1080p_Cvetnaja_versija-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_1080p_Cvetnaja_versija-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_4K_CHb_versija-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_4K_CHb_versija-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_4K_Cvetnaja_versija-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_4K_Cvetnaja_versija-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Pauk_Nuar_-_1_sezon_4K_Cvetnaja_versija-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider-Noir.S01.2026.color.WEB-DLRip.x264.seleZ-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.COLOR.VER.S01.WEB.DL.2160p.HDR-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.COLOR.VER.S01.WEB.DL.2160p.HDR-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.COLOR.VER.S01.WEB.DL.2160p.SDR-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.COLOR.VER.S01.WEB.DL.2160p.SDR-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.COLOR.VER.S01.WEB.DL.2160p.SDR-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.NOIR.VER.S01.WEB.DL.2160p.DV.HDR-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.NOIR.VER.S01.WEB.DL.2160p.DV.HDR-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.NOIR.VER.S01.WEB.DL.2160p.DV.HDR-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.NOIR.VER.S01.WEB.DL.2160p.DV.HDR-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.S01.BW-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.S01.BW-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.S01.BW-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.S01.color-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.S01.color-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.S01.color-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.S01.color-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[rutor.is]Spider.Noir.S01.color-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[暗影蜘蛛侠].Spider-Noir.2026.S01.Complete.2160p.AMZN.WEB-DL.HDR10+.H265.10bit.DDP5.1.Atmos-UBWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[暗影蜘蛛侠].Spider-Noir.2026.S01.Complete.2160p.AMZN.WEB-DL.HDR10+.H265.10bit.DDP5.1.Atmos-UBWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/[暗影蜘蛛侠].Spider-Noir.2026.S01.Complete.2160p.AMZN.WEB-DL.HDR10+.H265.10bit.DDP5.1.Atmos-UBWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/spider-noir.s01.BW.DMS.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/spider-noir.s01.COLOR.DMS.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/spider-noir.s01.COLOR.DMS.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/spider-noir.s01.COLOR.DMS.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilBlasters.garden - Spider Noir (2026) S01EP(01-08) [1080p HD AVC UNTOUCHED - x264 - [Tam + Mal + Tel + Kan + Hin + Eng] - DDP 5.1 (640Kbps) -  32GB - ESub]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilBlasters.garden - Spider Noir (2026) S01EP(01-08) [1080p HQ HDRip - x264 - [Tam + Mal + Tel + Kan + Hin + Eng] - DDP 5.1 (224Kbps) -  7GB - ESub]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilBlasters.garden - Spider Noir (2026) S01EP(01-08) [1080p HQ HDRip - x264 - [Tam + Mal + Tel + Kan + Hin + Eng] - DDP 5.1 (224Kbps) -  7GB - ESub]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilBlasters.garden - Spider Noir (2026) S01EP(01-08) [720p HQ HDRip - x264 - [Tam + Mal + Tel + Kan + Hin + Eng] - AAC -  3.9GB - ESub]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilBlasters.garden - Spider Noir (2026) S01EP(01-08) [720p HQ HDRip - x264 - [Tam + Mal + Tel + Kan + Hin + Eng] - AAC -  3.9GB - ESub]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilBlasters.garden - Spider Noir (2026) S01EP(01-08) [HQ HDRip - x264 - [Tam +  Tel +  Hin] - AAC -  1.2GB - ESub]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilMV.cards - Spider Noir (2026) S01 EP (01-08) TRUE WEB-DL - 1080p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - DD+5.1 - 8.5GB - ESub-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilMV.cards - Spider Noir (2026) S01 EP (01-08) TRUE WEB-DL - 1080p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - DD+5.1 - 8.5GB - ESub-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilMV.cards - Spider Noir (2026) S01 EP (01-08) TRUE WEB-DL - 1080p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - DD+5.1 - 8.5GB - ESub-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilMV.cards - Spider Noir (2026) S01 EP (01-08) TRUE WEB-DL - 480p - AVC - [Tam + Tel + Hin] - AAC - 1.4GB - ESub-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilMV.cards - Spider Noir (2026) S01 EP (01-08) TRUE WEB-DL - 480p - AVC - [Tam + Tel + Hin] - AAC - 1.4GB - ESub-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilMV.cards - Spider Noir (2026) S01 EP (01-08) TRUE WEB-DL - 480p - AVC - [Tam + Tel + Hin] - AAC - 1.4GB - ESub-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilMV.cards - Spider Noir (2026) S01 EP (01-08) TRUE WEB-DL - 720p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - AAC - 3GB - ESub-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.1TamilMV.cards - Spider Noir (2026) S01 EP (01-08) TRUE WEB-DL - 720p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - AAC - 3GB - ESub-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 720p x264-FENiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 720p x264-FENiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 720p x264-FENiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 720p x264-FENiX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 BW Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 BW Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 BW Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 BW Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 BW Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 BW Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E01 Step Into My Office True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 BW Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E02 Tread Lightly True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 BW Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 BW Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 BW Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 BW Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 BW Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E03 Double Cross True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 A Mistake Ill Never Make Again True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 BW A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 BW A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 BW A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 BW A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 BW A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 BW A Mistake Ill Never Make Again 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E04 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 BW Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal Authentic Black and White with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 Betrayal True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E05 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 BW Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E06 Nightmare on a Gurney True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 BW Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero Authentic Black and White 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E07 Nobodys Hero True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 1080p AMZN WEB-DL DDP5 1 Atmos H 264 DUAL-BiOMA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 BW The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 COLOR 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask Authentic Black and White 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 1080p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 2160p AMZN WEB-DL DDP5 1 Atmos H 265-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask BW 720p AMZN WEB-DL DDP5 1 Atmos H 264-playWEB-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask True-Hue Full Color 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask True-Hue Full Color 2160p AMZN WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask True-Hue Full Color REPACK 2160p AMZN WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir S01E08 The Man in the Mask True-Hue Full Color with Audio Description 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.720p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.720p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.720p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.720p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E01.Step.Into.My.Office.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.1080p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.1080p.WEB.H264-SYLiX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.720p.WEB.H264-SYLiX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.720p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.720p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.720p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E02.Tread.Lightly.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.1080p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.1080p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.1080p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.720p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.720p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.720p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.Double.Cross.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E03.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.1080p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.1080p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.1080p.WEB.H264-SYLiX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.720p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.A.Mistake.Ill.Never.Make.Again.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E04.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.1080p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.1080p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.Betrayal.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E05.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.1080p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.1080p.WEB.H264-SYLiX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.1080p.WEB.H264-SYLiX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.720p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.720p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.720p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.720p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.720p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E06.Nightmare.on.a.Gurney.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.1080p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.COLORIZED.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.720p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.720p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.720p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E07.Nobodys.Hero.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.1080p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.1080p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.1080p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.720p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.720p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.720p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.720p.WEB.H264-SYLiX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.720p.WEB.H264-SYLiX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.1080p.WEB.H264-SYLiX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.720p.WEB.H264-SYLiX-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.COLORIZED.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.The.Man.in.the.Mask.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/www.UIndex.org    -    Spider-Noir.S01E08.The.Man.in.the.Mask.Authentic.BW.720p.HEVC.x265-MeGusta-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Павук-Нуар (Колодій Трейлерів)-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Павук-Нуар (Колодій Трейлерів)-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Павук-Нуар (Колодій Трейлерів)-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Павук-Нуар (Колодій Трейлерів)-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_1080p_Цветная версия-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_1080p_Цветная версия-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_1080p_Цветная версия-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_1080p_Цветная версия-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_1080p_Цветная версия-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_1080p_Чб версия-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_1080p_Чб версия-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_1080p_Чб версия-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_4К_Цветная версия-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_4К_Цветная версия-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_4К_Цветная версия-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_4К_Чб версия-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук Нуар - 1 сезон_4К_Чб версия-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар (2026)-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар (2026)-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар (2026)-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар (2026)-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар (2026)-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Spider-Man Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, детектив, драм [rutracker-6863534]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863544]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863544]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863544]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863544]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863556]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863556]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863556]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, HEVC [rutracker-6863620]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, HEVC [rutracker-6863620]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-2 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, HEVC [rutracker-6863620]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863544]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863544]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863544]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863556]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863556]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863556]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863595]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863595]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863595]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863595]-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6863595]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6864834]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6864834]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир Harry Bradbeer) [2026, США, фантастика, фэнтези, боевик, три [rutracker-6864834]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, HDR1 [rutracker-6863620]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, HDR1 [rutracker-6863620]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, HDR1 [rutracker-6863620]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, WEB- [rutracker-6865279]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, WEB- [rutracker-6865279]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, WEB- [rutracker-6865279]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, WEB- [rutracker-6865279]-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, WEB- [rutracker-6865282]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, WEB- [rutracker-6865282]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фантастика, фэнтези, боевик, триллер, драма, WEB- [rutracker-6865282]-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фильм-нуар, фантастика, детектив, боевик, кримина [rutracker-6869731]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фильм-нуар, фантастика, детектив, боевик, кримина [rutracker-6869731]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фильм-нуар, фантастика, детектив, боевик, кримина [rutracker-6869731]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фильм-нуар, фантастика, детектив, боевик, кримина [rutracker-6869732]-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фильм-нуар, фантастика, детектив, боевик, кримина [rutracker-6869732]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир) [2026, США, фильм-нуар, фантастика, детектив, боевик, кримина [rutracker-6869732]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир, Алетеа Джонс, Зинга Стюарт) [2026, США, Фантастика, боевик, т [rutracker-6865773]-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/Паук-Нуар Spider-Noir Сезон 1 Серии 1-8 из 8 (Гарри Брэдбир, Алетеа Джонс, Зинга Стюарт) [2026, США, Фантастика, боевик, т [rutracker-6865773]-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[全8集][简繁英字幕].Spider-Noir.S01.1080p.AMZN.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[全8集][简繁英字幕].Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP.5.1.Atmos.H.265-BlackTV-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[全8集][简繁英字幕].Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP.5.1.Atmos.H.265-BlackTV-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[全8集][简繁英字幕].Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP.5.1.Atmos.H.265-BlackTV-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[全8集][简繁英字幕].Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[全8集][简繁英字幕].Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[全8集][简繁英字幕].Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[杜比视界版本][全8集][简繁英字幕].Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[杜比视界版本][全8集][简繁英字幕].Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[杜比视界版本][全8集][简繁英字幕].Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-49.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/【高清剧集网发布 www.BTHDTV.com】暗影蜘蛛侠[杜比视界版本][全8集][简繁英字幕].Spider-Noir.S01.2160p.AMZN.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-58.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/暗影蜘蛛侠.Spider-Noir.S01.2026.2160p.WEB-DL.DDP5.1.Atmos.H265.HDR.DV-Pure@HDSWEB-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/暗影蜘蛛侠.Spider-Noir.S01.2026.2160p.WEB-DL.DDP5.1.Atmos.H265.HDR.DV-Pure@HDSWEB-2026-08-12-at-03-45.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/暗影蜘蛛侠.Spider-Noir.S01.2026.2160p.WEB-DL.DDP5.1.Atmos.H265.HDR.DV-Pure@HDSWEB-2026-08-12-at-03-53.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/暗影蜘蛛侠.电影港 地址发布页 www.dygang.me 收藏不迷路-2026-08-12-at-03-37.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/暗影蜘蛛侠.电影港 地址发布页 www.dygang.me 收藏不迷路-2026-08-12-at-03-41.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/spider-noir-01.xz/2026-08-12-at-03-04.tar.xz/暗影蜘蛛侠.电影港 地址发布页 www.dygang.me 收藏不迷路-2026-08-12-at-03-45.json`
 
 ### Sample archive discontinuities
 
 - hourly gap: last `2026-08-12 03:04`, resumed `2026-08-13 06:04` — missing 26 hour(s)
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `f4bfe6c893514d8e34a65876fb1a9a94bb7339748d542767e49207d178ba8e7b`
+- Full-input producer receipt SHA-256: `1734f471404d53730b5aa944c03f7f5ab9851bf91c9e99459abda97a6e4afc01`
+- Frozen raw archives: 2981
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 30
+- Excluded observations: 333503
+
+## 3. Media objects file size histogram
 
 ![Spider-Noir collection size histogram](figures/spider-noir-01-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,31 +2787,24 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![spider-noir-01 downloads by day](figures/spider-noir-01-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/spider-noir-01-cumulative-aggregate.geojson.gz" data-map-title="Spider-Noir — spider-noir-01" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Spider-Noir (spider-noir-01) cumulative data map in new window" title="Opens interactive map for Spider-Noir (spider-noir-01) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.80 | 17.11 | 36.31 | 41.71 | 1.22 | 0.83 |
+| 1.92 | 17.65 | 36.04 | 42.34 | 1.22 | 0.83 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.98%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Spider-Noir cumulative map](figures/spider-noir-01-carto.png)](figures/spider-noir-01-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/spider-noir-01-data-ge-1080p.webp)](figures/spider-noir-01-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/spider-noir-01-data-lt-1080p.webp)](figures/spider-noir-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

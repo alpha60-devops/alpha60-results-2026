@@ -1,0 +1,27 @@
+{
+  "existing_original_closure_and_frozen_r9_core_unchanged": true,
+  "native_computation_repeated": false,
+  "no_gzip_recompression_or_json_change": true,
+  "original_bytes": 110366707,
+  "original_closed_results_revision": "032f142f2508c7802929c66404b16b9a93d7f4de",
+  "original_git_blob": "aad7a3720ff6c6c5bfec00f9641a7947819b5428",
+  "original_logical_path": "data/geojson.cumulative/spider-noir-01-cumulative-btiha.geojson.gz",
+  "original_sha256": "9d081d3e4aed0ad2351dd5483cdf100ed39ff7bafda30441e1adf3b57bacf152",
+  "original_source_preserved": "/home/bkoz/src/alpha60/build/campaign-repos/20261004-gold-incremental-r2/results/data/geojson.cumulative/spider-noir-01-cumulative-btiha.geojson.gz",
+  "parts": [
+    {
+      "bytes": 67108864,
+      "name": "spider-noir-01-cumulative-btiha.geojson.gz.part-00001",
+      "sha256": "8844971106ee6d48bc06a8e8b3759c7c1d26d094b35d269b3c49735a2c683f7e"
+    },
+    {
+      "bytes": 43257843,
+      "name": "spider-noir-01-cumulative-btiha.geojson.gz.part-00002",
+      "sha256": "15b925c111bf9319b77c7e1fda71d3d0bc35fb9da1e787919a04303b47bf5cb3"
+    }
+  ],
+  "prepared_at": "2026-10-07T19:15:08.773710+00:00",
+  "reassembly": "Concatenate parts in their listed order to reproduce the exact original gzip bytes.",
+  "requires_fresh_results_only_publication_closure": true,
+  "schema": "alpha60-lossless-gzip-parts/1"
+}
