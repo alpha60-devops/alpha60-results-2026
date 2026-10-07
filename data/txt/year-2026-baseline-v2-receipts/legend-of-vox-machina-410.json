@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt11247158",
     "imdb_id": "tt11247158",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q108881587",
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Legend_of_Vox_Machina"
   },
-  "coverage_sha256": "c9bf5eb3be0b119475194474c05ccb491357a36ff019c8585788c0f3bff9c9c9",
-  "generated_at": "2026-09-14T00:20:17.819681+00:00",
+  "coverage_sha256": "ce9ad026e12f3232d8fe91a7e75f0f0071a8e86a4bfcd030b2f89ecd66b5e0e3",
+  "generated_at": "2026-10-07T18:08:21.653620+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/legend-of-vox-machina-410.cache/cache.20260909.tar.xz",
-      "sha256": "b3bf789070a06dbdf397b9fba97f7b5f3d22807643e3fa9d274f483f07d9e24d",
-      "size": 455780652
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/legend-of-vox-machina-410.cache/cache.20260923.tar.xz",
+      "sha256": "3460bc96db8b527f8607059c796beb32ccce7cd5e6e224ee3c60f7505947195f",
+      "size": 624073008
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/legend-of-vox-machina-410.md",
-      "sha256": "80835c53b377530c47fe6ac92beac6c958c5ee03acaeb2562b0b4e1344ce72e3",
-      "size": 572
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/legend-of-vox-machina-410.md",
+      "sha256": "67892691f1cc2f4f1ee29783b01d408337d430599ae6125943f5858328048251",
+      "size": 918
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/legend-of-vox-machina-410.json",
-      "sha256": "6771f423de50e57dafb49b189c7b1ee1709008afce4fdc88e34b29a100b3e6a7",
-      "size": 2670
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/legend-of-vox-machina-410.json",
+      "sha256": "f88fde6276ebdecf94bf94880c9b6b18e3f035293ef36376bf4255ed82001f1c",
+      "size": 2856
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/legend-of-vox-machina-410.json",
-      "sha256": "645d26ae58dd94697848844ef9530d35e179f4c42281f05ac6832577d15dec9c",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/legend-of-vox-machina-410.json",
+      "sha256": "ea052601a04d26593e2123ac88142ca2658d5e82e18c1f3d624be9986b76da34",
       "size": 377
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
-      "size": 97281
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "legend-of-vox-machina-410",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "abe09e4767b58078f3c63b6014bdc59af9bdcfde0be4368e015aad12cfe185a3",
-        "before_sha256": "dfc1db41d7f4b452c8d4ffe020cc741712afc8b62dfb6373a653f4f1aa94c309",
-        "path": "docs/itemized/legend-of-vox-machina-410-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:58:50.251911+00:00",
-    "coverage_sha256": "c9bf5eb3be0b119475194474c05ccb491357a36ff019c8585788c0f3bff9c9c9",
-    "day_contract": {
-      "collection_key": "legend-of-vox-machina-410",
-      "day_products": 77,
-      "first_date": "2026-06-25",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-09",
-      "last_index": 77,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "02a3d0b846688d7e3fbdd78703431ad90dfb597909076470d78d2ff8bef72181",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/legend-of-vox-machina-410.md",
-        "sha256": "80835c53b377530c47fe6ac92beac6c958c5ee03acaeb2562b0b4e1344ce72e3",
-        "size": 572
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/legend-of-vox-machina-410.json",
-        "sha256": "6771f423de50e57dafb49b189c7b1ee1709008afce4fdc88e34b29a100b3e6a7",
-        "size": 2670
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/legend-of-vox-machina-410.json",
-        "sha256": "645d26ae58dd94697848844ef9530d35e179f4c42281f05ac6832577d15dec9c",
-        "size": 377
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 11,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/legend-of-vox-machina-410-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "07bc33009fc831460de08303e8b511605a981d9abab95b2b96f7f5de1e54ae80",
-    "docs/itemized/figures/legend-of-vox-machina-410-carto-4k.webp": "90fed118d10095c7ad2759eae9ab06d740968c5735566b11b05a88abe4102d9c",
-    "docs/itemized/figures/legend-of-vox-machina-410-carto.png": "35cfa5a8e0bafdb81fbe893e046ebc95ed16ddb564ecda308a71ad6ae22b4465",
+    "data/csv/bytes/legend-of-vox-machina-410-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "25e40b5bc118112e08c80373b9314d6eab61e2b9844cb4f8bc55619b33009617",
+    "docs/itemized/figures/legend-of-vox-machina-410-carto-4k.webp": "777bd827813cf03a2d123a8b2460273c4e129ec1ab6c92687a08fbba465f7266",
+    "docs/itemized/figures/legend-of-vox-machina-410-carto.png": "0a6e8c857725aae58c1e2140969a95ae9e1cc48f46440ccae04215c28bf948c2",
     "docs/itemized/figures/legend-of-vox-machina-410-cumulative-detail-btiha-itemized-by-bytes.svg": "afdddb6fe11a18ad451f12d739658b35ba3292b7ea7c156620780632c5617d5c",
-    "docs/itemized/figures/legend-of-vox-machina-410-data-ge-1080p-4k.webp": "ae7fb1854e9d6cdc13f00718d90c54c38a1eae2532b385eff2210c0093e7433c",
-    "docs/itemized/figures/legend-of-vox-machina-410-data-ge-1080p.webp": "f254014a6fa6ef977cd2428b19ed002597a679f67cf5607a1cb9603bc005d7b5",
-    "docs/itemized/figures/legend-of-vox-machina-410-data-lt-1080p-4k.webp": "164bf9a3cc1e35170bd7c896c436fc7b6273e80fab44ff598c1daea8f3dc6ce4",
-    "docs/itemized/figures/legend-of-vox-machina-410-data-lt-1080p.webp": "8e5446529716df950870f9e86946c4b80f6c1dd7a0be3334e0633f011bdf85f7",
-    "docs/itemized/figures/legend-of-vox-machina-410-downloads-by-day-day.svg": "a1754627c2cdd7f7268c6210f3d632f1924b90aed7976cc681360e7ce9d98a2b",
-    "docs/itemized/figures/legend-of-vox-machina-410-downloads-by-week-legend-of-vox-machina-410-week.svg": "0a34f08771ca1634b60e3fb33ff684d120b9c45fe5005d487de1e6d917eb5c71",
-    "docs/itemized/legend-of-vox-machina-410-sample-cache-audit.md": "abe09e4767b58078f3c63b6014bdc59af9bdcfde0be4368e015aad12cfe185a3",
+    "docs/itemized/figures/legend-of-vox-machina-410-data-ge-1080p-4k.webp": "3c72ccc85cce1ef72c7a12912d8de1c6888ee62b578d72c6ef1da402fa8b06da",
+    "docs/itemized/figures/legend-of-vox-machina-410-data-ge-1080p.webp": "6382aa87b166808e4fad309b3bc4593f7cd3b7966e9d7c28ba5b5f52122224c2",
+    "docs/itemized/figures/legend-of-vox-machina-410-data-lt-1080p-4k.webp": "98527f2e794007b7888d60e39075d06c5c10e31ef128d8721eaf35c9c31c6ed4",
+    "docs/itemized/figures/legend-of-vox-machina-410-data-lt-1080p.webp": "8e4bd222a41e4ca920c4b64091edf9f46c5858c3bd0c23f1151b72024df0d9db",
+    "docs/itemized/figures/legend-of-vox-machina-410-downloads-by-day-day.svg": "d0728ecb14210f84f74b93919b4a1848e26c07a6a434f60900438244e31b29c5",
+    "docs/itemized/figures/legend-of-vox-machina-410-downloads-by-week-legend-of-vox-machina-410-week.svg": "96e24581df3eb2a11efc414d19b80bc668253a8deae56b377f5f0bf1f9ffa1fb",
+    "docs/itemized/legend-of-vox-machina-410-sample-cache-audit.md": "5d0d1de9ed9ef4a2d7c2ebbcb215af7b841e2b488eaca39c62a01b48050a6b08",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/legend-of-vox-machina-410/tmp/legend-of-vox-machina-410-cumulative-btiha.geojson",
-        "sha256": "9c9a5610c1012d77de117d6b142c3ba4b36de361962ec9b381fec43e320fe015",
-        "size": 167287142
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/legend-of-vox-machina-410/tmp/legend-of-vox-machina-410-cumulative-btiha.geojson",
+        "sha256": "6b0ebf075771631f2036ef2fb43314df756b7472f05b4eb36108f7201d63d6bf",
+        "size": 184286375
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/legend-of-vox-machina-410/tmp/legend-of-vox-machina-410-cumulative-btiha-media-objects.json",
-        "sha256": "f834d0575eb466a17a208e344cbd70220dc4405f8bbc70ec880046f8f8281545",
-        "size": 623004
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/legend-of-vox-machina-410/tmp/legend-of-vox-machina-410-cumulative-btiha-media-objects.json",
+        "sha256": "a8bd41fac7bddd5673f23e3b3889fdc59a53734477619e3f1fe78a46365b281e",
+        "size": 623033
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "legend-of-vox-machina-410",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,13 +99,13 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          57.0,
-          37.0,
-          37.0,
-          32.0,
+          56.0,
+          41.0,
+          36.0,
+          30.0,
+          30.0,
           30.0,
           29.0,
-          28.0,
           26.0,
           26.0
         ],
@@ -175,12 +118,12 @@
           "Nanjing",
           "Istanbul",
           "Amsterdam",
-          "Lelystad",
           "Shanghai",
-          "Hangzhou",
+          "Lelystad",
           "London",
+          "Hangzhou",
           "Moscow",
-          "Incheon"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -189,13 +132,13 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          66.0,
-          37.0,
-          36.0,
-          32.0,
+          63.0,
+          41.0,
+          35.0,
+          31.0,
           30.0,
           29.0,
-          26.0,
+          27.0,
           26.0,
           26.0
         ],
@@ -213,7 +156,7 @@
           "Hangzhou",
           "London",
           "Moscow",
-          "Incheon"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,8 +166,8 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 26,
-        "y_tick_labels": 22
+        "x_tick_labels": 23,
+        "y_tick_labels": 20
       },
       "histogram": {
         "bars": 36,
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 11,
+        "x_tick_labels": 13,
         "y_tick_labels": 20
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",

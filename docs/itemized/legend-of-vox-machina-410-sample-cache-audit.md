@@ -15,22 +15,22 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `legend-of-vox-machina-410` |
 | imdb_id | [tt11247158](https://www.imdb.com/title/tt11247158/) |
 | wikipedia_url | [The Legend of Vox Machina](https://en.wikipedia.org/wiki/The_Legend_of_Vox_Machina) |
-| Sample dates | 2026-06-25-to-2026-09-09 |
-| Sample days | 77 |
+| Sample dates | 2026-06-25-to-2026-09-23 |
+| Sample days | 91 |
 | BTIH count | 249 |
 | Unique BTIH count | 247 |
-| Downloaders total | 11,707,207 |
-| Uploaders total | 266,114 |
+| Downloaders total | 13,186,911 |
+| Uploaders total | 284,130 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:06Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/legend-of-vox-machina-410.xz`
-- Hour directories: 1846
+- Generated: 2026-10-07T11:57:08Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/legend-of-vox-machina-410`
+- Hour directories: 2182
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
@@ -38,11 +38,22 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `9cf26cc82589b252f9144889673a8cb0f38f362f731ab061e72f6c5e7cba0880`
+- Full-input producer receipt SHA-256: `ebe2acaf169381d19d6e17329419a4e362e04987f2cf2da1a25219246f545592`
+- Frozen raw archives: 2182
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 0
+- Excluded observations: 0
+
+## 3. Media objects file size histogram
 
 ![The Legend of Vox Machina collection size histogram](figures/legend-of-vox-machina-410-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,31 +76,24 @@ None detected.
 
 ![legend-of-vox-machina-410 downloads by day](figures/legend-of-vox-machina-410-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/legend-of-vox-machina-410-cumulative-aggregate.geojson.gz" data-map-title="The Legend of Vox Machina — legend-of-vox-machina-410" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Legend of Vox Machina (legend-of-vox-machina-410) cumulative data map in new window" title="Opens interactive map for The Legend of Vox Machina (legend-of-vox-machina-410) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.35 | 17.15 | 35.12 | 42.55 | 1.14 | 0.85 |
+| 1.43 | 17.78 | 35.14 | 43.67 | 1.13 | 0.85 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.16%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![The Legend of Vox Machina cumulative map](figures/legend-of-vox-machina-410-carto.png)](figures/legend-of-vox-machina-410-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/legend-of-vox-machina-410-data-ge-1080p.webp)](figures/legend-of-vox-machina-410-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/legend-of-vox-machina-410-data-lt-1080p.webp)](figures/legend-of-vox-machina-410-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
