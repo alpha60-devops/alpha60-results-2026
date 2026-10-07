@@ -15,22 +15,22 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `euphoria-301` |
 | imdb_id | [tt8772296](https://www.imdb.com/title/tt8772296/) |
 | wikipedia_url | [Euphoria (American TV series)](https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)) |
-| Sample dates | 2026-04-13-to-2026-09-06 |
-| Sample days | 147 |
+| Sample dates | 2026-04-13-to-2026-09-28 |
+| Sample days | 169 |
 | BTIH count | 410 |
 | Unique BTIH count | 398 |
-| Downloaders total | 57,364,174 |
-| Uploaders total | 3,751,931 |
+| Downloaders total | 61,172,208 |
+| Uploaders total | 3,525,109 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:05Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/euphoria-301.xz`
-- Hour directories: 3521
+- Generated: 2026-10-07T14:25:16Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/euphoria-301.xz`
+- Hour directories: 4049
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
@@ -38,11 +38,22 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `29e872ee7bf8b1dfcfffce2a9e81f1952cb6df930b11df6a862c3214785f13e5`
+- Full-input producer receipt SHA-256: `8490c77745e558c2bd3414be6eae80b7a8ca7ad6b5c8eb736fd883501f9ddc3d`
+- Frozen raw archives: 4049
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 12
+- Excluded observations: 60415
+
+## 3. Media objects file size histogram
 
 ![Euphoria collection size histogram](figures/euphoria-301-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,31 +76,24 @@ None detected.
 
 ![euphoria-301 downloads by day](figures/euphoria-301-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/euphoria-301-cumulative-aggregate.geojson.gz" data-map-title="Euphoria — euphoria-301" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Euphoria (euphoria-301) cumulative data map in new window" title="Opens interactive map for Euphoria (euphoria-301) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.84 | 16.67 | 34.74 | 43.35 | 1.38 | 0.78 |
+| 1.84 | 17.14 | 34.83 | 44.05 | 1.34 | 0.80 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.76%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Euphoria cumulative map](figures/euphoria-301-carto.png)](figures/euphoria-301-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/euphoria-301-data-ge-1080p.webp)](figures/euphoria-301-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/euphoria-301-data-lt-1080p.webp)](figures/euphoria-301-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
