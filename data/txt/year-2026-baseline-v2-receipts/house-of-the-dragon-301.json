@@ -37,6 +37,63 @@
     }
   },
   "media_object": "house-of-the-dragon-301",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "5ecddb304915711408fc49e398a790cbe60458ad1c0890e8677897272d58ae9f",
+        "before_sha256": "aed960e7a0bba94dec0de308f8f4a28f9499ea4048b3f942f3bd7e4e3705557e",
+        "path": "docs/itemized/house-of-the-dragon-301-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-07T18:15:33.648157+00:00",
+    "coverage_sha256": "56e82e14e3a7f44733bbf07eaff9075f381412e48576d5267e45d8a6d80ffe2f",
+    "day_contract": {
+      "collection_key": "house-of-the-dragon-301",
+      "day_products": 82,
+      "first_date": "2026-06-22",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-09-14",
+      "last_index": 85,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "779b1c7ee5ba29b5cf859aab9c7f9b0f04912484",
+    "historical_receipt_sha256": "ba177da06b14c9b194ad445746737c8b17eec5aa2f4c6695c0750ffa3a308576",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/house-of-the-dragon-301.md",
+        "sha256": "56f6b215c29072b8de6186e4c2745822635c6c0cecf97914a189ffaebe43277f",
+        "size": 1253
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/house-of-the-dragon-301.json",
+        "sha256": "74f5e315cf745f5a03399b03a02634cb5cbbcb2a1871afec251f50af6e272b74",
+        "size": 2812
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/house-of-the-dragon-301.json",
+        "sha256": "11f89b12dd1a5f4fb2c34365e11f0f4dfebc885988d03592024e408799f119ec",
+        "size": 374
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "905be0454c98aabdf93be02d3c4c7016296befe8",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 13,
+      "y_tick_labels": 22
+    }
+  },
   "published_files": {
     "data/csv/bytes/house-of-the-dragon-301-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "f9da44beeb68a9c57ec010a5bc5e941fc93e78e31dda0baf8bcfb6959be8a270",
     "docs/itemized/figures/house-of-the-dragon-301-carto-4k.webp": "37849f167aa4d48a31049d42d0e69537d485d00e405df71b15327e921d14f02d",
@@ -48,7 +105,7 @@
     "docs/itemized/figures/house-of-the-dragon-301-data-lt-1080p.webp": "99c4489275fb57ff8c70b041a6cc521a7c93ed579b41f52b42b1b8a6f22980e0",
     "docs/itemized/figures/house-of-the-dragon-301-downloads-by-day-day.svg": "b414407a552e33d42a809f6e209a96a940781f12fd554c00f62d6561297affe6",
     "docs/itemized/figures/house-of-the-dragon-301-downloads-by-week-house-of-the-dragon-301-week.svg": "a9588dda505cb321f449a08545b20f0e409994dd2cb46091476dad1f1864967d",
-    "docs/itemized/house-of-the-dragon-301-sample-cache-audit.md": "aed960e7a0bba94dec0de308f8f4a28f9499ea4048b3f942f3bd7e4e3705557e",
+    "docs/itemized/house-of-the-dragon-301-sample-cache-audit.md": "5ecddb304915711408fc49e398a790cbe60458ad1c0890e8677897272d58ae9f",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

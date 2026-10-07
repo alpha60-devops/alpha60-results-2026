@@ -37,6 +37,63 @@
     }
   },
   "media_object": "president-curtis-01",
+  "publication_revalidation": {
+    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
+    "cache_products_unchanged": true,
+    "changes": [
+      {
+        "after_sha256": "ef3b777456f371971118de096381dc6b19fe3400f2588c2a7dc97153a36d5c26",
+        "before_sha256": "1dd44e51c1f2155a744b3fadf6527b975fb98f6ce39f0295f5b1d69ad924e836",
+        "path": "docs/itemized/president-curtis-01-sample-cache-audit.md"
+      }
+    ],
+    "checked_at": "2026-10-07T18:15:38.970488+00:00",
+    "coverage_sha256": "0c8ed7031c67d67c0088e9d712f247656ada756bb69b1b3e64cc3f0ffab748ae",
+    "day_contract": {
+      "collection_key": "president-curtis-01",
+      "day_products": 65,
+      "first_date": "2026-07-28",
+      "first_index": 1,
+      "geojson_data_version": "20260701",
+      "ip_geolocation_version": "6:1777968300",
+      "json_data_version": "2026-08-05",
+      "last_date": "2026-10-01",
+      "last_index": 66,
+      "schema": "alpha60-day-product-contract/1",
+      "sparse": true,
+      "status": "pass"
+    },
+    "historical_receipt_revision": "9f87be186d447a059c15e4d19df3e57184ba94da",
+    "historical_receipt_sha256": "9b8a952164b7decef970a2baf2efffc4ad77cb002ac4463a39e62276a917a26b",
+    "human_review_claimed": false,
+    "immutable_publication_evidence": {
+      "coverage-evidence": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/president-curtis-01.md",
+        "sha256": "f5ace8e3a6f1de44f9f641514a5df6220ad29a5ba0b92e0ebff17a4e0428ad1a",
+        "size": 41251
+      },
+      "day-cache-stream-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/president-curtis-01.json",
+        "sha256": "61ed07c0895fd3471fa8b6fe4a9c4f3935d0c754f0a0192540bf6e3052b23c6c",
+        "size": 1154
+      },
+      "day-product-receipt": {
+        "path": "/home/bkoz/src/alpha60/build/campaign-repos/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/president-curtis-01.json",
+        "sha256": "9e0fb3e10b3e271d509d1732aeaf32524b5c800edbb5de12e7a3c24718fea043",
+        "size": 370
+      }
+    },
+    "schema": "alpha60-year-publication-revalidation/1",
+    "source_results_revision": "905be0454c98aabdf93be02d3c4c7016296befe8",
+    "status": "pass",
+    "week_graph": {
+      "polylines": 2,
+      "role": "week-graph",
+      "status": "passed",
+      "x_tick_labels": 10,
+      "y_tick_labels": 20
+    }
+  },
   "published_files": {
     "data/csv/bytes/president-curtis-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "abd039c52132a4fc0970aa1ba62f8c42910d3dbebd3b6df1cf5867eb9910baa2",
     "docs/itemized/figures/president-curtis-01-carto-4k.webp": "cf097658826f501ee040e4d3c1c74bdd8f430ec85bfd0e06ac7233d92466f4f8",
@@ -48,7 +105,7 @@
     "docs/itemized/figures/president-curtis-01-data-lt-1080p.webp": "24372428e22bde12b27ac6488ee5ed269aacca89b9fe3bc1c4a754e21608394b",
     "docs/itemized/figures/president-curtis-01-downloads-by-day-day.svg": "ee53dee47fa08034a4cf19f86f76486a922a3172729f9a0ab5ed8e1db5b11b19",
     "docs/itemized/figures/president-curtis-01-downloads-by-week-president-curtis-01-week.svg": "268a013a9aff8926b755d08b01abde57f086cf5ecbc6664a0d5b2de2d765f964",
-    "docs/itemized/president-curtis-01-sample-cache-audit.md": "1dd44e51c1f2155a744b3fadf6527b975fb98f6ce39f0295f5b1d69ad924e836",
+    "docs/itemized/president-curtis-01-sample-cache-audit.md": "ef3b777456f371971118de096381dc6b19fe3400f2588c2a7dc97153a36d5c26",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
