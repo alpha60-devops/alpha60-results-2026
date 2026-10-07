@@ -1,20 +1,256 @@
 # Cache coverage report — president-curtis-01
 
-- Generated: 2026-09-13T17:13:09Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz`
-- Hour directories: 547
-- Zero-length sample files: 0
-- Other unparsable sample files: 0
-- Hourly discontinuities: 1 (29 missing hours)
+- Generated: 2026-10-07T11:57:09Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01`
+- Hour directories: 1546
+- Zero-length sample files: 224
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Hourly discontinuities: 2 (38 missing hours)
 - Missing days: 1
+
+Zero-length records are missing sampler observations. Their
+cause was not established by this run. Each gap remains explicit.
+
+## Zero-length sample files
+
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis - S01E01 - Pilot - 2160p HDR Ai Upscale -Mesc-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis - S01E01 - Pilot - 2160p HDR Ai Upscale -Mesc-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis - S01E01 - Pilot - 2160p HDR Ai Upscale -Mesc-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis - S01E02 - Triangle - 2160p HDR Ai Upscale -Mesc-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 1080p AMZN WEB-DL DUAL DDP5 1 H 264-TURG [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 1080p AMZN WEB-DL DUAL DDP5 1 H 264-TURG [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 1080p WEB-DL HEVC x265-RMTeam [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 1080p WEB-DL HEVC x265-RMTeam [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 1080p x265-ELiTE [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 720p WEB H264-JFF [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 720p x264-FENiX [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 720p x264-FENiX [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 720p x264-FENiX [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 720p x264-FENiX [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 MULTI 1080p WEB H264-HiggsBoson [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 MULTI 1080p WEB H264-HiggsBoson [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 1080p AMZN WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 1080p AMZN WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 1080p AMZN WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 1080p AMZN WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 1080p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 1080p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 720p AMZN WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 720p AMZN WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 720p AMZN WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 720p AMZN WEB-DL DD 5 1 H 264-playWEB[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 720p WEB-DL HEVC x265-RMTeam [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E01 Pilot 720p WEB-DL HEVC x265-RMTeam [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p AMZN WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p AMZN WEB-DL DUAL DDP5 1 H 264-TURG [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p AMZN WEB-DL DUAL DDP5 1 H 264-TURG [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p AMZN WEB-DL DUAL DDP5 1 H 264-TURG [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p WEB HEVC x265-RMTeam [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p WEB HEVC x265-RMTeam [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p x265-ELiTE [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p x265-ELiTE [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 1080p x265-ELiTE [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 720p AMZN WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 720p WEB H264-JFF [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 720p WEB H264-JFF [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 720p WEB H264-JFF[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 720p WEB H264-JFF[EZTVx.to].mkv-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 720p x264-FENiX [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 720p x264-FENiX [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 Triangle 1080p AMZN WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 Triangle 1080p AMZN WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 Triangle 1080p AMZN WEB-DL DD 5 1 H 264-playWEB [IPT]-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 Triangle 1080p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 Triangle 1080p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 Triangle 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E02 Triangle REPACK 1080p AMZN WEB-DL DDP5 1 H 264-FLUX [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E03 720p x264-FENiX[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E03 720p x264-FENiX[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President Curtis S01E03 720p x264-FENiX[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-AtotIK-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.ColdFilm.mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.ColdFilm.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.ColdFilm.mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.WEB.h264-EDITH [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.x265-ELiTE-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.1080p.x265-ELiTE-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.400p.ColdFilm.avi-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.400p.ColdFilm.avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.400p.ColdFilm.avi-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.480p.x264-mSD [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.480p.x264-mSD [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.720p.x264-FENiX-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.720p.x264-FENiX-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.720p.x264-FENiX-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.NORDiC.1080p.HMAX.WEB-DL.H.265-NORViNE-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.NORDiC.1080p.HMAX.WEB-DL.H.265-NORViNE-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.1080p.HMAX.WEB-DL.ENG.ITA.DDP5.1.H265-TheBlackKing.mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.1080p.HMAX.WEB-DL.ENG.ITA.DDP5.1.H265-TheBlackKing.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.480p.x264-mSD [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.480p.x264-mSD [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.480p.x264-mSD [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.480p.x264-mSD [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.XviD-AFG [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.Pilot.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.XviD-AFG [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E01.XviD-AFG [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-TRB-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-TRB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.AV1.10bit-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.ColdFilm.mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.ColdFilm.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.ColdFilm.mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.WEB.h264-EDITH [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.WEB.h264-EDITH [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.WEB.h264-EDITH [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.WEB.h264-EDITH [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.WEB.h264-EDITH[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.WEB.h264.mp4-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.WEB.h264.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.WEB.h264.mp4-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.1080p.x265-ELiTE-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.400p.ColdFilm.avi-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.400p.ColdFilm.avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.400p.ColdFilm.avi-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.400p.ColdFilm.avi-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.720p.x264-FENiX-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.720p.x264-FENiX-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.720p.x264-FENiX-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-TRB-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.1080p.HMAX.WEB-DL.ENG.ITA.DDP5.1.H265-TheBlackKing.mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.1080p.HMAX.WEB-DL.ENG.ITA.DDP5.1.H265-TheBlackKing.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.1080p.HMAX.WEB-DL.ENG.ITA.DDP5.1.H265-TheBlackKing.mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.480p.x264-mSD [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.480p.x264-mSD [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.1080p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.480p.x264-mSD [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.480p.x264-mSD [IPT]-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.720p.HEVC.x265-MeGusta [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.AAC.MP4-Mobile [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.XviD-AFG [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.REPACK.XviD-AFG [IPT]-2026-08-14-at-18-43.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.Triangle.XviD-AFG [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.XviD-AFG [IPT]-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E02.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.1080p.WEB.h264-EDITH[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.480p.x264-mSD[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01E03.XviD-AFG[EZTVx.to].avi-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.S01e01.Vff.Web.H264-Frqc.mp4-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.s01.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.s01.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.s01.HD720p.WEBRip.Rus.RuDub.tv-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/President.Curtis.s01.HD720p.WEBRip.Rus.RuDub.tv-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/president.curtis.s01.HDR.2.0.web-dlrip.xvid.ac3.-hqh-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/president.curtis.s01.HDR.2.0.web-dlrip.xvid.ac3.-hqh-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/president.curtis.s01.HDR.2.0.web-dlrip.xvid.ac3.-hqh-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 1080p AMZN WEB-DL DDP5 1 H 264-NTb-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 MULTI 1080p WEB H264-HiggsBoson-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 MULTI 1080p WEB H264-HiggsBoson-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 Pilot 1080p AMZN WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 Pilot 1080p AMZN WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 Pilot 1080p AMZN WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 Pilot 1080p AMZN WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 Pilot 1080p AMZN WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 Pilot 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 Pilot 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E01 Pilot 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E02 Triangle 1080p AMZN WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-31.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E02 Triangle 720p AMZN WEB-DL DD 5 1 H 264-playWEB-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E02 Triangle REPACK 1080p AMZN WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E02 Triangle REPACK 1080p AMZN WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President Curtis S01E02 Triangle REPACK 1080p AMZN WEB-DL DDP5 1 H 264-FLUX-2026-08-14-at-18-35.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President.Curtis.S01E02.1080p.WEB.h264-EDITH-2026-08-14-at-18-23.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President.Curtis.S01E02.1080p.WEB.h264-EDITH-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/www.UIndex.org    -    President.Curtis.S01E02.1080p.WEB.h264-EDITH-2026-08-14-at-18-39.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/柯蒂斯总统.President.Curtis.S01E01.1080p.CHS&ENG.www.xingfan.cc.mp4-2026-08-14-at-18-27.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-08-14-at-18-03.tar.xz/柯蒂斯总统.President.Curtis.S01E01.6v电影 地址发布页 www.6v123.net 收藏不迷路-2026-08-14-at-18-23.json`
 
 ## Sample archive discontinuities
 
 - hourly gap: last `2026-08-14 18:03`, resumed `2026-08-16 00:03` — missing 29 hour(s)
+- hourly gap: last `2026-08-30 23:03`, resumed `2026-08-31 09:03` — missing 9 hour(s)
 - missing day: `2026-08-15`
 
-## Review
 
-Confirm the sampler state and disk capacity on the sampling
-hosts for every zero-length file and discontinuity above
-before treating the aggregate outputs as complete.
+## Frozen validation evidence
+
+- Frozen content SHA-256: `a32d308c3737b048606b6571a91fe585ce1c744a12ae0a9c64f2fc96527bc967`
+- Full-input producer receipt SHA-256: `3f06edb07ef32caf5c26fcda172df9817c87973d5f69463dcc8d902e8afc5c50`
+- Frozen raw archives: 1546
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 0
+- Excluded observations: 0
