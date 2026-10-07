@@ -15,22 +15,22 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `sugar-201` |
 | imdb_id | [tt16418808](https://www.imdb.com/title/tt16418808/) |
 | wikipedia_url | [Sugar (2024 TV series)](https://en.wikipedia.org/wiki/Sugar_(2024_TV_series)) |
-| Sample dates | 2026-06-19-to-2026-09-10 |
-| Sample days | 84 |
+| Sample dates | 2026-06-19-to-2026-10-01 |
+| Sample days | 105 |
 | BTIH count | 220 |
 | Unique BTIH count | 217 |
-| Downloaders total | 15,259,081 |
-| Uploaders total | 520,577 |
+| Downloaders total | 18,040,002 |
+| Uploaders total | 540,407 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:10Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/sugar-201.xz`
-- Hour directories: 1997
+- Generated: 2026-10-07T11:57:09Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/sugar-201.xz`
+- Hour directories: 2501
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
@@ -38,11 +38,22 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `428bc44411b371da130963280b47faea0228780049b9a3c52c972647a2b1a677`
+- Full-input producer receipt SHA-256: `6c614faca21b821fe2558af8d9044ad3070c4d8a46a21224998d568681927d50`
+- Frozen raw archives: 2501
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 0
+- Excluded observations: 0
+
+## 3. Media objects file size histogram
 
 ![Sugar collection size histogram](figures/sugar-201-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,31 +76,24 @@ None detected.
 
 ![sugar-201 downloads by day](figures/sugar-201-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/sugar-201-cumulative-aggregate.geojson.gz" data-map-title="Sugar — sugar-201" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Sugar (sugar-201) cumulative data map in new window" title="Opens interactive map for Sugar (sugar-201) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.35 | 16.98 | 35.05 | 43.01 | 1.20 | 0.85 |
+| 1.45 | 17.66 | 34.88 | 43.97 | 1.18 | 0.87 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.44%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Sugar cumulative map](figures/sugar-201-carto.png)](figures/sugar-201-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/sugar-201-data-ge-1080p.webp)](figures/sugar-201-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/sugar-201-data-lt-1080p.webp)](figures/sugar-201-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
