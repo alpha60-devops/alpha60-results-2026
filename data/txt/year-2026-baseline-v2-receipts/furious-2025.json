@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt33311069",
     "imdb_id": "tt33311069",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q125948183",
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Furious"
   },
-  "coverage_sha256": "c56a32d07bac609a9f6fc30cad4f3411b50b21583d0e07ce15d11306ea52ec51",
-  "generated_at": "2026-09-13T23:34:04.128095+00:00",
+  "coverage_sha256": "a50fdee070bcf122350cf08d73f5bbdd9581150acf2babfe1d67741af77ed5fb",
+  "generated_at": "2026-10-07T18:06:57.259980+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/furious-2025.cache/cache.20260831.tar.xz",
-      "sha256": "0b7def8a451cab33e731201ac90f2a72dadf4298e743be6b6bc14ce7547b35ad",
-      "size": 598684316
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/furious-2025.cache/cache.20260928.tar.xz",
+      "sha256": "56acea7fa9cf068536eed1eb3f0f28b9089296ce0cf30488bbb605867a322305",
+      "size": 988885628
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/furious-2025.md",
-      "sha256": "9b77533a064b6a322f5c1ecf659a61a8a456316df7538b8f38f1210870e9a877",
-      "size": 707
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/furious-2025.md",
+      "sha256": "470fb65b06b5f2a8695296cfd8a0f5b2e5b71ee099676d03e330fcb8050b251e",
+      "size": 1145
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/furious-2025.json",
-      "sha256": "ffdcf7d442dba34fb17e32f110f4218bc0de0ec4b490e9596fa63139465595df",
-      "size": 2446
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/furious-2025.json",
+      "sha256": "e292eae451585bf29f038286adca35f7c0258ece9b791ae92715d8d7cf0fe423",
+      "size": 2745
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/furious-2025.json",
-      "sha256": "0823d618c89b4e32c20cf6f39c27304d183734d51d4b42aeb8c5bc321c3bbdcf",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/furious-2025.json",
+      "sha256": "8df9adb609d8b210d0d4f3dcb20370cb134bcb805e66eec8afbda4c13dcd2e8b",
       "size": 364
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
-      "size": 94076
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "furious-2025",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "674ce27bea7836f0b1491cba3c3ca17de4e9a3063d34b10c7c558e4b8602d77f",
-        "before_sha256": "c4d36676453a210a0bada76b49acf1ff0e5e50629f1c01affe9afb6ec59b5cd4",
-        "path": "docs/itemized/furious-2025-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:57:40.928836+00:00",
-    "coverage_sha256": "c56a32d07bac609a9f6fc30cad4f3411b50b21583d0e07ce15d11306ea52ec51",
-    "day_contract": {
-      "collection_key": "furious-2025",
-      "day_products": 56,
-      "first_date": "2026-07-07",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-08-31",
-      "last_index": 56,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "d6d1b59bddd4510034003ed90248e3f0c2d722e4ed94ddc79faa5dbfee2b4d1e",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/furious-2025.md",
-        "sha256": "9b77533a064b6a322f5c1ecf659a61a8a456316df7538b8f38f1210870e9a877",
-        "size": 707
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/furious-2025.json",
-        "sha256": "ffdcf7d442dba34fb17e32f110f4218bc0de0ec4b490e9596fa63139465595df",
-        "size": 2446
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/furious-2025.json",
-        "sha256": "0823d618c89b4e32c20cf6f39c27304d183734d51d4b42aeb8c5bc321c3bbdcf",
-        "size": 364
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 8,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/furious-2025-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "ce0c290617e9e8fcd85296e2e0aae4c0f26bf2dce1c2070988d10a886b43500c",
-    "docs/itemized/figures/furious-2025-carto-4k.webp": "eed9a1a072369ddf38552e401a8bb08252d95680dc4a0fea9a5e41e4b858be84",
-    "docs/itemized/figures/furious-2025-carto.png": "4d459343e07574dafc976949094931fae29ed4bca6d04b671d445cba0347e2fe",
+    "data/csv/bytes/furious-2025-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "5904e2a0a823a342a6e213b359bb05b38ccccab41628cd5e27861375ac1066a7",
+    "docs/itemized/figures/furious-2025-carto-4k.webp": "febd2c56dab5d9ccbbe61e36af65cf6dc8275d13e5fcd044ed8ebe0bae281133",
+    "docs/itemized/figures/furious-2025-carto.png": "5b5a07d8910523b61e50a43bf89b015379950a91ca33a2a26386219d3313165b",
     "docs/itemized/figures/furious-2025-cumulative-detail-btiha-itemized-by-bytes.svg": "96095a3fbc37e9dc976544cbde630d77e7542ba74fe81c1d0ad78b001eefba19",
-    "docs/itemized/figures/furious-2025-data-ge-1080p-4k.webp": "3909fc21a34cb3fd2365acf778030530f1a0e50ec04905ac571f8860d58ef00e",
-    "docs/itemized/figures/furious-2025-data-ge-1080p.webp": "aa81ba9d235b3f1ff2ab0f370f2654c4aecf61b5cc5d01e9d11355737cab399d",
-    "docs/itemized/figures/furious-2025-data-lt-1080p-4k.webp": "53f67790118d229b8977d3a7e891f2a8f4fc6a70d63d700b463e020b75a7ff88",
-    "docs/itemized/figures/furious-2025-data-lt-1080p.webp": "995e00ecf37e9c9b21b4ea6e95946948b2b00dcd07d58dc986baa84f835d2a7c",
-    "docs/itemized/figures/furious-2025-downloads-by-day-day.svg": "5b37ee5009636e5ab2b72989cecaa6d077d2ff0e0240f86f10c628c8f6ce9dbf",
-    "docs/itemized/figures/furious-2025-downloads-by-week-furious-2025-week.svg": "46ceb011cf457788a06f33b1aca9ec299f8baed2b791d7415e99cf5c4e10866b",
-    "docs/itemized/furious-2025-sample-cache-audit.md": "674ce27bea7836f0b1491cba3c3ca17de4e9a3063d34b10c7c558e4b8602d77f",
+    "docs/itemized/figures/furious-2025-data-ge-1080p-4k.webp": "1a7530afc357a2acc41b92b72b94df7785a2514f4500dd00cea7357d2cf3b705",
+    "docs/itemized/figures/furious-2025-data-ge-1080p.webp": "eda31ee3ffa25e07396e0bb6c9e14907680d3eb8f2d06e039b234f15fbfcef98",
+    "docs/itemized/figures/furious-2025-data-lt-1080p-4k.webp": "aa72a9f5385870cd60eb5e3e4ff65697f614a659e81cdc5a6aca4e5477a9a11c",
+    "docs/itemized/figures/furious-2025-data-lt-1080p.webp": "a93fb06e37babb07dae7213f3dec388abb0898a10ad0ed90dd391e342e5b13c7",
+    "docs/itemized/figures/furious-2025-downloads-by-day-day.svg": "7b78559720740b7ff2554bb7a9bf0751ab491a9a5deaf105d308d860c9428430",
+    "docs/itemized/figures/furious-2025-downloads-by-week-furious-2025-week.svg": "b4382438205c25aacb9b9492f8bdcfd60c4fd24fd285dc34892041062625cd5e",
+    "docs/itemized/furious-2025-sample-cache-audit.md": "a7d9d2f63933dafe23bc17f7b8bb5a052266f8c80b2de9855558f7805d00eb98",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
-      "dirty": true,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/furious-2025/tmp/furious-2025-cumulative-btiha.geojson",
-        "sha256": "0489c06785c9d005e8834f35598fc2d4e274986eade41e4aa0780783806cec8f",
-        "size": 113717656
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/furious-2025/tmp/furious-2025-cumulative-btiha.geojson",
+        "sha256": "b5837e73de49004caaba028a6e76d6b99886e476a5b28c8872e7f65197745e44",
+        "size": 142617923
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/furious-2025/tmp/furious-2025-cumulative-btiha-media-objects.json",
-        "sha256": "01a6ab932e9494a28eef775a75c0ee7f48263ff2a0de00109c717ef77f6c4467",
-        "size": 214545
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/furious-2025/tmp/furious-2025-cumulative-btiha-media-objects.json",
+        "sha256": "bf934d7c1a19004ff324bba554f1c9a2e1d66c5c738a70eaf86845397667c23d",
+        "size": 214583
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "furious-2025",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -173,14 +116,14 @@
         "labels": [
           "Nanjing",
           "Seoul",
-          "Amsterdam",
-          "Shanghai",
-          "Lelystad",
           "Istanbul",
+          "Shanghai",
           "London",
+          "Amsterdam",
+          "Lelystad",
           "Hangzhou",
           "Moscow",
-          "Chennai"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -189,11 +132,11 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          65.0,
-          58.0,
-          43.0,
+          54.0,
+          38.0,
           29.0,
-          27.0,
+          26.0,
+          26.0,
           26.0,
           26.0,
           26.0,
@@ -209,10 +152,10 @@
           "Hyderabad",
           "Bengaluru",
           "Amsterdam",
-          "Lelystad",
           "Istanbul",
+          "London",
+          "Lelystad",
           "Moscow",
-          "Hangzhou",
           "Shanghai"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
@@ -223,8 +166,8 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 28,
-        "y_tick_labels": 22
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
       },
       "histogram": {
         "bars": 33,
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 8,
+        "x_tick_labels": 12,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
