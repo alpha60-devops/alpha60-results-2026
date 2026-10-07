@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt36594331",
     "imdb_id": "tt36594331",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q134533491",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_Maul_%E2%80%93_Shadow_Lord"
   },
-  "coverage_sha256": "cfb012046ab1f43fa09e675fe380ea8cf0bcfa7e1b4a37edba36e1bf553c4950",
-  "generated_at": "2026-09-14T01:05:08.914102+00:00",
+  "coverage_sha256": "44f2ab6dca0306c2cc847840483326bfd679d7ecbbc8e8974e183a1218ee6d34",
+  "generated_at": "2026-10-07T18:09:27.114163+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/maul-shadow-lord-101.cache/cache.20260907.tar.xz",
-      "sha256": "bac0f03c3ecc3a03bd0d7952f8959b33da49c1f5ba2607ee40e2d353a3c5c7e9",
-      "size": 1804439948
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/maul-shadow-lord-101.cache/cache.20260928.tar.xz",
+      "sha256": "15a443c4727f95a1cb9f8c60d9212e1f27625346214efc49184b8db08486ed31",
+      "size": 2354271432
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/maul-shadow-lord-101.md",
-      "sha256": "c11f89646dec8b6609c86187ecc50fc4a17c0964974af2da9736c8ecbd480673",
-      "size": 562
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/maul-shadow-lord-101.md",
+      "sha256": "ba2439f5268366745e77e8ece7352e7bb8431b2a0e4584696cf838bfb929d4f7",
+      "size": 911
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/maul-shadow-lord-101.json",
-      "sha256": "9880335ce61fea173e560f8fbbe035c6fb5bdd9aa3c5acec0d3c224e77927ea0",
-      "size": 3335
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/maul-shadow-lord-101.json",
+      "sha256": "a204ca91c736b59967598b6038edfffd335487fa35d7114e46a0b234deebdec9",
+      "size": 3609
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/maul-shadow-lord-101.json",
-      "sha256": "c528a117b6f84d71d437ecd274080ffb1ea570c8679adc684f08d3f905b655ea",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/maul-shadow-lord-101.json",
+      "sha256": "44a3f8cb64c6bb751d201f1ff3b577ab158b0b6a7d46808abf9df8026d07f545",
       "size": 374
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
-      "size": 97281
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "maul-shadow-lord-101",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "9a494655d5577bc81ec14811db9a9963404193e920776ee677bcc99e9ce75125",
-        "before_sha256": "13cfa2921224da3ef03d0b71fe1d76b077bb451e0502bc26ee971ad06985638f",
-        "path": "docs/itemized/maul-shadow-lord-101-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:59:15.069420+00:00",
-    "coverage_sha256": "cfb012046ab1f43fa09e675fe380ea8cf0bcfa7e1b4a37edba36e1bf553c4950",
-    "day_contract": {
-      "collection_key": "maul-shadow-lord-101",
-      "day_products": 155,
-      "first_date": "2026-04-06",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-07",
-      "last_index": 155,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "d6d0bacb1b52f6697d3bad90fd27449136b34fc985e5d2a8c62b79bbb5a5cfe7",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/maul-shadow-lord-101.md",
-        "sha256": "c11f89646dec8b6609c86187ecc50fc4a17c0964974af2da9736c8ecbd480673",
-        "size": 562
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/maul-shadow-lord-101.json",
-        "sha256": "9880335ce61fea173e560f8fbbe035c6fb5bdd9aa3c5acec0d3c224e77927ea0",
-        "size": 3335
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/maul-shadow-lord-101.json",
-        "sha256": "c528a117b6f84d71d437ecd274080ffb1ea570c8679adc684f08d3f905b655ea",
-        "size": 374
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 23,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/maul-shadow-lord-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "f4afdd2137a09230f014f61d1b5f8a3ea58d926fae088c67c10d783108524231",
-    "docs/itemized/figures/maul-shadow-lord-101-carto-4k.webp": "9f2929e1ce07c55557fcb54235c7a2b79957d4ca25c438fe92778d70124feca3",
-    "docs/itemized/figures/maul-shadow-lord-101-carto.png": "be23a16cd4b2b34c535175a6b16de1268328089f583d54abab31e4ed4054396e",
+    "data/csv/bytes/maul-shadow-lord-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "13302ec0cc0c97ee20124c956f3360a3c7182960368a31022ff87fc35c65e4f7",
+    "docs/itemized/figures/maul-shadow-lord-101-carto-4k.webp": "f47d9a3c66904756c1615cd71c74692995adac00c7a38609b7b2786513a401a7",
+    "docs/itemized/figures/maul-shadow-lord-101-carto.png": "01e214b04af4348fb4340c88e3f165be63911984f2aa8c16e2f3e39b942bf2dd",
     "docs/itemized/figures/maul-shadow-lord-101-cumulative-detail-btiha-itemized-by-bytes.svg": "c1ab01af2c8c868489a223981fc53ace48030ddcc05c32b99e89d1e8c0f483fa",
-    "docs/itemized/figures/maul-shadow-lord-101-data-ge-1080p-4k.webp": "98870257b776277d46f046d6a2ea694a5e116d87dd42e88a4ce7bfa3ce8bdf34",
-    "docs/itemized/figures/maul-shadow-lord-101-data-ge-1080p.webp": "c18d1611ee80a04571f5cbae0a4b15d7eb8f5f660e8f198e8e65c8b3c2b78972",
-    "docs/itemized/figures/maul-shadow-lord-101-data-lt-1080p-4k.webp": "cbc208fcf0d6172149547635d7bc6805f7f1a94629bc2733b6c149762561ab97",
-    "docs/itemized/figures/maul-shadow-lord-101-data-lt-1080p.webp": "2de8a261403c3c086c85a6cc609d3d4fca2cabd711e97baa2b73310090098927",
-    "docs/itemized/figures/maul-shadow-lord-101-downloads-by-day-day.svg": "bf4b333902a51721cd6eaecf40ffa93522435bb8c69be892e28a8f439afcceff",
-    "docs/itemized/figures/maul-shadow-lord-101-downloads-by-week-maul-shadow-lord-101-week.svg": "3f89684137bd6b332e69ec401f36ebf401a776e495d2175f33a3f8face1a1975",
-    "docs/itemized/maul-shadow-lord-101-sample-cache-audit.md": "9a494655d5577bc81ec14811db9a9963404193e920776ee677bcc99e9ce75125",
+    "docs/itemized/figures/maul-shadow-lord-101-data-ge-1080p-4k.webp": "9887d02ed34d113023a1cc598e99b04d79f3d4312b208b8cf146266f81b7e20e",
+    "docs/itemized/figures/maul-shadow-lord-101-data-ge-1080p.webp": "a1c693effdc51f0378c3aad2a47b16e9e2052e79769b8a97c5eadffa753e1d43",
+    "docs/itemized/figures/maul-shadow-lord-101-data-lt-1080p-4k.webp": "fe65d19ae18406b9d212e48b290d5727fc7e24b8d902f52bb9d7dd78e0e6e4ed",
+    "docs/itemized/figures/maul-shadow-lord-101-data-lt-1080p.webp": "beed73156022e8f3e82168bfa96938696f86a658caf91bba2d6b12f83af89801",
+    "docs/itemized/figures/maul-shadow-lord-101-downloads-by-day-day.svg": "15d4fdbc821ab7f3448a1601ace0c2e260c805409b1bc95e7b058066500c5de3",
+    "docs/itemized/figures/maul-shadow-lord-101-downloads-by-week-maul-shadow-lord-101-week.svg": "c96676444971b737da6bddbade1180b862883939ac2e4aae6cccf1d1113e876e",
+    "docs/itemized/maul-shadow-lord-101-sample-cache-audit.md": "05d80c19ca3f070c6ec24cb8c76e7344b9f6d9d56cfcbc88f00e0e0de4e95300",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/maul-shadow-lord-101/tmp/maul-shadow-lord-101-cumulative-btiha.geojson",
-        "sha256": "0554ce7162be93146006c4a0f9f99ce915079309194234936c26d2a97d98485c",
-        "size": 453212851
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/scratch-storage/mounted/results-native-work-r9-v11/maul-shadow-lord-101/tmp/maul-shadow-lord-101-cumulative-btiha.geojson",
+        "sha256": "a8f62de2c12ae8a1bdeeedb49d3cd29a69b29cc8ccbba93416ea603115da4948",
+        "size": 484377858
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/maul-shadow-lord-101/tmp/maul-shadow-lord-101-cumulative-btiha-media-objects.json",
-        "sha256": "d0288da270f260255259f0a4dc89ad3c1c6d2d42b619a6b110a6f20ad70a7860",
-        "size": 639852
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/scratch-storage/mounted/results-native-work-r9-v11/maul-shadow-lord-101/tmp/maul-shadow-lord-101-cumulative-btiha-media-objects.json",
+        "sha256": "6bff66bcf13a2014abce15a68c4958e41c13d08522b4235aac93125adeb74b16",
+        "size": 639865
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "maul-shadow-lord-101",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,12 +99,12 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          42.0,
-          36.0,
-          32.0,
+          45.0,
+          37.0,
+          33.0,
+          30.0,
           29.0,
-          27.0,
-          27.0,
+          28.0,
           26.0,
           26.0,
           26.0
@@ -176,8 +119,8 @@
           "Nanjing",
           "Moscow",
           "Shanghai",
-          "Amsterdam",
           "London",
+          "Amsterdam",
           "Hangzhou",
           "Incheon",
           "Saint Petersburg"
@@ -189,11 +132,11 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          44.0,
-          35.0,
+          47.0,
+          36.0,
           34.0,
-          30.0,
-          26.0,
+          31.0,
+          27.0,
           26.0,
           26.0,
           26.0,
@@ -209,11 +152,11 @@
           "Nanjing",
           "Moscow",
           "Shanghai",
+          "London",
           "Amsterdam",
           "Hangzhou",
-          "London",
-          "Incheon",
-          "Saint Petersburg"
+          "Saint Petersburg",
+          "Incheon"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,7 +166,7 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 23,
+        "x_tick_labels": 22,
         "y_tick_labels": 20
       },
       "histogram": {
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 23,
+        "x_tick_labels": 26,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
