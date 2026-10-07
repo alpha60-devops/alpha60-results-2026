@@ -15,39 +15,50 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `house-of-the-dragon-301` |
 | imdb_id | [tt11198330](https://www.imdb.com/title/tt11198330/) |
 | wikipedia_url | [House of the Dragon](https://en.wikipedia.org/wiki/House_of_the_Dragon) |
-| Sample dates | 2026-06-22-to-2026-09-06 |
-| Sample days | 77 |
+| Sample dates | 2026-06-22-to-2026-09-14 |
+| Sample days | 85 |
 | BTIH count | 448 |
 | Unique BTIH count | 432 |
-| Downloaders total | 35,919,849 |
-| Uploaders total | 4,295,345 |
+| Downloaders total | 36,748,290 |
+| Uploaders total | 4,020,850 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:06Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/house-of-the-dragon-301.xz`
-- Hour directories: 1762
+- Generated: 2026-10-07T14:25:16Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/house-of-the-dragon-301`
+- Hour directories: 1954
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 3 (83 missing hours)
 - Missing days: 3
 
 ### Sample archive discontinuities
 
 - hourly gap: last `2026-07-03 22:05`, resumed `2026-07-05 01:05` — missing 26 hour(s)
-- hourly gap: last `2026-07-06 02:05`, resumed `2026-07-06 04:05` — missing 1 hour(s)
+- hourly gap: last `2026-07-19 13:05`, resumed `2026-07-19 15:05` — missing 1 hour(s)
 - hourly gap: last `2026-08-12 15:05`, resumed `2026-08-15 00:05` — missing 56 hour(s)
 - missing day: `2026-07-04`
 - missing day: `2026-08-13`
 - missing day: `2026-08-14`
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `e188cbaa23b12e0b9b584b8834ee705b9f6ff5e29838616bc48a31892efd9907`
+- Full-input producer receipt SHA-256: `fba2feeb07641fc97a8041279932fe6e32d840bd65ac8df012e2ddaada4977f3`
+- Frozen raw archives: 1954
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 7
+- Excluded observations: 6234
+
+## 3. Media objects file size histogram
 
 ![House of the Dragon collection size histogram](figures/house-of-the-dragon-301-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -70,31 +81,24 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![house-of-the-dragon-301 downloads by day](figures/house-of-the-dragon-301-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/house-of-the-dragon-301-cumulative-aggregate.geojson.gz" data-map-title="House of the Dragon — house-of-the-dragon-301" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open House of the Dragon (house-of-the-dragon-301) cumulative data map in new window" title="Opens interactive map for House of the Dragon (house-of-the-dragon-301) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 3.51 | 17.33 | 34.63 | 40.40 | 1.70 | 0.73 |
+| 3.51 | 17.69 | 35.15 | 41.21 | 1.66 | 0.76 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.30%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![House of the Dragon cumulative map](figures/house-of-the-dragon-301-carto.png)](figures/house-of-the-dragon-301-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/house-of-the-dragon-301-data-ge-1080p.webp)](figures/house-of-the-dragon-301-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/house-of-the-dragon-301-data-lt-1080p.webp)](figures/house-of-the-dragon-301-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
