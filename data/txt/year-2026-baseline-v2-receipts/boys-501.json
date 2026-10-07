@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt1190634",
     "imdb_id": "tt1190634",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q48796994",
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
   },
-  "coverage_sha256": "ac74c6e4811e56c3a38324efc0bf97d8363366dee0744cea6a08db9bbfec6ac2",
-  "generated_at": "2026-09-13T22:02:24.578182+00:00",
+  "coverage_sha256": "410ef0720246edd85d90f4471cbf10a3e1ae05415315979149a32d1923234a67",
+  "generated_at": "2026-10-07T18:05:11.413758+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/boys-501.cache/cache.20260908.tar.xz",
-      "sha256": "d3b6d94886d86f96a16207aab9ef77a73fa18e669236c92397361837b2c0d3ce",
-      "size": 4285853072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/boys-501.cache/cache.20260929.tar.xz",
+      "sha256": "9453ac07b757f30b939b5398bcb25a9ae0d947e43fc0fd6340bb9cae3369645d",
+      "size": 4548150768
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/boys-501.md",
-      "sha256": "3df071b8ce04daf488981d17ba084695d3bd1db6b8b41b700ec468fc99af2638",
-      "size": 611
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/boys-501.md",
+      "sha256": "1c98acf7c1d8527d917c701599141eeae5b53c9117bb8b3bce312fe01e12cf6d",
+      "size": 964
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/boys-501.json",
-      "sha256": "6736cc93597bd00f10fdd4e0d8c8d31ff4f2384b4dbdcfbb430d78b8c7aedc5e",
-      "size": 3278
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/boys-501.json",
+      "sha256": "84b8a9e7187f2cf871fbc65cc0605e326710a8858c72c45ef53dd09552f6af1b",
+      "size": 3536
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/boys-501.json",
-      "sha256": "77dce6ac5f09ceb173571ce3ed7f2d884777c769db4e109c306903133dd99ad4",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/boys-501.json",
+      "sha256": "45b8e43079bfb54498bdda08e1adbeabb2965e0e80d7377cb657f10061443dd5",
       "size": 362
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
-      "size": 94076
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "boys-501",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "6215305f7c728fa375b95478c820d0ddbd03b50c189599bc5e4efec1e7d2b6b0",
-        "before_sha256": "37874d00a5bb89607a146f083a7f5ab7b479cba0a611d808f7ab7a06416f37f6",
-        "path": "docs/itemized/boys-501-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:56:30.493796+00:00",
-    "coverage_sha256": "ac74c6e4811e56c3a38324efc0bf97d8363366dee0744cea6a08db9bbfec6ac2",
-    "day_contract": {
-      "collection_key": "boys-501",
-      "day_products": 154,
-      "first_date": "2026-04-08",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-08",
-      "last_index": 154,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "f2a33b5ae0e7b174119a9c21aba742a599acd36431e5ca0b72fc34b29403a29b",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/boys-501.md",
-        "sha256": "3df071b8ce04daf488981d17ba084695d3bd1db6b8b41b700ec468fc99af2638",
-        "size": 611
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/boys-501.json",
-        "sha256": "6736cc93597bd00f10fdd4e0d8c8d31ff4f2384b4dbdcfbb430d78b8c7aedc5e",
-        "size": 3278
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/boys-501.json",
-        "sha256": "77dce6ac5f09ceb173571ce3ed7f2d884777c769db4e109c306903133dd99ad4",
-        "size": 362
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 22,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/boys-501-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "545833f9fd17e0463d6628aeac9a9804df141b692af2e0bec96633bd73512ee8",
-    "docs/itemized/boys-501-sample-cache-audit.md": "6215305f7c728fa375b95478c820d0ddbd03b50c189599bc5e4efec1e7d2b6b0",
-    "docs/itemized/figures/boys-501-carto-4k.webp": "d56a9d2dcb1e847406d665f593dd183dacf730245ab8a890417961e576adb196",
-    "docs/itemized/figures/boys-501-carto.png": "4d46bcbf8a30a7eb278a09805b0b75db0c3d4ed54c8ef35c86164e036b9de62f",
+    "data/csv/bytes/boys-501-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "57832f3eed5f852921c675b1f6b15a9e603b01a63d2e062b2ec41d8204578e9a",
+    "docs/itemized/boys-501-sample-cache-audit.md": "d84b684a8702930fa00a932cd40af5bd58e38fad56bd71d8ec7d8ff98e7ca136",
+    "docs/itemized/figures/boys-501-carto-4k.webp": "cb8b624a5a28a6791ef5e8c25ba406f081aa772eeb4fa0aed0d152c915a71745",
+    "docs/itemized/figures/boys-501-carto.png": "6dd20ece9993700199712d118ffb2f7de88fe37d9e74ac9de91bbab9ec836a11",
     "docs/itemized/figures/boys-501-cumulative-detail-btiha-itemized-by-bytes.svg": "99be4e100c5c4052803f963142a3cd183d76efd852792a9b74e196023bd03501",
-    "docs/itemized/figures/boys-501-data-ge-1080p-4k.webp": "6963e1ed7834ba25e748153fcc973a5e574e630c55f60644ff69b0ca356cc78b",
-    "docs/itemized/figures/boys-501-data-ge-1080p.webp": "83c2b39ecf6413b9e67380a82fc3eb289438e9e0afc0f9822346e4af256653fa",
-    "docs/itemized/figures/boys-501-data-lt-1080p-4k.webp": "ce0294d62ec93d16034ec7771978efc3b5216f2420dc20a2237886f8541a0b5b",
-    "docs/itemized/figures/boys-501-data-lt-1080p.webp": "d5a6fa13b855c48484216a403b0cfff579a3966b164ef08037cb059766b71f43",
-    "docs/itemized/figures/boys-501-downloads-by-day-day.svg": "bbae6c9327dccf57d09778e40b41617f091c8d5afc02eea29fa1d5813a840977",
-    "docs/itemized/figures/boys-501-downloads-by-week-boys-501-week.svg": "49af82d310a47bab171f179095bddb66450540912bf4aea350d72dae38bf96db",
+    "docs/itemized/figures/boys-501-data-ge-1080p-4k.webp": "594d3dceb790dde81501b871a6438846bcb0e50f1f920294b20bea5990047bb6",
+    "docs/itemized/figures/boys-501-data-ge-1080p.webp": "84b71ecc8b2fc6920897e1f2b052e0a0d8200cb0e6c5ddc425acacb580ef280f",
+    "docs/itemized/figures/boys-501-data-lt-1080p-4k.webp": "7b9d6089cda07d3d76873b8903452b88997a41bb2ada8a51c03074a35e0e7650",
+    "docs/itemized/figures/boys-501-data-lt-1080p.webp": "aaf822b9f2399781a5371ecc091c872fd594fa259d847e9c06caa8dd3e4f8b20",
+    "docs/itemized/figures/boys-501-downloads-by-day-day.svg": "3c713cdaf76d2feb1bf31564af800b6c1d2dbc212352a6633a09867e17de72b7",
+    "docs/itemized/figures/boys-501-downloads-by-week-boys-501-week.svg": "0892fda172129770a3eca060aa7f7293bcdd0c497627ecbcf2841f1027676687",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
-      "dirty": true,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/boys-501/tmp/boys-501-cumulative-btiha.geojson",
-        "sha256": "56eac21620b5434a9a22505cd3a7c738b745ae35be4da812e5baaf18085b569c",
-        "size": 628029337
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/boys-501/tmp/boys-501-cumulative-btiha.geojson",
+        "sha256": "b3d558beab10b9dc34ace801c55838b111bb06e689208a7284fd30908ff261e4",
+        "size": 662853565
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/boys-501/tmp/boys-501-cumulative-btiha-media-objects.json",
-        "sha256": "f1d61029f1584508db69290a6ec145f8aee8e94e130285bfcfe19a28bce40e58",
-        "size": 651095
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/boys-501/tmp/boys-501-cumulative-btiha-media-objects.json",
+        "sha256": "972497498a52cfa250512fcb4c9ea25ceb973400a9c35d32766d694aa27f6e79",
+        "size": 651092
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "boys-501",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,12 +99,12 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          89.0,
-          44.0,
-          33.0,
-          33.0,
+          86.0,
+          45.0,
           32.0,
-          31.0,
+          32.0,
+          32.0,
+          30.0,
           26.0,
           26.0,
           26.0
@@ -171,16 +114,16 @@
         ],
         "label_count": 10,
         "labels": [
-          "Seoul",
           "Nanjing",
+          "Seoul",
           "Istanbul",
           "London",
-          "Moscow",
           "Shanghai",
+          "Moscow",
           "Amsterdam",
           "Hangzhou",
-          "Incheon",
-          "Saint Petersburg"
+          "Budapest",
+          "Incheon"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -189,9 +132,9 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
+          45.0,
           43.0,
-          40.0,
-          33.0,
+          32.0,
           30.0,
           29.0,
           28.0,
@@ -209,11 +152,11 @@
           "Nanjing",
           "Moscow",
           "Shanghai",
-          "Amsterdam",
           "London",
+          "Amsterdam",
           "Hangzhou",
           "Incheon",
-          "Saint Petersburg"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 22,
+        "x_tick_labels": 25,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
