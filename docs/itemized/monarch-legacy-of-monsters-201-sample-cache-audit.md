@@ -15,22 +15,22 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `monarch-legacy-of-monsters-201` |
 | imdb_id | [tt17220216](https://www.imdb.com/title/tt17220216/) |
 | wikipedia_url | [Monarch: Legacy of Monsters](https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters) |
-| Sample dates | 2026-02-27-to-2026-09-10 |
-| Sample days | 196 |
+| Sample dates | 2026-02-27-to-2026-10-01 |
+| Sample days | 217 |
 | BTIH count | 380 |
 | Unique BTIH count | 358 |
-| Downloaders total | 62,908,962 |
-| Uploaders total | 2,759,897 |
+| Downloaders total | 67,623,444 |
+| Uploaders total | 2,830,300 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:07Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-201.xz`
-- Hour directories: 4668
+- Generated: 2026-10-07T13:31:29Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-201.xz`
+- Hour directories: 5172
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 3 (28 missing hours)
 - Missing days: 1
 
@@ -41,11 +41,22 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2026-07-03 22:02`, resumed `2026-07-05 01:02` — missing 26 hour(s)
 - missing day: `2026-07-04`
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `efd2ea757f9bd31476041f1d4020f9e2085130525b184b574cc8917adf7ed275`
+- Full-input producer receipt SHA-256: `58594d7137ac1e335dce14ac323e309a395968f34d30787f21a989920e6fd0d0`
+- Frozen raw archives: 5172
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 6
+- Excluded observations: 21514
+
+## 3. Media objects file size histogram
 
 ![Monarch: Legacy of Monsters collection size histogram](figures/monarch-legacy-of-monsters-201-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -68,31 +79,24 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![monarch-legacy-of-monsters-201 downloads by day](figures/monarch-legacy-of-monsters-201-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/monarch-legacy-of-monsters-201-cumulative-aggregate.geojson.gz" data-map-title="Monarch: Legacy of Monsters — monarch-legacy-of-monsters-201" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Monarch: Legacy of Monsters (monarch-legacy-of-monsters-201) cumulative data map in new window" title="Opens interactive map for Monarch: Legacy of Monsters (monarch-legacy-of-monsters-201) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.57 | 16.59 | 35.10 | 43.72 | 1.19 | 0.80 |
+| 1.64 | 17.09 | 35.10 | 44.16 | 1.21 | 0.81 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.97%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Monarch: Legacy of Monsters cumulative map](figures/monarch-legacy-of-monsters-201-carto.png)](figures/monarch-legacy-of-monsters-201-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/monarch-legacy-of-monsters-201-data-ge-1080p.webp)](figures/monarch-legacy-of-monsters-201-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/monarch-legacy-of-monsters-201-data-lt-1080p.webp)](figures/monarch-legacy-of-monsters-201-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
