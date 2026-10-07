@@ -2,151 +2,94 @@
   "canonical_metadata": {
     "external_imdb": "tt9288030",
     "imdb_id": "tt9288030",
-    "revision": "6656be3d8315f03fadc210e4c02ee453f4692396",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q109901438",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Reacher_(TV_series)"
   },
-  "coverage_sha256": "ca62ec4d7a5a9e84a2981704a31f5db51f602d96b642da1951d2c2f44f18fe8d",
-  "generated_at": "2026-10-04T06:47:21.993658+00:00",
+  "coverage_sha256": "ebe68e7d66eda22f8a72f259106d6e3daa9f28e66be8df7f4825711ec9676dad",
+  "generated_at": "2026-10-07T18:13:42.134450+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/archives/reacher-401.cache/cache.20260917.tar.xz",
-      "sha256": "41935079834d9a52132995c6ebd2d8b916da6e2f7a59a9eeaf67382156d4a173",
-      "size": 272573632
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/reacher-401.cache/cache.20261001.tar.xz",
+      "sha256": "621fb71e20014d2f1a01012d0802605b193baee1d1e5aeb5dd0327e58d373e7c",
+      "size": 364687916
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/reacher-401.md",
-      "sha256": "2d590345626f65aa5206a56a911b50f60f8ec59e8e58d77138d17b05e0d6d0fa",
-      "size": 964
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/reacher-401.md",
+      "sha256": "e1879eeb69776dd2a3e8bc02da7bf9222a429839e055c6b7e275b0156657bbc5",
+      "size": 966
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/reacher-401.json",
-      "sha256": "ae0d5cb1da0408374b384fa084a8cd80c315f5b0ac43ad9620a323305e188adc",
-      "size": 2318
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/reacher-401.json",
+      "sha256": "b13137dd963ca4c55e6080008fbe38b245350faed1e19b8bfbf823504ba4265c",
+      "size": 2461
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/reacher-401.json",
-      "sha256": "654178d5d296028c5d6fd9a08ec4ef3286db2244728338d203e79960a03b3f7d",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/reacher-401.json",
+      "sha256": "cdef9eb8da20c9b926578482eae1cdf937bcd96bf70f4c412efd451c92a2ce19",
       "size": 363
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/inputs/worker-map.json",
-      "sha256": "4e7bee1a946a83d7091a8d7d4ec3bf79044dc0a8e25dfc7478a1f26639cf5404",
-      "size": 240593
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "reacher-401",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "f5fd820dffdd4a16c595054f2de7e4df344be67743ef848d3e8935a25eead74f",
-        "before_sha256": "9ca2c58c40ee90cbd7add0f13971579b9b4d9241356b6ffb8047ee8ecb295889",
-        "path": "docs/itemized/reacher-401-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T07:00:56.820187+00:00",
-    "coverage_sha256": "ca62ec4d7a5a9e84a2981704a31f5db51f602d96b642da1951d2c2f44f18fe8d",
-    "day_contract": {
-      "collection_key": "reacher-401",
-      "day_products": 35,
-      "first_date": "2026-08-14",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-17",
-      "last_index": 35,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "6a065070fa94d9cd3bca853ab846414611fe3e22",
-    "historical_receipt_sha256": "58bb73592ff0d122d0f24e7908f2b902a699bbe5822d895944d71e69aec04b64",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/reacher-401.md",
-        "sha256": "2d590345626f65aa5206a56a911b50f60f8ec59e8e58d77138d17b05e0d6d0fa",
-        "size": 964
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/reacher-401.json",
-        "sha256": "ae0d5cb1da0408374b384fa084a8cd80c315f5b0ac43ad9620a323305e188adc",
-        "size": 2318
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/reacher-401.json",
-        "sha256": "654178d5d296028c5d6fd9a08ec4ef3286db2244728338d203e79960a03b3f7d",
-        "size": 363
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 5,
-      "y_tick_labels": 22
-    }
-  },
   "published_files": {
-    "data/csv/bytes/reacher-401-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "2c884b90f9f033592ae6292a7a9eda9d7c96787664a1ddf2b2711916f219170d",
-    "docs/itemized/figures/reacher-401-carto-4k.webp": "5e3c84d3b066002e755ae97904128c97d79593ff35fa5c39e4ee3f609d7f9c82",
-    "docs/itemized/figures/reacher-401-carto.png": "cf2e02c8cefc71fb8c6e1cf3fa379361590e1ce1095e1a92e0a6d1094a210cee",
+    "data/csv/bytes/reacher-401-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "8d421a9b01653564fa8c335e41acf5d27b0c0e032e2bfc2fbb9adbb555b9ef7b",
+    "docs/itemized/figures/reacher-401-carto-4k.webp": "7930ce52d4233fb37dff7c926088b3e2582a88906e50111a14deedd952687c8f",
+    "docs/itemized/figures/reacher-401-carto.png": "98ee314b551251f512503cf24df81ffb4a08987abd3ed5275c02435ab71f9f04",
     "docs/itemized/figures/reacher-401-cumulative-detail-btiha-itemized-by-bytes.svg": "07c1551c916a462ac232ab8e3e14d1a05d33a3919d5f70653427597bb9f83626",
-    "docs/itemized/figures/reacher-401-data-ge-1080p-4k.webp": "d67937637286f2210b958b688399565c10db96f37a6cc7af7b9f248b1140fa1e",
-    "docs/itemized/figures/reacher-401-data-ge-1080p.webp": "72822af87afac9ab8f274dc0f7e0086e43364d7c067174fab2486f582297ff38",
-    "docs/itemized/figures/reacher-401-data-lt-1080p-4k.webp": "336935dcc54256ac26311136983c5616976167b3f06bd0b4645b36c76a2ed5d3",
-    "docs/itemized/figures/reacher-401-data-lt-1080p.webp": "8a0336e2051e327551ed0f2a724e3cb36c7d27e1956a80dbb7ae0532644a2264",
-    "docs/itemized/figures/reacher-401-downloads-by-day-day.svg": "678e4835b2c5d84930b3f59ba26c798d6545df07f19ca92cb72ab709e1e47063",
-    "docs/itemized/figures/reacher-401-downloads-by-week-reacher-401-week.svg": "8d08f5a31c36841d37c50862837c9ffa0ea47ce1ccdd4f0c509b3d4b78b3ca8b",
-    "docs/itemized/reacher-401-sample-cache-audit.md": "f5fd820dffdd4a16c595054f2de7e4df344be67743ef848d3e8935a25eead74f",
+    "docs/itemized/figures/reacher-401-data-ge-1080p-4k.webp": "c9c0104814d68f9c7d9b75a03e3cd8ee15f1ad0e150038ea329174fd5af476f9",
+    "docs/itemized/figures/reacher-401-data-ge-1080p.webp": "f2cd6eecb3f29ae21ee03c55988da530023729c1173ed06cc406764bdee67b9b",
+    "docs/itemized/figures/reacher-401-data-lt-1080p-4k.webp": "fe7a4580ff6c2f39eca1127a23a67f0b5317cc6ec3bb88cdee970cf8b5e41487",
+    "docs/itemized/figures/reacher-401-data-lt-1080p.webp": "4fe90bacc43b0ab2c885630df37929fa3b4edeb80c2662ffa9a05ca165768d8f",
+    "docs/itemized/figures/reacher-401-downloads-by-day-day.svg": "97615204a65fb1c88e3a1e3973f6e2461806018177fef523ada81df125faf7c1",
+    "docs/itemized/figures/reacher-401-downloads-by-week-reacher-401-week.svg": "59ee3a89abc72a61762bde06d6c0f67491fc12b787a338a41108adfd32128662",
+    "docs/itemized/reacher-401-sample-cache-audit.md": "0aaa6f88d042a8a76637ad908326dcb7881343b3027198d35740e34663850be3",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-code",
-      "revision": "ec8be71a1ed3b70772040d6c254762788206313a",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-carto-geo.exe",
-      "sha256": "854e258846a4a2d678c62ad00fba4c91dceed1c1fc54a5ceba2ce9efd2edb1c7",
-      "size": 45250536
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/reacher-401/tmp/reacher-401-cumulative-btiha.geojson",
-        "sha256": "601b4eb7d83c55b25ef27666bc44d3f65d9cb98ca692aa693d8665ca01af37d3",
-        "size": 57288947
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/reacher-401/tmp/reacher-401-cumulative-btiha.geojson",
+        "sha256": "7a0cc42721caaa01cd98d0b12f922943ccf69204007621b6f6500083add617dd",
+        "size": 72466463
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/reacher-401/tmp/reacher-401-cumulative-btiha-media-objects.json",
-        "sha256": "0e36cfa97a1d8bf6add711c43c934923aad30aeec5f1f7ecbdc8c0aa0886bd34",
-        "size": 330514
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/reacher-401/tmp/reacher-401-cumulative-btiha-media-objects.json",
+        "sha256": "eb0026dafeb2285145851779376db13791c76d68f314666f8b4644a4790f4785",
+        "size": 330533
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "reacher-401",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-meta-collection.exe",
-      "sha256": "8f1bd1d5de637a3cdd4c104c76f4e322b3141743e473202610cce6d39c76553d",
-      "size": 8579520
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi/build/cmake/tests/izzi_visualization_render",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
       "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
       "size": 440288
     },
@@ -156,12 +99,12 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          75.0,
-          45.0,
-          44.0,
+          73.0,
+          43.0,
           42.0,
-          40.0,
-          32.0,
+          41.0,
+          39.0,
+          33.0,
           29.0,
           29.0,
           26.0
@@ -174,9 +117,9 @@
           "Nanjing",
           "Seoul",
           "Amsterdam",
+          "Istanbul",
           "London",
           "Lelystad",
-          "Istanbul",
           "Shanghai",
           "Hangzhou",
           "Moscow",
@@ -189,15 +132,15 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          63.0,
-          37.0,
-          37.0,
-          36.0,
-          34.0,
-          34.0,
-          29.0,
-          29.0,
-          28.0
+          51.0,
+          32.0,
+          30.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
         ],
         "image_references": [
           "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
@@ -206,14 +149,14 @@
         "labels": [
           "Nanjing",
           "Seoul",
+          "Istanbul",
           "Amsterdam",
           "London",
-          "Istanbul",
-          "Guatemala City",
           "Lelystad",
-          "Abidjan",
+          "Guatemala City",
           "Moscow",
-          "Paris"
+          "Shanghai",
+          "Abidjan"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,7 +166,7 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 35,
+        "x_tick_labels": 25,
         "y_tick_labels": 22
       },
       "histogram": {
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 5,
+        "x_tick_labels": 7,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "ec8be71a1ed3b70772040d6c254762788206313a",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
     "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "6656be3d8315f03fadc210e4c02ee453f4692396"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",

@@ -1,8 +1,8 @@
 # Cache coverage report — reacher-401
 
-- Generated: 2026-10-03T19:10:22Z
+- Generated: 2026-10-07T11:57:09Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/reacher-401.xz`
-- Hour directories: 834
+- Hour directories: 1170
 - Zero-length sample files: 0
 - Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 1 (1 missing hours)
@@ -15,9 +15,9 @@
 
 ## Frozen validation evidence
 
-- Frozen content SHA-256: `ba5675f78d979dac5e94eafec1c25dcab94f7d384758561c93bc55598f794fc6`
-- Full-input producer receipt SHA-256: `8b5ba353d9eecb2724dbdc3b338e4a667ab2f6a1a6ffda82ed3d84a814a5025c`
-- Frozen raw archives: 834
+- Frozen content SHA-256: `9f8183ecdedea3f8788007c0710ea7aaf53780b9728b7ff8af11a9c0cef4384c`
+- Full-input producer receipt SHA-256: `aeb117ff3d2c6d590a57bf251c93b778a86958f81ab59a45f5058fe646a99115`
+- Frozen raw archives: 1170
 - Empty sampler observations remain explicit gaps; no observations were imputed.
 - Out-of-scope records retain the collection factory's established filtering.
 - Excluded raw members: 0

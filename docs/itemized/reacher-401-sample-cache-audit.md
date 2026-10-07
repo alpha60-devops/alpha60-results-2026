@@ -15,20 +15,20 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `reacher-401` |
 | imdb_id | [tt9288030](https://www.imdb.com/title/tt9288030/) |
 | wikipedia_url | [Reacher (TV series)](https://en.wikipedia.org/wiki/Reacher_(TV_series)) |
-| Sample dates | 2026-08-14-to-2026-09-17 |
-| Sample days | 35 |
+| Sample dates | 2026-08-14-to-2026-10-01 |
+| Sample days | 49 |
 | BTIH count | 204 |
 | Unique BTIH count | 197 |
-| Downloaders total | 3,209,253 |
-| Uploaders total | 343,512 |
+| Downloaders total | 4,345,720 |
+| Uploaders total | 433,762 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-10-03T19:10:22Z
+- Generated: 2026-10-07T11:57:09Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/reacher-401.xz`
-- Hour directories: 834
+- Hour directories: 1170
 - Zero-length sample files: 0
 - Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 1 (1 missing hours)
@@ -41,19 +41,19 @@ description: "Cache coverage and visualization audit for one media object."
 
 ### Frozen validation evidence
 
-- Frozen content SHA-256: `ba5675f78d979dac5e94eafec1c25dcab94f7d384758561c93bc55598f794fc6`
-- Full-input producer receipt SHA-256: `8b5ba353d9eecb2724dbdc3b338e4a667ab2f6a1a6ffda82ed3d84a814a5025c`
-- Frozen raw archives: 834
+- Frozen content SHA-256: `9f8183ecdedea3f8788007c0710ea7aaf53780b9728b7ff8af11a9c0cef4384c`
+- Full-input producer receipt SHA-256: `aeb117ff3d2c6d590a57bf251c93b778a86958f81ab59a45f5058fe646a99115`
+- Frozen raw archives: 1170
 - Empty sampler observations remain explicit gaps; no observations were imputed.
 - Out-of-scope records retain the collection factory's established filtering.
 - Excluded raw members: 0
 - Excluded observations: 0
 
-## 3. File sizes histogram *median[lowest, highest]*
+## 3. Media objects file size histogram
 
 ![Reacher collection size histogram](figures/reacher-401-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -76,29 +76,24 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![reacher-401 downloads by day](figures/reacher-401-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/reacher-401-cumulative-aggregate.geojson.gz" data-map-title="Reacher — reacher-401" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Reacher (reacher-401) cumulative data map in new window" title="Opens interactive map for Reacher (reacher-401) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 5.78 | 19.63 | 29.81 | 42.18 | 1.88 | 0.72 |
+| 5.55 | 19.61 | 30.40 | 41.97 | 1.75 | 0.73 |
 
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Reacher cumulative map](figures/reacher-401-carto.png)](figures/reacher-401-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/reacher-401-data-ge-1080p.webp)](figures/reacher-401-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/reacher-401-data-lt-1080p.webp)](figures/reacher-401-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
