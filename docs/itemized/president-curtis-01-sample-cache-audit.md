@@ -329,3 +329,24 @@ cause was not established by this run. Each gap remains explicit.
 **Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/president-curtis-01-data-lt-1080p.webp)](figures/president-curtis-01-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+<!-- BEGIN alpha60-2026-source-recovery-r6 -->
+
+## Recovered source samples
+
+The source archives for the hours below were truncated in every known preserved copy.
+This cache uses only complete, valid JSON sample files recovered from their readable prefixes.
+Lost original membership is unknown. These hours are **not fully recovered**;
+the date coverage above does not establish complete observations within them.
+
+| Source hour | Recovered complete JSON sample files | Incomplete JSON files excluded |
+| --- | ---: | ---: |
+| 2026-09-02-at-23-03 | 1,686 | 0 |
+
+No missing observations were fabricated. The collection factory applies its established
+scope filtering to the recovered files. Damaged original compressed archives remain preserved
+outside the current raw sample directory for provenance and rollback.
+
+[Source recovery evidence and archive hashes](../../data/txt/year-2026-source-recovery.json).
+
+<!-- END alpha60-2026-source-recovery-r6 -->

@@ -102,3 +102,36 @@ description: "Cache coverage and visualization audit for one media object."
 **Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/house-of-the-dragon-301-data-lt-1080p.webp)](figures/house-of-the-dragon-301-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+<!-- BEGIN alpha60-2026-source-recovery-r6 -->
+
+## Recovered source samples
+
+The source archives for the hours below were truncated in every known preserved copy.
+This cache uses only complete, valid JSON sample files recovered from their readable prefixes.
+Lost original membership is unknown. These hours are **not fully recovered**;
+the date coverage above does not establish complete observations within them.
+
+| Source hour | Recovered complete JSON sample files | Incomplete JSON files excluded |
+| --- | ---: | ---: |
+| 2026-07-10-at-09-05 | 4,145 | 0 |
+| 2026-08-12-at-15-05 | 4,380 | 1 |
+
+No missing observations were fabricated. The collection factory applies its established
+scope filtering to the recovered files. Damaged original compressed archives remain preserved
+outside the current raw sample directory for provenance and rollback.
+
+[Source recovery evidence and archive hashes](../../data/txt/year-2026-source-recovery.json).
+
+## Corrected source archive filename
+
+The intact source archive originally named `2026-07-19-at-14-05.tar.xz` contains
+**5,502 complete, valid JSON sample files** under
+`2026-07-06-at-03-05`. The cache uses those observations under
+their actual timestamp. The archive was copied under its matching filename with exactly
+the same compressed bytes; no sample dates or JSON bytes were changed. It supplies no
+observations for the wrongly labelled `2026-07-19-at-14-05` hour.
+The original mislabeled compressed archive remains preserved for provenance and rollback.
+This filename correction is separate from the truncated-hour losses described above.
+
+<!-- END alpha60-2026-source-recovery-r6 -->

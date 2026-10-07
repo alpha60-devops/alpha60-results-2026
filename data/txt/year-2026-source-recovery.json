@@ -1,0 +1,132 @@
+{
+  "complete_valid_json_members": 11257,
+  "filename_corrections": [
+    {
+      "archive_bytes_preserved": true,
+      "collection_key": "house-of-the-dragon-301",
+      "complete_valid_json_members": 5502,
+      "incorrect_name": "2026-07-19-at-14-05.tar.xz",
+      "member_audit": {
+        "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/runs/year-2026/20261004-gold-incremental-r5/source-input-failure/unexpected-prefix-members.json",
+        "sha256": "04d8738737c6680c3375ce86e4630f24117551d2c269a4cbcaea9ff360339582"
+      },
+      "name": "2026-07-06-at-03-05.tar.xz",
+      "original": {
+        "path": "/mnt/gold/src/alpha60-samples-raw.gold/house-of-the-dragon-301.xz/2026-07-19-at-14-05.tar.xz",
+        "sha256": "f8126b6c7289a7d55f556b1c5c21ab3de245674840d4a97f95e25cd0fd6e62e8",
+        "size": 12631772
+      },
+      "recovered": {
+        "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/runs/year-2026/20261004-gold-incremental-r9/recovered-raw/house-of-the-dragon-301/2026-07-06-at-03-05.tar.xz",
+        "sha256": "f8126b6c7289a7d55f556b1c5c21ab3de245674840d4a97f95e25cd0fd6e62e8",
+        "size": 12631772
+      },
+      "repair_kind": "intact-archive-filename-correction",
+      "sample_dates_relabelled": false
+    }
+  ],
+  "lost_original_membership": "unknown",
+  "plan_sha256": "c763ce4561cdad0aaeeb50c90282b55d90a0422e87fb54ba8c48eb24a09d19fb",
+  "producer_source_revisions": {
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
+  },
+  "records": [
+    {
+      "collection_key": "house-of-the-dragon-301",
+      "complete_valid_json_members": 4145,
+      "incomplete_json_members_excluded": [],
+      "lost_original_membership": "unknown",
+      "member_audit": {
+        "path": "/home/bkoz/src/alpha60/build/source-recovery/20261004-gold-incremental-r4/2026-07-10-at-09-05.recovered-json-prefix.tar.members.json",
+        "sha256": "1da7b7c6dd2b3b05d4da76d12003e0675f3965a1a2705e308c692f8ffc0f66ce"
+      },
+      "name": "2026-07-10-at-09-05.tar.xz",
+      "original": {
+        "path": "/mnt/gold/src/alpha60-samples-raw.gold/house-of-the-dragon-301.xz/2026-07-10-at-09-05.tar.xz",
+        "sha256": "886026dba055574ec0c6c50ecc706b96b717470e32a9d1084de786f7128691a1",
+        "size": 8658944
+      },
+      "original_hour_complete": false,
+      "recovered": {
+        "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/runs/year-2026/20261004-gold-incremental-r9/recovered-raw/house-of-the-dragon-301/2026-07-10-at-09-05.tar.xz",
+        "sha256": "6cd6e2db30d34e8b133f810bd1e18b15073ab21173720729e35933726bb668d3",
+        "size": 4889240
+      }
+    },
+    {
+      "collection_key": "house-of-the-dragon-301",
+      "complete_valid_json_members": 4380,
+      "incomplete_json_members_excluded": [
+        "2026-08-12-at-15-05/House.of.the.Dragon.S03E01.1080p.WEB.h264-ETHEL [IPT]-2026-08-12-at-15-17.json"
+      ],
+      "lost_original_membership": "unknown",
+      "member_audit": {
+        "path": "/home/bkoz/src/alpha60/build/source-recovery/20261004-gold-incremental-r4/2026-08-12-at-15-05.recovered-json-prefix.tar.members.json",
+        "sha256": "04beee3745e48f02779ae78561f1fe7885dd3ee2d99ac792ac77a5dd8c0493e9"
+      },
+      "name": "2026-08-12-at-15-05.tar.xz",
+      "original": {
+        "path": "/mnt/gold/src/alpha60-samples-raw.gold/house-of-the-dragon-301.xz/2026-08-12-at-15-05.tar.xz",
+        "sha256": "6ea51b066c33e5a173e2ad7fd0100583ffd3dd26bf39b42d9660d7aa97a9e495",
+        "size": 7050240
+      },
+      "original_hour_complete": false,
+      "recovered": {
+        "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/runs/year-2026/20261004-gold-incremental-r9/recovered-raw/house-of-the-dragon-301/2026-08-12-at-15-05.tar.xz",
+        "sha256": "e3054762fee275be59aa856978d8e01a01d257bdbc3a25b3b215a890c9bf2c40",
+        "size": 3160752
+      }
+    },
+    {
+      "collection_key": "legend-of-vox-machina-410",
+      "complete_valid_json_members": 1046,
+      "incomplete_json_members_excluded": [],
+      "lost_original_membership": "unknown",
+      "member_audit": {
+        "path": "/home/bkoz/src/alpha60/build/source-recovery/20261004-gold-incremental-r4/legend-of-vox-machina-410/2026-08-17-at-22-04.recovered-json-prefix.tar.members.json",
+        "sha256": "231bb87e3ed010f4f869bc4cbcdfbd1851ee4ff3f1b18112cf421e0f488555fc"
+      },
+      "name": "2026-08-17-at-22-04.tar.xz",
+      "original": {
+        "path": "/mnt/gold/src/alpha60-samples-raw.gold/legend-of-vox-machina-410.xz/2026-08-17-at-22-04.tar.xz",
+        "sha256": "3bf78d25add2b8c672a4951d07abde178a3d04d4918deeaf890f853c556a5547",
+        "size": 1044480
+      },
+      "original_hour_complete": false,
+      "recovered": {
+        "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/runs/year-2026/20261004-gold-incremental-r9/recovered-raw/legend-of-vox-machina-410/2026-08-17-at-22-04.tar.xz",
+        "sha256": "649c4be063366a88444e53829a8aaef78c22c81bfa656e5f51103ab7edfb93a7",
+        "size": 196492
+      }
+    },
+    {
+      "collection_key": "president-curtis-01",
+      "complete_valid_json_members": 1686,
+      "incomplete_json_members_excluded": [],
+      "lost_original_membership": "unknown",
+      "member_audit": {
+        "path": "/home/bkoz/src/alpha60/build/source-recovery/20261004-gold-incremental-r4/president-curtis-01/2026-09-02-at-23-03.recovered-json-prefix.tar.members.json",
+        "sha256": "cb526ee849da5d27575c6f71cfc646de5b1e93768ed5fc791c88bba031861c18"
+      },
+      "name": "2026-09-02-at-23-03.tar.xz",
+      "original": {
+        "path": "/mnt/gold/src/alpha60-samples-raw.gold/president-curtis-01.xz/2026-09-02-at-23-03.tar.xz",
+        "sha256": "d9e0417f11f904611ea0a2535a328bba287af11aae3ba6bb33182f3be5df44e0",
+        "size": 2146304
+      },
+      "original_hour_complete": false,
+      "recovered": {
+        "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/runs/year-2026/20261004-gold-incremental-r9/recovered-raw/president-curtis-01/2026-09-02-at-23-03.tar.xz",
+        "sha256": "6567d107d5197d3d226c32efe149bb17c3a78ab2d41f1618ca489e17efc64aa0",
+        "size": 675688
+      }
+    }
+  ],
+  "run_id": "20261004-gold-incremental-r9",
+  "schema": "alpha60-year-public-source-recovery/1",
+  "source_hours_complete": false,
+  "source_recovery_sha256": "a0bb2444d8cb828a57a66e7b3b0b3056af6f1cd3aca29461749071696eb31318",
+  "year": 2026
+}
