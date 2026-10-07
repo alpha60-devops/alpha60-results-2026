@@ -29,6 +29,11 @@ jobs:
             _layouts
             docs
             resources
+      - name: Include public source recovery evidence
+        shell: bash
+        run: |
+          mkdir -p data/txt
+          git show HEAD:data/txt/year-2026-source-recovery.json > data/txt/year-2026-source-recovery.json
       - name: Validate shared year-site form
         shell: python
         run: |
@@ -78,6 +83,15 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Verify built source recovery evidence
+        shell: python
+        run: |
+          from pathlib import Path
+
+          source = Path("data/txt/year-2026-source-recovery.json")
+          built = Path("_site/data/txt/year-2026-source-recovery.json")
+          if not built.is_file() or built.read_bytes() != source.read_bytes():
+              raise SystemExit("Pages must include the exact source recovery evidence")
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
