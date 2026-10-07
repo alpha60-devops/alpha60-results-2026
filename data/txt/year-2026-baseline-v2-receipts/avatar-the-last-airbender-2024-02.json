@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt9018736",
     "imdb_id": "tt9018736",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q109608844",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender_(2024_TV_series)"
   },
-  "coverage_sha256": "b29165623b90e02f362c68d77bb2238f8e8d396d971a9a70044e76b9c2e1f07f",
-  "generated_at": "2026-09-13T20:17:36.400471+00:00",
+  "coverage_sha256": "8b6e55bd517d311bd1a398be451824eccfdedb3d729b3376aaa2cfe4fac45643",
+  "generated_at": "2026-10-07T18:03:30.690670+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/avatar-the-last-airbender-2024-02.cache/cache.20260904.tar.xz",
-      "sha256": "9a6245b982090eff8c453d19eeca3ad3d9d8a3c4fa05ca8fcc1efa6f32216f7a",
-      "size": 1014941396
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/avatar-the-last-airbender-2024-02.cache/cache.20261002.tar.xz",
+      "sha256": "c27dd65b3a9dd83091b1107a76c4f2b46d67c94e206bbf6c1322e16edcd80609",
+      "size": 1503064220
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/avatar-the-last-airbender-2024-02.md",
-      "sha256": "f105818112845b8a2fe2c4bc3b1bf40dd2989153c3719c34eda1ca7565e50e6d",
-      "size": 588
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/avatar-the-last-airbender-2024-02.md",
+      "sha256": "a259a1bdf1be6e54b8c1e8e5090345145f7fb0e0a642c16592ebf3b0b2e1521a",
+      "size": 1015
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/avatar-the-last-airbender-2024-02.json",
-      "sha256": "41f1ca423ccac84b4a9420648c178f21b9abbcf404bde09598014ac7e6b659ae",
-      "size": 2662
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/avatar-the-last-airbender-2024-02.json",
+      "sha256": "23fb967c73fb52de94580067172a8d3f3f4aa83149cd981dc0048e90c2a97bd7",
+      "size": 2966
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/avatar-the-last-airbender-2024-02.json",
-      "sha256": "a7ad529f9301131af80fec913d58a15a789499e61427350a2a0aea111dd33295",
-      "size": 385
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/avatar-the-last-airbender-2024-02.json",
+      "sha256": "dcf2d2d3ca91ea880ed0c98bb94b107e4d369d796eda42344d444a8ebff4720f",
+      "size": 387
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
-      "size": 97281
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "avatar-the-last-airbender-2024-02",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "5be40037de6353f1f80105fe76389462f1a9b4df5d3b79f8733990974916b6a5",
-        "before_sha256": "e2e2d2093a7eeb0bb1b2688031f5192ec7bd1ac651c30b008643b3fb83d957b4",
-        "path": "docs/itemized/avatar-the-last-airbender-2024-02-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:55:46.386118+00:00",
-    "coverage_sha256": "b29165623b90e02f362c68d77bb2238f8e8d396d971a9a70044e76b9c2e1f07f",
-    "day_contract": {
-      "collection_key": "avatar-the-last-airbender-2024-02",
-      "day_products": 72,
-      "first_date": "2026-06-25",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-04",
-      "last_index": 72,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "3c1179db1213c123ca687392607d1ceead45c2e6d8b49439a8f613a1b74f34e6",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/avatar-the-last-airbender-2024-02.md",
-        "sha256": "f105818112845b8a2fe2c4bc3b1bf40dd2989153c3719c34eda1ca7565e50e6d",
-        "size": 588
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/avatar-the-last-airbender-2024-02.json",
-        "sha256": "41f1ca423ccac84b4a9420648c178f21b9abbcf404bde09598014ac7e6b659ae",
-        "size": 2662
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/avatar-the-last-airbender-2024-02.json",
-        "sha256": "a7ad529f9301131af80fec913d58a15a789499e61427350a2a0aea111dd33295",
-        "size": 385
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 11,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/avatar-the-last-airbender-2024-02-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "c524ab0d1cd5420f6cba6e490d2f025d9638cf84a299b6f74d1250f890e15f67",
-    "docs/itemized/avatar-the-last-airbender-2024-02-sample-cache-audit.md": "5be40037de6353f1f80105fe76389462f1a9b4df5d3b79f8733990974916b6a5",
-    "docs/itemized/figures/avatar-the-last-airbender-2024-02-carto-4k.webp": "be2d68bfd6d08a6bb529b71a1adcecd157d93f91e9e81cba90ad22364e8cb2c4",
-    "docs/itemized/figures/avatar-the-last-airbender-2024-02-carto.png": "b848b3ca3e01980d947e64e1796631796997c7c2a7c4d4bb99de98dc6aa303cc",
+    "data/csv/bytes/avatar-the-last-airbender-2024-02-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "42fc298d6a14748f5651ed757a33aa74242b1e60f6c1d0d511a711bd3725d426",
+    "docs/itemized/avatar-the-last-airbender-2024-02-sample-cache-audit.md": "4e638397da7b3a2d7a1f1050aeb74a65dfb187bf54bd67ed71ff4d665a6dbd82",
+    "docs/itemized/figures/avatar-the-last-airbender-2024-02-carto-4k.webp": "4c9a291a10487f214b644b7ecc69912ea83f0fcfb68b21c7b8c011dd57d98ead",
+    "docs/itemized/figures/avatar-the-last-airbender-2024-02-carto.png": "136b08505b6966997374f190b58e7ff577119b87ea613d6df0ddcf4d39171598",
     "docs/itemized/figures/avatar-the-last-airbender-2024-02-cumulative-detail-btiha-itemized-by-bytes.svg": "e3086fbabc861a0b9b6d269bb03d35659f38aaf26ce44f13c30dec2118d7ec47",
-    "docs/itemized/figures/avatar-the-last-airbender-2024-02-data-ge-1080p-4k.webp": "055ab7548d349d1cfd92b9202d880826edc6756db77cd08870e355ef82ce71b6",
-    "docs/itemized/figures/avatar-the-last-airbender-2024-02-data-ge-1080p.webp": "f632c48233af3610552d5c4250b008a953359be79cd863dc10d93fb82212c3e7",
-    "docs/itemized/figures/avatar-the-last-airbender-2024-02-data-lt-1080p-4k.webp": "6c7a83daa145109f124742666608ac1661d9bc6c4961c21aa0d78c4e0a4c60b6",
-    "docs/itemized/figures/avatar-the-last-airbender-2024-02-data-lt-1080p.webp": "468dc4b0b0f9a9a5687663e5d5cafb61bfb8a548759b655ec03e6258aa94c831",
-    "docs/itemized/figures/avatar-the-last-airbender-2024-02-downloads-by-day-day.svg": "d24d2dab8cc9dedd2de31c6f8ac9424aebbcad2ded19c08035ea66b6104fc6e1",
-    "docs/itemized/figures/avatar-the-last-airbender-2024-02-downloads-by-week-avatar-the-last-airbender-2024-02-week.svg": "2ec424012e7ed76c249379488602e53a994bd45ce0e15ba737a705fe8e8e7545",
+    "docs/itemized/figures/avatar-the-last-airbender-2024-02-data-ge-1080p-4k.webp": "b83ed98008a3245966496277a31caa264bdf5eca05b60c645eecae0651a030c6",
+    "docs/itemized/figures/avatar-the-last-airbender-2024-02-data-ge-1080p.webp": "917d0d4e3e5b048922de08073cecb4728f63cda1c2a4f50c28d85aa27893df14",
+    "docs/itemized/figures/avatar-the-last-airbender-2024-02-data-lt-1080p-4k.webp": "05a4d740fb671a099faf6bd8e0a819a17a895944437e272a363b8f54b86bf900",
+    "docs/itemized/figures/avatar-the-last-airbender-2024-02-data-lt-1080p.webp": "aca41e50800e53ee405b5916c953d2aa8f2767f4fdc479314f5773dd3ba1f042",
+    "docs/itemized/figures/avatar-the-last-airbender-2024-02-downloads-by-day-day.svg": "71499bc0072a7bf7eb2bae08a75f3cf4c0cf88618ef3e5e5101696f828d012ae",
+    "docs/itemized/figures/avatar-the-last-airbender-2024-02-downloads-by-week-avatar-the-last-airbender-2024-02-week.svg": "d54f3e32ab44a5e3a8ff288f7505498060fa5203f4540da8291a91f98f8a26e1",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/avatar-the-last-airbender-2024-02/tmp/avatar-the-last-airbender-2024-02-cumulative-btiha.geojson",
-        "sha256": "1d7a3627bc4c5ab94638bc83c47fd02d6b4782099ab8734a2791af76a05dddad",
-        "size": 308442940
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/avatar-the-last-airbender-2024-02/tmp/avatar-the-last-airbender-2024-02-cumulative-btiha.geojson",
+        "sha256": "4aac30b0215feda29590d15e273366864fd71438ea62c183474018502881c144",
+        "size": 368936099
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/avatar-the-last-airbender-2024-02/tmp/avatar-the-last-airbender-2024-02-cumulative-btiha-media-objects.json",
-        "sha256": "a314d24ace1accdb141819c10b9f6dcbf42d2906ebf1fe56a47b2ab56c1afac7",
-        "size": 1081900
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/avatar-the-last-airbender-2024-02/tmp/avatar-the-last-airbender-2024-02-cumulative-btiha-media-objects.json",
+        "sha256": "07157e56f90e2d271095db873cf124af9a26eee1d0c1756534b1c40d58da72f3",
+        "size": 1082015
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "avatar-the-last-airbender-2024-02",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,12 +99,12 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          69.0,
-          40.0,
-          37.0,
-          32.0,
+          66.0,
+          41.0,
+          39.0,
+          31.0,
+          31.0,
           30.0,
-          29.0,
           29.0,
           26.0,
           26.0
@@ -173,14 +116,14 @@
         "labels": [
           "Seoul",
           "Nanjing",
-          "Amsterdam",
           "Istanbul",
-          "Lelystad",
-          "Shanghai",
-          "Hangzhou",
+          "Amsterdam",
           "London",
+          "Shanghai",
+          "Lelystad",
+          "Hangzhou",
           "Moscow",
-          "Incheon"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -189,13 +132,13 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          81.0,
+          82.0,
+          40.0,
           37.0,
-          35.0,
-          32.0,
+          31.0,
+          30.0,
+          30.0,
           29.0,
-          28.0,
-          26.0,
           26.0,
           26.0
         ],
@@ -206,14 +149,14 @@
         "labels": [
           "Nanjing",
           "Seoul",
-          "Amsterdam",
           "Istanbul",
-          "Lelystad",
+          "Amsterdam",
           "Shanghai",
-          "Hangzhou",
+          "Lelystad",
           "London",
+          "Hangzhou",
           "Moscow",
-          "Chennai"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,7 +166,7 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 24,
+        "x_tick_labels": 20,
         "y_tick_labels": 22
       },
       "histogram": {
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 11,
+        "x_tick_labels": 15,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
