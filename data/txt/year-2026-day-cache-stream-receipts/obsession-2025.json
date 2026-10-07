@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 70,
-  "cache_members": 23492,
+  "available_day_products": 91,
+  "cache_members": 31757,
   "collection_key": "obsession-2025",
   "downstream_cache_synthesis": {
     "cache_members": {
-      "cumulative": 389,
-      "week": 3489
+      "cumulative": 401,
+      "week": 4680
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
-      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
-      "size": 30067072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
     },
     "sample_anchor": {
       "directories": [
         "2026-07-01-at-00-00",
-        "2026-09-08-at-00-00"
+        "2026-09-29-at-00-00"
       ],
       "keys": [
         "obsession-2025"
       ],
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/obsession-2025/tmp/obsession-2025-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/scratch-storage/mounted/results-native-work-r9-v11/obsession-2025/tmp/obsession-2025-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -115,27 +115,48 @@
     67,
     68,
     69,
-    70
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91
   ],
-  "last_date": "2026-09-08",
-  "last_index": 70,
+  "last_date": "2026-09-29",
+  "last_index": 91,
   "missing_indices": [],
-  "sample_span_days": 70,
+  "sample_span_days": 91,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 23492,
+    "admitted_cache_members": 31757,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-07-01",
-    "required_last_date": "2026-09-08",
-    "required_span_days": 70,
+    "required_last_date": "2026-09-29",
+    "required_span_days": 91,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 23492,
+    "source_cache_members": 31757,
     "source_first_date": "2026-07-01",
     "source_first_index": 1,
-    "source_last_date": "2026-09-08",
-    "source_last_index": 70
+    "source_last_date": "2026-09-29",
+    "source_last_index": 91
   },
   "sparse": false,
   "status": "pass"

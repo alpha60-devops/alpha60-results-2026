@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt37287335",
     "imdb_id": "tt37287335",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q136163067",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Obsession_(2025_film)"
   },
-  "coverage_sha256": "883fb4895c4dda9cb9374c212ead7edcf962e11398c851001e6b1202df823911",
-  "generated_at": "2026-09-14T02:54:04.475514+00:00",
+  "coverage_sha256": "05ed9cb35a61981540eeac0dd3deb0cee3a7bb78829ded5da6df037b9fd971cb",
+  "generated_at": "2026-10-07T18:11:44.937435+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/obsession-2025.cache/cache.20260908.tar.xz",
-      "sha256": "d89c76e05769133447086220a5e8cdcc6bd5ec586165d8e622968b707a804296",
-      "size": 2076587992
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/obsession-2025.cache/cache.20260929.tar.xz",
+      "sha256": "f64fda6c2e128cff913ad93fb30cf01fdbfdc0954cc643c0b7f1a586a4ac46fd",
+      "size": 3214979800
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/obsession-2025.md",
-      "sha256": "1babfa1b1de83d8acace4df4e5ba88d57d6cefa937a196f6e7ccf1cad9936816",
-      "size": 550
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/obsession-2025.md",
+      "sha256": "fe8201ba256a7aa174c002dda8d939ab84748e5232783d43c1ec7ba514598073",
+      "size": 902
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/obsession-2025.json",
-      "sha256": "701bd748612e1c70110920e344d4fe96b0d454aa7744f185c6507a91875c2000",
-      "size": 2570
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/obsession-2025.json",
+      "sha256": "9adf9cc682a26763d3089f76282cbedccc2a1be6c6d1687cd4de619ede53325d",
+      "size": 2823
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/obsession-2025.json",
-      "sha256": "aa7266bd8a63e7099df39df9ebe3801613309389ab7f32944b78d915ea21ffba",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/obsession-2025.json",
+      "sha256": "31dc79d2ba9855ef94b0cddaea47d7c3bde4cd5e8024842ab7fb1dd1919c7bdf",
       "size": 366
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "e456d46391e91c305cf620d86d9944483b36d1737cb4ae666e715dd2f6e0dcde",
-      "size": 97281
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "obsession-2025",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "0380d03d7d3f6703f08ee5c5566c1a5dfce3a6750adcab769c4d89844c00211f",
-        "before_sha256": "311743b4b2d9168a88ec0b1930cd26ccbd74d787809ade43dcd2a564c949f433",
-        "path": "docs/itemized/obsession-2025-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:59:58.403436+00:00",
-    "coverage_sha256": "883fb4895c4dda9cb9374c212ead7edcf962e11398c851001e6b1202df823911",
-    "day_contract": {
-      "collection_key": "obsession-2025",
-      "day_products": 70,
-      "first_date": "2026-07-01",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-08",
-      "last_index": 70,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "8fde8f789de923f47e27d1d18f27406ee00116d146157e7ddf93d07bc21e638b",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/obsession-2025.md",
-        "sha256": "1babfa1b1de83d8acace4df4e5ba88d57d6cefa937a196f6e7ccf1cad9936816",
-        "size": 550
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/obsession-2025.json",
-        "sha256": "701bd748612e1c70110920e344d4fe96b0d454aa7744f185c6507a91875c2000",
-        "size": 2570
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/obsession-2025.json",
-        "sha256": "aa7266bd8a63e7099df39df9ebe3801613309389ab7f32944b78d915ea21ffba",
-        "size": 366
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 10,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/obsession-2025-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "1796808996f0cdccb8137c431fb5a1ddba12f7b47472460192868d7376940045",
-    "docs/itemized/figures/obsession-2025-carto-4k.webp": "35cb6cfd2e952d41658485154c01e3572eb6ee65b74aa8dbf8450e7532e2a378",
-    "docs/itemized/figures/obsession-2025-carto.png": "a7580e65ecce090b755b5719bb57d2ddf1daacb874aa3d5a2a32e0b30219f816",
-    "docs/itemized/figures/obsession-2025-cumulative-detail-btiha-itemized-by-bytes.svg": "e3fb90e0cc5de61e43c65e786af284cc44b197c0042888e224cc6b24615efb3e",
-    "docs/itemized/figures/obsession-2025-data-ge-1080p-4k.webp": "3fd77f5dd33d806832a99dcaa0917c99963060ff0244200c99a46879c0e19a06",
-    "docs/itemized/figures/obsession-2025-data-ge-1080p.webp": "2352f327c65df1b7026a687f8b5ee8ca66a225c7e9d377ff7fdf869fc5985ef3",
-    "docs/itemized/figures/obsession-2025-data-lt-1080p-4k.webp": "e24e71ebef5a2786e3a62b6c41965e5f5e999c53205438d1671a423dd37721fd",
-    "docs/itemized/figures/obsession-2025-data-lt-1080p.webp": "22e4f10e951bd26950220f2b801966b9d1bbd759664e1a51a1129fced27cca60",
-    "docs/itemized/figures/obsession-2025-downloads-by-day-day.svg": "8f85dcc9ba090267f46878b8bc1615a23c4abb37648881823fcec6dd43167077",
-    "docs/itemized/figures/obsession-2025-downloads-by-week-obsession-2025-week.svg": "ed5142adf18fd640f7863356ba1db9f77229000ecb97e6c8c62c513ea3d16166",
-    "docs/itemized/obsession-2025-sample-cache-audit.md": "0380d03d7d3f6703f08ee5c5566c1a5dfce3a6750adcab769c4d89844c00211f",
+    "data/csv/bytes/obsession-2025-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "dd5029e20dde125a8080ac9df59daec2be9fb770deab2485fbeff976feca0f2c",
+    "docs/itemized/figures/obsession-2025-carto-4k.webp": "8162f2e83f890fe15692291b42e05ae8f3fc6f89320983bdfdbebd850c28dc13",
+    "docs/itemized/figures/obsession-2025-carto.png": "2cf85278fd1fa15074e56c90468f0c9b61cdfb4ff41bb7b818a241b029d40055",
+    "docs/itemized/figures/obsession-2025-cumulative-detail-btiha-itemized-by-bytes.svg": "96e26996c2a4de73e4a43ddaf90fa81f29926582e040e3f0d2bceef45ffa7024",
+    "docs/itemized/figures/obsession-2025-data-ge-1080p-4k.webp": "3a24f27cd774ab28744fc344baaa2eb99b06e40187a133afffff1eaac87a1190",
+    "docs/itemized/figures/obsession-2025-data-ge-1080p.webp": "ea0b5ab9f9037aa10a075aff99ca51e14a5c74e3ed7974095e7d7973aa9dffc2",
+    "docs/itemized/figures/obsession-2025-data-lt-1080p-4k.webp": "f7d78fb131483692c6e8f5eb2a20a54f77172bbdb92cec794d66b8a131110a34",
+    "docs/itemized/figures/obsession-2025-data-lt-1080p.webp": "a51c106341432b5425728d306563c0267bd1c686bb39a58f9eca693c10dd86bd",
+    "docs/itemized/figures/obsession-2025-downloads-by-day-day.svg": "f089e8358c600d6423b4ea24694a3da7a9728e5307e8fb8a764ccb10a36e019e",
+    "docs/itemized/figures/obsession-2025-downloads-by-week-obsession-2025-week.svg": "7cb690c0e1ee57305eacce5998a98a0b3bef2b8315d36bd04e8b4b0618f81f02",
+    "docs/itemized/obsession-2025-sample-cache-audit.md": "c3ddec8fdc7119a4be3fe484c42f03e5013febb0edb40a9531405e16a83faeeb",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/obsession-2025/tmp/obsession-2025-cumulative-btiha.geojson",
-        "sha256": "76ee490a08363f2fab3d6e3a0b44a73636f6e2631f56b4add93e3feba2afa0e8",
-        "size": 357717385
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/scratch-storage/mounted/results-native-work-r9-v11/obsession-2025/tmp/obsession-2025-cumulative-btiha.geojson",
+        "sha256": "456b346cbb1dafc834ae5f3b841f1fe12f134d0d614c33f59126752095298ae2",
+        "size": 422535633
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/obsession-2025/tmp/obsession-2025-cumulative-btiha-media-objects.json",
-        "sha256": "1c8afc262ed1bf32c048507ad455e2a12f8198dcb0062764caac8345e62ac0fa",
-        "size": 639942
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/scratch-storage/mounted/results-native-work-r9-v11/obsession-2025/tmp/obsession-2025-cumulative-btiha-media-objects.json",
+        "sha256": "9989c533380d51fc17e96ac829b5fdd548773b0a59fb9dddc74092571c1ce562",
+        "size": 652298
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "obsession-2025",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,7 +99,7 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          43.0,
+          39.0,
           26.0,
           26.0,
           26.0,
@@ -174,13 +117,13 @@
           "Nanjing",
           "Seoul",
           "London",
-          "Amsterdam",
           "Istanbul",
+          "Amsterdam",
           "Lelystad",
           "Shanghai",
           "Hangzhou",
           "Moscow",
-          "Chennai"
+          "Madrid"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -189,15 +132,15 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          74.0,
-          39.0,
+          79.0,
+          44.0,
+          40.0,
           38.0,
-          36.0,
           35.0,
           34.0,
-          34.0,
-          31.0,
-          31.0
+          32.0,
+          32.0,
+          32.0
         ],
         "image_references": [
           "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
@@ -206,14 +149,14 @@
         "labels": [
           "Seoul",
           "Nanjing",
+          "Istanbul",
           "Moscow",
           "Amsterdam",
-          "Istanbul",
-          "Chennai",
-          "Hyderabad",
-          "Lelystad",
           "London",
-          "Shanghai"
+          "Chennai",
+          "Shanghai",
+          "Lelystad",
+          "Hyderabad"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,11 +166,11 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 24,
-        "y_tick_labels": 22
+        "x_tick_labels": 23,
+        "y_tick_labels": 20
       },
       "histogram": {
-        "bars": 27,
+        "bars": 28,
         "role": "histogram",
         "status": "passed",
         "x_label": "SIZE IN GB",
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 10,
-        "y_tick_labels": 20
+        "x_tick_labels": 13,
+        "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",
