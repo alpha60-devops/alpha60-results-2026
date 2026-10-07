@@ -15,23 +15,23 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `project-hail-mary` |
 | imdb_id | [tt12042730](https://www.imdb.com/title/tt12042730/) |
 | wikipedia_url | [Project Hail Mary (film)](https://en.wikipedia.org/wiki/Project_Hail_Mary_(film)) |
-| Sample dates | 2026-05-11-to-2026-09-06 |
-| Sample days | 119 |
-| BTIH count | 446 |
-| Unique BTIH count | 403 |
-| Downloaders total | 55,317,428 |
-| Uploaders total | 7,488,151 |
+| Sample dates | 2026-05-11-to-2026-09-28 |
+| Sample days | 141 |
+| BTIH count | 462 |
+| Unique BTIH count | 416 |
+| Downloaders total | 63,393,651 |
+| Uploaders total | 8,183,580 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:09Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/project-hail-mary.xz`
-- Hour directories: 2845
+- Generated: 2026-10-07T11:57:09Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/project-hail-mary.xz`
+- Hour directories: 3364
 - Zero-length sample files: 0
-- Other unparsable sample files: 0
-- Hourly discontinuities: 3 (5 missing hours)
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Hourly discontinuities: 4 (14 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
@@ -39,12 +39,24 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2026-06-02 22:03`, resumed `2026-06-03 02:03` — missing 3 hour(s)
 - hourly gap: last `2026-06-12 22:03`, resumed `2026-06-13 00:03` — missing 1 hour(s)
 - hourly gap: last `2026-08-30 22:03`, resumed `2026-08-31 00:03` — missing 1 hour(s)
+- hourly gap: last `2026-09-10 22:03`, resumed `2026-09-11 08:03` — missing 9 hour(s)
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `bc6fdff2f198a3869cfdf29225d01343a183db044672aafabbc5166f84f792de`
+- Full-input producer receipt SHA-256: `406f05316c640f98f3005e68cd79038e422e740c1f539e0e5cc3f1fafc9ec509`
+- Frozen raw archives: 3364
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 1
+- Excluded observations: 5419
+
+## 3. Media objects file size histogram
 
 ![Project Hail Mary collection size histogram](figures/project-hail-mary-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -67,31 +79,24 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![project-hail-mary downloads by day](figures/project-hail-mary-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/project-hail-mary-cumulative-aggregate.geojson.gz" data-map-title="Project Hail Mary — project-hail-mary" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Project Hail Mary (project-hail-mary) cumulative data map in new window" title="Opens interactive map for Project Hail Mary (project-hail-mary) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.84 | 15.58 | 37.34 | 39.43 | 1.24 | 0.79 |
+| 2.17 | 16.70 | 38.33 | 40.64 | 1.35 | 0.81 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 96.22%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Project Hail Mary cumulative map](figures/project-hail-mary-carto.png)](figures/project-hail-mary-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/project-hail-mary-data-ge-1080p.webp)](figures/project-hail-mary-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/project-hail-mary-data-lt-1080p.webp)](figures/project-hail-mary-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

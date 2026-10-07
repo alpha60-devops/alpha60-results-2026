@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt12042730",
     "imdb_id": "tt12042730",
-    "revision": "80bbff3d43f5e85d29253d29c3badec50e861677",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
     "wikidata_id": "Q107105860",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Project_Hail_Mary_(film)"
   },
-  "coverage_sha256": "1a117acf1462bb8caf72d2201b4ac4835088fa448aa14c168e634adcaf38152e",
-  "generated_at": "2026-09-14T05:14:00.769672+00:00",
+  "coverage_sha256": "dd93c1487d6dbfe21deafb38b8d27a9711d6e1571aba96a0d3fcf5ac48cb3bc7",
+  "generated_at": "2026-10-07T18:13:35.305328+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/mnt/gold/src/alpha60-samples-cache.gold/project-hail-mary.cache/cache.20260906.tar.xz",
-      "sha256": "cbe537f438427432ee65a6bc92453e0db851770a0ec1e7f832639bd5883abebe",
-      "size": 3828553608
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/project-hail-mary.cache/cache.20260928.tar.xz",
+      "sha256": "1a4d76e6a62638a39d50289c37f4d2f2197bec38a6a314b6fa70aac82bd2faac",
+      "size": 5586919152
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-coverage-evidence/project-hail-mary.md",
-      "sha256": "6b2ff1b63817234af432f5405be91b68192a4d7cb83021049d4df15730d37fb2",
-      "size": 805
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/project-hail-mary.md",
+      "sha256": "c2a666aa6c3bc7c767b1d82e61c5c716e553ee28d01db7e4c59c2ab37b94043c",
+      "size": 1246
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-cache-stream-receipts/project-hail-mary.json",
-      "sha256": "dd0d3c8412c34c9ddbd555a78a2c83765f27bc3859b73cebe84f915f3cb2f58d",
-      "size": 2999
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/project-hail-mary.json",
+      "sha256": "2186deb318a5b47aa94c6e4451a732b222b29d855e221c254acef3fbbf911045",
+      "size": 30437
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/results-g04/data/txt/year-2026-day-product-receipts/project-hail-mary.json",
-      "sha256": "12bc452859ec7d1a9bf0a943076ced64b953050d9423fffe03b66c2a01f6e6ca",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/project-hail-mary.json",
+      "sha256": "274a8010b5eb5e5a06d528bab658acf2d4b9f5453194ad627b1407df49aa8ac4",
       "size": 371
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/control/worker-map.json",
-      "sha256": "f22cfd8f997fe1cafb95988f1930a04cf2db7fc2e15c9b5f6be9f63e9bb34e14",
-      "size": 94076
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
     }
   },
   "media_object": "project-hail-mary",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "f1974a2636439f66fa29aac875c05927ecc2996fb6cf202dfe59a63ba4fe5ffd",
-        "before_sha256": "bdeb6b2c379738ebdf9d09d90a25a0f08b61807e8042be3a650f0e9f5b2b7d6a",
-        "path": "docs/itemized/project-hail-mary-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T07:00:55.485170+00:00",
-    "coverage_sha256": "1a117acf1462bb8caf72d2201b4ac4835088fa448aa14c168e634adcaf38152e",
-    "day_contract": {
-      "collection_key": "project-hail-mary",
-      "day_products": 119,
-      "first_date": "2026-05-11",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-06",
-      "last_index": 119,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "18247ae1020cf3997f746b437cd0bab86ecae38e",
-    "historical_receipt_sha256": "fa9f53cbffc5d1d11fd9ee1e730822947fa011477d64348cfee989042e97e9b4",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/project-hail-mary.md",
-        "sha256": "6b2ff1b63817234af432f5405be91b68192a4d7cb83021049d4df15730d37fb2",
-        "size": 805
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/project-hail-mary.json",
-        "sha256": "dd0d3c8412c34c9ddbd555a78a2c83765f27bc3859b73cebe84f915f3cb2f58d",
-        "size": 2999
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/project-hail-mary.json",
-        "sha256": "12bc452859ec7d1a9bf0a943076ced64b953050d9423fffe03b66c2a01f6e6ca",
-        "size": 371
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 17,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/project-hail-mary-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "d9626125d1b5ab08eee93664061ed68252a9f24b6c84a68f7d797cf241c3bb22",
-    "docs/itemized/figures/project-hail-mary-carto-4k.webp": "4a88c9989a5d81f7a378fa6c684ed99ded022cd2f7b5680fe10d662b82ab596e",
-    "docs/itemized/figures/project-hail-mary-carto.png": "86ff4c78865774f132449d7b3cc7cdd12736938613c243a158cdde1cac3dc098",
-    "docs/itemized/figures/project-hail-mary-cumulative-detail-btiha-itemized-by-bytes.svg": "14621184ffc371e013c15c140369cee61195dbc9645ae3be04c0c3382dad1046",
-    "docs/itemized/figures/project-hail-mary-data-ge-1080p-4k.webp": "38bb3366c34454b4fa95ff351f94a019f98f9c38015b06bed9390ac647379644",
-    "docs/itemized/figures/project-hail-mary-data-ge-1080p.webp": "ea7cba5d914d58245adc0af2c770b6c5db01228d2df4539033e36ff8e5d6654d",
-    "docs/itemized/figures/project-hail-mary-data-lt-1080p-4k.webp": "7dd8cdf7b4d44050dc0d4dbed6c13fbb4460ce83e9b92c6b6728181e6258bb55",
-    "docs/itemized/figures/project-hail-mary-data-lt-1080p.webp": "9a6f832fc99e41bc7a90f956e60cc0841f9bdbdeefd790e7d55e075ce9911b32",
-    "docs/itemized/figures/project-hail-mary-downloads-by-day-day.svg": "ff0cf6b24711f0c71928b9e696aed98dffd0518ab6d8ace818b4e14ec0951b23",
-    "docs/itemized/figures/project-hail-mary-downloads-by-week-project-hail-mary-week.svg": "d6d02561e9cffcdbcbc0eb720c08fcbd5f026081d664f26b8c5584dd7bde01b9",
-    "docs/itemized/project-hail-mary-sample-cache-audit.md": "f1974a2636439f66fa29aac875c05927ecc2996fb6cf202dfe59a63ba4fe5ffd",
+    "data/csv/bytes/project-hail-mary-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "5d2a7caf9c99286da29ea01f819504ed2bfce3701938877a10c0cbddcd92e3ee",
+    "docs/itemized/figures/project-hail-mary-carto-4k.webp": "2f5608ce5ba786cc9ee9d134a95a1719f31f607448411003ce4e86ef6bef402b",
+    "docs/itemized/figures/project-hail-mary-carto.png": "6bcb905b1dd188964f7bb4e4d6295224315ae0183f65ebb9fcb4fa0d133633fa",
+    "docs/itemized/figures/project-hail-mary-cumulative-detail-btiha-itemized-by-bytes.svg": "2783db1db44dda2da0c16d035107ab9f3194c96087bc2e9cd9810c81efe5c4c1",
+    "docs/itemized/figures/project-hail-mary-data-ge-1080p-4k.webp": "e1c8065e230da7c8f4b1520af9c568c2d166652332605d2ad246f49736e7c8ce",
+    "docs/itemized/figures/project-hail-mary-data-ge-1080p.webp": "2ae409ed9031b5a252fb4f741a351165d291e6b22b63b1f985bab2f33838c053",
+    "docs/itemized/figures/project-hail-mary-data-lt-1080p-4k.webp": "e1c9b3a30e1d10db8d611a2575ef591dea8a2ed14fa455f7c1dacdc608fa5554",
+    "docs/itemized/figures/project-hail-mary-data-lt-1080p.webp": "755999f08ca2150fbd7fdee11422b153ce3f5be2b366bd233bfd8e1a283915c6",
+    "docs/itemized/figures/project-hail-mary-downloads-by-day-day.svg": "ab0b8a82093a5789a738f57698488bb5c8c85de2b41277f60ddf6be8eb385c2b",
+    "docs/itemized/figures/project-hail-mary-downloads-by-week-project-hail-mary-week.svg": "46e15b40dc269af55c4d34aabc6ca07ce0469e065a00b035515c5bb2b2e4862a",
+    "docs/itemized/project-hail-mary-sample-cache-audit.md": "3c1fe4eb168d2060f422823b523309919583fc68dcbb5d349780373e3d40db6c",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
-      "dirty": true,
-      "path": "/home/bkoz/src/alpha60",
-      "revision": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-carto-geo.exe",
-      "sha256": "b3a4a027bbd74161e6f23843b2258795993de5501c9646ceac69171bc3b5c6a7",
-      "size": 38506936
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/project-hail-mary/tmp/project-hail-mary-cumulative-btiha.geojson",
-        "sha256": "995283bb338b299adcaf669af38d3575e1efcb41b14a3c9d4161b19c5942a73d",
-        "size": 509868953
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/project-hail-mary/tmp/project-hail-mary-cumulative-btiha.geojson",
+        "sha256": "e93d080b554e7aa2a84eb2708593c5e3e26479987d802f412bbea085a4ff4a45",
+        "size": 578462916
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/project-hail-mary/tmp/project-hail-mary-cumulative-btiha-media-objects.json",
-        "sha256": "2cd29358828f9c6522feb33a796ebdd57bf46d34779c1d30008d4a67063fb6c1",
-        "size": 903699
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/project-hail-mary/tmp/project-hail-mary-cumulative-btiha-media-objects.json",
+        "sha256": "e3ca8d2a199c59b4bb4057bdf90ea9af91312ff9f044015780e8f02e909c3a1e",
+        "size": 932814
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi",
       "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
       "untracked": false
     },
     "media_object": "project-hail-mary",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-meta-collection.exe",
-      "sha256": "5076192faeb012e2f504e23286f2049bd9376e589d30730ee1651a45f2ec988c",
-      "size": 8761304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
-      "size": 3694176
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,7 +99,7 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          52.0,
+          47.0,
           26.0,
           26.0,
           26.0,
@@ -174,9 +117,9 @@
           "Nanjing",
           "Seoul",
           "Istanbul",
+          "London",
           "Moscow",
           "Amsterdam",
-          "London",
           "Shanghai",
           "Hangzhou",
           "Lelystad",
@@ -189,14 +132,14 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          79.0,
-          46.0,
-          41.0,
+          88.0,
+          47.0,
+          44.0,
           32.0,
-          30.0,
+          31.0,
+          31.0,
+          29.0,
           28.0,
-          27.0,
-          27.0,
           26.0
         ],
         "image_references": [
@@ -210,9 +153,9 @@
           "Istanbul",
           "Amsterdam",
           "Shanghai",
+          "London",
           "Saint Petersburg",
           "Hangzhou",
-          "London",
           "Lelystad"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
@@ -223,7 +166,7 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 24,
+        "x_tick_labels": 21,
         "y_tick_labels": 22
       },
       "histogram": {
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 17,
+        "x_tick_labels": 21,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "c6c0535f3a23efb84789494535a4e517cbbd2581",
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
     "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "80bbff3d43f5e85d29253d29c3badec50e861677"
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
   },
   "status": "passed",
   "validation_source": "render-receipt",

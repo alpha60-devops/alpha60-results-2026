@@ -10,32 +10,615 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 119,
-  "cache_members": 40939,
+  "available_day_products": 141,
+  "cache_members": 50995,
   "collection_key": "project-hail-mary",
   "downstream_cache_synthesis": {
     "cache_members": {
-      "cumulative": 446,
-      "week": 5953
+      "cumulative": 462,
+      "week": 7786
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
-      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
-      "size": 30067072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
+    },
+    "retained_derivation": {
+      "actual_executor": "ord",
+      "adopted_json_products": {
+        "project-hail-mary-swarm-day-00001-2026-05-11.json": {
+          "sha256": "8e21179929931e141846b4e61af89a0dc43a2bd56ba9dd9f6d0fced449850f8b",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00002-2026-05-12.json": {
+          "sha256": "4e1322665c763ca098c5c8fd03ef6f0449494a6349e1909d5f7ce2fd7650404f",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00003-2026-05-13.json": {
+          "sha256": "9688b3bcefe7d4173b97c030f5c31d0596b0dd5212aebd9bb3cd37e3f8f88006",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00004-2026-05-14.json": {
+          "sha256": "94147aec4ce90ec46bc8006d7b1d142268a5419556de50ef211e5fe86759b567",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00005-2026-05-15.json": {
+          "sha256": "345638c4dd21141c26ad71853029a8d539763e547651168d535a0e23ead59cd3",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00006-2026-05-16.json": {
+          "sha256": "a5eb15cbedfeba33e4ef11b8868934cb7f508e8116e0246ae95d2a536550655a",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00007-2026-05-17.json": {
+          "sha256": "40707ea4a188be37e32e74ae0810f24622b99a1b59154261c353661a74347006",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00008-2026-05-18.json": {
+          "sha256": "09c2a1aa28d9886cda1b3a9082e4b24c7b0c2fe97c2146ed78eae303f9af6327",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00009-2026-05-19.json": {
+          "sha256": "b852457efd5bb22588fa776c2046d2dd4d3f39a2f55a58fc7bbda08f7c22228c",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00010-2026-05-20.json": {
+          "sha256": "3465c64399b0082aa770f73bbb4cd966aa1032a2574e726d7403ba5a53b8e2e4",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00011-2026-05-21.json": {
+          "sha256": "897aa1f539cf6b28659a706008329a7adfee94965c51c7220044c97680ddbd4e",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00012-2026-05-22.json": {
+          "sha256": "58ca03bee5ab50803d0d60cdef6a677db7cd50fa64c183e9c9d9239567e0d2d1",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00013-2026-05-23.json": {
+          "sha256": "49f7841081b77d68e5563856ff843b42d6847934c0f921a4e55fbed7365d91a3",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00014-2026-05-24.json": {
+          "sha256": "50407496f73f9c45583b7e6bca3ab98d468894831b436bd6e8386472fe870280",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00015-2026-05-25.json": {
+          "sha256": "a0151cfe07f8a15409a9b184067cd400833af22d8336c76512e671d604866bb5",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00016-2026-05-26.json": {
+          "sha256": "d975aaf17b535fdbccca95fd23dc95490c43fc53b409a9d36b378935a199025d",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00017-2026-05-27.json": {
+          "sha256": "893b3eb822b7f943532f73f5c367c912ec7e192a76a2cc7358a55393169b4f82",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00018-2026-05-28.json": {
+          "sha256": "b281d040db6a767d0b77bc38ce3734e28e475b8e13ff7e0803c73a646bef22d6",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00019-2026-05-29.json": {
+          "sha256": "93a93a677be91db163938b21a6863e5fef838d3cc22ac6d4d8978cd3d70afd80",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00020-2026-05-30.json": {
+          "sha256": "20e502daa1b91542fabff32a22b9ea0ab0d9cff457cb0b0b58bceb423ede9457",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00021-2026-05-31.json": {
+          "sha256": "695d82d090d58aec4616adb5b4c093765bb235e906db4cf87287046ccadbc9cf",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00022-2026-06-01.json": {
+          "sha256": "6e778812fef0926f56dae88a4b42a60c1b9f5e4fcf6fa1ab5e57effe8dd576ce",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00023-2026-06-02.json": {
+          "sha256": "83c64a2129871ca91d5602a7bf0d2cb65568a2ce6c7f4eb692f9b7f3657c923d",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00024-2026-06-03.json": {
+          "sha256": "0d88ca38da17f444021c118d684813516a48ba998881863f9e4f73cb0a798096",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00025-2026-06-04.json": {
+          "sha256": "8e7738bf25435ac4c74070ca35db0e614abfb2bbb06d7b457b14891c74a8fafa",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00026-2026-06-05.json": {
+          "sha256": "d9c1ff7413f4b3eab3a24fbdf4348c6c5245c4ec6d35ee2c0542ef716d85e930",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00027-2026-06-06.json": {
+          "sha256": "17bde01686059f6bf2de07407c32a4a0a7b2ccff10556ebd2a5a2b4cf475c940",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00028-2026-06-07.json": {
+          "sha256": "5030e3257e86f9efb8e30f9c1b281b421000a20dac43e981045c2efc970454be",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00029-2026-06-08.json": {
+          "sha256": "9a1031f6af9d16f15004f05e64249a4f61536c402f08858e2eccd993119044b4",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00030-2026-06-09.json": {
+          "sha256": "4fd28001891c861f1921a332b2422c26c930eff3c3d648d4f2f4a9762aad834f",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00031-2026-06-10.json": {
+          "sha256": "4f84a514075bb1439ddbd99e2493b89afaead4ed2bd6658fd3d4c25b2cc776db",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00032-2026-06-11.json": {
+          "sha256": "88f0c99fe5137baef197467e49f6ce3c4cfc4a22835767289c7e288a1783a071",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00033-2026-06-12.json": {
+          "sha256": "391ff4a5ca972aa0471b59eba2782fc3275cf0bcbe4ddf0047a40e0a5928d81c",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00034-2026-06-13.json": {
+          "sha256": "7f05f34d8ca9a9fcf2d728c59b49eda4f7ef9f70ee25a5840bbf1a37c27adf45",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00035-2026-06-14.json": {
+          "sha256": "bc34e4e0f8452bc4b495320c6909ec420258684dcaf1060d7c6f94aab2472168",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00036-2026-06-15.json": {
+          "sha256": "dae38e55d71e076d549569de426ac2995e38fbc6c03ed6a4c4ed186169314670",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00037-2026-06-16.json": {
+          "sha256": "4cd7a276056760bdd413b3a52e7780c78dc8660a5ab35cd2441a6dfe2c9aa470",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00038-2026-06-17.json": {
+          "sha256": "6236609e53b6e978c6c347883c8630ed43d8c385acc6138b88d13a67ea3094dd",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00039-2026-06-18.json": {
+          "sha256": "475d8f874d80a8a68cbced43c5c8a07017c822a399e6fea8722473ab8018edcf",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00040-2026-06-19.json": {
+          "sha256": "31dd57e8c27a3c8920b53ae159cdf87419f7426ce8fe5f29b6e054d3da5d3376",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00041-2026-06-20.json": {
+          "sha256": "29adae0b566ddb48ada9bb495cdcdaa82e5018894bc2411168c5a975459ba311",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00042-2026-06-21.json": {
+          "sha256": "deaa6a5ee8d2949348e8db0714f6d0478929a5e8878b5b04bf960de989c98fc7",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00043-2026-06-22.json": {
+          "sha256": "095c0ebaa75d2d42ace116b0d18bad9e1ea18eae5d0064da0e8880b84f1c6c2d",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00044-2026-06-23.json": {
+          "sha256": "e0643e3289453047fced71fcce6efb289f2a1e9bc39ae6e031d1122fb1386dfb",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00045-2026-06-24.json": {
+          "sha256": "fd175fab705bb39f7774e0daeb0a7f24626aa3a1ef6388f9955797d90624b519",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00046-2026-06-25.json": {
+          "sha256": "2b434ff7ba1a701d90ece5189da97911971593b5560e58583a72531173d9ea3a",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00047-2026-06-26.json": {
+          "sha256": "ded36d0a1c20bc2ec7e77b4c004f2692f1c286a8533de3de33b5b59289d6535f",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00048-2026-06-27.json": {
+          "sha256": "80d8d32f2cd0032cbbdbe1cb2331ff85c573fb08dc6e05239a5ee840b71fa0d0",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00049-2026-06-28.json": {
+          "sha256": "ee56fe991ed63c347157a744c0a49429a9922c00c336b628c654c3e95f474e23",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00050-2026-06-29.json": {
+          "sha256": "fdfdec2605585d6b54dfc22b55ffb7f739d42c22e384eb4ed545daaca8683a0b",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00051-2026-06-30.json": {
+          "sha256": "68490b20c37077d01850ec0db9e9d2ff00f8df4958dadc8942bb336c45e9a0e3",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00052-2026-07-01.json": {
+          "sha256": "20aea1adbb099917ef714f9b2736f97fec02ff37e7e4f5cd62247c45bc9c499f",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00053-2026-07-02.json": {
+          "sha256": "fd46304ba4bf36753a810bb9732465ab9f5bba91b248aca3d2450e744c02e267",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00054-2026-07-03.json": {
+          "sha256": "a550b0d25e2b872c5f9fc2aeac3d6fb0503f22d6f2dcbee66f279aeb369b58ca",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00055-2026-07-04.json": {
+          "sha256": "491f474714e8dd575725fd341cc06d23704efed6dea12a332897b6b7ab240bb8",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00056-2026-07-05.json": {
+          "sha256": "b083bd6966c27e586b798757bf52deba4a5d5287b9f11445d4c791ec573f87e9",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00057-2026-07-06.json": {
+          "sha256": "27eb07eb68fb2fdd5354a3f83b9584f75884eac94906ddaca352e988680e1828",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00058-2026-07-07.json": {
+          "sha256": "264fa730af34d7a1c1afd80b92ebc24fc19774a511c8d6e5e52c74fba8639e15",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00059-2026-07-08.json": {
+          "sha256": "cecaacb4a5887e49959fc4a24bf90a859035bdb1122c107c4e73ac13442f50c4",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00060-2026-07-09.json": {
+          "sha256": "70ca08b150e51a0822f912274557556ae487b09b85e52048b0faf299cf58db0c",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00061-2026-07-10.json": {
+          "sha256": "488721e8dc52f6a4e15c02747bf270cceea91ec72de364d60ee3d8a1e039b7ce",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00062-2026-07-11.json": {
+          "sha256": "487a796d3d99f65e44cddda86644714db0ad2d2be3d0b4bc67e999de8237753d",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00063-2026-07-12.json": {
+          "sha256": "6edd3c80c57f68e67125283d1c914fa7538c4830fe0f9b915d672d81a3bc93f9",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00064-2026-07-13.json": {
+          "sha256": "bf8ae70d515851d657f04ac608c77421387dc23f2ca4815e04c39de5aab73515",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00065-2026-07-14.json": {
+          "sha256": "b58e706fca9e585a8c1a6f4e2f673190bab5949b5aaa669da915f9202af852b0",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00066-2026-07-15.json": {
+          "sha256": "e9e785d962dc7eca532c3b841a494342f6c5dc8d120dee3d6538bb23bbd677a8",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00067-2026-07-16.json": {
+          "sha256": "906854ea3fe2b8ff33531e8a803c42a48624bb29e56a2def1c3437332b6468af",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00068-2026-07-17.json": {
+          "sha256": "c8e5a9f6a17b17e85387ddc08ab76691f39a249514f6e34ca8476aeffc5fa67e",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00069-2026-07-18.json": {
+          "sha256": "dffcdc854f935057664b06d89a8afa4d7d63f8029dbb54097b591c129f577843",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00070-2026-07-19.json": {
+          "sha256": "b00bb6d99f51c038582cb174afc99c97d9e0fde8f127b57260933599d020f7d9",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00071-2026-07-20.json": {
+          "sha256": "0a57049061e6c2da88d9b4bde5ca74b7b48084a26dd15a94378b198d1c907dc9",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00072-2026-07-21.json": {
+          "sha256": "63ebac847e8a77c2b275e73a3e8d793bf52619eb8af48d386048f114c65fc0ce",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00073-2026-07-22.json": {
+          "sha256": "e0ea908f43d63867587483633b8130bad94033cee4e461065a507ac7c3263836",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00074-2026-07-23.json": {
+          "sha256": "12cf6ae317dff37246b1113064aa97c737aa43323d38956181fdc85e0816178f",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00075-2026-07-24.json": {
+          "sha256": "2af1034c4e06fc21a94d95aa153f2a28dfb8962b72570074bef698b061ded803",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00076-2026-07-25.json": {
+          "sha256": "4d6606764b462a94aa1e9ac3879c806c83903b57a8713e706e840424ff27f942",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00077-2026-07-26.json": {
+          "sha256": "46a227f12ef40c78e256b12b5b0ac454ef333f9aebe390f011977601249ca0ea",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00078-2026-07-27.json": {
+          "sha256": "0a79b71cd3e4601c65a8a5298e4d6475067f3e87c41577ef1d4ad07cb714e288",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00079-2026-07-28.json": {
+          "sha256": "e2ce3f8a7c4bfb7eb1dfcb1f6696253cb9d415981feb4945e42d47a3a20b2ea7",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00080-2026-07-29.json": {
+          "sha256": "549b2e3620a9332233b675d78ec690741c0413070001ccab52d15d9e29d7cc2b",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00081-2026-07-30.json": {
+          "sha256": "51def60521a40546fa78c8312effc1360900ab6fb6e0b694775219ae13db8926",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00082-2026-07-31.json": {
+          "sha256": "34f00e20f05747c1ae9d57780254c649fdc1cd0d29d8ff1f044c21b188184af7",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00083-2026-08-01.json": {
+          "sha256": "bca5e4336d9879d71e946a6ff2873e8f2bc00f3d032a745cbeb7784a6874c770",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00084-2026-08-02.json": {
+          "sha256": "a9176fd7393671a5d33f0a69ac0247451dc7cd75c884832185fdb6ecadfddeca",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00085-2026-08-03.json": {
+          "sha256": "22fe4022c26ae7a855ca746c2c5a9d0267a0dd26d25e6afeaa52265ef2c3069e",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00086-2026-08-04.json": {
+          "sha256": "61a57d861524c8d8a76dc4f117b31ce129b8c628e75ecea493ecdb8dd1a76628",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00087-2026-08-05.json": {
+          "sha256": "ace3e098971a9f9a0da7b0d009b1fb61bf61292d291ae6272274aa3367693dcf",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00088-2026-08-06.json": {
+          "sha256": "248243efb571a299b25bb832ee142bdfc2bc2b5ffa4a45c6f94141ed0f5cf2da",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00089-2026-08-07.json": {
+          "sha256": "ed890904784bf2baab6ce673ed204473d46134c350edbe462387a14e6bc94cd9",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00090-2026-08-08.json": {
+          "sha256": "8e6a9559226f1af0a1ef3915354c7a86dc305c90cec4a828e444004a60afed7f",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00091-2026-08-09.json": {
+          "sha256": "9808c07a22d7c8d6bfbe29714e7705da9cbfe6769de798366d7794b55559f1e4",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00092-2026-08-10.json": {
+          "sha256": "558356f612bf1c983c1a5b43f13bcdee06dc6a51240e032ec2f8bfba26eeba92",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00093-2026-08-11.json": {
+          "sha256": "ae4d2596f81d307155877ab771c8b52abebc51ffbc86a13a0c3185beacb31aa0",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00094-2026-08-12.json": {
+          "sha256": "812ea669a9b87a29e8f0b7f72aa394c7ea7c7140991e582c89744325f3ae6aa7",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00095-2026-08-13.json": {
+          "sha256": "f7dde7ab780ba39f9edda5e85accab2ff81328ae3c6958dfcc863bb247eecdd3",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00096-2026-08-14.json": {
+          "sha256": "18336736b4d15128afdc1e83b35fdd6f87588361bcdf3052be94364be94dd4a8",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00097-2026-08-15.json": {
+          "sha256": "723e12a4d089b664452af1113489c81376b6b2b6a97b99505f1fe148c925268e",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00098-2026-08-16.json": {
+          "sha256": "fa810783c3c5a145d41055953f14d81680f34f83947d66b005a4d37e19458779",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00099-2026-08-17.json": {
+          "sha256": "8a3c38cffeda3023907e0508f136a0c0c2fb8dbb157af15d4103902b0f6b72c4",
+          "size": 451
+        },
+        "project-hail-mary-swarm-day-00100-2026-08-18.json": {
+          "sha256": "868e0040a6b3c82ca5fdda070b1c380c5eff073c6994d8c2850f8fa1f182acde",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00101-2026-08-19.json": {
+          "sha256": "b7009c230ba8dd7d89e597524c23985bd4914f0fb4c1100815589a57ccb9f882",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00102-2026-08-20.json": {
+          "sha256": "aea69b07968d6ebf1e1764a27db059da7491d53c07f5b10122a3354c5aa56ea0",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00103-2026-08-21.json": {
+          "sha256": "663543f7349cd574ee74d4334251481528348b820df8ffc3c9a6350a0828a66f",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00104-2026-08-22.json": {
+          "sha256": "21a21ce44483ca1fad53b1df4a9df922ddd57cf9e064a69c280da504a15a2f4e",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00105-2026-08-23.json": {
+          "sha256": "8ffae76e203b7e484a035c55ddac9e7f81d3569cc30302d09041225a63f35fb2",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00106-2026-08-24.json": {
+          "sha256": "ec87c229fe69761c0317fbe99c2ca2eec6dc2dd2fa2c824c18c534924b1915a3",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00107-2026-08-25.json": {
+          "sha256": "700db63b71e0cf2033bc5c9b1dfb4fea3e0b242a5b42897a7d04c888191c14aa",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00108-2026-08-26.json": {
+          "sha256": "772ce886791ffce0176b2d344f3bc7ee4bfc9d37eb9e681aee627d0e39e514d4",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00109-2026-08-27.json": {
+          "sha256": "f33f869acfe95e066d41c4346fe9e03e9f2908e78d51c059e1f1c70dc9158928",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00110-2026-08-28.json": {
+          "sha256": "b3557840983a9682520d72fa542e6bbaf1c67ef31fe67240d4f024717002956b",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00111-2026-08-29.json": {
+          "sha256": "6efe496fc17f3190e3605d8d34ed49a4dc8d367071b6059fad7c8d1f43ec84c0",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00112-2026-08-30.json": {
+          "sha256": "50c03fa5209e0ab787b4f5f44c56fcfb7919507f0fc964b748709981d98b3b1e",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00113-2026-08-31.json": {
+          "sha256": "4848f5e451da48102e3eacffc98ab3769531710a4ab88c8463b16a67ab54ed76",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00114-2026-09-01.json": {
+          "sha256": "f8a3a2bfcc1ff6a949d20990be195aecbbd187ebe551098f374bd0d49d1c78b5",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00115-2026-09-02.json": {
+          "sha256": "94e3faee5517ab03852bfc01974184f32acaf44e19b2ac691e69fdd0cf008e9c",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00116-2026-09-03.json": {
+          "sha256": "5a6ef312a7c79468b7605dc863dd006a5a4dc01e43ae603860499c1666938874",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00117-2026-09-04.json": {
+          "sha256": "bc0904ce78ba0dea07a12f20ebdb6f630e8fcd9fea68ee59edf0672607d0dd1e",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00118-2026-09-05.json": {
+          "sha256": "cc4316ef0cc764185b8d1e168e66ce38e949f6015afbb29d9e79e7c399d9f7ad",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00119-2026-09-06.json": {
+          "sha256": "6f00512101a7a8bacebc52d74a4611525c5526d4f8f6efca5a546a2b445c1c48",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00120-2026-09-07.json": {
+          "sha256": "89f60e3aeb573174ee35a4f99c90e4974f28b3e7960f1e53944277c3bf768f21",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00121-2026-09-08.json": {
+          "sha256": "586c6fcd7585add22ac44de7e1480ed71dde80f71bb8878c37d28e76c21b2a9e",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00122-2026-09-09.json": {
+          "sha256": "df500f6bf1170b186d3ead9a467116c9be27c74334f9b42b1790d4d6eaa9713a",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00123-2026-09-10.json": {
+          "sha256": "d7bc945b138822f4cf8b67a2037084c8b984708fa0856f1374733bee80736f87",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00124-2026-09-11.json": {
+          "sha256": "c022aa3aea258ace60594532716ccac905d402cf234f6c38e989c5db2ad1a17d",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00125-2026-09-12.json": {
+          "sha256": "c92ed5509f196989cebf7946ba7bb24c144f3c2a564be4e73ea0702df52d88b9",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00126-2026-09-13.json": {
+          "sha256": "37eb1eb30d86f4702c7114df7e10f26fa0423c765a251bc163ec6529774a56d9",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00127-2026-09-14.json": {
+          "sha256": "78dfc1588e270baa214021d8328de0d3144b83ab62e7da74c59b885cbebf8229",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00128-2026-09-15.json": {
+          "sha256": "beea65d0c2863c8bc7e1d061fa31568a1540b6d5248d9aa5de0c757fdfaac1e6",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00129-2026-09-16.json": {
+          "sha256": "745f9fbc93afb39af21a00b76b07800a0f5abf0877ab4c7d2fcd6ed27ee104dd",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00130-2026-09-17.json": {
+          "sha256": "281b2d5f5cb76e333a8cad3ca32ff3c85d6697da390782db833d8af3d8a5c8f4",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00131-2026-09-18.json": {
+          "sha256": "b5e70d7dc8d5fd271bb44352c4a0b528f27a9351ac51020bf5087babdf495ecc",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00132-2026-09-19.json": {
+          "sha256": "ac9059160cc20638b39d93c8ffa77cd4ed8894d2bad4f03ff47c22c66d485461",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00133-2026-09-20.json": {
+          "sha256": "60aca56e13e311c740aa7d8ccdf06dcf2fef944b6dbbc6b0199f317dc78b58da",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00134-2026-09-21.json": {
+          "sha256": "6fc6896b042f3a711528a3ed567fa694b063f4a9e862165ac7f5f6f4c883acf9",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00135-2026-09-22.json": {
+          "sha256": "d3efef21e90f8690add4549e68001e2a7cbaf0f58388df1cbacaf4b0319c6024",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00136-2026-09-23.json": {
+          "sha256": "141fbad15c7aa84877ae351850e2e46ad726855bdfaf08d99ea20689cc5907ed",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00137-2026-09-24.json": {
+          "sha256": "88d0fb3a61db29a4c504cc9a8cbceb7020d8d3c15bacc0fa3b907f2c2f30f0c2",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00138-2026-09-25.json": {
+          "sha256": "9f81db62eaba01ad04187988e5d0dcf0fca7ede5f4e015d5ec0b5fb466866aec",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00139-2026-09-26.json": {
+          "sha256": "27562a93cf1842acdf3ee7cb788f52991d75cb92a173e36220bec871d02e7e78",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00140-2026-09-27.json": {
+          "sha256": "4f924ffb62fb7e129f7f9ce0e28b6c46273b44027d1838cb617f24b529db2ba0",
+          "size": 452
+        },
+        "project-hail-mary-swarm-day-00141-2026-09-28.json": {
+          "sha256": "d1ee5c1361d27ff95e1b1d523fe34a9a92c7fde2bdfcd5ed4016bc047392b6a1",
+          "size": 452
+        },
+        "project-hail-mary-week.json": {
+          "sha256": "9c052d75d5572d5a239394ad9f9ccb70947104d6b0cb57ff50a58239f78b55ed",
+          "size": 3344122
+        }
+      },
+      "cache_native_invocations": 0,
+      "hardlink_view": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/project-hail-mary/tmp/retained-day-cache-input/cache.20260928",
+      "original_input_host": "eureka",
+      "original_scripts_modified": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/runtime/retained-substeps-v1/project-hail-mary/resume-results-from-retained-substeps.py",
+      "preflight_sha256": "a693b9a2730417bb140455198bee4c16e7f1f4e124177288a7edbe988a2aca88",
+      "raw_samples_opened": false,
+      "request_sha256": "f3193f5332461d1e0cca3395fe482e6e0311883d7af64bbaca1faa6efcd6d534",
+      "retained_day_extraction": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/project-hail-mary/tmp/cache/cache.20260928",
+      "sha256": "65de49c42070c494f25b650d6745b936073f6f0d7b4b1015ba6e53fe3ea6b9d9"
     },
     "sample_anchor": {
       "directories": [
         "2026-05-11-at-00-00",
-        "2026-09-06-at-00-00"
+        "2026-09-28-at-00-00"
       ],
       "keys": [
         "project-hail-mary"
       ],
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/project-hail-mary/tmp/project-hail-mary-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/project-hail-mary/tmp/project-hail-mary-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -164,27 +747,49 @@
     116,
     117,
     118,
-    119
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141
   ],
-  "last_date": "2026-09-06",
-  "last_index": 119,
+  "last_date": "2026-09-28",
+  "last_index": 141,
   "missing_indices": [],
-  "sample_span_days": 119,
+  "sample_span_days": 141,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 40939,
+    "admitted_cache_members": 50995,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-05-11",
-    "required_last_date": "2026-09-06",
-    "required_span_days": 119,
+    "required_last_date": "2026-09-28",
+    "required_span_days": 141,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 40939,
+    "source_cache_members": 50995,
     "source_first_date": "2026-05-11",
     "source_first_index": 1,
-    "source_last_date": "2026-09-06",
-    "source_last_index": 119
+    "source_last_date": "2026-09-28",
+    "source_last_index": 141
   },
   "sparse": false,
   "status": "pass"
