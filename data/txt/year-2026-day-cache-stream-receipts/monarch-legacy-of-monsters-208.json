@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 146,
-  "cache_members": 61159,
+  "available_day_products": 167,
+  "cache_members": 70479,
   "collection_key": "monarch-legacy-of-monsters-208",
   "downstream_cache_synthesis": {
     "cache_members": {
       "cumulative": 445,
-      "week": 8853
+      "week": 10186
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/binaries/a60-cache-samples.exe",
-      "sha256": "efa19a7f66d839fe55162c891a229cf9864f0a20327c1c08742692a4e43cee94",
-      "size": 30067072
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-cache-samples.exe",
+      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
+      "size": 40182408
     },
     "sample_anchor": {
       "directories": [
         "2026-04-17-at-00-00",
-        "2026-09-10-at-00-00"
+        "2026-10-01-at-00-00"
       ],
       "keys": [
         "monarch-legacy-of-monsters-208"
       ],
-      "path": "/home/bkoz/src/alpha60-xperiments/year-2026-pilot/work/monarch-legacy-of-monsters-208/tmp/monarch-legacy-of-monsters-208-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/monarch-legacy-of-monsters-208/tmp/monarch-legacy-of-monsters-208-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -191,29 +191,50 @@
     144,
     145,
     146,
-    147
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168
   ],
-  "last_date": "2026-09-10",
-  "last_index": 147,
+  "last_date": "2026-10-01",
+  "last_index": 168,
   "missing_indices": [
     71
   ],
-  "sample_span_days": 147,
+  "sample_span_days": 168,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 61159,
+    "admitted_cache_members": 70479,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-04-17",
-    "required_last_date": "2026-09-10",
-    "required_span_days": 147,
+    "required_last_date": "2026-10-01",
+    "required_span_days": 168,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 61159,
+    "source_cache_members": 70479,
     "source_first_date": "2026-04-17",
     "source_first_index": 1,
-    "source_last_date": "2026-09-10",
-    "source_last_index": 147
+    "source_last_date": "2026-10-01",
+    "source_last_index": 168
   },
   "sparse": true,
   "status": "pass"

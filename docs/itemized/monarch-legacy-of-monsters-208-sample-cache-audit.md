@@ -15,36 +15,1389 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `monarch-legacy-of-monsters-208` |
 | imdb_id | [tt17220216](https://www.imdb.com/title/tt17220216/) |
 | wikipedia_url | [Monarch: Legacy of Monsters](https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters) |
-| Sample dates | 2026-04-17-to-2026-09-10 |
-| Sample days | 147 |
+| Sample dates | 2026-04-17-to-2026-10-01 |
+| Sample days | 168 |
 | BTIH count | 445 |
 | Unique BTIH count | 421 |
-| Downloaders total | 53,653,736 |
-| Uploaders total | 1,927,569 |
+| Downloaders total | 58,355,890 |
+| Uploaders total | 1,991,329 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Coverage report
+## 2. Sample coverage report
 
-- Generated: 2026-09-13T17:13:07Z
-- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz`
-- Hour directories: 3447
-- Zero-length sample files: 0
-- Other unparsable sample files: 0
-- Hourly discontinuities: 2 (67 missing hours)
+- Generated: 2026-10-07T14:25:16Z
+- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz`
+- Hour directories: 3947
+- Zero-length sample files: 1335
+- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Hourly discontinuities: 3 (70 missing hours)
 - Missing days: 1
+
+Zero-length records are missing sampler observations. Their
+cause was not established by this run. Each gap remains explicit.
+
+### Zero-length sample files
+
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - S02E08 - Separate Ways.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - S02E08 - Separate Ways.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - S02E09 - Ends of the Earth.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - S02E09 - Ends of the Earth.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - S02E09 - Ends of the Earth.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - S02E10 - Where We Belong.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - S02E10 - Where We Belong.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - S02E10 - Where We Belong.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - S02E10 - Where We Belong.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - S02E10 - Where We Belong.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - Season 2-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - Season 2-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - Season 2-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters - Season 2-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters S02 [DUB] [Dragon Money Studio] 1080p-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters S02 [DUB] [Dragon Money Studio] 1080p-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legacy of Monsters S02 [DUB] [Dragon Money Studio] 1080p-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legado de Monstros S02E08 WEB-DL 1080p x264 DUAL 5.1-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legado de Monstros S02E08 WEB-DL 1080p x264 DUAL 5.1-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legado de Monstros S02E08 WEB-DL 1080p x264 DUAL 5.1-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legado de Monstros S02E09 WEB-DL 1080p x264 DUAL 5.1-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legado de Monstros S02E09 WEB-DL 1080p x264 DUAL 5.1-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legado de Monstros S02E09 WEB-DL 1080p x264 DUAL 5.1-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legado de Monstros S02E10 WEB-DL 1080p x264 DUAL 5.1-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legado de Monstros S02E10 WEB-DL 1080p x264 DUAL 5.1-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch - Legado de Monstros S02E10 WEB-DL 1080p x264 DUAL 5.1-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos 2x08 Caminos separados [CLYON].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos 2x08 Caminos separados [CLYON].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos 2x08 Caminos separados [CLYON].mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos 2x08 Caminos separados [CLYON].mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos 2x08 Caminos separados [CLYON].mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos 2x09 Los confines de la tierra [CLYON].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos 2x09 Los confines de la tierra [CLYON].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos 2x09 Los confines de la tierra [CLYON].mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos 2x10 Donde pertenecemos [CLYON].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos 2x10 Donde pertenecemos [CLYON].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos [4k 2160p][Cap.208]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch El Legado De Los Monstruos [4k 2160p][Cap.208]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy Of Monsters S02e01-10 (1080p Ita Eng Spa h265 10bit SubS) byMe7alh-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy Of Monsters S02e01-10 (1080p Ita Eng Spa h265 10bit SubS) byMe7alh-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy Of Monsters S02e01-10 (720p Ita Eng Spa SubS) byMe7alh-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy Of Monsters S02e01-10 (720p Ita Eng Spa SubS) byMe7alh-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy Of Monsters S02e01-10 (720p Ita Eng Spa SubS) byMe7alh-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy Of Monsters S02e01-10 (720p Ita Eng Spa SubS) byMe7alh-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy Of Monsters Season 2 Mp4 1080p-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy Of Monsters Season 2 Mp4 1080p-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy Of Monsters Season 2 Mp4 1080p-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters (2023) S02E10 720p hevc x265 [WD-13].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters (2023) S02E10 720p hevc x265 [WD-13].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters (2023) S02E10 720p hevc x265 [WD-13].mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters (2023) S02E10 720p hevc x265 [WD-13].mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters 2X8 HDTV XviD Castellano-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters 2X8 HDTV XviD Castellano-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p AMZN WEB-DL DDP 5 1 H 264-SPWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p AMZN WEB-DL DDP 5 1 H 264-SPWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p AMZN WEB-DL DDP 5 1 H 264-SPWEB [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p AMZN WEB-DL DDP 5 1 H 264-SPWEB [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p AMZN WEB-DL DDP 5 1 H 264-SPWEB [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 2026 2160p ATVP WEB-DL DDP5 1 Atmos H 265 HDR-HDSWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 2026 2160p ATVP WEB-DL DDP5 1 Atmos H 265 HDR-HDSWEB [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 2026 2160p ATVP WEB-DL DDP5 1 Atmos H 265 HDR-HDSWEB [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 720p x264-FENiX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 web 10Bit hevc-d3g [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 web 10Bit hevc-d3g [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 web 10Bit hevc-d3g [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02 web 10Bit hevc-d3g [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 1080p x265-ELiTE [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 1080p x265-ELiTE [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 1080p x265-ELiTE [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 1080p x265-ELiTE [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 720p x264-FENiX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 720p x264-FENiX [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 720p x264-FENiX [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 MULTI 1080p WEB H264-HiggsBoson [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 MULTI 1080p WEB H264-HiggsBoson [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 MULTI 1080p WEB H264-HiggsBoson [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 H 265-NTb [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 H 265-NTb [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p WEB h264-ETHE.exe-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p WEB h264-ETHE.scr-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p WEB h264-ETHE.scr-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p WEB h264-ETHE.scr-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p x265-ELiTE [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p x265-ELiTE [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p x265-ELiTE [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p x265-ELiTE [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p x265-ELiTE[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p x265-ELiTE[EZTVx.to].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p x265-ELiTE[EZTVx.to].mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 1080p x265-ELiTE[EZTVx.to].mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 2023 1080p ATVP WEB-DL DDP5 1 Atmos H 264-HHWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 2023 1080p ATVP WEB-DL DDP5 1 Atmos H 264-HHWEB [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 2023 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 2023 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 2023 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 2023 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 2023 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-HHWEB [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 720p x264-FENiX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 720p x264-FENiX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 720p x264-FENiX [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 720p x264-FENiX [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 H 265-NTb [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 H 265-NTb [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 MULTI 1080p WEB H264-HiggsBoson [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 MULTI 1080p WEB H264-HiggsBoson [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 MULTI 1080p WEB H264-HiggsBoson [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 MULTI 1080p WEB H264-HiggsBoson [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E09 MULTI 1080p WEB H264-HiggsBoson [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT](1)-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT](1)-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT](1)-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT](1)-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p WEB h264-ETHE.exe-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p WEB h264-ETHE.exe-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p WEB h264-ETHE.exe-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p WEB h264-ETHE.exe-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p WEB h264-ETHE.scr-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p WEB h264-ETHE.scr-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p x265-ELiTE [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p x265-ELiTE [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 1080p x265-ELiTE [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 720p x264-FENiX [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 1080p WEBRip 10bit DDP5 1 HEVC-d3g [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 H 265-NTb [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 H 265-NTb [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 H 265-NTb [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 H 264-NTb [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters [4k 2160p][Cap.210]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters [4k 2160p][Cap.210]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch Legacy of Monsters [4k 2160p][Cap.210]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 1080p][Cap.208]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 1080p][Cap.208]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 1080p][Cap.208]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 1080p][Cap.208]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 1080p][Cap.208]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 1080p][Cap.209]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 1080p][Cap.209]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 1080p][Cap.209]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 1080p][Cap.209]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.110]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.110]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.110]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.110]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.110]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.208]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.208]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.208]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.208]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.208]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.209]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.209]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV 720p][Cap.209]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV][Cap.208]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV][Cap.208]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV][Cap.208]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch [HDTV][Cap.208]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch. El legado de los monstruos 2X10 HDTV XviD Castellano-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch. El legado de los monstruos 2X10 HDTV XviD Castellano-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch. El legado de los monstruos 2X9 HDTV XviD Castellano-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch. El legado de los monstruos 2X9 HDTV XviD Castellano-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch. El legado de los monstruos 2X9 HDTV XviD Castellano-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy of Monsters.S2.AV1.WEB-DLRip(1080p).10 bit.Djon-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy of Monsters.S2.AV1.WEB-DLRip(1080p).10 bit.Djon-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy of Monsters.S2.AV1.WEB-DLRip(1080p).10 bit.Djon-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy of Monsters.S2.AV1.WEB-DLRip(1080p).10 bit.Djon-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy of Monsters.S2.AV1.WEB-DLRip(1080p).HDR10.Djon-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy of Monsters.S2.AV1.WEB-DLRip(1080p).HDR10.Djon-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy of Monsters.S2.AV1.WEB-DLRip(1080p).HDR10.Djon-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy of Monsters.S2.AV1.WEB-DLRip(1080p).HDR10.Djon-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02.2160p.WEB-DL.DV.HDR10+.MULTi.LAT.ITA.FRE.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02.2160p.WEB-DL.DV.HDR10+.MULTi.LAT.ITA.FRE.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02.2160p.WEB-DL.DV.HDR10+.MULTi.LAT.ITA.FRE.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02.2160p.WEB-DL.DV.HDR10+.MULTi.LAT.ITA.FRE.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02.ITA.ENG.1080p.ATVP.WEBRip.AAC.x265-Pir8-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02.ITA.ENG.1080p.ATVP.WEBRip.AAC.x265-Pir8-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02.ITA.ENG.1080p.ATVP.WEBRip.AAC.x265-Pir8-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02.ITA.ENG.ATVP.WEBRip.XviD-Pir8-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02.ITA.ENG.ATVP.WEBRip.XviD-Pir8-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02.ITA.ENG.ATVP.WEBRip.XviD-Pir8-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e08.Ita.Eng.Spa.1080p.h265.10bit.SubS-Me7alh.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e08.Ita.Eng.Spa.1080p.h265.10bit.SubS-Me7alh.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e08.Ita.Eng.Spa.1080p.h265.10bit.SubS-Me7alh.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e08.Ita.Eng.Spa.720p.h264.SubS-Me7alh.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e08.Ita.Eng.Spa.720p.h264.SubS-Me7alh.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e08.Ita.Eng.Spa.720p.h264.SubS-Me7alh.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e09.Ita.Eng.Spa.1080p.h265.10bit.SubS-Me7alh.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e09.Ita.Eng.Spa.1080p.h265.10bit.SubS-Me7alh.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e09.Ita.Eng.Spa.720p.h264.SubS-Me7alh.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e09.Ita.Eng.Spa.720p.h264.SubS-Me7alh.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.Of.Monsters.S02e09.Ita.Eng.Spa.720p.h264.SubS-Me7alh.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.(Season 02).LostFilm-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.(Season 02).LostFilm-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.(Season 02).LostFilm-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2026.S02.Complete.m1080p.10bit.WEBRip.H265.MKV.AC3-5.1 Lektor PL (AI)-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2026.S02.Complete.m1080p.10bit.WEBRip.H265.MKV.AC3-5.1 Lektor PL (AI)-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2026.S02.Complete.m1080p.10bit.WEBRip.H265.MKV.AC3-5.1 Lektor PL (AI)-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2026.S02.Complete.m1080p.10bit.WEBRip.H265.MKV.AC3-5.1 Lektor PL (AI)-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2026.S02.Complete.m1080p.10bit.WEBRip.H265.MKV.AC3-5.1 Lektor PL (AI)-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2026.S02.Complete.m720p.WEBRip.H264.MKV.AC3-5.1 Lektor PL (AI)-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2026.S02.Complete.m720p.WEBRip.H264.MKV.AC3-5.1 Lektor PL (AI)-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2026.S02.Complete.m720p.WEBRip.H264.MKV.AC3-5.1 Lektor PL (AI)-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2x08.styrade.diverse.ATV.WEB-DL.DDP.5.1.H.264-C0P.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2x08.styrade.diverse.ATV.WEB-DL.DDP.5.1.H.264-C0P.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2x08.styrade.diverse.ATV.WEB-DL.DDP.5.1.H.264-C0P.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2x08.styrade.diverse.ATV.WEB-DL.DDP.5.1.H.264-C0P.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2x09.Ends.of.the.Earth.ATV.WEB-DL.DDP.5.1.H.264-C0P.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2x09.Ends.of.the.Earth.ATV.WEB-DL.DDP.5.1.H.264-C0P.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2x09.Ends.of.the.Earth.ATV.WEB-DL.DDP.5.1.H.264-C0P.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2x09.Ends.of.the.Earth.ATV.WEB-DL.DDP.5.1.H.264-C0P.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2x10.Where.We.Belong.ATV.WEB-DL.DDP.5.1.H.264-C0P.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.2x10.Where.We.Belong.ATV.WEB-DL.DDP.5.1.H.264-C0P.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S01-S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S01-S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S01-S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S01-S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S01-S02.WEB-DL.720p-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S01-S02.WEB-DL.720p-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S01-S02.WEB-DL.720p-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02 1080p Lektor Ai-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02 1080p Lektor Ai-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02 1080p Lektor Ai-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02 PLSUB.1080p-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02 PLSUB.1080p-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.AMZN.WEB-DL.DDP.5.1.H264-SPWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.AMZN.WEB-DL.DDP.5.1.H264-SPWEB-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.AMZN.WEB-DL.DDP.5.1.H264-SPWEB-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.ATVP.WEB-DL.H.264-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.ATVP.WEB-DL.H.264-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.ATVP.WEB-DL.H.264-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.ATVP.WEB-DL.H.264-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.H264.AAC.WEBRip.le-production-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.H264.AAC.WEBRip.le-production-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.NewComers-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.NewComers-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.NewComers-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.Ru.Ultradox-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.Ru.Ultradox-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.WEBRip.x265-KONTRAST-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.WEBRip.x265-KONTRAST-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.x265-ELiTE-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.1080p.x265-ELiTE-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2026.2160p.WEB-DL.HDR.H.265.Master5-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2026.2160p.WEB-DL.HDR.H.265.Master5-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2026.WEB-DLRip-AVC.x264.seleZen-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2026.WEB-DLRip-AVC.x264.seleZen-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2026.WEB-DLRip-AVC.x264.seleZen-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2026.WEB-DLRip.x264.seleZen-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2026.WEB-DLRip.x264.seleZen-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2026.WEB-DLRip.x264.seleZen-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10Plus.H265.MULTi.SUB.ETeam-vantablack-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10Plus.H265.MULTi.SUB.ETeam-vantablack-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10Plus.H265.MULTi.SUB.ETeam-vantablack-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2160p.ATVP.WEB-DL.DV.HDR.H.265-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2160p.ATVP.WEB-DL.DV.HDR.H.265-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2160p.ATVP.WEB-DL.DV.HDR.H.265-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2160p.SDR-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.2160p.SDR-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.400p.NewComers-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.400p.NewComers-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.400p.Ru.Ultradox-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.400p.Ru.Ultradox-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.400p.Ru.Ultradox-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.720p.Ru.Ultradox-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.720p.Ru.Ultradox-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.720p.Ru.Ultradox-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.720p.Ru.Ultradox-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.720p.x264-FENiX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.720p.x264-FENiX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.720p.x264-FENiX-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.720p.x264-FENiX-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.MULTi.1080p.WEB.H264-FW-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.MULTi.1080p.WEB.H264-FW-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.MULTi.1080p.WEB.H264-FW-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.MULTi.1080p.WEB.H264-FW-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.WEB-DLRip.LF-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.WEBDL.1080p.LostFilm.Eng-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.WEBDL.1080p.LostFilm.Eng-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02.WEBDL.1080p.LostFilm.Eng-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.AV1.10bit-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.AV1.10bit-MeGusta [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.AV1.10bit-MeGusta [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.ColdFilm.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.ColdFilm.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.ColdFilm.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.WEB-DL.DUAL.5.1-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.WEB-DL.DUAL.5.1-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.WEB-DL.DUAL.5.1-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.WEB.h264-ETHEL.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.WEB.h264-ETHEL.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.WEB.h264-ETHEL.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.WEB.h264-ETHEL[EZTVx.to].mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.x265-ELiTE-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.x265-ELiTE-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.x265-ELiTE-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.1080p.x265-ELiTE-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2026.ATVP.WEB-DL.2160p.DV.HDR10+.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2026.ATVP.WEB-DL.2160p.DV.HDR10+.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2026.ATVP.WEB-DL.2160p.DV.HDR10+.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2026.ATVP.WEB-DL.2160p.DV.HDR10+.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2026.ATVP.WEB-DL.2160p.DV.HDR10+.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2160p.WEB.h265-ETHEL [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2160p.WEB.h265-ETHEL [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2160p.WEB.h265-ETHEL [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.2160p.WEB.h265-ETHEL [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.400p.ColdFilm.avi-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.400p.ColdFilm.avi-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.400p.ColdFilm.avi-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.400p.ColdFilm.avi-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.480p.x264-mSD [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.480p.x264-mSD [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.ColdFilm.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.ColdFilm.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.ColdFilm.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.HEVC.x265-MeGusta.mkv_[720p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.HEVC.x265-MeGusta.mkv_[720p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.WEB.H264-SYLiX [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.WEB.H264-SYLiX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.WEB.H264-SYLiX [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.WEB.H264-SYLiX [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.WEB.H264-SYLiX [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.x264-FENiX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.x264-FENiX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.720p.x264-FENiX-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.DV.2160p.WEB.h265-ETHEL [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.FRENCH.WEBRip.x264.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.MULTI.480p.x264-mSD [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.MULTI.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.MULTI.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.MULTI.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.PL.Ai.1080p.ATVP.WEB-DL.DDPA5.1.H.264-XuploaD.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.ATVP.WEB-DL.DDP5.1.ENG.ITA.Atmos.H264-TheBlackKing.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.ATVP.WEB-DL.DDP5.1.ENG.ITA.Atmos.H264-TheBlackKing.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.ATVP.WEB-DL.DDP5.1.ENG.ITA.Atmos.H264-TheBlackKing.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.2160p.ATVP.WEB-DL.DDP5.1.DV.HDR.H.265-NTb.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.2160p.ATVP.WEB-DL.DDP5.1.DV.HDR.H.265-NTb.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.2160p.ATVP.WEB-DL.DDP5.1.DV.HDR.H.265-NTb.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.2160p.ATVP.WEB-DL.ITA.ENG.DDP5.1.Atmos.DV.HDR.H.265-G66.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.2160p.ATVP.WEB-DL.ITA.ENG.DDP5.1.Atmos.DV.HDR.H.265-G66.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.480p.x264-mSD [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.480p.x264-mSD [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.480p.x264-mSD [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.XviD-AFG [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.XviD-AFG [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.XviD-AFG [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.XviD-AFG [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.XviD-AFG [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.XviD-AFG [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Strade.diverse.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Strade.diverse.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Strade.diverse.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Strade.diverse.ITA.ENG.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.Strade.diverse.ITA.ENG.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.VOSTFR.WEBRip.x264.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.VOSTFR.WEBRip.x264.mp4-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.VOSTFR.WEBRip.x264.mp4-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.VOSTFR.WEBRip.x264.mp4-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.XviD-AFG [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.XviD-AFG [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.XviD-AFG.avi_[720p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.XviD-AFG.avi_[720p]_[YTSTV.hair]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.XviD-AFG.avi_[720p]_[YTSTV.hair]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.rus.LostFilm.TV.avi-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.rus.LostFilm.TV.avi-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.rus.LostFilm.TV.avi-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E08.rus.LostFilm.TV.avi-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.AV1.10bit-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.ColdFilm.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.ColdFilm.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.ColdFilm.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.ColdFilm.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB-DL.x264.DUAL.5.1-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB-DL.x264.DUAL.5.1-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE[EZTVx.to].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE[EZTVx.to].mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE[EZTVx.to].mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.x265-ELiTE-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.x265-ELiTE-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.x265-ELiTE-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.x265-ELiTE-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.1080p.x265-ELiTE-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.400p.ColdFilm.avi-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.400p.ColdFilm.avi-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.400p.ColdFilm.avi-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.480p.x264-mSD [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.480p.x264-mSD [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.ColdFilm.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.ColdFilm.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.ColdFilm.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.HEVC.x265-MeGusta.mkv_[720p]_[YTSTV.hair]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.WEB.H264-SYLiX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.WEB.H264-SYLiX [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.x264-FENiX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.x264-FENiX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.x264-FENiX-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.x264-FENiX-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.720p.x264-FENiX-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.DV.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.DV.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.DV.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-Kitsune.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-Kitsune.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-Kitsune.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-Kitsune.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.2160p.ATVP.WEB-DL.ITA.ENG.DDP5.1.Atmos.DV.HDR.H.265-G66.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.2160p.ATVP.WEB-DL.ITA.ENG.DDP5.1.Atmos.DV.HDR.H.265-G66.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.2160p.ATVP.WEB-DL.ITA.ENG.DDP5.1.Atmos.DV.HDR.H.265-G66.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.2160p.ATVP.WEB-DL.ITA.ENG.DDP5.1.Atmos.DV.HDR.H.265-G66.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.480p.x264-mSD [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.480p.x264-mSD [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.480p.x264-mSD [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.480p.x264-mSD [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.480p.x264-mSD [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.720p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.XviD-AFG [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.XviD-AFG [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.XviD-AFG [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.XviD-AFG [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.FRENCH.WEBRip.x264.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.FRENCH.WEBRip.x264.mp4-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Fino.ai.confini.del.mondo.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Fino.ai.confini.del.mondo.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Fino.ai.confini.del.mondo.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Fino.ai.confini.del.mondo.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Fino.ai.confini.del.mondo.ITA.ENG.2150p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Fino.ai.confini.del.mondo.ITA.ENG.2150p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Fino.ai.confini.del.mondo.ITA.ENG.2150p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.Fino.ai.confini.del.mondo.ITA.ENG.2150p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.HDR.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.HDR.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.MULTI.480p.x264-mSD [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.MULTI.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.MULTI.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.MULTI.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.MULTI.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.MULTI.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.PL.Ai.1080p.ATVP.WEB-DL.DDPA5.1.H.264-XuploaD.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.PL.Ai.1080p.ATVP.WEB-DL.DDPA5.1.H.264-XuploaD.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.PL.Ai.1080p.ATVP.WEB-DL.DDPA5.1.H.264-XuploaD.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.PLSUB.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.PLSUB.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.VOSTFR.WEBRip.x264.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.VOSTFR.WEBRip.x264.mp4-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.VOSTFR.WEBRip.x264.mp4-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.XviD-AFG [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.XviD-AFG [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.XviD-AFG.avi_[720p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.XviD-AFG.avi_[720p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.XviD-AFG.avi_[720p]_[YTSTV.hair]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.XviD-AFG.avi_[720p]_[YTSTV.hair]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.rus.LostFilm.TV.avi-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E09.rus.LostFilm.TV.avi-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.AV1.10bit-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.AV1.10bit-MeGusta [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.AV1.10bit-MeGusta [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.AV1.10bit-MeGusta [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.AV1.10bit-MeGusta [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.ColdFilm.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.HDTV.Subtitulado.Esp.SC.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.HEVC.x265-MeGusta.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.WEB.h264-GRACE [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.WEB.h264-GRACE.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.WEB.h264-GRACE.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.WEB.h264-GRACE[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.WEB.h264-GRACE[EZTVx.to].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.WEB.h264-GRACE[EZTVx.to].mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.rus.LostFilm.TV.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.x265-ELiTE-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.x265-ELiTE-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.x265-ELiTE-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.1080p.x265-ELiTE-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.2026.ATVP.WEB-DL.2160p.DV.HDR10+.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.400p.ColdFilm.avi-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.400p.ColdFilm.avi-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.400p.ColdFilm.avi-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.400p.ColdFilm.avi-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.480p.x264-mSD[EZTVx.to].mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.ColdFilm.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.ColdFilm.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.ColdFilm.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.HEVC.x265-MeGusta[EZTVx.to].mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.WEB.H264-SYLiX [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.WEB.H264-SYLiX [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.rus.LostFilm.TV.mp4-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.x264-FENiX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.x264-FENiX-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.720p.x264-FENiX-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.DV.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.DV.2160p.WEB.h265-GRACE [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.FRENCH.WEBRip.x264.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.FRENCH.WEBRip.x264.mp4-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.FRENCH.WEBRip.x264.mp4-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.FRENCH.WEBRip.x264.mp4-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.1080p.WEB.H264-HiggsBoson [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.480p.x264-mSD [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.480p.x264-mSD [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.480p.x264-mSD [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.480p.x264-mSD [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.XviD-AFG [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.VOSTFR.WEBRip.x264.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.FINAL.VOSTFR.WEBRip.x264.mp4-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Il.Nostro.Posto.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H265-UBi.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Il.Nostro.Posto.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H265-UBi.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Il.Nostro.Posto.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H265-UBi.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Il.nostro.posto.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Il.nostro.posto.ITA.ENG.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-MeM.GP.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Il.nostro.posto.ITA.ENG.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Il.nostro.posto.ITA.ENG.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Il.nostro.posto.ITA.ENG.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Il.nostro.posto.ITA.ENG.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Il.nostro.posto.ITA.ENG.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.PL.Ai.1080p.ATVP.WEB-DL.DDPA5.1.H.264-XuploaD.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.PL.Ai.1080p.ATVP.WEB-DL.DDPA5.1.H.264-XuploaD.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.PL.Ai.1080p.ATVP.WEB-DL.DDPA5.1.H.264-XuploaD.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.PL.Ai.1080p.ATVP.WEB-DL.DDPA5.1.H.264-XuploaD.mkv-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.PLSUB.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.PLSUB.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.PLSUB.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.ATVP.WEB-DL.DDP5.1.ENG.ITA.Atmos.H264-TheBlackKing.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.ATVP.WEB-DL.DDP5.1.ENG.ITA.Atmos.H264-TheBlackKing.mkv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.ATVP.WEB-DL.DDP5.1.ENG.ITA.Atmos.H264-TheBlackKing.mkv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.HEVC.x265-MeGusta [IPT]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.AAC.MP4-Mobile [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.XviD-AFG [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.XviD-AFG [IPT]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.XviD-AFG [IPT]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.XviD-AFG [IPT]-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.XviD-AFG [IPT]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.XviD-AFG [IPT]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.XviD-AFG.avi_[1080p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.XviD-AFG.avi_[1080p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.XviD-AFG[EZTVx.to].avi-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.rus.LostFilm.TV.avi-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.rus.LostFilm.TV.avi-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.S02E10.rus.LostFilm.TV.avi-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.Stagioni.1-2.Complete-C0P-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.Stagioni.1-2.Complete-C0P-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.Stagioni.1-2.Complete-C0P-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.s02.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.s02.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.s02.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.s02.HD1080p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.s02.HD720p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.s02.HD720p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.s02.HD720p.WEBRip.Rus.RuDub.tv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.s02.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.s02.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legacy.of.Monsters.s02.WEBRip.XviD.Rus.RuDub.tv-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.Monstros.S02E08.WEB-DL.1080p.x264.DUAL.5.1-SF-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.Monstros.S02E08.WEB-DL.1080p.x264.DUAL.5.1-SF-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.Monstros.S02E09.WEB-DL.1080p.x264.DUAL.5.1-SF-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.Monstros.S02E09.WEB-DL.1080p.x264.DUAL.5.1-SF-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.Monstros.S02E09.WEB-DL.1080p.x264.DUAL.5.1-SF-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.Monstros.S02E09.WEB-DL.1080p.x264.DUAL.5.1-SF-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.Monstros.S02E10.WEB-DL.1080p.x264.DUAL.5.1-SF-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.Monstros.S02E10.WEB-DL.1080p.x264.DUAL.5.1-SF-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.Monstros.S02E10.WEB-DL.1080p.x264.DUAL.5.1-SF-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E09.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E09.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E09.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E09.2026.WEB-DL.4k.HDR-Dual-Lat-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E09.2026.WEB-DL.4k.HDR-Dual-Lat-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E09.2026.WEB-DL.4k.HDR-Dual-Lat-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E09.2026.WEB-DL.4k.HDR-Dual-Lat-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.1080p-Dual-Lat-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.1080p-Dual-Lat-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.1080p-Dual-Lat-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.1080p-Dual-Lat-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.WEB-DL.4k.HDR-Dual-Lat-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.WEB-DL.4k.HDR-Dual-Lat-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.WEB-DL.4k.HDR-Dual-Lat-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.WEB-DL.4k.HDR-Dual-Lat-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.Legado.de.monstruos.S02E10.2026.WEB-DL.4k.HDR-Dual-Lat-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.S02E08.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.S02E08.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.S02E08.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch.S02E08.2026.WEB-DL.1080p-Dual-Lat-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E08_Separate_Ways_720p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv_[720p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E08_Separate_Ways_720p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv_[720p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E08_Separate_Ways_720p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv_[720p]_[YTSTV.hair]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E09_1080p_x265-ELiTE.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E09_1080p_x265-ELiTE.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E09_1080p_x265-ELiTE.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E09_1080p_x265-ELiTE.mkv_[1080p]_[YTSTV.hair]-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E09_Ends_of_the_Earth_720p_ATVP_WEB-DL_DDP5_1_H_264-NTb.mkv_[720p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E09_Ends_of_the_Earth_720p_ATVP_WEB-DL_DDP5_1_H_264-NTb.mkv_[720p]_[YTSTV.hair]-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E10_Where_We_Belong_720p_ATVP_WEB-DL_DDP5_1_H_264-NTb.mkv_[720p]_[YTSTV.hair]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Monarch_Legacy_of_Monsters_S02E10_Where_We_Belong_720p_ATVP_WEB-DL_DDP5_1_H_264-NTb.mkv_[720p]_[YTSTV.hair]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/[rutor.is]Monarch.Legacy.of.Monsters.S01-S02.WEB-DL.720p-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/[rutor.is]Monarch.Legacy.of.Monsters.S01-S02.WEB-DL.720p-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/[rutor.is]Monarch.Legacy.of.Monsters.S02.2026.WEB-DLRip.x-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/[rutor.is]Monarch.Legacy.of.Monsters.S02.2026.WEB-DLRip.x-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/[rutor.is]Monarch.Legacy.of.Monsters.S02.2026.WEB-DLRip.x-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/monarch.legacy.of.monsters.s02.dms.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/monarch.legacy.of.monsters.s02.dms.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/monarch.legacy.of.monsters.s02.dms.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/monarch.legacy.of.monsters.s02.lep.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/monarch.legacy.of.monsters.s02.lep.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/monarch.legacy.of.monsters.s02.lep.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/monarch.legacy.of.monsters.s02.lep.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/monarch.legacy.of.monsters.s02.lep.web-dlrip.xvid.ac3.-hqh-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/s Monarch - Legacy of Monsters - Season 2-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/s Monarch - Legacy of Monsters - Season 2-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/s Monarch - Legacy of Monsters - Season 2-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/s Monarch - Legacy of Monsters - Season 2-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/s Monarch - Legacy of Monsters - Season 2-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 1080p x265-ELiTE-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 1080p x265-ELiTE-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 720p x264-FENiX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 MULTI 1080p WEB H264-HiggsBoson-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 MULTI 1080p WEB H264-HiggsBoson-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 MULTI 1080p WEB H264-HiggsBoson-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR H 265-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR H 265-playWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR H 265-playWEB-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR H 265-playWEB-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 H 265-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 H 265-NTb-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 2160p ATVP WEB-DL DDP5 1 H 265-NTb-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E08 Separate Ways 720p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 1080p x265-ELiTE-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 1080p x265-ELiTE-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 1080p x265-ELiTE-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 2023 1080p ATVP WEB-DL DDP5 1 Atmos H 264-HHWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 2023 1080p ATVP WEB-DL DDP5 1 Atmos H 264-HHWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 2023 1080p ATVP WEB-DL DDP5 1 Atmos H 264-HHWEB-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 2023 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 2023 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-HHWEB-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 720p x264-FENiX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 720p x264-FENiX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 720p x264-FENiX-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p ATVp WEB-DL DD5 1 Atmos H 264-playWEB-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 H 265-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 2160p ATVP WEB-DL DDP5 1 H 265-NTb-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 Ends of the Earth 720p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E09 MULTI 1080p WEB H264-HiggsBoson-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 1080p x265-ELiTE-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 1080p x265-ELiTE-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 1080p x265-ELiTE-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 1080p x265-ELiTE-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 1080p x265-ELiTE-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 720p x264-FENiX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 720p x264-FENiX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 720p x264-FENiX-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 720p x264-FENiX-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 720p x264-FENiX-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 1080p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 1080p WEBRip 10bit DDP5 1 HEVC-d3g-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR H 265-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR H 265-playWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR H 265-playWEB-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DD 5 1 Atmos H 265-playWEB-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-FLUX-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV H 265-Kitsune-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR H 265-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos DV HDR10Plus H 265-Kitsune-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-FLUX-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 Atmos H 265-Kitsune-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV H 265-NTb-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 DV HDR H 265-NTb-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 H 265-NTb-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 2160p ATVP WEB-DL DDP5 1 H 265-NTb-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DD 5 1 Atmos H 264-playWEB-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch Legacy of Monsters S02E10 Where We Belong 720p ATVP WEB-DL DDP5 1 H 264-NTb-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.1080p.AV1.10bit-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.1080p.AV1.10bit-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.1080p.AV1.10bit-MeGusta-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.720p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.720p.HEVC.x265-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.720p.HEVC.x265-MeGusta-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.720p.WEB.H264-SYLiX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.720p.WEB.H264-SYLiX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.720p.WEB.H264-SYLiX-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.720p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.720p.HEVC.x265-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E08.Separate.Ways.720p.HEVC.x265-MeGusta-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.1080p.AV1.10bit-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.1080p.AV1.10bit-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.1080p.AV1.10bit-MeGusta-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.1080p.WEB.h264-GRACE-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.720p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.720p.WEB.H264-SYLiX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.720p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.720p.HEVC.x265-MeGusta-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.Ends.of.the.Earth.720p.HEVC.x265-MeGusta-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E09.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.1080p.AV1.10bit-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.1080p.AV1.10bit-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.1080p.AV1.10bit-MeGusta-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.1080p.WEB.h264-GRACE-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.1080p.WEB.h264-GRACE-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.720p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.720p.HEVC.x265-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.720p.HEVC.x265-MeGusta-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.720p.WEB.H264-SYLiX-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.720p.WEB.H264-SYLiX-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.720p.WEB.H264-SYLiX-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.FINAL.MULTI.1080p.WEB.H264-HiggsBoson-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.1080p.HEVC.x265-MeGusta-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.720p.HEVC.x265-MeGusta-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.720p.HEVC.x265-MeGusta-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.720p.HEVC.x265-MeGusta-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.720p.HEVC.x265-MeGusta-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/www.UIndex.org    -    Monarch.Legacy.of.Monsters.S02E10.Where.We.Belong.720p.HEVC.x265-MeGusta-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Монарх Наследие монстров Monarch Legacy of Monsters Сезон 2 Серии 1-8 из 10 (Майрзи Алмас) [2026, США, Япония, Фантастик [rutracker-6826435]-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Монарх Наследие монстров Monarch Legacy of Monsters Сезон 2 Серии 1-8 из 10 (Майрзи Алмас) [2026, США, Япония, Фантастик [rutracker-6826435]-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Монарх Наследие монстров Monarch Legacy of Monsters Сезон 2 Серии 1-8 из 10 (Майрзи Алмас) [2026, США, Япония, Фантастик [rutracker-6826435]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Монарх Наследие монстров Monarch Legacy of Monsters Сезон 2 Серии 1-8 из 10 (Майрзи Алмас) [2026, США, Япония, Фантастик [rutracker-6826442]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Монарх Наследие монстров Monarch Legacy of Monsters Сезон 2 Серии 1-8 из 10 (Майрзи Алмас, Джулиан Холмс, Хироми Камата) [rutracker-6824467]-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Монарх. Наследие монстров. 2 сезон. 2026 (HEVC.WEB-DLRip 1080p)-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Монарх. Наследие монстров. 2 сезон. 2026 (HEVC.WEB-DLRip 1080p)-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/Монарх. Наследие монстров. 2 сезон. 2026 (HEVC.WEB-DLRip 1080p)-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BPHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第09集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BPHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第09集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BPHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第09集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BPHDTV.com】帝王计划：怪兽遗产.第二季[第09集][简繁英字幕].1080p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BPHDTV.com】帝王计划：怪兽遗产.第二季[第09集][简繁英字幕].1080p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BPHDTV.com】帝王计划：怪兽遗产.第二季[第09集][简繁英字幕].1080p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BPHDTV.com】帝王计划：怪兽遗产.第二季[第09集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.265-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BPHDTV.com】帝王计划：怪兽遗产.第二季[第09集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.265-BlackTV-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BPHDTV.com】帝王计划：怪兽遗产.第二季[第09集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BPHDTV.com】帝王计划：怪兽遗产.第二季[第09集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BTHDTV.com】帝王计划：怪兽遗产.第一季[杜比视界版本][全10集][简繁英字幕].2023.2160p.ATVP.WEB-DL.H265.DV.DDP5.1.Atmos-DeePTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BTHDTV.com】帝王计划：怪兽遗产.第一季[杜比视界版本][全10集][简繁英字幕].2023.2160p.ATVP.WEB-DL.H265.DV.DDP5.1.Atmos-DeePTV-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BTHDTV.com】帝王计划：怪兽遗产.第一季[杜比视界版本][全10集][简繁英字幕].2023.2160p.ATVP.WEB-DL.H265.DV.DDP5.1.Atmos-DeePTV-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.BTHDTV.com】帝王计划：怪兽遗产.第一季[杜比视界版本][全10集][简繁英字幕].2023.2160p.ATVP.WEB-DL.H265.DV.DDP5.1.Atmos-DeePTV-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第08集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第08集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第08集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[第08集][简繁英字幕].1080p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[第08集][简繁英字幕].1080p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[第08集][简繁英字幕].1080p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[第08集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.265-BlackTV-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[第08集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.265-BlackTV-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[第10集][简繁英字幕].1080p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[第10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.265-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[第10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.265-BlackTV-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.DDHDTV.com】帝王计划：怪兽遗产.第二季[第10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.PTHDTV.com】帝王计划：怪兽遗产.第二季[全10集][简繁英字幕].1080p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.PTHDTV.com】帝王计划：怪兽遗产.第二季[全10集][简繁英字幕].1080p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.PTHDTV.com】帝王计划：怪兽遗产.第二季[全10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.PTHDTV.com】帝王计划：怪兽遗产.第二季[全10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.PTHDTV.com】帝王计划：怪兽遗产.第二季[全10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV-2026-08-12-at-03-59.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.PTHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][全10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.PTHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][全10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.PTHDTV.com】帝王计划：怪兽遗产.第二季[杜比视界版本][全10集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.TTHDTT.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第04集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.TTHDTT.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第04集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.TTHDTT.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第04集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.TTHDTT.com】帝王计划：怪兽遗产.第二季[杜比视界版本][第04集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.DV.H.265-BlackTV-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/【高清剧集网发布 www.TTHDTT.com】帝王计划：怪兽遗产.第二季[第08集][简繁英字幕].2160p.Apple.TV+.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划.怪兽遗产.Monarch.Legacy.of.Monsters.S02E08.1080P.CHS.www.mjtt.io.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划.怪兽遗产.Monarch.Legacy.of.Monsters.S02E08.1080P.CHS.www.mjtt.io.mp4-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划.怪兽遗产.Monarch.Legacy.of.Monsters.S02E09.1080P.CHS.www.mjtt.io.mp4-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划.怪兽遗产.Monarch.Legacy.of.Monsters.S02E09.1080P.CHS.www.mjtt.io.mp4-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划.怪兽遗产.Monarch.Legacy.of.Monsters.S02E09.1080P.CHS.www.mjtt.io.mp4-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划.怪兽遗产.Monarch.Legacy.of.Monsters.S02E09.1080P.CHS.www.mjtt.io.mp4-2026-08-12-at-03-55.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划.怪兽遗产.Monarch.Legacy.of.Monsters.S02E10.1080P.CHS.www.mjtt.io.mp4-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划.怪兽遗产.Monarch.Legacy.of.Monsters.S02E10.1080P.CHS.www.mjtt.io.mp4-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划.怪兽遗产.Monarch.Legacy.of.Monsters.S02E10.1080P.CHS.www.mjtt.io.mp4-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划.怪兽遗产.Monarch.Legacy.of.Monsters.S02E10.1080P.CHS.www.mjtt.io.mp4-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划：怪兽遗产.Monarch.Legacy.of.Monsters.S02E08.6v电影 地址发布页 www.6v123.net 收藏不迷路-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划：怪兽遗产.Monarch.Legacy.of.Monsters.S02E09.6v电影 地址发布页 www.6v123.net 收藏不迷路-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划：怪兽遗产.Monarch.Legacy.of.Monsters.S02E09.6v电影 地址发布页 www.6v123.net 收藏不迷路-2026-08-12-at-03-47.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划：怪兽遗产.Monarch.Legacy.of.Monsters.S02E09.6v电影 地址发布页 www.6v123.net 收藏不迷路-2026-08-12-at-03-51.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划：怪兽遗产.Monarch.Legacy.of.Monsters.S02E10.6v电影 地址发布页 www.6v123.net 收藏不迷路-2026-08-12-at-03-38.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划：怪兽遗产.Monarch.Legacy.of.Monsters.S02E10.6v电影 地址发布页 www.6v123.net 收藏不迷路-2026-08-12-at-03-42.json`
+- `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-208.xz/2026-08-12-at-03-06.tar.xz/帝王计划：怪兽遗产.Monarch.Legacy.of.Monsters.S02E10.6v电影 地址发布页 www.6v123.net 收藏不迷路-2026-08-12-at-03-55.json`
 
 ### Sample archive discontinuities
 
 - hourly gap: last `2026-06-25 23:06`, resumed `2026-06-27 17:06` — missing 41 hour(s)
 - hourly gap: last `2026-08-12 03:06`, resumed `2026-08-13 06:06` — missing 26 hour(s)
+- hourly gap: last `2026-09-30 22:06`, resumed `2026-10-01 02:06` — missing 3 hour(s)
 - missing day: `2026-06-26`
 
-## 3. File sizes histogram *median[lowest, highest]*
+
+### Frozen validation evidence
+
+- Frozen content SHA-256: `37c9a513f718fb1d45d1e2cbdd3692ec6e5190e80a225a275aaeeedc461bb638`
+- Full-input producer receipt SHA-256: `3d57c4df98aa1dfb7369719bcf9c44dd9e57c24bb1df67c9bb6dd2396c4ae0a8`
+- Frozen raw archives: 3947
+- Empty sampler observations remain explicit gaps; no observations were imputed.
+- Out-of-scope records retain the collection factory's established filtering.
+- Excluded raw members: 11
+- Excluded observations: 8550
+
+## 3. Media objects file size histogram
 
 ![Monarch: Legacy of Monsters collection size histogram](figures/monarch-legacy-of-monsters-208-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Graphs
+## 4. Visualization pass — graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -67,31 +1420,24 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![monarch-legacy-of-monsters-208 downloads by day](figures/monarch-legacy-of-monsters-208-downloads-by-day-day.svg)
 
-## 5. Cumulative Maps
+## 5. Visualization pass — maps
 
-<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
-
-<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
-
-### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/monarch-legacy-of-monsters-208-cumulative-aggregate.geojson.gz" data-map-title="Monarch: Legacy of Monsters — monarch-legacy-of-monsters-208" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Monarch: Legacy of Monsters (monarch-legacy-of-monsters-208) cumulative data map in new window" title="Opens interactive map for Monarch: Legacy of Monsters (monarch-legacy-of-monsters-208) data">Swarm Detail</a>
-
-### Geographic Regions
+### Cumulative geographic slices
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.47 | 16.83 | 35.80 | 42.79 | 1.15 | 0.83 |
+| 1.53 | 17.37 | 35.70 | 43.41 | 1.15 | 0.84 |
 
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 98.87%. The 16 regenerated October objects use the corrected calculation.
-
-### Network infrastructure
+### Cumulative network infrastructure
 
 [![Monarch: Legacy of Monsters cumulative map](figures/monarch-legacy-of-monsters-208-carto.png)](figures/monarch-legacy-of-monsters-208-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution >= 1080p
+### Cumulative data maps
+
+**Cumulative >= 1080p**
 
 [![Cumulative >= 1080p](figures/monarch-legacy-of-monsters-208-data-ge-1080p.webp)](figures/monarch-legacy-of-monsters-208-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-### Resolution < 1080p
+**Cumulative < 1080p**
 
 [![Cumulative < 1080p](figures/monarch-legacy-of-monsters-208-data-lt-1080p.webp)](figures/monarch-legacy-of-monsters-208-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
