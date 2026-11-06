@@ -1,0 +1,45 @@
+{
+  "status": "pass",
+  "collection_key": "kung-fu-soccer-2026",
+  "archives": [
+    {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/kung-fu-soccer-2026.cache/cache.20261030.tar.xz",
+      "bytes": 66748488,
+      "sha256": "dd0b4ba72f67708e07ceef5aa72de740a7cbc98700f7d9253fe8c55940797f43"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/kung-fu-soccer-2026.cache/tmp.tar.xz",
+      "bytes": 2473784,
+      "sha256": "8f68bf6c7a3f810ed838e50c53d0a295c835e2d556857022def2e61338cb2ffc"
+    }
+  ],
+  "sample_start": "2026-10-03",
+  "sample_end": "2026-10-30",
+  "sample_days": 28,
+  "cache_members": {
+    "week": 140,
+    "hour": 20758,
+    "day": 895,
+    "cumulative": 36,
+    "auxiliary": 1
+  },
+  "cumulative_totals": {
+    "downloaders_total": 1494410,
+    "uploaders_total": 239339
+  },
+  "day_products": {
+    "schema": "alpha60-day-product-contract/1",
+    "status": "pass",
+    "collection_key": "kung-fu-soccer-2026",
+    "day_products": 28,
+    "first_index": 1,
+    "last_index": 28,
+    "first_date": "2026-10-03",
+    "last_date": "2026-10-30",
+    "json_data_version": "2026-08-05",
+    "ip_geolocation_version": "6:1777968300",
+    "geojson_data_version": "20260701",
+    "sparse": false
+  },
+  "validation_scope": "Full tar stream; cumulative cache JSON and totals; native day product pairs; daily cache membership."
+}

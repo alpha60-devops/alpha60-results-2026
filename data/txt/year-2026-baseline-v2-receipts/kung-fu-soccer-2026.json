@@ -1,0 +1,213 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2026",
+  "media_object": "kung-fu-soccer-2026",
+  "status": "passed",
+  "generated_at": "2026-11-06T05:30:45.374338+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "72e52ac2a3c11492cf6ace50175035f278f309b0",
+    "imdb_id": "",
+    "external_imdb": "",
+    "wikidata_id": "",
+    "wikipedia_url": ""
+  },
+  "source_revisions": {
+    "alpha60": "35a45d52f09a3c407ded84b512eb006ae6d6f7a7",
+    "izzi": "e0c9697856e0bd7f942b044665e404e0ec43ab49"
+  },
+  "immutable_inputs": {
+    "archive-0": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/kung-fu-soccer-2026.cache/cache.20261030.tar.xz",
+      "size": 66748488,
+      "sha256": "dd0b4ba72f67708e07ceef5aa72de740a7cbc98700f7d9253fe8c55940797f43"
+    },
+    "archive-1": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/kung-fu-soccer-2026.cache/tmp.tar.xz",
+      "size": 2473784,
+      "sha256": "8f68bf6c7a3f810ed838e50c53d0a295c835e2d556857022def2e61338cb2ffc"
+    },
+    "raw-validation.json": {
+      "path": "/tmp/alpha60-results-pages-20261105/alpha60-results-2026/data/txt/results-pages-20261105/kung-fu-soccer-2026/raw-validation.json",
+      "size": 151639,
+      "sha256": "aa7567664f6f467b5fbbc59de77f72ce80c1a00e939c68a8f8793bac26d36e17"
+    },
+    "cache-validation.json": {
+      "path": "/tmp/alpha60-results-pages-20261105/alpha60-results-2026/data/txt/results-pages-20261105/kung-fu-soccer-2026/cache-validation.json",
+      "size": 1366,
+      "sha256": "5b59d355dee95071c6ee3be29cdd0ea354c1899019e0f8196421154533cc25dd"
+    },
+    "day-products.json": {
+      "path": "/tmp/alpha60-results-pages-20261105/alpha60-results-2026/data/txt/results-pages-20261105/kung-fu-soccer-2026/day-products.json",
+      "size": 371,
+      "sha256": "92e447facec28577d7217fa2cd0c507199bbbb91860418c05f417ba210e3fd3b"
+    }
+  },
+  "coverage_sha256": "f269221487b626435d14a407d6160f9fcfa58589b9c54a5b530970521301bf6e",
+  "published_files": {
+    "docs/itemized/kung-fu-soccer-2026-sample-cache-audit.md": "381a4fbda86c1d60bdef43c5cd606ebca3efdcef20af9259941175f7b03cdb95",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/kung-fu-soccer-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "7fe361572907a4e9ed96c601bd6115c4dd2d33ffcec8735d04e77cf639d65135",
+    "docs/itemized/figures/kung-fu-soccer-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "3385d240c092afe941b7c8e8e6acc91aa3f1736bf4f4cc5563ba7441f2b0b19a",
+    "docs/itemized/figures/kung-fu-soccer-2026-downloads-by-week-kung-fu-soccer-2026-week.svg": "053e530ed7f46eb53f3a0a76b9c9c3c0c52a103f5d1983601964766023e4a055",
+    "docs/itemized/figures/kung-fu-soccer-2026-downloads-by-day-day.svg": "ba26e67387a4155568947c54a78a083732743bf73247ed5487616e57fd96234b",
+    "docs/itemized/figures/kung-fu-soccer-2026-carto.png": "62032b268c9a71ff95eaab994657e71465b55861031f7dfd2b89596a89109d93",
+    "docs/itemized/figures/kung-fu-soccer-2026-carto-4k.webp": "6276df8e867a1727d3e17839198ffa7ba2c5c993b7e8a9ab9bc8c904bfa6e8b8",
+    "docs/itemized/figures/kung-fu-soccer-2026-data-lt-1080p.webp": "01887d8df88a225d141e0d1d51e2dbc2e21634f36fb08ee901e2f5bb35863328",
+    "docs/itemized/figures/kung-fu-soccer-2026-data-lt-1080p-4k.webp": "ec8ab9d6b11f1be90aafdbc8b1deeabdc6f51756209611240943bef9e3ef1d32",
+    "docs/itemized/figures/kung-fu-soccer-2026-data-ge-1080p.webp": "511730a1faf1f19bbefb59724a0b0c58a3d2731c8a1ec2a1f1f96b64a6a7c8ff",
+    "docs/itemized/figures/kung-fu-soccer-2026-data-ge-1080p-4k.webp": "4002496c6689fd9df002a432ddb2a24ae64b3607c270a2168b3e380a9e65b647"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "kung-fu-soccer-2026",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "35a45d52f09a3c407ded84b512eb006ae6d6f7a7",
+      "dirty": true,
+      "untracked": true
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+      "dirty": true,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/clang/tests/izzi_visualization_render",
+      "sha256": "ae9f05ada4d7a58510778ed6bbc7b7bf16f571099bd022757436757ccd020113",
+      "size": 3078552
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "03a716a4970ace69f3aa1fec377e468ed4a20641214e17195b13ff68f28f9bcb",
+      "size": 8626776
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/cartography/a60-carto-geo",
+      "sha256": "50f1cd7e7e421a397b057b6d5e6a96b227fd0184d7d34c1d1b08c8cc6bbe0830",
+      "size": 3455744
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/tmp/alpha60-results-pages-20261105/kung-fu-soccer-2026/tmp/kung-fu-soccer-2026-cumulative-btiha.geojson",
+        "sha256": "62883e2b92ea3dddf10cf0ff9888fc4417b6ed2df360f5e7468cd7c96c29b06d",
+        "size": 19659618
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/tmp/alpha60-results-pages-20261105/kung-fu-soccer-2026/tmp/kung-fu-soccer-2026-cumulative-btiha-media-objects.json",
+        "sha256": "829521410e2f95f697c9edd025b9664db6173010f4a5f9bfa36d224a49c1851d",
+        "size": 83095
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 27,
+        "x_tick_marks": 4,
+        "x_tick_labels": 4,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 4,
+        "y_tick_labels": 22
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 28,
+        "y_tick_labels": 22
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Nanjing",
+          "Wuxi",
+          "Shanghai",
+          "Seoul",
+          "Shenzhen",
+          "Lelystad",
+          "Istanbul",
+          "Amsterdam",
+          "London",
+          "Hangzhou"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Lelystad",
+          "Istanbul",
+          "Amsterdam",
+          "London",
+          "Moscow",
+          "Shanghai",
+          "Vanves",
+          "Hangzhou"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          65.0,
+          63.0,
+          61.0,
+          58.0,
+          47.0,
+          45.0,
+          43.0,
+          37.0,
+          33.0
+        ]
+      }
+    }
+  },
+  "human_review": null,
+  "source_files": {
+    "src/a60-carto-geo.cc": "d23779e7dbe14d23c6024fd211d5f8acf367b3eabc104cb3325d370c79ce8b28",
+    "scripts/generate-visualizations.py": "051f28a924d743a63ebadd18e2e602be76d79c75392c30296c37e80539b4d0ee",
+    "scripts/build-media-object-cache-audit.py": "9e40d0cfa764c34d40f2f6a37cb1dde953b7c73f6bc0df3c3dbca77f5cbecfbd",
+    "scripts/update-results-github-pages-v2.py": "b12e7cc1c95edca62e2a77632c2303afe2928176f5f1094c8fb458605dca3df6",
+    "scripts/generate-staged-results-in-github.py": "ab43204eae8eb026454b52a707b4a3e9a27359f02082243351f59690fec8e4d3"
+  },
+  "supersedes": null
+}
