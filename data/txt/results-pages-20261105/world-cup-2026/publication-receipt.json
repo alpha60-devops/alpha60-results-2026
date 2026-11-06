@@ -1,0 +1,256 @@
+{
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "year": "2026",
+  "media_object": "world-cup-2026",
+  "status": "passed",
+  "generated_at": "2026-11-06T06:02:54.318053+00:00",
+  "validation_source": "render-receipt",
+  "canonical_metadata": {
+    "revision": "72e52ac2a3c11492cf6ace50175035f278f309b0",
+    "imdb_id": "tt32915471",
+    "external_imdb": "tt32915471",
+    "wikidata_id": "Q5020214",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+  },
+  "source_revisions": {
+    "alpha60": "7a52d34894e362b9cb3642621d25d36d17fe58f1",
+    "izzi": "e0c9697856e0bd7f942b044665e404e0ec43ab49"
+  },
+  "immutable_inputs": {
+    "archive-0": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/world-cup-2026.cache/cache.20261103.tar.xz",
+      "size": 2110467208,
+      "sha256": "03f2e700a7d4103329c04c70d10c7d2fcc8d5225cd12b989e43bba6c4296cb61"
+    },
+    "archive-1": {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/world-cup-2026.cache/tmp.tar.xz",
+      "size": 86086628,
+      "sha256": "1898b81fea8a36707063495227fdc0cae24512874fe84b237ae0e58ace17fadb"
+    },
+    "raw-validation.json": {
+      "path": "/tmp/alpha60-results-pages-20261105/alpha60-results-2026/data/txt/results-pages-20261105/world-cup-2026/raw-validation.json",
+      "size": 837668,
+      "sha256": "b53830dd80268b763f5afffc543f6985f8c4de729f69ef293c7a289231ce9b11"
+    },
+    "cache-validation.json": {
+      "path": "/tmp/alpha60-results-pages-20261105/alpha60-results-2026/data/txt/results-pages-20261105/world-cup-2026/cache-validation.json",
+      "size": 1360,
+      "sha256": "860037e68dbe1b4959316e355d5fa24865c147024f591a78e26a97de9660faee"
+    },
+    "day-products.json": {
+      "path": "/tmp/alpha60-results-pages-20261105/alpha60-results-2026/data/txt/results-pages-20261105/world-cup-2026/day-products.json",
+      "size": 368,
+      "sha256": "5c385a8c78898e44ed4231281a03992fa8789322e4fc18cd84a01c31ce187a3a"
+    }
+  },
+  "coverage_sha256": "8d5b77a3f2f252879c4ef7b794dfdafc05459329ac5bd255b6582eed45a31494",
+  "published_files": {
+    "docs/itemized/world-cup-2026-sample-cache-audit.md": "8f37a2c2a185c3eb420e6ab8463cf5ebe66145d2c75c430b699be2012bdf90d6",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827",
+    "data/csv/bytes/world-cup-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "3251d964e07905ea25ad0a98868bd4e1ff04bc5b9e6c7c36bc669ad74b9ee79e",
+    "docs/itemized/figures/world-cup-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "db70e3916874e3fe4f787f685fd37c90f08873d170dd95763aa2eb6d7a288728",
+    "docs/itemized/figures/world-cup-2026-downloads-by-week-world-cup-2026-week.svg": "c55bfb765640d2a7c82d20f080651fc6a50bf484250246d68939bbed03a027dd",
+    "docs/itemized/figures/world-cup-2026-downloads-by-day-day.svg": "34fb4b802b205a245e329404a516b024dbd48c8527609c1b59a8c746bbf46afd",
+    "docs/itemized/figures/world-cup-2026-carto.png": "26943391afc650631fae104b298afe403b4f2dafa4fca1e92d6136d1092fa52b",
+    "docs/itemized/figures/world-cup-2026-carto-4k.webp": "bc0d411c7b62bba7b2160f188b46905d22fd008c4b7a6408846c0ec7e7b466d9",
+    "docs/itemized/figures/world-cup-2026-data-lt-1080p.webp": "027f5637c4767751fd7c9218bc5ca26c37dbcb995f087b463e1321e3b6135065",
+    "docs/itemized/figures/world-cup-2026-data-lt-1080p-4k.webp": "6ab5a5d9acfb55e2bc60ee123c5dabae48cbf7a9001b9f237462869a310b8338",
+    "docs/itemized/figures/world-cup-2026-data-ge-1080p.webp": "930d32e6c116895a959b8b191fb3b8c439c231942d07be40f8f9c53b35de345b",
+    "docs/itemized/figures/world-cup-2026-data-ge-1080p-4k.webp": "bff2186f805653f092103a1f71bbb0078be9ae54c7817f58d1e2331bad8d8ad0"
+  },
+  "render_receipt": {
+    "schema": "alpha60-media-object-render-receipt/1",
+    "media_object": "world-cup-2026",
+    "status": "passed",
+    "alpha60": {
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "7a52d34894e362b9cb3642621d25d36d17fe58f1",
+      "dirty": true,
+      "untracked": true
+    },
+    "izzi": {
+      "path": "/home/bkoz/src/izzi",
+      "revision": "e0c9697856e0bd7f942b044665e404e0ec43ab49",
+      "dirty": true,
+      "untracked": true
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/izzi/build/clang/tests/izzi_visualization_render",
+      "sha256": "ae9f05ada4d7a58510778ed6bbc7b7bf16f571099bd022757436757ccd020113",
+      "size": 3078552
+    },
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "03a716a4970ace69f3aa1fec377e468ed4a20641214e17195b13ff68f28f9bcb",
+      "size": 8626776
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/cartography/a60-carto-geo",
+      "sha256": "50f1cd7e7e421a397b057b6d5e6a96b227fd0184d7d34c1d1b08c8cc6bbe0830",
+      "size": 3455744
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/tmp/alpha60-results-pages-20261105/world-cup-2026/tmp/world-cup-2026-cumulative-btiha.geojson",
+        "sha256": "439786608f50379338b56bc9dd59539fe9ddf168aafa3395ae13999f99dc056d",
+        "size": 743791661
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/tmp/alpha60-results-pages-20261105/world-cup-2026/tmp/world-cup-2026-cumulative-btiha-media-objects.json",
+        "sha256": "8fc1750a807d38cb4e3eb2a411449f050ddeb83d7b2f9b1cf5edbe57bcda11a4",
+        "size": 1068539
+      }
+    },
+    "validations": {
+      "histogram": {
+        "role": "histogram",
+        "status": "passed",
+        "bars": 13,
+        "x_tick_marks": 6,
+        "x_tick_labels": 6,
+        "x_label": "SIZE IN GB",
+        "y_label": "MEDIA OBJECTS"
+      },
+      "week-graph": {
+        "role": "week-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 19,
+        "y_tick_labels": 20
+      },
+      "day-graph": {
+        "role": "day-graph",
+        "status": "passed",
+        "polylines": 2,
+        "x_tick_labels": 22,
+        "y_tick_labels": 20
+      },
+      "network-map": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ]
+      },
+      "data-map-ge-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Seoul",
+          "Istanbul",
+          "Nanjing",
+          "Amsterdam",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Lelystad",
+          "Moscow",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          49.0,
+          44.0,
+          37.0,
+          36.0,
+          34.0,
+          32.0,
+          31.0,
+          31.0,
+          28.0
+        ]
+      },
+      "data-map-lt-1080p": {
+        "status": "passed",
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "role": "cumulative-data-map",
+        "labels": [
+          "Seoul",
+          "Istanbul",
+          "Nanjing",
+          "Shanghai",
+          "Amsterdam",
+          "London",
+          "Hangzhou",
+          "Moscow",
+          "Lelystad",
+          "Budapest"
+        ],
+        "label_count": 10,
+        "font_sizes": [
+          90.0,
+          48.0,
+          42.0,
+          35.0,
+          35.0,
+          34.0,
+          31.0,
+          31.0,
+          29.0,
+          28.0
+        ]
+      }
+    },
+    "resume": {
+      "original_exit_code": 143,
+      "original_alpha60_base_revision": "35a45d52f09a3c407ded84b512eb006ae6d6f7a7",
+      "producer_source_commit": "7a52d34894e362b9cb3642621d25d36d17fe58f1",
+      "retained": "Completed maps, graph documents, SVGs, and PNG/WebP exports from the original passes.",
+      "regenerated": "The two unfinished below-1080p raster exports, using the same SVG and CairoSVG fallback.",
+      "validation": "All figure validators rerun on retained source SVGs; every final raster checked for missing-image markers."
+    },
+    "final_rasters": {
+      "world-cup-2026-carto.png": {
+        "path": "/tmp/alpha60-results-pages-20261105/world-cup-2026/viz/carto/world-cup-2026-carto.png",
+        "sha256": "26943391afc650631fae104b298afe403b4f2dafa4fca1e92d6136d1092fa52b",
+        "size": 363618
+      },
+      "world-cup-2026-carto-4k.webp": {
+        "path": "/tmp/alpha60-results-pages-20261105/world-cup-2026/viz/carto/world-cup-2026-carto-4k.webp",
+        "sha256": "bc0d411c7b62bba7b2160f188b46905d22fd008c4b7a6408846c0ec7e7b466d9",
+        "size": 152022
+      },
+      "world-cup-2026-data-ge-1080p.webp": {
+        "path": "/tmp/alpha60-results-pages-20261105/world-cup-2026/viz/carto/world-cup-2026-data-ge-1080p.webp",
+        "sha256": "930d32e6c116895a959b8b191fb3b8c439c231942d07be40f8f9c53b35de345b",
+        "size": 37222
+      },
+      "world-cup-2026-data-ge-1080p-4k.webp": {
+        "path": "/tmp/alpha60-results-pages-20261105/world-cup-2026/viz/carto/world-cup-2026-data-ge-1080p-4k.webp",
+        "sha256": "bff2186f805653f092103a1f71bbb0078be9ae54c7817f58d1e2331bad8d8ad0",
+        "size": 81182
+      },
+      "world-cup-2026-data-lt-1080p.webp": {
+        "path": "/tmp/alpha60-results-pages-20261105/world-cup-2026/viz/carto/world-cup-2026-data-lt-1080p.webp",
+        "sha256": "027f5637c4767751fd7c9218bc5ca26c37dbcb995f087b463e1321e3b6135065",
+        "size": 38646
+      },
+      "world-cup-2026-data-lt-1080p-4k.webp": {
+        "path": "/tmp/alpha60-results-pages-20261105/world-cup-2026/viz/carto/world-cup-2026-data-lt-1080p-4k.webp",
+        "sha256": "6ab5a5d9acfb55e2bc60ee123c5dabae48cbf7a9001b9f237462869a310b8338",
+        "size": 87696
+      }
+    }
+  },
+  "human_review": null,
+  "source_files": {
+    "src/a60-carto-geo.cc": "d23779e7dbe14d23c6024fd211d5f8acf367b3eabc104cb3325d370c79ce8b28",
+    "scripts/generate-visualizations.py": "051f28a924d743a63ebadd18e2e602be76d79c75392c30296c37e80539b4d0ee",
+    "scripts/build-media-object-cache-audit.py": "9e40d0cfa764c34d40f2f6a37cb1dde953b7c73f6bc0df3c3dbca77f5cbecfbd",
+    "scripts/update-results-github-pages-v2.py": "b12e7cc1c95edca62e2a77632c2303afe2928176f5f1094c8fb458605dca3df6",
+    "scripts/generate-staged-results-in-github.py": "ab43204eae8eb026454b52a707b4a3e9a27359f02082243351f59690fec8e4d3"
+  },
+  "supersedes": {
+    "path": "data/txt/results-pages-20261105/world-cup-2026/previous-publication-receipt.json",
+    "sha256": "1215a8fc4a47de910e8f24b09728780ac991ade3bfaf6bb5de429a521d3daa95"
+  }
+}

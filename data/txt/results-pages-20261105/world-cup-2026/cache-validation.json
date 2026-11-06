@@ -1,0 +1,45 @@
+{
+  "status": "pass",
+  "collection_key": "world-cup-2026",
+  "archives": [
+    {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/world-cup-2026.cache/cache.20261103.tar.xz",
+      "bytes": 2110467208,
+      "sha256": "03f2e700a7d4103329c04c70d10c7d2fcc8d5225cd12b989e43bba6c4296cb61"
+    },
+    {
+      "path": "/mnt/gold/src/alpha60-samples-cache.gold/world-cup-2026.cache/tmp.tar.xz",
+      "bytes": 86086628,
+      "sha256": "1898b81fea8a36707063495227fdc0cae24512874fe84b237ae0e58ace17fadb"
+    }
+  ],
+  "sample_start": "2026-06-29",
+  "sample_end": "2026-11-03",
+  "sample_days": 128,
+  "cache_members": {
+    "hour": 1609311,
+    "day": 67394,
+    "week": 10228,
+    "cumulative": 574,
+    "auxiliary": 1
+  },
+  "cumulative_totals": {
+    "downloaders_total": 58183368,
+    "uploaders_total": 583270
+  },
+  "day_products": {
+    "schema": "alpha60-day-product-contract/1",
+    "status": "pass",
+    "collection_key": "world-cup-2026",
+    "day_products": 128,
+    "first_index": 1,
+    "last_index": 128,
+    "first_date": "2026-06-29",
+    "last_date": "2026-11-03",
+    "json_data_version": "2026-08-05",
+    "ip_geolocation_version": "6:1777968300",
+    "geojson_data_version": "20260701",
+    "sparse": false
+  },
+  "validation_scope": "Full tar stream; cumulative cache JSON and totals; native day product pairs; daily cache membership."
+}
