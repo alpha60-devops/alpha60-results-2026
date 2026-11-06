@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt27543562",
+    "imdb_id": "tt27543562",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
+    "wikidata_id": "Q136722498",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Shards_(TV_series)"
+  },
+  "coverage_sha256": "286f167c8f46e0f91999e899e4944b0bcf8e53d87ca11886ba7f81e542c5d68c",
+  "generated_at": "2026-10-07T18:14:28.095692+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/shards-101.cache/cache.20260923.tar.xz",
+      "sha256": "a1d10b9423c5140617bd4af6de5b472db038a23777ef9c536031aeee5799a681",
+      "size": 199977344
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/shards-101.md",
+      "sha256": "25e9d0ac3e4f654ec688675edd9d1da05158d205034cd21abdb3ec60a3261341",
+      "size": 36754
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/shards-101.json",
+      "sha256": "2868e13495e840f51d14608964f4c8659cded1bc11f95a16102e72c43c0980b1",
+      "size": 2457
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/shards-101.json",
+      "sha256": "97616c2c10a1189d467cf4b1928223e0d00557295ce39587988eb405e6f8e731",
+      "size": 361
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
+    }
+  },
+  "media_object": "shards-101",
+  "published_files": {
+    "data/csv/bytes/shards-101-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "7e65295ccdbc116c0b578507f6a2d230734fa26fc2185189ab003a4ceb3ebad7",
+    "docs/itemized/figures/shards-101-carto-4k.webp": "f25766b814c04f66b43e948a9570b212177841e02ea4660d7c0d232b7af8d3ec",
+    "docs/itemized/figures/shards-101-carto.png": "6ad3df1a5b693871c9e63e7cf0a0c63a0be9ab060f8c22bf5dac14abda4fd952",
+    "docs/itemized/figures/shards-101-cumulative-detail-btiha-itemized-by-bytes.svg": "6d328e023f4446e9359ecbdca76b1ac9980d5aae6cfefe37adde0210bb79125a",
+    "docs/itemized/figures/shards-101-data-ge-1080p-4k.webp": "2c76189349229b523549498bc1589d3b2f146f19caa6883068e3ffb56034a657",
+    "docs/itemized/figures/shards-101-data-ge-1080p.webp": "542b16e9f24ec35781a6e389e048f3b63af6ce80ba1179871bdfe062369dc32c",
+    "docs/itemized/figures/shards-101-data-lt-1080p-4k.webp": "d9abc8f10315f19e495a05374867464128cd87965b574c2fed9222070d538f18",
+    "docs/itemized/figures/shards-101-data-lt-1080p.webp": "bdc6d7d0bddf693faa5f5083783bd874497e5460f270ee60bf21d7be6a2b7e38",
+    "docs/itemized/figures/shards-101-downloads-by-day-day.svg": "725bca87931688d1bf4831e5cda1e391c3cdc42d72a3b3fb5e58f5e1e2d278c6",
+    "docs/itemized/figures/shards-101-downloads-by-week-shards-101-week.svg": "0db17b737b0454455e0d3e0a14662981d9bf9d4b2352612564038ab2881e571b",
+    "docs/itemized/shards-101-sample-cache-audit.md": "1bfcceedcb988e86ff5ec295dd4660d179d98d76fea860e5f1d5738cc1962a14",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/shards-101/tmp/shards-101-cumulative-btiha.geojson",
+        "sha256": "2327fe3d2ab21b4afa9167f837ac799ccb99627112275ed6644618c7a8d1427b",
+        "size": 73753404
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/shards-101/tmp/shards-101-cumulative-btiha-media-objects.json",
+        "sha256": "3161e917fde21e90472bdcd8999ab495b26355f4cf7fd380b938316d0aafa088",
+        "size": 208688
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "shards-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          34.0,
+          33.0,
+          32.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Istanbul",
+          "London",
+          "Amsterdam",
+          "Lelystad",
+          "Shanghai",
+          "Hangzhou",
+          "Budapest",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          86.0,
+          53.0,
+          45.0,
+          44.0,
+          42.0,
+          36.0,
+          34.0,
+          29.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "London",
+          "Shanghai",
+          "Hangzhou",
+          "Budapest",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 30,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 7,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}

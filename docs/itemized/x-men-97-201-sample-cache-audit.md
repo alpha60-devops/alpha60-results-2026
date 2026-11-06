@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-10-07T11:57:10Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/x-men-97-201.xz`
@@ -49,11 +49,11 @@ None detected.
 - Excluded raw members: 1
 - Excluded observations: 256
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![X-Men '97 collection size histogram](figures/x-men-97-201-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -76,24 +76,29 @@ None detected.
 
 ![x-men-97-201 downloads by day](figures/x-men-97-201-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/x-men-97-201-cumulative-aggregate.geojson.gz" data-map-title="X-Men &#x27;97 — x-men-97-201" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open X-Men &#x27;97 (x-men-97-201) cumulative data map in new window" title="Opens interactive map for X-Men &#x27;97 (x-men-97-201) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 1.86 | 21.17 | 33.61 | 41.28 | 1.29 | 0.80 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![X-Men '97 cumulative map](figures/x-men-97-201-carto.png)](figures/x-men-97-201-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/x-men-97-201-data-ge-1080p.webp)](figures/x-men-97-201-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/x-men-97-201-data-lt-1080p.webp)](figures/x-men-97-201-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

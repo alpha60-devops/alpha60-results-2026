@@ -7,7 +7,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Send_Help"
   },
   "coverage_sha256": "be17d2e1cd492062802b76a2d0d45103d6e9ff3e50c373b7118db10c81036d2f",
-  "generated_at": "2026-10-07T18:14:21.734617+00:00",
+  "generated_at": "2026-11-06T06:42:16.970516+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
@@ -37,6 +37,16 @@
     }
   },
   "media_object": "send-help",
+  "page_format_migration": {
+    "coverage_and_figure_bytes_preserved": true,
+    "kind": "headings-and-interactive-map-controls",
+    "previous_page_sha256": "113d02d4db48987e0f009ff75767246694c943a3f6d93500b6a51eb07982c9ab",
+    "previous_publication_revision": "4636ca21a4fac9c8df54b9fb8be544efb1323ea4",
+    "previous_receipt": "data/txt/results-page-format-20261105/previous-receipts/send-help.json",
+    "previous_receipt_sha256": "ca6b4aca6484d459a9eee16cd433f62c3b4b6087513a2565eca76d50e679733b",
+    "source_revision": "120c03a9ae5e9a1cf4813f6bc9699f3e55bfa3db",
+    "validator_sha256": "58249cef860cf82ed090d2166f72a9a44dca2a8a03a4fb6f2bd5191cf656c6d0"
+  },
   "published_files": {
     "data/csv/bytes/send-help-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "a5cb634ba1c2ddffad8426a251bd412e44777aeac7a47419af3221b15f1243a7",
     "docs/itemized/figures/send-help-carto-4k.webp": "27df819954e6da405f435ff830cebeb3d5d158b1dc77b89f7ebf632406959ae2",
@@ -48,7 +58,7 @@
     "docs/itemized/figures/send-help-data-lt-1080p.webp": "85976679096deb2f4ca85ae7f623ef43b9ffd8c48f63e304817507e639f3b10b",
     "docs/itemized/figures/send-help-downloads-by-day-day.svg": "25807dee6da0a19e0b1dcb0fca566458e35c4a90b0d096f39087a25285dbcee5",
     "docs/itemized/figures/send-help-downloads-by-week-send-help-week.svg": "6e7f50101ba77deac917305986c2e6c2ac455ef34fd53cb03035153f83afc1b2",
-    "docs/itemized/send-help-sample-cache-audit.md": "113d02d4db48987e0f009ff75767246694c943a3f6d93500b6a51eb07982c9ab",
+    "docs/itemized/send-help-sample-cache-audit.md": "a0d5d7509448600ba120883f4b6ec9ac4a2673fe444d53f4bf58a42948a0ff1c",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

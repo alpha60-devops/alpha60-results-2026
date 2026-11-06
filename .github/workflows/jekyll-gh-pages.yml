@@ -25,6 +25,7 @@ jobs:
           # The results repository contains a large data pack. Pages needs
           # only the site source, so use a sparse partial checkout.
           sparse-checkout: |
+            .github
             _includes
             _layouts
             docs
@@ -76,6 +77,8 @@ jobs:
           missing_pages = [link for link in links if not Path(link).is_file()]
           if missing_pages:
               raise SystemExit(f"missing itemized pages: {missing_pages}")
+      - name: Validate audit page format and map links
+        run: python3 .github/scripts/results_page_format.py --results-root . --year 2026
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll

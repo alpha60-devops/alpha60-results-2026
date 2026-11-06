@@ -7,7 +7,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Pitt"
   },
   "coverage_sha256": "7c439ac32ca78f2fc929d9ecee61c859059d6b102d5e29eb3fd9d04308088dc6",
-  "generated_at": "2026-10-07T18:12:33.333550+00:00",
+  "generated_at": "2026-11-06T06:42:16.970516+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
@@ -37,6 +37,16 @@
     }
   },
   "media_object": "pitt-213",
+  "page_format_migration": {
+    "coverage_and_figure_bytes_preserved": true,
+    "kind": "headings-and-interactive-map-controls",
+    "previous_page_sha256": "d0ebe3656e350efc0d6fdaaf6340935a6a8dedb14fcf0d6aed971a0df4bf5f59",
+    "previous_publication_revision": "4636ca21a4fac9c8df54b9fb8be544efb1323ea4",
+    "previous_receipt": "data/txt/results-page-format-20261105/previous-receipts/pitt-213.json",
+    "previous_receipt_sha256": "97bc12d783be2cdf988932cd779f6527196fbd9aadbc7938aedd88c88668a972",
+    "source_revision": "120c03a9ae5e9a1cf4813f6bc9699f3e55bfa3db",
+    "validator_sha256": "58249cef860cf82ed090d2166f72a9a44dca2a8a03a4fb6f2bd5191cf656c6d0"
+  },
   "published_files": {
     "data/csv/bytes/pitt-213-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "6f43200b659efb22302447493cebc19724ba0ff61c4a63effb0414cffe3d21c0",
     "docs/itemized/figures/pitt-213-carto-4k.webp": "562a8836a6c3a3ddb7708f4edfb12cdc9f9da314745d2dc53cdc60757906c3e1",
@@ -48,7 +58,7 @@
     "docs/itemized/figures/pitt-213-data-lt-1080p.webp": "451249b9c357b43d3d6a392f0486ad676f134161f5943f8938bab9f0cb7d805a",
     "docs/itemized/figures/pitt-213-downloads-by-day-day.svg": "b87ef1d2aa14823b3482f4507c9c1a97e74e2749e7d288410912f09971f7bcd0",
     "docs/itemized/figures/pitt-213-downloads-by-week-pitt-213-week.svg": "a00a7a38734e54d6d125efbcdace945a054c150f1f51c8efd0bbbb08e3303452",
-    "docs/itemized/pitt-213-sample-cache-audit.md": "d0ebe3656e350efc0d6fdaaf6340935a6a8dedb14fcf0d6aed971a0df4bf5f59",
+    "docs/itemized/pitt-213-sample-cache-audit.md": "857722bd07b1a039d97c420c175e5c649b18415378de9f546cf9025add8d3de4",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

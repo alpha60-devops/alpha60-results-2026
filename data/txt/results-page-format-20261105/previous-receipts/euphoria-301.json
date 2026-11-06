@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8772296",
+    "imdb_id": "tt8772296",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
+    "wikidata_id": "Q56275505",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)"
+  },
+  "coverage_sha256": "27e3060aa711212b003cf15ec0bfddebd6bb3dc077d3845c893f996b52117dca",
+  "generated_at": "2026-10-07T18:06:18.896266+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/euphoria-301.cache/cache.20260928.tar.xz",
+      "sha256": "4db9f52b903519a92b36a6347f11cc09ff792d021e909b396f53dab5c2c49bcf",
+      "size": 3452297268
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/euphoria-301.md",
+      "sha256": "77eff5ec4f381c3f5715bb8d9a9ded3d21b226e713a11b5001e8658474c5a580",
+      "size": 900
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/euphoria-301.json",
+      "sha256": "414b58386249ca2dafd69c39b5c8e5656ec1f41a6bd0274e009183873e51f943",
+      "size": 3497
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/euphoria-301.json",
+      "sha256": "5f8dc60a8c678af5b956796d58340d127682f2010ced3c2b191813f0bbdbbedb",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
+    }
+  },
+  "media_object": "euphoria-301",
+  "published_files": {
+    "data/csv/bytes/euphoria-301-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "b8fc344c54700b005823b186465f0bbc81863567f23c6815a10448718e60c800",
+    "docs/itemized/euphoria-301-sample-cache-audit.md": "92e11e3c73b3eda55f4145a328327199eeb7f2515b5d032f9c248649de219991",
+    "docs/itemized/figures/euphoria-301-carto-4k.webp": "5442ff326307876101981bd7f648c0c4e8cedb21871c1c6af3f23f79a39f20ef",
+    "docs/itemized/figures/euphoria-301-carto.png": "d9f1129112d9103fb9910b9527c0e35557c65784b7a686f8a80251b4edc7ee3d",
+    "docs/itemized/figures/euphoria-301-cumulative-detail-btiha-itemized-by-bytes.svg": "a0386ff75bb871ce7c1cecb6595c1b18589d7620937af65ba20e08a217ffcc8f",
+    "docs/itemized/figures/euphoria-301-data-ge-1080p-4k.webp": "40a66072b5fbe43f8c82ad3982f5da98f9d1422529874a26de94dfbacc1827b7",
+    "docs/itemized/figures/euphoria-301-data-ge-1080p.webp": "f20da94d586e590c9abba9f71491e174b0c64e264e661124878c6f27e3bf66ff",
+    "docs/itemized/figures/euphoria-301-data-lt-1080p-4k.webp": "2b05ccef7f84b8d1f659f454a00a1f3b3acea2a2dc7d593237ed6f547e422b56",
+    "docs/itemized/figures/euphoria-301-data-lt-1080p.webp": "66c163a20ecc51b5c8b1d8279dc2225590f78dcec30eeaddcc22076a86941517",
+    "docs/itemized/figures/euphoria-301-downloads-by-day-day.svg": "c2662c5d68b0b82e982d313ba514ef872d95d3be9cc85d8f3d6d87cb6544cb2f",
+    "docs/itemized/figures/euphoria-301-downloads-by-week-euphoria-301-week.svg": "fe674124a57b0ee850bd506e53c678967c9f794a39360ee1634e07c5b67d1be9",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/euphoria-301/tmp/euphoria-301-cumulative-btiha.geojson",
+        "sha256": "b97dd1d135bdc6201c31f26a3c17ff7cacd12fa080377e2183d852581c55dcda",
+        "size": 637940202
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/euphoria-301/tmp/euphoria-301-cumulative-btiha-media-objects.json",
+        "sha256": "5a92e57f11cac4402d22fb86c9314268c8de57a1a9492e4c09c5e59e9ea9e546",
+        "size": 633224
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "euphoria-301",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          59.0,
+          46.0,
+          32.0,
+          32.0,
+          32.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Shanghai",
+          "London",
+          "Moscow",
+          "Amsterdam",
+          "Hangzhou",
+          "Incheon",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          46.0,
+          35.0,
+          32.0,
+          31.0,
+          29.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Istanbul",
+          "Nanjing",
+          "Moscow",
+          "Shanghai",
+          "Amsterdam",
+          "London",
+          "Hangzhou",
+          "Incheon",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 22,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 29,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 25,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}

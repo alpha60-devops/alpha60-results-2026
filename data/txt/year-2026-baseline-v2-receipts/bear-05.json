@@ -7,7 +7,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Bear_(TV_series)"
   },
   "coverage_sha256": "fba705358a79c34aaf58c256e7e08529425a357a902c81c2a13161823ff114b2",
-  "generated_at": "2026-10-07T18:04:21.268077+00:00",
+  "generated_at": "2026-11-06T06:42:16.970516+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
@@ -37,9 +37,19 @@
     }
   },
   "media_object": "bear-05",
+  "page_format_migration": {
+    "coverage_and_figure_bytes_preserved": true,
+    "kind": "headings-and-interactive-map-controls",
+    "previous_page_sha256": "a2b01b72637a118084604d88d7942592c79e610972847013ee1a4aa0acfd04c6",
+    "previous_publication_revision": "4636ca21a4fac9c8df54b9fb8be544efb1323ea4",
+    "previous_receipt": "data/txt/results-page-format-20261105/previous-receipts/bear-05.json",
+    "previous_receipt_sha256": "bf0c7668dcd7d46dd57f3111b1cb8bc361244399a3c833dce3258a749735b4a9",
+    "source_revision": "120c03a9ae5e9a1cf4813f6bc9699f3e55bfa3db",
+    "validator_sha256": "58249cef860cf82ed090d2166f72a9a44dca2a8a03a4fb6f2bd5191cf656c6d0"
+  },
   "published_files": {
     "data/csv/bytes/bear-05-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "029c8fe755edccd4dad2e154dd9b0e644fb9dbc9df9bda10c25b7472ffff85e2",
-    "docs/itemized/bear-05-sample-cache-audit.md": "a2b01b72637a118084604d88d7942592c79e610972847013ee1a4aa0acfd04c6",
+    "docs/itemized/bear-05-sample-cache-audit.md": "1c77facb3292705c533341b8df5922724fca1e1f4d4ec50005b39c0ceac919eb",
     "docs/itemized/figures/bear-05-carto-4k.webp": "f70274b930acacbbea8203321055ecd7adcf80a51e0fb22e4c8420151eea7f2e",
     "docs/itemized/figures/bear-05-carto.png": "eed5b826b8d9a6a02f06e01d05d51e73796873c0632ffcb542cfcb4b255ae0b8",
     "docs/itemized/figures/bear-05-cumulative-detail-btiha-itemized-by-bytes.svg": "4c9dab93a1e60dfda03af8f1ec56ed6ab94a6f236fa8eba64574f0930777ca41",

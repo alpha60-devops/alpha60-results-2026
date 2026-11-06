@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-10-07T10:10:20Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/enola-holmes-3.xz`
@@ -50,11 +50,11 @@ description: "Cache coverage and visualization audit for one media object."
 - Excluded raw members: 1
 - Excluded observations: 3292
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Enola Holmes 3 collection size histogram](figures/enola-holmes-3-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -77,24 +77,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![enola-holmes-3 downloads by day](figures/enola-holmes-3-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2026/refs/heads/main/data/geojson.cumulative/enola-holmes-3-cumulative-aggregate.geojson.gz" data-map-title="Enola Holmes 3 — enola-holmes-3" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Enola Holmes 3 (enola-holmes-3) cumulative data map in new window" title="Opens interactive map for Enola Holmes 3 (enola-holmes-3) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 1.93 | 17.31 | 37.07 | 41.74 | 1.11 | 0.83 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Enola Holmes 3 cumulative map](figures/enola-holmes-3-carto.png)](figures/enola-holmes-3-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/enola-holmes-3-data-ge-1080p.webp)](figures/enola-holmes-3-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/enola-holmes-3-data-lt-1080p.webp)](figures/enola-holmes-3-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

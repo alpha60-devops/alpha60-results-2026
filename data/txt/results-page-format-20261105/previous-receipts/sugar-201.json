@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt16418808",
+    "imdb_id": "tt16418808",
+    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
+    "wikidata_id": "Q113696648",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sugar_(2024_TV_series)"
+  },
+  "coverage_sha256": "0a11bdfcf66a120e9b8ccd0c7f9c8e7e35351b9318fbc694cc4dfd526633cd12",
+  "generated_at": "2026-10-07T18:16:21.260526+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/sugar-201.cache/cache.20261001.tar.xz",
+      "sha256": "8fc369dccf9f15cf4fbb939d60b6e4034ea34a9fddd11e320b39752545745513",
+      "size": 823956292
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/sugar-201.md",
+      "sha256": "1e5b02c44f7b9fca7cf3e4fdd911ec3d779ed76fe85711493f409873309eaf56",
+      "size": 889
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/sugar-201.json",
+      "sha256": "814070df97e400e7b48c9aa2a2c90b401d90ca425f54680ee68cfc4fc9578334",
+      "size": 2915
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/sugar-201.json",
+      "sha256": "4bcec7e9cc347541ef644e974fa1a3a038578f2eae221950dd2e324aad2a08a8",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
+      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
+      "size": 248854
+    }
+  },
+  "media_object": "sugar-201",
+  "published_files": {
+    "data/csv/bytes/sugar-201-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "f5a29b05fbae1c7d9cb0da5443c7fc4f1f1d75c474f3403295de86913040bde9",
+    "docs/itemized/figures/sugar-201-carto-4k.webp": "b5286fd5a898a9c14562a4119a0ca8f45a0316a5d145a221e3bac390f3df4313",
+    "docs/itemized/figures/sugar-201-carto.png": "82db9e907ef198726766f6b3b5bfb7a2c3a8a4e77c7311cf2d8f813cd9dd6140",
+    "docs/itemized/figures/sugar-201-cumulative-detail-btiha-itemized-by-bytes.svg": "2cd94e3a70e03224d3225ff9a46bb443af678d6f5d4b838fca3a54de268e44a5",
+    "docs/itemized/figures/sugar-201-data-ge-1080p-4k.webp": "c72ab61978bf09369c04e3fefb3581b1f980a5bb7a097fdd2cbab7d627c8d87c",
+    "docs/itemized/figures/sugar-201-data-ge-1080p.webp": "b430e8f0a04da582617ee34d8570092a92822bebdc18b9d5a9219df77e73d689",
+    "docs/itemized/figures/sugar-201-data-lt-1080p-4k.webp": "4797fb30beb12d8aa9166e7ddbdc091e6d36858c481b4f7d2c5cf47b15698077",
+    "docs/itemized/figures/sugar-201-data-lt-1080p.webp": "0ea9c66bbf888910968a2db31c269e0b2301ec19903195e9fca7cb3053f444e6",
+    "docs/itemized/figures/sugar-201-downloads-by-day-day.svg": "dbfd35af73fb12b38ce3a59400a0058074678d80dd11e9fcb7a399116fe8faeb",
+    "docs/itemized/figures/sugar-201-downloads-by-week-sugar-201-week.svg": "74d91776928f600d1d584aeeb53c96fb8ccf2bf070b6d289859e7f0b700409f1",
+    "docs/itemized/sugar-201-sample-cache-audit.md": "757655c4950ec18785ee2aee31d4b4e760921fd0fa358dac8ac0f12cbf2b2205",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
+      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
+      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
+      "size": 44811816
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/sugar-201/tmp/sugar-201-cumulative-btiha.geojson",
+        "sha256": "eb5da7a9329aab53a55e5173f7de875a311d8199fe891573f950e1f3b4343c0d",
+        "size": 241665689
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/sugar-201/tmp/sugar-201-cumulative-btiha-media-objects.json",
+        "sha256": "3619c7df43f5fbda623a75e1dd3e7dc97094ecb581df57414066b5737a47ccbc",
+        "size": 341591
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "sugar-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
+      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
+      "size": 8579400
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
+      "size": 440288
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          59.0,
+          43.0,
+          35.0,
+          32.0,
+          31.0,
+          30.0,
+          30.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Amsterdam",
+          "Shanghai",
+          "London",
+          "Hangzhou",
+          "Lelystad",
+          "Moscow",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          53.0,
+          44.0,
+          35.0,
+          31.0,
+          30.0,
+          30.0,
+          29.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Seoul",
+          "Nanjing",
+          "Istanbul",
+          "Amsterdam",
+          "Shanghai",
+          "Lelystad",
+          "Hangzhou",
+          "London",
+          "Moscow",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 23,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
