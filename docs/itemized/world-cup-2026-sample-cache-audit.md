@@ -78,6 +78,34 @@ None detected.
 }
 </style>
 
+<!-- BEGIN world-cup-torrent-country-graphs -->
+<div class="wc-audit-extra-graphs" markdown="1">
+
+### Graph by Event
+
+<div class="wc-izzi-scroll">
+{% include_relative figures/world-cup-2026-downloads-by-btiha.svg %}
+</div>
+<div style="height: 25px;"></div>
+
+### Graph by Top Country Downloaders
+
+<div class="wc-izzi-scroll">
+{% include_relative figures/world-cup-2026-downloads-by-country.svg %}
+</div>
+<div style="height: 50px;"></div>
+
+</div>
+<style>
+.wc-audit-extra-graphs { width:100%; clear:both; }
+.wc-audit-extra-graphs svg.analysis-svg { display:block; width:100%; height:auto; }
+.wc-izzi-tip { position:fixed; z-index:1000; max-width:min(440px,calc(100vw - 24px)); padding:.5rem .7rem;
+  background:#243342; color:white; border-radius:4px; font:14px/1.4 sans-serif; pointer-events:none; overflow-wrap:anywhere; }
+.wc-izzi-tip[hidden] { display:none; }
+</style>
+<script defer src="figures/world-cup-2026-torrent-country-graphs.js"></script>
+<!-- END world-cup-torrent-country-graphs -->
+
 ### Downloads by day, Saturday and Sunday in gray
 
 ![world-cup-2026 downloads by day](figures/world-cup-2026-downloads-by-day-day.svg)
