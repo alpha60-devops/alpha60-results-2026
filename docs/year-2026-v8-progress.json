@@ -7,10 +7,10 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 2,
-    "cache_validated": 2,
+    "bundle_validated": 3,
+    "cache_validated": 3,
     "deployed": 0,
-    "inputs_frozen": 55,
+    "inputs_frozen": 56,
     "installed": 0,
     "pushed": 0
   },
@@ -25,13 +25,13 @@
       "collection_key": "apothecary-diaries-03.1",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 233.1 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "avatar-seven-havens-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 305.4 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "avatar-the-last-airbender-2024-02",
@@ -49,7 +49,7 @@
       "collection_key": "bass-x-machina-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "caching"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "bear-05",
@@ -61,7 +61,7 @@
       "collection_key": "black-clover-02",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 246.1 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "blue-box-201",
@@ -79,37 +79,37 @@
       "collection_key": "brothers-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-13",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 206.0 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "coyote-vs-acme",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-08",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 256.9 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "crew-girl-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-11",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 370.5 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "cyberpunk-edgerunners-02",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-09",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 303.5 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "dang-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-10",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 292.0 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "diplomat-04",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-05",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 161.1 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "drama-2026",
@@ -133,13 +133,13 @@
       "collection_key": "fall-of-el-mayo-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: metadata readiness failed"
     },
     {
       "collection_key": "furious-2025",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-19",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 576.0 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "get-jiro-01",
@@ -199,7 +199,7 @@
       "collection_key": "kill-jackie-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-05",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 201.8 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "kung-fu-soccer-2026",
@@ -223,31 +223,31 @@
       "collection_key": "lego-star-wars-the-mandalorian-2026",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-15",
-      "state": "inputs frozen; preparing worker"
+      "state": "ready"
     },
     {
       "collection_key": "lowdown-201",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-11",
-      "state": "inputs frozen; preparing worker"
+      "state": "ready"
     },
     {
       "collection_key": "lupin-04",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 154.1 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "mandalorian-and-grogu",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 1956.0 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "monarch-legacy-of-monsters-208",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-15",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "musk-2026",
@@ -259,19 +259,19 @@
       "collection_key": "my-brilliant-career-2026-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 245.8 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "neagley-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-11",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 593.6 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "obsession-2025",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-29",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 1193.1 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "president-curtis-01",
@@ -295,7 +295,7 @@
       "collection_key": "resident-evil-2026",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "inputs frozen; preparing worker"
+      "state": "caching"
     },
     {
       "collection_key": "season-2026-01",
@@ -325,7 +325,7 @@
       "collection_key": "slow-horses-601",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-24",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 193.5 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "spider-man-brand-new-day",
@@ -349,7 +349,7 @@
       "collection_key": "stranger-things-tales-from-85-02",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-11",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 385.4 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "sugar-201",
@@ -367,13 +367,13 @@
       "collection_key": "toy-story-5",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-10",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 584.6 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "visionquest-101",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-10",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 206.9 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "widows-bay-108",
@@ -394,7 +394,7 @@
       "state": "inputs frozen; preparing worker"
     }
   ],
-  "observed_at": "2026-11-16T19:39:21.601713+00:00",
+  "observed_at": "2026-11-16T19:49:47.361538+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -402,7 +402,7 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: freeze-inputs. 175.0 GB free.",
+      "activity": "Running: freeze-inputs, eureka-resident-evil-2026-g1. 170.8 GB free.",
       "name": "Eureka"
     },
     {
