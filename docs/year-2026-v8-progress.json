@@ -7,10 +7,10 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 6,
-    "cache_validated": 6,
+    "bundle_validated": 8,
+    "cache_validated": 8,
     "deployed": 0,
-    "inputs_frozen": 58,
+    "inputs_frozen": 61,
     "installed": 0,
     "pushed": 0
   },
@@ -55,7 +55,7 @@
       "collection_key": "bear-05",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "freezing inputs"
+      "state": "held: input freeze failed: invalid sample size/digest"
     },
     {
       "collection_key": "black-clover-02",
@@ -67,13 +67,13 @@
       "collection_key": "blue-box-201",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-14",
-      "state": "ready"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "boys-501",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-06",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "brothers-01",
@@ -151,7 +151,7 @@
       "collection_key": "ghost-in-the-shell-2026-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "freezing inputs"
+      "state": "waiting for scratch capacity; estimated 1731.0 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "hopeu-2026",
@@ -223,13 +223,13 @@
       "collection_key": "lego-star-wars-the-mandalorian-2026",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-15",
-      "state": "caching"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "lowdown-201",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-11",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "lupin-04",
@@ -394,7 +394,7 @@
       "state": "inputs frozen; preparing worker"
     }
   ],
-  "observed_at": "2026-11-16T20:04:54.109440+00:00",
+  "observed_at": "2026-11-16T20:19:34.570065+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -402,7 +402,7 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: freeze-inputs, eureka-lego-star-wars-the-mandalorian-2026-g1. 172.1 GB free.",
+      "activity": "Running: freeze-inputs, eureka-lowdown-201-g1. 171.8 GB free.",
       "name": "Eureka"
     },
     {
