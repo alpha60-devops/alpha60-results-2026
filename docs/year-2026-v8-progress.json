@@ -10,7 +10,7 @@
     "bundle_validated": 9,
     "cache_validated": 9,
     "deployed": 0,
-    "inputs_frozen": 67,
+    "inputs_frozen": 74,
     "installed": 0,
     "pushed": 0
   },
@@ -394,7 +394,7 @@
       "state": "inputs frozen; preparing worker"
     }
   ],
-  "observed_at": "2026-11-16T20:34:41.317550+00:00",
+  "observed_at": "2026-11-16T20:49:48.088676+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -406,7 +406,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Unreachable on the last command probe; no new tasks assigned.",
+      "activity": "SSH command timed out; no new tasks assigned.",
       "name": "Ord"
     }
   ]
