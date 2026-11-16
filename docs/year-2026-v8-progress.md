@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-16T20:49:48.088676+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-16T21:05:03.786804+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **0 published, 63 remaining; 0.0% published.**
 
@@ -15,7 +15,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Stage | Objects |
 | --- | ---: |
-| inputs frozen | 74 |
+| inputs frozen | 85 |
 | cache validated | 9 |
 | bundle validated | 9 |
 | installed | 0 |
