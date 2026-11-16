@@ -8,9 +8,9 @@
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 0,
-    "cache_validated": 0,
+    "cache_validated": 1,
     "deployed": 0,
-    "inputs_frozen": 17,
+    "inputs_frozen": 32,
     "installed": 0,
     "pushed": 0
   },
@@ -23,12 +23,12 @@
     {
       "collection_key": "apothecary-diaries-03.1",
       "mode": "build-no-2026-cache",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "avatar-seven-havens-01",
       "mode": "build-no-2026-cache",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "avatar-the-last-airbender-2024-02",
@@ -53,7 +53,7 @@
     {
       "collection_key": "black-clover-02",
       "mode": "build-no-2026-cache",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "blue-box-201",
@@ -73,22 +73,22 @@
     {
       "collection_key": "coyote-vs-acme",
       "mode": "full-recache-count-increased",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "crew-girl-01",
       "mode": "full-recache-count-increased",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "cyberpunk-edgerunners-02",
       "mode": "build-no-2026-cache",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "dang-01",
       "mode": "full-recache-count-increased",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "diplomat-04",
@@ -148,12 +148,12 @@
     {
       "collection_key": "invincible-101",
       "mode": "build-no-2026-cache",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "invincible-201",
       "mode": "build-no-2026-cache",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "invincible-301",
@@ -163,7 +163,7 @@
     {
       "collection_key": "invite-2026",
       "mode": "incremental-candidate",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "kill-jackie-01",
@@ -213,7 +213,7 @@
     {
       "collection_key": "musk-2026",
       "mode": "build-no-2026-cache",
-      "state": "inputs frozen; preparing worker"
+      "state": "building-results"
     },
     {
       "collection_key": "my-brilliant-career-2026-01",
@@ -253,7 +253,7 @@
     {
       "collection_key": "season-2026-01",
       "mode": "incremental-candidate",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "send-help",
@@ -263,7 +263,7 @@
     {
       "collection_key": "shards-101",
       "mode": "incremental-candidate",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "silo-301",
@@ -273,7 +273,7 @@
     {
       "collection_key": "slow-horses-601",
       "mode": "full-recache-count-increased",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "spider-man-brand-new-day",
@@ -293,7 +293,7 @@
     {
       "collection_key": "stranger-things-tales-from-85-02",
       "mode": "full-recache-count-increased",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "sugar-201",
@@ -313,7 +313,7 @@
     {
       "collection_key": "visionquest-101",
       "mode": "build-no-2026-cache",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "widows-bay-108",
@@ -331,7 +331,7 @@
       "state": "freezing inputs"
     }
   ],
-  "observed_at": "2026-11-16T18:46:39.660539+00:00",
+  "observed_at": "2026-11-16T18:55:41.271804+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -339,11 +339,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Freezing input hashes and building pinned production tools; 178.0 GB of verified redundant local archives reclaimed.",
+      "activity": "Running: freeze-inputs. 178.1 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Unreachable on LAN and direct link; no tasks assigned.",
+      "activity": "Unreachable on the last command probe; no new tasks assigned.",
       "name": "Ord"
     }
   ]
