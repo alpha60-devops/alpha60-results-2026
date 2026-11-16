@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-16T20:19:34.570065+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-16T20:34:41.317550+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **0 published, 63 remaining; 0.0% published.**
 
@@ -15,9 +15,9 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Stage | Objects |
 | --- | ---: |
-| inputs frozen | 61 |
-| cache validated | 8 |
-| bundle validated | 8 |
+| inputs frozen | 67 |
+| cache validated | 9 |
+| bundle validated | 9 |
 | installed | 0 |
 | pushed | 0 |
 | deployed | 0 |
@@ -26,7 +26,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: freeze-inputs, eureka-lowdown-201-g1. 171.8 GB free. |
+| Eureka | Running: freeze-inputs. 173.7 GB free. |
 | Ord | Unreachable on the last command probe; no new tasks assigned. |
 
 ## Current constraints
@@ -77,7 +77,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `lanterns-101` | 2026-11-08 | incremental-candidate | inputs frozen; preparing worker |
 | `legend-of-vox-machina-410` | 2026-10-21 | incremental-candidate | inputs frozen; preparing worker |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | bundle-validated |
-| `lowdown-201` | 2026-11-11 | build-no-2026-cache | caching |
+| `lowdown-201` | 2026-11-11 | build-no-2026-cache | bundle-validated |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | waiting for scratch capacity; estimated 154.1 GB plus 25.0 GB reserve |
 | `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | waiting for scratch capacity; estimated 1956.0 GB plus 25.0 GB reserve |
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | inputs frozen; preparing worker |
@@ -95,7 +95,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `silo-301` | 2026-11-13 | incremental-candidate | inputs frozen; preparing worker |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | waiting for scratch capacity; estimated 193.5 GB plus 25.0 GB reserve |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | waiting for scratch capacity; estimated 784.0 GB plus 25.0 GB reserve |
-| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | freezing inputs |
+| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | waiting for scratch capacity; estimated 3085.0 GB plus 25.0 GB reserve |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | inputs frozen; preparing worker |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | waiting for scratch capacity; estimated 385.4 GB plus 25.0 GB reserve |
 | `sugar-201` | 2026-10-08 | incremental-candidate | inputs frozen; preparing worker |
