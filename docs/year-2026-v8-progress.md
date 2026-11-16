@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-16T19:55:14.822850+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-16T20:04:54.109440+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **0 published, 63 remaining; 0.0% published.**
 
@@ -15,9 +15,9 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Stage | Objects |
 | --- | ---: |
-| inputs frozen | 57 |
-| cache validated | 4 |
-| bundle validated | 4 |
+| inputs frozen | 58 |
+| cache validated | 6 |
+| bundle validated | 6 |
 | installed | 0 |
 | pushed | 0 |
 | deployed | 0 |
@@ -26,7 +26,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: freeze-inputs, eureka-fall-of-el-mayo-01-g1. 174.5 GB free. |
+| Eureka | Running: freeze-inputs, eureka-lego-star-wars-the-mandalorian-2026-g1. 172.1 GB free. |
 | Ord | Unreachable on the last command probe; no new tasks assigned. |
 
 ## Current constraints
@@ -61,12 +61,12 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `drama-2026` | 2026-10-16 | incremental-candidate | inputs frozen; preparing worker |
 | `enola-holmes-3` | 2026-10-16 | incremental-candidate | inputs frozen; preparing worker |
 | `euphoria-301` | 2026-10-11 | incremental-candidate | inputs frozen; preparing worker |
-| `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | caching |
+| `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | bundle-validated |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | waiting for scratch capacity; estimated 576.0 GB plus 25.0 GB reserve |
 | `get-jiro-01` | 2026-11-15 | resolve-torrent-definition | identity resolution |
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | freezing inputs |
-| `hopeu-2026` | 2026-11-14 | build-no-2026-cache | ready |
-| `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | freezing inputs |
+| `hopeu-2026` | 2026-11-14 | build-no-2026-cache | bundle-validated |
+| `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | inputs frozen; preparing worker |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | inputs frozen; preparing worker |
 | `invincible-101` | 2026-04-28 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
 | `invincible-201` | 2026-05-05 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
@@ -76,7 +76,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `kung-fu-soccer-2026` | 2026-11-13 | inspect-latest-cache-day | held: newer Gold cache requires adoption review |
 | `lanterns-101` | 2026-11-08 | incremental-candidate | inputs frozen; preparing worker |
 | `legend-of-vox-machina-410` | 2026-10-21 | incremental-candidate | inputs frozen; preparing worker |
-| `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | ready |
+| `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | caching |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | ready |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | waiting for scratch capacity; estimated 154.1 GB plus 25.0 GB reserve |
 | `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | waiting for scratch capacity; estimated 1956.0 GB plus 25.0 GB reserve |
