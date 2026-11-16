@@ -7,10 +7,10 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 1,
-    "cache_validated": 1,
+    "bundle_validated": 2,
+    "cache_validated": 2,
     "deployed": 0,
-    "inputs_frozen": 46,
+    "inputs_frozen": 55,
     "installed": 0,
     "pushed": 0
   },
@@ -19,7 +19,7 @@
       "collection_key": "all-you-need-is-kill",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-14",
-      "state": "caching"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "apothecary-diaries-03.1",
@@ -37,19 +37,19 @@
       "collection_key": "avatar-the-last-airbender-2024-02",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "backrooms-2026",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-10",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "bass-x-machina-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "inputs frozen; preparing worker"
+      "state": "caching"
     },
     {
       "collection_key": "bear-05",
@@ -241,7 +241,7 @@
       "collection_key": "mandalorian-and-grogu",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "monarch-legacy-of-monsters-208",
@@ -271,7 +271,7 @@
       "collection_key": "obsession-2025",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-29",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "president-curtis-01",
@@ -307,7 +307,7 @@
       "collection_key": "send-help",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-18",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "shards-101",
@@ -319,7 +319,7 @@
       "collection_key": "silo-301",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "slow-horses-601",
@@ -361,7 +361,7 @@
       "collection_key": "super-mario-galaxy-movie",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-10",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "toy-story-5",
@@ -379,13 +379,13 @@
       "collection_key": "widows-bay-108",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-31",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "world-cup-2026",
       "mode": "inspect-latest-cache-day",
       "source_endpoint": "2026-11-10",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "x-men-97-201",
@@ -394,7 +394,7 @@
       "state": "inputs frozen; preparing worker"
     }
   ],
-  "observed_at": "2026-11-16T19:14:15.339415+00:00",
+  "observed_at": "2026-11-16T19:39:21.601713+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -402,7 +402,7 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: freeze-inputs, eureka-all-you-need-is-kill-g1. 175.4 GB free.",
+      "activity": "Running: freeze-inputs. 175.0 GB free.",
       "name": "Eureka"
     },
     {

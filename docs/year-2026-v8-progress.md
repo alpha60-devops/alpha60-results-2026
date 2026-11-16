@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-16T19:14:15.339415+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-16T19:39:21.601713+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **0 published, 63 remaining; 0.0% published.**
 
@@ -15,9 +15,9 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Stage | Objects |
 | --- | ---: |
-| inputs frozen | 46 |
-| cache validated | 1 |
-| bundle validated | 1 |
+| inputs frozen | 55 |
+| cache validated | 2 |
+| bundle validated | 2 |
 | installed | 0 |
 | pushed | 0 |
 | deployed | 0 |
@@ -26,7 +26,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: freeze-inputs, eureka-all-you-need-is-kill-g1. 175.4 GB free. |
+| Eureka | Running: freeze-inputs. 175.0 GB free. |
 | Ord | Unreachable on the last command probe; no new tasks assigned. |
 
 ## Current constraints
@@ -42,12 +42,12 @@ Finished objects are checked in individually after cache, page-bundle and storag
 
 | Media object | Source endpoint | Planned cache work | Current stage |
 | --- | --- | --- | --- |
-| `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | caching |
+| `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | bundle-validated |
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | inputs frozen; preparing worker |
 | `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | inputs frozen; preparing worker |
-| `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | freezing inputs |
-| `backrooms-2026` | 2026-11-10 | incremental-candidate | freezing inputs |
-| `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | inputs frozen; preparing worker |
+| `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | inputs frozen; preparing worker |
+| `backrooms-2026` | 2026-11-10 | incremental-candidate | inputs frozen; preparing worker |
+| `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | caching |
 | `bear-05` | 2026-11-13 | incremental-candidate | freezing inputs |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | inputs frozen; preparing worker |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | inputs frozen; preparing worker |
@@ -79,31 +79,31 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | inputs frozen; preparing worker |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | inputs frozen; preparing worker |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | inputs frozen; preparing worker |
-| `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | freezing inputs |
+| `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | inputs frozen; preparing worker |
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | freezing inputs |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | bundle-validated |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | inputs frozen; preparing worker |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | inputs frozen; preparing worker |
-| `obsession-2025` | 2026-10-29 | full-recache-count-increased | freezing inputs |
+| `obsession-2025` | 2026-10-29 | full-recache-count-increased | inputs frozen; preparing worker |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | inputs frozen; preparing worker |
 | `project-hail-mary` | 2026-11-08 | resolve-count-decreased | freezing inputs |
 | `reacher-401` | 2026-11-13 | incremental-candidate | inputs frozen; preparing worker |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | inputs frozen; preparing worker |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | inputs frozen; preparing worker |
-| `send-help` | 2026-10-18 | incremental-candidate | freezing inputs |
+| `send-help` | 2026-10-18 | incremental-candidate | inputs frozen; preparing worker |
 | `shards-101` | 2026-11-11 | incremental-candidate | inputs frozen; preparing worker |
-| `silo-301` | 2026-11-13 | incremental-candidate | freezing inputs |
+| `silo-301` | 2026-11-13 | incremental-candidate | inputs frozen; preparing worker |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | inputs frozen; preparing worker |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | inputs frozen; preparing worker |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | freezing inputs |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | inputs frozen; preparing worker |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | inputs frozen; preparing worker |
 | `sugar-201` | 2026-10-08 | incremental-candidate | inputs frozen; preparing worker |
-| `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | freezing inputs |
+| `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | inputs frozen; preparing worker |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | inputs frozen; preparing worker |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | inputs frozen; preparing worker |
-| `widows-bay-108` | 2026-10-31 | full-recache-count-increased | freezing inputs |
-| `world-cup-2026` | 2026-11-10 | inspect-latest-cache-day | freezing inputs |
+| `widows-bay-108` | 2026-10-31 | full-recache-count-increased | inputs frozen; preparing worker |
+| `world-cup-2026` | 2026-11-10 | inspect-latest-cache-day | inputs frozen; preparing worker |
 | `x-men-97-201` | 2026-11-11 | incremental-candidate | inputs frozen; preparing worker |
 
 [Machine-readable progress](year-2026-v8-progress.json) · [Results home](../index.html) · [Pages deployments](https://github.com/alpha60-devops/alpha60-results-2026/actions)
