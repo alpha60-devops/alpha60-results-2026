@@ -24,6 +24,8 @@ project.
 
 ## 2026 Results
 
+[November cache update progress](docs/year-2026-v8-progress.html)
+
 - 79 Media Objects
 {% capture media_objects %}{% include year-2026-0-media-objects.txt %}{% endcapture %}{{ media_objects | replace: '.md)', '.html)' }}
 
