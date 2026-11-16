@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-16T19:49:47.361538+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-16T19:55:14.822850+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **0 published, 63 remaining; 0.0% published.**
 
@@ -15,9 +15,9 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Stage | Objects |
 | --- | ---: |
-| inputs frozen | 56 |
-| cache validated | 3 |
-| bundle validated | 3 |
+| inputs frozen | 57 |
+| cache validated | 4 |
+| bundle validated | 4 |
 | installed | 0 |
 | pushed | 0 |
 | deployed | 0 |
@@ -26,7 +26,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: freeze-inputs, eureka-resident-evil-2026-g1. 170.8 GB free. |
+| Eureka | Running: freeze-inputs, eureka-fall-of-el-mayo-01-g1. 174.5 GB free. |
 | Ord | Unreachable on the last command probe; no new tasks assigned. |
 
 ## Current constraints
@@ -50,7 +50,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | bundle-validated |
 | `bear-05` | 2026-11-13 | incremental-candidate | freezing inputs |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | waiting for scratch capacity; estimated 246.1 GB plus 25.0 GB reserve |
-| `blue-box-201` | 2026-11-14 | build-no-2026-cache | inputs frozen; preparing worker |
+| `blue-box-201` | 2026-11-14 | build-no-2026-cache | ready |
 | `boys-501` | 2026-10-06 | incremental-candidate | freezing inputs |
 | `brothers-01` | 2026-11-13 | full-recache-count-increased | waiting for scratch capacity; estimated 206.0 GB plus 25.0 GB reserve |
 | `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | waiting for scratch capacity; estimated 256.9 GB plus 25.0 GB reserve |
@@ -60,20 +60,20 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `diplomat-04` | 2026-11-05 | build-no-2026-cache | waiting for scratch capacity; estimated 161.1 GB plus 25.0 GB reserve |
 | `drama-2026` | 2026-10-16 | incremental-candidate | inputs frozen; preparing worker |
 | `enola-holmes-3` | 2026-10-16 | incremental-candidate | inputs frozen; preparing worker |
-| `euphoria-301` | 2026-10-11 | incremental-candidate | freezing inputs |
-| `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | held: metadata readiness failed |
+| `euphoria-301` | 2026-10-11 | incremental-candidate | inputs frozen; preparing worker |
+| `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | caching |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | waiting for scratch capacity; estimated 576.0 GB plus 25.0 GB reserve |
 | `get-jiro-01` | 2026-11-15 | resolve-torrent-definition | identity resolution |
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | freezing inputs |
-| `hopeu-2026` | 2026-11-14 | build-no-2026-cache | inputs frozen; preparing worker |
+| `hopeu-2026` | 2026-11-14 | build-no-2026-cache | ready |
 | `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | freezing inputs |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | inputs frozen; preparing worker |
-| `invincible-101` | 2026-04-28 | build-no-2026-cache | inputs frozen; preparing worker |
-| `invincible-201` | 2026-05-05 | build-no-2026-cache | inputs frozen; preparing worker |
-| `invincible-301` | 2026-06-30 | inspect-latest-cache-day | inputs frozen; preparing worker |
+| `invincible-101` | 2026-04-28 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
+| `invincible-201` | 2026-05-05 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
+| `invincible-301` | 2026-06-30 | inspect-latest-cache-day | held: newer Eureka archive requires adoption review |
 | `invite-2026` | 2026-11-13 | incremental-candidate | inputs frozen; preparing worker |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | waiting for scratch capacity; estimated 201.8 GB plus 25.0 GB reserve |
-| `kung-fu-soccer-2026` | 2026-11-13 | inspect-latest-cache-day | inputs frozen; preparing worker |
+| `kung-fu-soccer-2026` | 2026-11-13 | inspect-latest-cache-day | held: newer Gold cache requires adoption review |
 | `lanterns-101` | 2026-11-08 | incremental-candidate | inputs frozen; preparing worker |
 | `legend-of-vox-machina-410` | 2026-10-21 | incremental-candidate | inputs frozen; preparing worker |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | ready |
@@ -86,15 +86,15 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | waiting for scratch capacity; estimated 593.6 GB plus 25.0 GB reserve |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | waiting for scratch capacity; estimated 1193.1 GB plus 25.0 GB reserve |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | inputs frozen; preparing worker |
-| `project-hail-mary` | 2026-11-08 | resolve-count-decreased | freezing inputs |
+| `project-hail-mary` | 2026-11-08 | resolve-count-decreased | held: reduced canonical member count requires scope review |
 | `reacher-401` | 2026-11-13 | incremental-candidate | inputs frozen; preparing worker |
-| `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | caching |
+| `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | bundle-validated |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | inputs frozen; preparing worker |
 | `send-help` | 2026-10-18 | incremental-candidate | inputs frozen; preparing worker |
 | `shards-101` | 2026-11-11 | incremental-candidate | inputs frozen; preparing worker |
 | `silo-301` | 2026-11-13 | incremental-candidate | inputs frozen; preparing worker |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | waiting for scratch capacity; estimated 193.5 GB plus 25.0 GB reserve |
-| `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | inputs frozen; preparing worker |
+| `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | waiting for scratch capacity; estimated 784.0 GB plus 25.0 GB reserve |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | freezing inputs |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | inputs frozen; preparing worker |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | waiting for scratch capacity; estimated 385.4 GB plus 25.0 GB reserve |
@@ -102,8 +102,8 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | inputs frozen; preparing worker |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | waiting for scratch capacity; estimated 584.6 GB plus 25.0 GB reserve |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | waiting for scratch capacity; estimated 206.9 GB plus 25.0 GB reserve |
-| `widows-bay-108` | 2026-10-31 | full-recache-count-increased | inputs frozen; preparing worker |
-| `world-cup-2026` | 2026-11-10 | inspect-latest-cache-day | inputs frozen; preparing worker |
+| `widows-bay-108` | 2026-10-31 | full-recache-count-increased | held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz/2026-10-31-at-13-01.tar.xz: Compressed data is corrupt |
+| `world-cup-2026` | 2026-11-10 | inspect-latest-cache-day | held: newer Gold cache requires adoption review |
 | `x-men-97-201` | 2026-11-11 | incremental-candidate | inputs frozen; preparing worker |
 
 [Machine-readable progress](year-2026-v8-progress.json) · [Results home](../index.html) · [Pages deployments](https://github.com/alpha60-devops/alpha60-results-2026/actions)

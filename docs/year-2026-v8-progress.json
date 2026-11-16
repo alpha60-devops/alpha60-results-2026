@@ -7,10 +7,10 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 3,
-    "cache_validated": 3,
+    "bundle_validated": 4,
+    "cache_validated": 4,
     "deployed": 0,
-    "inputs_frozen": 56,
+    "inputs_frozen": 57,
     "installed": 0,
     "pushed": 0
   },
@@ -67,7 +67,7 @@
       "collection_key": "blue-box-201",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-14",
-      "state": "inputs frozen; preparing worker"
+      "state": "ready"
     },
     {
       "collection_key": "boys-501",
@@ -127,13 +127,13 @@
       "collection_key": "euphoria-301",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-11",
-      "state": "freezing inputs"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "fall-of-el-mayo-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "held: metadata readiness failed"
+      "state": "caching"
     },
     {
       "collection_key": "furious-2025",
@@ -157,7 +157,7 @@
       "collection_key": "hopeu-2026",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-14",
-      "state": "inputs frozen; preparing worker"
+      "state": "ready"
     },
     {
       "collection_key": "house-of-the-dragon-301",
@@ -175,19 +175,19 @@
       "collection_key": "invincible-101",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-04-28",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: explicit annual continuation and historical cache layout review"
     },
     {
       "collection_key": "invincible-201",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-05-05",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: explicit annual continuation and historical cache layout review"
     },
     {
       "collection_key": "invincible-301",
       "mode": "inspect-latest-cache-day",
       "source_endpoint": "2026-06-30",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: newer Eureka archive requires adoption review"
     },
     {
       "collection_key": "invite-2026",
@@ -205,7 +205,7 @@
       "collection_key": "kung-fu-soccer-2026",
       "mode": "inspect-latest-cache-day",
       "source_endpoint": "2026-11-13",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: newer Gold cache requires adoption review"
     },
     {
       "collection_key": "lanterns-101",
@@ -283,7 +283,7 @@
       "collection_key": "project-hail-mary",
       "mode": "resolve-count-decreased",
       "source_endpoint": "2026-11-08",
-      "state": "freezing inputs"
+      "state": "held: reduced canonical member count requires scope review"
     },
     {
       "collection_key": "reacher-401",
@@ -295,7 +295,7 @@
       "collection_key": "resident-evil-2026",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "caching"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "season-2026-01",
@@ -331,7 +331,7 @@
       "collection_key": "spider-man-brand-new-day",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-10",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 784.0 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "spider-noir-01",
@@ -379,13 +379,13 @@
       "collection_key": "widows-bay-108",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-31",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz/2026-10-31-at-13-01.tar.xz: Compressed data is corrupt"
     },
     {
       "collection_key": "world-cup-2026",
       "mode": "inspect-latest-cache-day",
       "source_endpoint": "2026-11-10",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: newer Gold cache requires adoption review"
     },
     {
       "collection_key": "x-men-97-201",
@@ -394,7 +394,7 @@
       "state": "inputs frozen; preparing worker"
     }
   ],
-  "observed_at": "2026-11-16T19:49:47.361538+00:00",
+  "observed_at": "2026-11-16T19:55:14.822850+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -402,7 +402,7 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: freeze-inputs, eureka-resident-evil-2026-g1. 170.8 GB free.",
+      "activity": "Running: freeze-inputs, eureka-fall-of-el-mayo-01-g1. 174.5 GB free.",
       "name": "Eureka"
     },
     {
