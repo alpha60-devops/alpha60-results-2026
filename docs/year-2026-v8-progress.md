@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T19:40:37.202807+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T19:55:41.155509+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **26 published, 37 remaining; 41.3% published.**
 
@@ -16,7 +16,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 27 |
+| cache validated | 28 |
 | bundle validated | 26 |
 | installed | 26 |
 | pushed | 26 |
@@ -26,15 +26,16 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 472.0 GB free. |
-| Ord | Running: alpha60-v8-ord-boys-501-g1.service. 1187.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-monarch-legacy-of-monsters-208-g1. 459.2 GB free. |
+| Ord | Running: alpha60-v8-ord-boys-501-g1.service. 1178.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
 ## Current constraints
 
 - Input-source holds: bear-05. Completed objects proceed independently.
-- Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.
+- Identity, scope, archive-adoption or source-quality holds: get-jiro-01, kung-fu-soccer-2026, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.
+- New claims paused: Deploying reviewed source amendments and nested-year installation; existing claims continue
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -51,7 +52,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `bear-05` | 2026-11-13 | incremental-candidate | held: input freeze failed: invalid sample size/digest |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | deployed |
-| `boys-501` | 2026-10-06 | incremental-candidate | caching |
+| `boys-501` | 2026-10-06 | incremental-candidate | building-results |
 | `brothers-01` | 2026-11-13 | full-recache-count-increased | deployed |
 | `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | deployed |
 | `crew-girl-01` | 2026-11-11 | full-recache-count-increased | ready |
@@ -68,8 +69,8 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
 | `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | ready |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | ready |
-| `invincible-101` | 2026-04-28 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
-| `invincible-201` | 2026-05-05 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
+| `invincible-101` | 2026-04-28 | build-no-2026-cache | ready |
+| `invincible-201` | 2026-05-05 | build-no-2026-cache | ready |
 | `invincible-301` | 2026-06-30 | inspect-latest-cache-day | held: newer Eureka archive requires adoption review |
 | `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |

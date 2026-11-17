@@ -1,12 +1,13 @@
 {
   "blockers": [
     "Input-source holds: bear-05. Completed objects proceed independently.",
-    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary."
+    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, kung-fu-soccer-2026, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.",
+    "New claims paused: Deploying reviewed source amendments and nested-year installation; existing claims continue"
   ],
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 26,
-    "cache_validated": 27,
+    "cache_validated": 28,
     "deployed": 26,
     "inputs_frozen": 98,
     "installed": 26,
@@ -82,7 +83,7 @@
       "collection_key": "boys-501",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-06",
-      "state": "caching"
+      "state": "building-results"
     },
     {
       "collection_key": "brothers-01",
@@ -184,13 +185,13 @@
       "collection_key": "invincible-101",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-04-28",
-      "state": "held: explicit annual continuation and historical cache layout review"
+      "state": "ready"
     },
     {
       "collection_key": "invincible-201",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-05-05",
-      "state": "held: explicit annual continuation and historical cache layout review"
+      "state": "ready"
     },
     {
       "collection_key": "invincible-301",
@@ -403,7 +404,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T19:40:37.202807+00:00",
+  "observed_at": "2026-11-17T19:55:41.155509+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -411,11 +412,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions. 472.0 GB free.",
+      "activity": "Running: prepare-admissions, eureka-monarch-legacy-of-monsters-208-g1. 459.2 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-boys-501-g1.service. 1187.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-boys-501-g1.service. 1178.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
