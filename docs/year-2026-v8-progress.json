@@ -2,17 +2,16 @@
   "blockers": [
     "Input-source holds: bear-05. Completed objects proceed independently.",
     "11 admitted objects need more scratch space; 25.0 GB stays reserved.",
-    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.",
-    "Coordinator recovery hold: eureka operation failed (255): bkoz@172.31.200.55: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password)."
+    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary."
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 16,
-    "cache_validated": 17,
-    "deployed": 15,
+    "bundle_validated": 17,
+    "cache_validated": 19,
+    "deployed": 17,
     "inputs_frozen": 98,
-    "installed": 15,
-    "pushed": 15
+    "installed": 17,
+    "pushed": 17
   },
   "objects": [
     {
@@ -25,7 +24,7 @@
       "collection_key": "apothecary-diaries-03.1",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "building-results"
+      "state": "deployed"
     },
     {
       "collection_key": "avatar-seven-havens-01",
@@ -61,7 +60,7 @@
       "collection_key": "black-clover-02",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "ready"
+      "state": "building-results"
     },
     {
       "collection_key": "blue-box-201",
@@ -259,7 +258,7 @@
       "collection_key": "my-brilliant-career-2026-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "ready"
+      "state": "building-results"
     },
     {
       "collection_key": "neagley-01",
@@ -373,7 +372,7 @@
       "collection_key": "visionquest-101",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-10",
-      "state": "bundle-validated"
+      "state": "deployed"
     },
     {
       "collection_key": "widows-bay-108",
@@ -394,7 +393,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T16:24:43.746801+00:00",
+  "observed_at": "2026-11-17T16:39:49.562675+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -402,11 +401,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions. 370.3 GB free.",
+      "activity": "Running: prepare-admissions, eureka-my-brilliant-career-2026-01-g1. 385.5 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Pinned runtime verified. 1203.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-black-clover-02-g1.service. 1202.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
