@@ -2,18 +2,17 @@
   "blockers": [
     "Input-source holds: bear-05. Completed objects proceed independently.",
     "23 admitted objects need more scratch space; 25.0 GB stays reserved.",
-    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, world-cup-2026.",
-    "16 candidates await their individual compatibility decision.",
+    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201.",
     "Ord must pass SSH session, storage and capacity checks before taking tasks."
   ],
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 9,
     "cache_validated": 9,
-    "deployed": 4,
+    "deployed": 8,
     "inputs_frozen": 98,
-    "installed": 5,
-    "pushed": 5
+    "installed": 9,
+    "pushed": 9
   },
   "objects": [
     {
@@ -38,13 +37,13 @@
       "collection_key": "avatar-the-last-airbender-2024-02",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "backrooms-2026",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-10",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "bass-x-machina-01",
@@ -116,13 +115,13 @@
       "collection_key": "drama-2026",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-16",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "enola-holmes-3",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-16",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "euphoria-301",
@@ -158,7 +157,7 @@
       "collection_key": "hopeu-2026",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-14",
-      "state": "pushed"
+      "state": "deployed"
     },
     {
       "collection_key": "house-of-the-dragon-301",
@@ -170,7 +169,7 @@
       "collection_key": "house-of-the-dragon-308",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-15",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "invincible-101",
@@ -188,13 +187,13 @@
       "collection_key": "invincible-301",
       "mode": "inspect-latest-cache-day",
       "source_endpoint": "2026-06-30",
-      "state": "held: newer Eureka archive requires adoption review"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "invite-2026",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "kill-jackie-01",
@@ -212,25 +211,25 @@
       "collection_key": "lanterns-101",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-08",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "legend-of-vox-machina-410",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-21",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "lego-star-wars-the-mandalorian-2026",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-15",
-      "state": "bundle-validated"
+      "state": "deployed"
     },
     {
       "collection_key": "lowdown-201",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-11",
-      "state": "bundle-validated"
+      "state": "deployed"
     },
     {
       "collection_key": "lupin-04",
@@ -254,7 +253,7 @@
       "collection_key": "musk-2026",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "bundle-validated"
+      "state": "deployed"
     },
     {
       "collection_key": "my-brilliant-career-2026-01",
@@ -278,7 +277,7 @@
       "collection_key": "president-curtis-01",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "project-hail-mary",
@@ -290,19 +289,19 @@
       "collection_key": "reacher-401",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "resident-evil-2026",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "bundle-validated"
+      "state": "pushed"
     },
     {
       "collection_key": "season-2026-01",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-10",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "send-help",
@@ -314,13 +313,13 @@
       "collection_key": "shards-101",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-11",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "silo-301",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "slow-horses-601",
@@ -344,7 +343,7 @@
       "collection_key": "star-wars-visions-the-ninth-jedi-01",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-09",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "stranger-things-tales-from-85-02",
@@ -356,7 +355,7 @@
       "collection_key": "sugar-201",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-08",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "super-mario-galaxy-movie",
@@ -386,16 +385,16 @@
       "collection_key": "world-cup-2026",
       "mode": "inspect-latest-cache-day",
       "source_endpoint": "2026-11-10",
-      "state": "held: newer Gold cache requires adoption review"
+      "state": "inputs frozen; preparing worker"
     },
     {
       "collection_key": "x-men-97-201",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-11",
-      "state": "waiting: successor compatibility plan pending"
+      "state": "inputs frozen; preparing worker"
     }
   ],
-  "observed_at": "2026-11-17T01:16:57.558534+00:00",
+  "observed_at": "2026-11-17T01:47:30.299388+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -403,11 +402,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-compatibility, prepare-admissions. 173.7 GB free.",
+      "activity": "Running: prepare-compatibility, prepare-admissions. 173.6 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "SSH command timed out; no new tasks assigned.",
+      "activity": "Unreachable on the last command probe; no new tasks assigned.",
       "name": "Ord"
     }
   ]
