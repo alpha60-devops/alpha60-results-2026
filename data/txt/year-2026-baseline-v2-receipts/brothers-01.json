@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt6773088",
     "imdb_id": "tt6773088",
-    "revision": "6656be3d8315f03fadc210e4c02ee453f4692396",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
     "wikidata_id": "Q133842356",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Brothers_(2026_TV_series)"
   },
-  "coverage_sha256": "9fec268640832c428816fcba0da701f87aae1f6b55ee7054715d360781c5a4cf",
-  "generated_at": "2026-10-04T06:45:58.060523+00:00",
+  "coverage_sha256": "c13ce86907bdae80fb9628e2ace37a411b27c29ee5692ecddb21d4c9e242a619",
+  "generated_at": "2026-11-17T04:39:14.007902+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/archives/brothers-01.cache/cache.20261001.tar.xz",
-      "sha256": "06d04ae656269115a95818e8b6aed7549867b9c05cb6f8373128fc119656961a",
-      "size": 22447348
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/brothers-01/g1/archives/brothers-01.cache/cache.20261113.tar.xz",
+      "sha256": "67b3d8694c8762571a5ea7de8c3c763454be83c137cf18e0ae75bcac2e2c8f4b",
+      "size": 247588184
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/brothers-01.md",
-      "sha256": "abf8d0817850feb0c3baf17d74035446ac25517a9d4c9053399337be98ef7f58",
-      "size": 891
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/brothers-01.md",
+      "sha256": "fd89dc3a2bbc840642d3bc0ae2b61432bc1b22e534408e54838784908ea10ecf",
+      "size": 647
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/brothers-01.json",
-      "sha256": "ff8346b0e66a3fe3a4563c4687bf13cdcf4a5b3679c2f1f26180aa1a8fd0fa9d",
-      "size": 2122
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/brothers-01.json",
+      "sha256": "bc3514ca5e69ef4d50c5d4e422f1bc47cc0011de080c425d4ac6e993665a324e",
+      "size": 2466
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/brothers-01.json",
-      "sha256": "0fd0c225321cec38994dba2ba82f134fee09525433a4815339150c332896e657",
-      "size": 361
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/brothers-01.json",
+      "sha256": "79953b8761d93bbd321f53432a91e0b696cc052671b0e7ed3ca08e081c9fab1e",
+      "size": 362
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/inputs/worker-map.json",
-      "sha256": "4e7bee1a946a83d7091a8d7d4ec3bf79044dc0a8e25dfc7478a1f26639cf5404",
-      "size": 240593
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/brothers-01/g1/results/workers/ord.worker-map.json",
+      "sha256": "7cd03084bc8a714c6ee291c7d0edf1696649ad17799bb419e8c2d3376cd6ed68",
+      "size": 3099
     }
   },
   "media_object": "brothers-01",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "8b35cbeb78c31ad5b9f1b21f21b568dc2e2479395c4ed82a4ce108012d391c02",
-        "before_sha256": "dcace8d36a3a99fd80c4c84a1dd4523f28931b0372fd88fc3cf85f49ba502069",
-        "path": "docs/itemized/brothers-01-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:56:52.236004+00:00",
-    "coverage_sha256": "9fec268640832c428816fcba0da701f87aae1f6b55ee7054715d360781c5a4cf",
-    "day_contract": {
-      "collection_key": "brothers-01",
-      "day_products": 8,
-      "first_date": "2026-09-24",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-10-01",
-      "last_index": 8,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "ccf503770a7a0ea74e44bfe58ffd24ad89771025",
-    "historical_receipt_sha256": "0dfc2d6797cc260d5bdd83d85ae3e005937a9d30b1314b36ae770e1279788743",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/brothers-01.md",
-        "sha256": "abf8d0817850feb0c3baf17d74035446ac25517a9d4c9053399337be98ef7f58",
-        "size": 891
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/brothers-01.json",
-        "sha256": "ff8346b0e66a3fe3a4563c4687bf13cdcf4a5b3679c2f1f26180aa1a8fd0fa9d",
-        "size": 2122
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/brothers-01.json",
-        "sha256": "0fd0c225321cec38994dba2ba82f134fee09525433a4815339150c332896e657",
-        "size": 361
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 2,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/brothers-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "3337de32fcd1096ed2401b91e82558b0a997f254ee8a9a38b7ffc724d58597a1",
-    "docs/itemized/brothers-01-sample-cache-audit.md": "8b35cbeb78c31ad5b9f1b21f21b568dc2e2479395c4ed82a4ce108012d391c02",
-    "docs/itemized/figures/brothers-01-carto-4k.webp": "e3b95559725d665e9b62305a16db0bdddf9c098ee89914bc9b76d76c0e5c680f",
-    "docs/itemized/figures/brothers-01-carto.png": "d7d111459564cc6ea0b7c3cf63c3170daa7cd971a864c466c3fc7a648a47ef54",
-    "docs/itemized/figures/brothers-01-cumulative-detail-btiha-itemized-by-bytes.svg": "0658eb6aedff7f0cce5f48b7525af57f4fd87221ee25da7fd86d77b6356d4a3e",
-    "docs/itemized/figures/brothers-01-data-ge-1080p-4k.webp": "e0327ce833a76049854eb12e0b7b01ff25ffa2677803e03cecd108ee59c34bf9",
-    "docs/itemized/figures/brothers-01-data-ge-1080p.webp": "41cfaa8382acb94d67d3c51c5dd2454cc87c9c7fadb827ed1086b06d4c4eb280",
-    "docs/itemized/figures/brothers-01-data-lt-1080p-4k.webp": "3fa3dc3104997d929147d9680125cc8e13d797bbb4fedde2fa626b04e5b62124",
-    "docs/itemized/figures/brothers-01-data-lt-1080p.webp": "35f219fe8c6e8e48320ef55efb19f4bd74b91ea5ec603c30d09ae439d8a9c439",
-    "docs/itemized/figures/brothers-01-downloads-by-day-day.svg": "c6d61f584a84abd3f594528fce42b21769526887011167c2c0f2f61a29510cb2",
-    "docs/itemized/figures/brothers-01-downloads-by-week-brothers-01-week.svg": "6b24f9910154637b6212d12a82ee68e8220abdbbcdfa1d66a70617ff9b3b979a",
+    "data/csv/bytes/brothers-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "e6b7a747002a8eb8f9ebfaefebef50f72bbbe0acd4965a4e39d4d757df3ab0f2",
+    "docs/itemized/brothers-01-sample-cache-audit.md": "9eb626cd997a6a98965f121d15ad31ac458a61ea6a698cefe281e7331476e1a5",
+    "docs/itemized/figures/brothers-01-carto-4k.webp": "83a58193b469b1fa4a7b590da0191c920f22db1b34b47c5ea0bfc7d484afb60d",
+    "docs/itemized/figures/brothers-01-carto.png": "050feb0b029662a1de8ec83e783a0c35a57345e9f87ad9fc8c1a2abafa033341",
+    "docs/itemized/figures/brothers-01-cumulative-detail-btiha-itemized-by-bytes.svg": "fe31933c9837fe784cd442c4265d4470f14c0f17971891874613764130702032",
+    "docs/itemized/figures/brothers-01-data-ge-1080p-4k.webp": "fb654bba66ce0b94aa80e89e729e85217eaabcc5c25f6db72b1a93673d58d202",
+    "docs/itemized/figures/brothers-01-data-ge-1080p.webp": "493f32981692625531be7f6e001ab457135a72eab5e0d6eb8eec227f6f905e6e",
+    "docs/itemized/figures/brothers-01-data-lt-1080p-4k.webp": "aa831ec3e10342adb3f1778ef2586fd9e7a3d3e45c201494d3540d9cc5c9d44d",
+    "docs/itemized/figures/brothers-01-data-lt-1080p.webp": "86246e85be4faec29d92414a7911b9db3e9f7bb57c459d2c3db442599b99cec6",
+    "docs/itemized/figures/brothers-01-downloads-by-day-day.svg": "a21a15e7ef72f6bdade6d59038026ee579a37795abd3c641dda530dafb0f057a",
+    "docs/itemized/figures/brothers-01-downloads-by-week-brothers-01-week.svg": "32626244777c71f6044d9b6a949f7e61ab90c351c9006c44a4bd927ba556923f",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-code",
-      "revision": "ec8be71a1ed3b70772040d6c254762788206313a",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-carto-geo.exe",
-      "sha256": "854e258846a4a2d678c62ad00fba4c91dceed1c1fc54a5ceba2ce9efd2edb1c7",
-      "size": 45250536
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/brothers-01/tmp/brothers-01-cumulative-btiha.geojson",
-        "sha256": "e0fe0e9aae1baef5d3bedb80202a4d30766fdb7c4297032c37665ad1f074456d",
-        "size": 32709455
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/brothers-01/g1/results/work/brothers-01/tmp/brothers-01-cumulative-btiha.geojson",
+        "sha256": "fc87c7ac1df56b824c772008293cf4d2be1eb11f88295f6eeae3987157b82e79",
+        "size": 222813212
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/brothers-01/tmp/brothers-01-cumulative-btiha-media-objects.json",
-        "sha256": "f6f7601ebb706298fd591a7b66be34e56754106ef62f908667df4eec7c0e5ffc",
-        "size": 242833
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/brothers-01/g1/results/work/brothers-01/tmp/brothers-01-cumulative-btiha-media-objects.json",
+        "sha256": "5f937f969b3cc2e4a84d6074750548821eb8af836ccad2f17b14dfc42527da8b",
+        "size": 318128
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi",
-      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
       "untracked": false
     },
     "media_object": "brothers-01",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-meta-collection.exe",
-      "sha256": "8f1bd1d5de637a3cdd4c104c76f4e322b3141743e473202610cce6d39c76553d",
-      "size": 8579520
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-meta-collection.exe",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
-      "size": 440288
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,27 +99,27 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          69.0,
-          61.0,
+          80.0,
           57.0,
-          48.0,
-          42.0,
-          39.0,
-          36.0,
-          29.0,
-          26.0
+          55.0,
+          55.0,
+          49.0,
+          45.0,
+          41.0,
+          37.0,
+          35.0
         ],
         "image_references": [
           "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
         ],
         "label_count": 10,
         "labels": [
-          "Nanjing",
           "Seoul",
-          "Amsterdam",
-          "Lelystad",
-          "London",
+          "Nanjing",
           "Istanbul",
+          "Lelystad",
+          "Amsterdam",
+          "London",
           "Shanghai",
           "Moscow",
           "Hangzhou",
@@ -189,15 +132,15 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          76.0,
-          66.0,
-          65.0,
+          82.0,
           55.0,
-          52.0,
-          47.0,
+          51.0,
+          48.0,
+          44.0,
           42.0,
-          37.0,
-          37.0
+          39.0,
+          35.0,
+          33.0
         ],
         "image_references": [
           "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
@@ -206,14 +149,14 @@
         "labels": [
           "Nanjing",
           "Seoul",
+          "Istanbul",
           "Lelystad",
           "Amsterdam",
-          "Istanbul",
           "London",
           "Shanghai",
           "Moscow",
-          "Paris",
-          "Hangzhou"
+          "Hangzhou",
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,11 +166,11 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 8,
-        "y_tick_labels": 22
+        "x_tick_labels": 25,
+        "y_tick_labels": 20
       },
       "histogram": {
-        "bars": 18,
+        "bars": 20,
         "role": "histogram",
         "status": "passed",
         "x_label": "SIZE IN GB",
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 2,
+        "x_tick_labels": 8,
         "y_tick_labels": 20
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "ec8be71a1ed3b70772040d6c254762788206313a",
-    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
-    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "6656be3d8315f03fadc210e4c02ee453f4692396"
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
   },
   "status": "passed",
   "validation_source": "render-receipt",

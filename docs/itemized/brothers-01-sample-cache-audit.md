@@ -15,39 +15,29 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `brothers-01` |
 | imdb_id | [tt6773088](https://www.imdb.com/title/tt6773088/) |
 | wikipedia_url | [Brothers (2026 TV series)](https://en.wikipedia.org/wiki/Brothers_(2026_TV_series)) |
-| Sample dates | 2026-09-24-to-2026-10-01 |
-| Sample days | 8 |
-| BTIH count | 180 |
-| Unique BTIH count | 180 |
-| Downloaders total | 508,983 |
-| Uploaders total | 29,058 |
+| Sample dates | 2026-09-24-to-2026-11-13 |
+| Sample days | 51 |
+| BTIH count | 228 |
+| Unique BTIH count | 226 |
+| Downloaders total | 5,358,979 |
+| Uploaders total | 146,914 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-03T19:10:22Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/brothers-01.xz`
-- Hour directories: 174
+- Generated: 2026-11-17T04:35:01Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/brothers-01.xz`
+- Hour directories: 1160
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 0 (0 missing hours)
-- Missing days: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (46 missing hours)
+- Missing days: 1
 
 ### Sample archive discontinuities
 
-None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `0e595e14217a40f66eb90884a7b5dc6fed200d892065fe9a1069ad50bfff68f1`
-- Full-input producer receipt SHA-256: `6eb691582b52e09abbcbbbfc8f569a2ae118a5536b98f722e5570475fec33f24`
-- Frozen raw archives: 174
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
+- hourly gap: last `2026-10-11 22:03`, resumed `2026-10-13 21:03` — missing 46 hour(s)
+- missing day: `2026-10-12`
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +79,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.35 | 21.58 | 28.08 | 45.42 | 1.92 | 0.66 |
+| 1.83 | 20.07 | 30.84 | 45.04 | 1.36 | 0.85 |
 
 ### Network infrastructure
 
