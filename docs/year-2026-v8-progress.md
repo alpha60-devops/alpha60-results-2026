@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T11:16:52.838061+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T16:24:43.746801+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **15 published, 48 remaining; 23.8% published.**
 
@@ -34,7 +34,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 - Input-source holds: bear-05. Completed objects proceed independently.
 - 11 admitted objects need more scratch space; 25.0 GB stays reserved.
 - Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.
-- Coordinator recovery hold: unreviewed shared-file change: docs/itemized/figures/apothecary-diaries-03-1-downloads-by-day-day.svg
+- Coordinator recovery hold: eureka operation failed (255): bkoz@172.31.200.55: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
