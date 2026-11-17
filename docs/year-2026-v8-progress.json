@@ -2,7 +2,7 @@
   "blockers": [
     "Input-source holds: bear-05. Completed objects proceed independently.",
     "5 admitted objects need more scratch space; 25.0 GB stays reserved.",
-    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026."
+    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary."
   ],
   "cohort_count": 99,
   "counts": {
@@ -293,7 +293,7 @@
       "collection_key": "project-hail-mary",
       "mode": "resolve-count-decreased",
       "source_endpoint": "2026-11-08",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: reduced canonical member count requires scope review"
     },
     {
       "collection_key": "reacher-401",
@@ -389,7 +389,7 @@
       "collection_key": "widows-bay-108",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-31",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz/2026-10-31-at-13-01.tar.xz: Compressed data is corrupt"
     },
     {
       "collection_key": "world-cup-2026",
@@ -404,7 +404,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T18:25:17.411513+00:00",
+  "observed_at": "2026-11-17T18:40:21.534060+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -412,7 +412,7 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-monarch-legacy-of-monsters-208-g1. 472.3 GB free.",
+      "activity": "Running: prepare-admissions. 472.1 GB free.",
       "name": "Eureka"
     },
     {
