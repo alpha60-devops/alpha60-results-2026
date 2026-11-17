@@ -1,13 +1,13 @@
 {
   "blockers": [
     "Input-source holds: bear-05. Completed objects proceed independently.",
-    "11 admitted objects need more scratch space; 25.0 GB stays reserved.",
+    "5 admitted objects need more scratch space; 25.0 GB stays reserved.",
     "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary."
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 19,
-    "cache_validated": 19,
+    "bundle_validated": 20,
+    "cache_validated": 21,
     "deployed": 19,
     "inputs_frozen": 98,
     "installed": 19,
@@ -36,7 +36,7 @@
       "collection_key": "avatar-the-last-airbender-2024-02",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "waiting for scratch capacity; estimated 1654.9 GB plus 25.0 GB reserve"
+      "state": "ready"
     },
     {
       "collection_key": "backrooms-2026",
@@ -72,7 +72,7 @@
       "collection_key": "boys-501",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-06",
-      "state": "waiting for scratch capacity; estimated 2164.8 GB plus 25.0 GB reserve"
+      "state": "ready"
     },
     {
       "collection_key": "brothers-01",
@@ -84,7 +84,7 @@
       "collection_key": "coyote-vs-acme",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-08",
-      "state": "caching"
+      "state": "building-results"
     },
     {
       "collection_key": "crew-girl-01",
@@ -126,7 +126,7 @@
       "collection_key": "euphoria-301",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-11",
-      "state": "waiting for scratch capacity; estimated 1880.7 GB plus 25.0 GB reserve"
+      "state": "ready"
     },
     {
       "collection_key": "fall-of-el-mayo-01",
@@ -246,7 +246,7 @@
       "collection_key": "monarch-legacy-of-monsters-208",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-15",
-      "state": "waiting for scratch capacity; estimated 1771.5 GB plus 25.0 GB reserve"
+      "state": "ready"
     },
     {
       "collection_key": "musk-2026",
@@ -306,13 +306,13 @@
       "collection_key": "send-help",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-18",
-      "state": "waiting for scratch capacity; estimated 1614.6 GB plus 25.0 GB reserve"
+      "state": "ready"
     },
     {
       "collection_key": "shards-101",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-11",
-      "state": "caching"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "silo-301",
@@ -360,7 +360,7 @@
       "collection_key": "super-mario-galaxy-movie",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-10",
-      "state": "waiting for scratch capacity; estimated 1510.2 GB plus 25.0 GB reserve"
+      "state": "ready"
     },
     {
       "collection_key": "toy-story-5",
@@ -393,7 +393,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T16:54:53.449629+00:00",
+  "observed_at": "2026-11-17T17:09:57.347162+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -401,11 +401,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-coyote-vs-acme-g1. 476.3 GB free.",
+      "activity": "Running: prepare-admissions, eureka-coyote-vs-acme-g1. 480.1 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-shards-101-g1.service. 1202.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Pinned runtime verified. 1200.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]

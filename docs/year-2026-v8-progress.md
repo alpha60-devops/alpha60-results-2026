@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T16:54:53.449629+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T17:09:57.347162+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **19 published, 44 remaining; 30.2% published.**
 
@@ -16,8 +16,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 19 |
-| bundle validated | 19 |
+| cache validated | 21 |
+| bundle validated | 20 |
 | installed | 19 |
 | pushed | 19 |
 | deployed | 19 |
@@ -26,13 +26,13 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-coyote-vs-acme-g1. 476.3 GB free. |
-| Ord | Running: alpha60-v8-ord-shards-101-g1.service. 1202.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-coyote-vs-acme-g1. 480.1 GB free. |
+| Ord | Pinned runtime verified. 1200.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 ## Current constraints
 
 - Input-source holds: bear-05. Completed objects proceed independently.
-- 11 admitted objects need more scratch space; 25.0 GB stays reserved.
+- 5 admitted objects need more scratch space; 25.0 GB stays reserved.
 - Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
@@ -44,22 +44,22 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | deployed |
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | ready |
-| `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | waiting for scratch capacity; estimated 1654.9 GB plus 25.0 GB reserve |
+| `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | ready |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | ready |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `bear-05` | 2026-11-13 | incremental-candidate | held: input freeze failed: invalid sample size/digest |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | deployed |
-| `boys-501` | 2026-10-06 | incremental-candidate | waiting for scratch capacity; estimated 2164.8 GB plus 25.0 GB reserve |
+| `boys-501` | 2026-10-06 | incremental-candidate | ready |
 | `brothers-01` | 2026-11-13 | full-recache-count-increased | deployed |
-| `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | caching |
+| `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | building-results |
 | `crew-girl-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `cyberpunk-edgerunners-02` | 2026-11-09 | build-no-2026-cache | ready |
 | `dang-01` | 2026-11-10 | full-recache-count-increased | ready |
 | `diplomat-04` | 2026-11-05 | build-no-2026-cache | deployed |
 | `drama-2026` | 2026-10-16 | incremental-candidate | deployed |
 | `enola-holmes-3` | 2026-10-16 | incremental-candidate | ready |
-| `euphoria-301` | 2026-10-11 | incremental-candidate | waiting for scratch capacity; estimated 1880.7 GB plus 25.0 GB reserve |
+| `euphoria-301` | 2026-10-11 | incremental-candidate | ready |
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | ready |
 | `get-jiro-01` | 2026-11-15 | resolve-torrent-definition | identity resolution |
@@ -79,7 +79,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | deployed |
 | `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | waiting for scratch capacity; estimated 1956.0 GB plus 25.0 GB reserve |
-| `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | waiting for scratch capacity; estimated 1771.5 GB plus 25.0 GB reserve |
+| `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | ready |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
@@ -89,8 +89,8 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `reacher-401` | 2026-11-13 | incremental-candidate | ready |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | ready |
-| `send-help` | 2026-10-18 | incremental-candidate | waiting for scratch capacity; estimated 1614.6 GB plus 25.0 GB reserve |
-| `shards-101` | 2026-11-11 | incremental-candidate | caching |
+| `send-help` | 2026-10-18 | incremental-candidate | ready |
+| `shards-101` | 2026-11-11 | incremental-candidate | bundle-validated |
 | `silo-301` | 2026-11-13 | incremental-candidate | ready |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
@@ -98,7 +98,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | ready |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | ready |
 | `sugar-201` | 2026-10-08 | incremental-candidate | ready |
-| `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | waiting for scratch capacity; estimated 1510.2 GB plus 25.0 GB reserve |
+| `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | ready |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
 | `widows-bay-108` | 2026-10-31 | full-recache-count-increased | held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz/2026-10-31-at-13-01.tar.xz: Compressed data is corrupt |
