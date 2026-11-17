@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 60,
-  "cache_members": 5750,
+  "available_day_products": 74,
+  "cache_members": 7304,
   "collection_key": "drama-2026",
   "downstream_cache_synthesis": {
     "cache_members": {
       "cumulative": 111,
-      "week": 883
+      "week": 1105
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-cache-samples.exe",
-      "sha256": "bb585e99f912ccf962e3f4277c2c627cfa0fdee03c99a3b9d50d8d87cdf1b290",
-      "size": 40140320
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-cache-samples.exe",
+      "sha256": "ef7be248ebd81cd57f0b531d84aa4e0dcbb66978969d7bd59ac24ca5936a3d88",
+      "size": 2166488
     },
     "sample_anchor": {
       "directories": [
         "2026-08-04-at-00-00",
-        "2026-10-02-at-00-00"
+        "2026-10-16-at-00-00"
       ],
       "keys": [
         "drama-2026"
       ],
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/drama-2026/tmp/drama-2026-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/drama-2026/g1/results/work/drama-2026/tmp/drama-2026-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -105,27 +105,41 @@
     57,
     58,
     59,
-    60
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74
   ],
-  "last_date": "2026-10-02",
-  "last_index": 60,
+  "last_date": "2026-10-16",
+  "last_index": 74,
   "missing_indices": [],
-  "sample_span_days": 60,
+  "sample_span_days": 74,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 5750,
+    "admitted_cache_members": 7304,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-08-04",
-    "required_last_date": "2026-10-02",
-    "required_span_days": 60,
+    "required_last_date": "2026-10-16",
+    "required_span_days": 74,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 5750,
+    "source_cache_members": 7304,
     "source_first_date": "2026-08-04",
     "source_first_index": 1,
-    "source_last_date": "2026-10-02",
-    "source_last_index": 60
+    "source_last_date": "2026-10-16",
+    "source_last_index": 74
   },
   "sparse": false,
   "status": "pass"

@@ -1,10 +1,10 @@
 # Cache coverage report — drama-2026
 
-- Generated: 2026-10-03T19:10:22Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/drama-2026.xz`
-- Hour directories: 1412
+- Generated: 2026-11-17T04:17:35Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/drama-2026.xz`
+- Hour directories: 1771
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
@@ -12,13 +12,8 @@
 
 None detected.
 
+## Review
 
-## Frozen validation evidence
-
-- Frozen content SHA-256: `1c07acdc79a0a0d5786a14e396732b3b01cd6c7f73ce464b1fc4e6a2cccd0b8e`
-- Full-input producer receipt SHA-256: `4fcaddc00bd0135190ea491749924f718d9a51d0cfcdd86da49b0f94bca0d3fb`
-- Frozen raw archives: 1412
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 3
-- Excluded observations: 72
+Confirm the sampler state and disk capacity on the sampling
+hosts for every zero-length file and discontinuity above
+before treating the aggregate outputs as complete.
