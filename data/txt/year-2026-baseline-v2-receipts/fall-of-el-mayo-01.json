@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt49250618",
+    "imdb_id": "tt49250618",
+    "revision": "f978b95df9460d90be2084140b1c79a0dd57f2a2",
+    "wikidata_id": "",
+    "wikipedia_url": ""
+  },
+  "coverage_sha256": "71f8cef085904341a30cc7d81a3b4a9e9d56f9cfeb1560c4daba37f3115ab1fc",
+  "generated_at": "2026-11-16T19:56:22.333296+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/fall-of-el-mayo-01/g1/archives/fall-of-el-mayo-01.cache/cache.20261113.tar.xz",
+      "sha256": "f1f8b491560c4273c71e19b5dade0d76ef744c7f40ccc9fcb3ac140066a56b52",
+      "size": 18619100
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/fall-of-el-mayo-01.md",
+      "sha256": "1b7a25daeff37e17a97bb7e90c8fd444731921155147d62c0f13ea6a8ecb4f42",
+      "size": 557
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/fall-of-el-mayo-01.json",
+      "sha256": "f089274ff84b4bc074cd7e320743d8c92f45c5d1f244cced9da1bdb5e0687d80",
+      "size": 2178
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/fall-of-el-mayo-01.json",
+      "sha256": "20af3a286711b86aeedcb07732d2ab645a38b3bde8f9d466c1f967a177a8baa1",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/fall-of-el-mayo-01/g1/results/workers/eureka.worker-map.json",
+      "sha256": "b25e8bd4ed59ccc02b9eddb5507fd986c0fcd1d9c7d16faf97dbd0be3180fb71",
+      "size": 3024
+    }
+  },
+  "media_object": "fall-of-el-mayo-01",
+  "published_files": {
+    "data/csv/bytes/fall-of-el-mayo-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "c81a2e7d1a31e015db338c2d7f6308f95bdcd37ceb18c76f0175757c3b5e1667",
+    "docs/itemized/fall-of-el-mayo-01-sample-cache-audit.md": "ad28d90587845cd6099f35e88daa210d1b02f01a1eb2ae5538d4e176c003f0f9",
+    "docs/itemized/figures/fall-of-el-mayo-01-carto-4k.webp": "9cee04f1c864d1cba9458fc170ff1ea372c1c583fc2147ef9873a5d75c274fa3",
+    "docs/itemized/figures/fall-of-el-mayo-01-carto.png": "47771ee6c041867ad8ba561d14f470ec40561904f52fe8673b222b575927d678",
+    "docs/itemized/figures/fall-of-el-mayo-01-cumulative-detail-btiha-itemized-by-bytes.svg": "fd4e7e5c2afe9e73b27d69ee081f798d8fe27f2bf3015b0407195fd47c069e76",
+    "docs/itemized/figures/fall-of-el-mayo-01-data-ge-1080p-4k.webp": "49b10831716a8feb26d29adcbfa0812c60dd706631f8224ce89594986216856c",
+    "docs/itemized/figures/fall-of-el-mayo-01-data-ge-1080p.webp": "684e4915d04978bad1afd8560f1b4e9ffc93d3345f2e1b1e22616c25fcd2636e",
+    "docs/itemized/figures/fall-of-el-mayo-01-data-lt-1080p-4k.webp": "0aa688870755a35261b8e887236390ceef6c08a78536dff981bd44a8e01b053e",
+    "docs/itemized/figures/fall-of-el-mayo-01-data-lt-1080p.webp": "9667e85ec910d71fd2a1ab55ac0ea557120807e4dbacebb6c18943269ad372e3",
+    "docs/itemized/figures/fall-of-el-mayo-01-downloads-by-day-day.svg": "49130859eac9e9787ebac25fd9efd37ec4da5d25638801550bf115e1b4a5c5cf",
+    "docs/itemized/figures/fall-of-el-mayo-01-downloads-by-week-fall-of-el-mayo-01-week.svg": "322dc3f6915b330acba045ba0ce66445aa3c2ef30f0f4f293ab1b4d509958fd4",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/fall-of-el-mayo-01/g1/results/work/fall-of-el-mayo-01/tmp/fall-of-el-mayo-01-cumulative-btiha.geojson",
+        "sha256": "2170049559cc69c5f85e8c3d53fa66a22859ac389427463ce3313dc01a9d2e8d",
+        "size": 9903652
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/fall-of-el-mayo-01/g1/results/work/fall-of-el-mayo-01/tmp/fall-of-el-mayo-01-cumulative-btiha-media-objects.json",
+        "sha256": "1f0ae9af7934c3afdcc6ad2e6cd26680449e49985143a0cb8158181867093ab6",
+        "size": 138808
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
+      "untracked": false
+    },
+    "media_object": "fall-of-el-mayo-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/build/a60-meta-collection",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Lelystad",
+          "Istanbul",
+          "Amsterdam",
+          "London",
+          "Shanghai",
+          "Moscow",
+          "Hangzhou",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Lelystad",
+          "Istanbul",
+          "Amsterdam",
+          "Wuxi",
+          "London",
+          "Shanghai",
+          "Hangzhou",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 20,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "f978b95df9460d90be2084140b1c79a0dd57f2a2"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
