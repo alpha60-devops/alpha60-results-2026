@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T19:25:33.319327+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T19:40:37.202807+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**25 published, 38 remaining; 39.7% published.**
+**26 published, 37 remaining; 41.3% published.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -18,16 +18,16 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | inputs frozen | 98 |
 | cache validated | 27 |
 | bundle validated | 26 |
-| installed | 25 |
-| pushed | 25 |
-| deployed | 25 |
+| installed | 26 |
+| pushed | 26 |
+| deployed | 26 |
 
 `inputs frozen` counts the whole cohort; subsequent stages count this run’s update candidates.
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 468.5 GB free. |
-| Ord | Pinned runtime verified. 1199.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions. 472.0 GB free. |
+| Ord | Running: alpha60-v8-ord-boys-501-g1.service. 1187.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -35,7 +35,6 @@ Incremental updates reuse verified hourly caches and extract new or affected sam
 
 - Input-source holds: bear-05. Completed objects proceed independently.
 - Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.
-- Coordinator recovery hold: eureka operation failed (1): stty: 'standard input': Inappropriate ioctl for device stty: 'standard input': Inappropriate ioctl for device held /home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/euphoria-301/g1/archives/euphoria
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -52,7 +51,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `bear-05` | 2026-11-13 | incremental-candidate | held: input freeze failed: invalid sample size/digest |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | deployed |
-| `boys-501` | 2026-10-06 | incremental-candidate | ready |
+| `boys-501` | 2026-10-06 | incremental-candidate | caching |
 | `brothers-01` | 2026-11-13 | full-recache-count-increased | deployed |
 | `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | deployed |
 | `crew-girl-01` | 2026-11-11 | full-recache-count-increased | ready |
@@ -61,7 +60,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `diplomat-04` | 2026-11-05 | build-no-2026-cache | deployed |
 | `drama-2026` | 2026-10-16 | incremental-candidate | deployed |
 | `enola-holmes-3` | 2026-10-16 | incremental-candidate | ready |
-| `euphoria-301` | 2026-10-11 | incremental-candidate | bundle-validated |
+| `euphoria-301` | 2026-10-11 | incremental-candidate | deployed |
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | ready |
 | `get-jiro-01` | 2026-11-15 | resolve-torrent-definition | identity resolution |
