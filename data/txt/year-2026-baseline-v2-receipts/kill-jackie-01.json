@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt35726020",
+    "imdb_id": "tt35726020",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
+    "wikidata_id": "Q134302553",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kill_Jackie"
+  },
+  "coverage_sha256": "88c6c1fc3d60f5169e602fd09900262a02b3233fdc70a60ed248fad26cfec2bb",
+  "generated_at": "2026-11-17T03:55:55.765662+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/kill-jackie-01/g1/archives/kill-jackie-01.cache/cache.20261105.tar.xz",
+      "sha256": "4389e268d0a45ccf66b1ee44eb5c93b08af6925eaae5a924f400a3e3b2c18ccf",
+      "size": 311942096
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/kill-jackie-01.md",
+      "sha256": "9bfac074deaf69f8e10356484abb021ab83a18449414b40a122e62900f978a21",
+      "size": 549
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/kill-jackie-01.json",
+      "sha256": "6f50eae24889f77266512dd8713ad6ad4a29328f2e487a55a837215335422894",
+      "size": 2325
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/kill-jackie-01.json",
+      "sha256": "88c1625e95cc8125dcc5742ace35341be329de4ad07c681f4be001f8033dac99",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/kill-jackie-01/g1/results/workers/ord.worker-map.json",
+      "sha256": "5ba93ee7b619a7d89548ccbfc5c0553a892915482a6031bd42916fb10704a490",
+      "size": 2980
+    }
+  },
+  "media_object": "kill-jackie-01",
+  "published_files": {
+    "data/csv/bytes/kill-jackie-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "f673d5f8cd84cf7a722cac903006171224b9a1f1625faf6dc9a9d64517d09122",
+    "docs/itemized/figures/kill-jackie-01-carto-4k.webp": "893ee1287b537b113e6405e3aaca9a066460ae20174f239b9452cca760dd93f8",
+    "docs/itemized/figures/kill-jackie-01-carto.png": "7c255d736c0f5099ddc7b0f54452c722d16cbe7dd349afef2ee4381ed835a0b4",
+    "docs/itemized/figures/kill-jackie-01-cumulative-detail-btiha-itemized-by-bytes.svg": "e31f23f0d25efbedfa5b5e184750ba5665e5c4021f93ee74d3eb1998240f7e8e",
+    "docs/itemized/figures/kill-jackie-01-data-ge-1080p-4k.webp": "e22245c12ed0c3778d92f466044467330859e981dec6c89c27478fccfb7ba34a",
+    "docs/itemized/figures/kill-jackie-01-data-ge-1080p.webp": "eeb547484fc90a855c95cb0f8ac8a020c19617cedcef73fb4ccbb5afa628d083",
+    "docs/itemized/figures/kill-jackie-01-data-lt-1080p-4k.webp": "81e2fc1ddec57b3995af031945278570a40385ce2785965270a1510a325779d8",
+    "docs/itemized/figures/kill-jackie-01-data-lt-1080p.webp": "1ac879488f67bbcd4c464b03be64f98f51860533f60705a333f0be3fb5027741",
+    "docs/itemized/figures/kill-jackie-01-downloads-by-day-day.svg": "e66882cf0c9167b5d9f7ada89d79cc60be7934e7820457e5e49dc99a9bcc1764",
+    "docs/itemized/figures/kill-jackie-01-downloads-by-week-kill-jackie-01-week.svg": "bee89451c387f0af65d159e2e480dfb50740a6b995bb9a93c364b4ec40729db7",
+    "docs/itemized/kill-jackie-01-sample-cache-audit.md": "ea8783b0c1b387d8eaa2f53a025e1c6a764b8bd31885c590956df7067d037833",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/kill-jackie-01/g1/results/work/kill-jackie-01/tmp/kill-jackie-01-cumulative-btiha.geojson",
+        "sha256": "66d0b1700aa905a794fdeb894ec4b9d91ce80e1a996200dbf98b96c5172d7358",
+        "size": 120088854
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/kill-jackie-01/g1/results/work/kill-jackie-01/tmp/kill-jackie-01-cumulative-btiha-media-objects.json",
+        "sha256": "07418461d79f1db2abcbc18ed983c2b9e52d8fa1aef3d2e75d9bfb683af0be9e",
+        "size": 422574
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
+      "untracked": false
+    },
+    "media_object": "kill-jackie-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-meta-collection.exe",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          50.0,
+          37.0,
+          37.0,
+          36.0,
+          34.0,
+          28.0,
+          28.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "London",
+          "Lelystad",
+          "Amsterdam",
+          "Istanbul",
+          "Moscow",
+          "Shanghai",
+          "Hangzhou",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          42.0,
+          38.0,
+          38.0,
+          38.0,
+          34.0,
+          31.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Lelystad",
+          "Amsterdam",
+          "London",
+          "Istanbul",
+          "Moscow",
+          "Shanghai",
+          "Hangzhou",
+          "Madrid"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 35,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 31,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 5,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
