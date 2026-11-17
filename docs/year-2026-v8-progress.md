@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T20:44:11.301068+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T20:47:58.921198+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **26 published, 37 remaining; 41.3% published.**
 
@@ -26,7 +26,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-obsession-2025-g1. 456.2 GB free. |
+| Eureka | Running: prepare-admissions, eureka-obsession-2025-g1. 450.4 GB free. |
 | Ord | Running: alpha60-v8-ord-results-monarch-legacy-of-monsters-208-g1.service. 1175.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
@@ -46,7 +46,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | ready |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | ready |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
-| `bear-05` | 2026-11-13 | incremental-candidate | ready |
+| `bear-05` | 2026-11-13 | rebuild | ready |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | deployed |
 | `boys-501` | 2026-10-06 | incremental-candidate | bundle-validated |
@@ -66,14 +66,14 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
 | `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | ready |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | ready |
-| `invincible-101` | 2026-04-28 | build-no-2026-cache | ready |
-| `invincible-201` | 2026-05-05 | build-no-2026-cache | ready |
-| `invincible-301` | 2026-06-30 | inspect-latest-cache-day | ready |
+| `invincible-101` | 2026-04-28 | build | ready |
+| `invincible-201` | 2026-05-05 | build | ready |
+| `invincible-301` | 2026-06-30 | extend | ready |
 | `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |
-| `kung-fu-soccer-2026` | 2026-11-13 | inspect-latest-cache-day | ready |
+| `kung-fu-soccer-2026` | 2026-11-13 | extend | ready |
 | `lanterns-101` | 2026-11-08 | incremental-candidate | ready |
-| `legend-of-vox-machina-410` | 2026-10-21 | incremental-candidate | ready |
+| `legend-of-vox-machina-410` | 2026-10-21 | rebuild | ready |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | deployed |
@@ -84,7 +84,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | caching |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
-| `project-hail-mary` | 2026-11-08 | resolve-count-decreased | ready |
+| `project-hail-mary` | 2026-11-08 | rebuild | ready |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | deployed |
@@ -100,8 +100,8 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | ready |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
-| `widows-bay-108` | 2026-10-31 | full-recache-count-increased | ready |
-| `world-cup-2026` | 2026-11-10 | inspect-latest-cache-day | ready |
+| `widows-bay-108` | 2026-10-31 | rebuild | ready |
+| `world-cup-2026` | 2026-11-10 | extend | ready |
 | `x-men-97-201` | 2026-11-11 | incremental-candidate | ready |
 
 [Machine-readable progress](year-2026-v8-progress.json) · [Results home](../index.html) · [Pages deployments](https://github.com/alpha60-devops/alpha60-results-2026/actions)
