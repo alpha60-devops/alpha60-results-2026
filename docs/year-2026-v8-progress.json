@@ -2,12 +2,13 @@
   "blockers": [
     "Input-source holds: bear-05. Completed objects proceed independently.",
     "11 admitted objects need more scratch space; 25.0 GB stays reserved.",
-    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary."
+    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.",
+    "Coordinator recovery hold: Command '['ssh', '-F', '/dev/null', '-o', 'BatchMode=yes', '-o', 'ConnectTimeout=8', '-o', 'ServerAliveInterval=15', '-o', 'ServerAliveCountMax=2', '172.31.200.57', 'python3', '-']' returned non-zero exit status 1."
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 14,
-    "cache_validated": 14,
+    "bundle_validated": 15,
+    "cache_validated": 15,
     "deployed": 14,
     "inputs_frozen": 98,
     "installed": 14,
@@ -78,7 +79,7 @@
       "collection_key": "brothers-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-13",
-      "state": "caching"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "coyote-vs-acme",
@@ -393,7 +394,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T04:35:05.030727+00:00",
+  "observed_at": "2026-11-17T04:50:09.452244+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -401,11 +402,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions. 165.0 GB free.",
+      "activity": "Running: prepare-admissions. 164.8 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-brothers-01-g1.service. 1214.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Pinned runtime verified. 1214.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
