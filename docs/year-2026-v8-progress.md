@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T03:25:35.882701+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T03:32:50.572115+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **9 published, 54 remaining; 14.3% published.**
 
@@ -16,7 +16,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 9 |
+| cache validated | 10 |
 | bundle validated | 9 |
 | installed | 9 |
 | pushed | 9 |
@@ -34,6 +34,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 - Input-source holds: bear-05. Completed objects proceed independently.
 - 11 admitted objects need more scratch space; 25.0 GB stays reserved.
 - Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.
+- New claims paused: Restoring the shared cartography plate and resuming validated Ord caches at their results stage.
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -77,7 +78,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `legend-of-vox-machina-410` | 2026-10-21 | incremental-candidate | held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/legend-of-vox-machina-410.xz/2026-10-10-at-22-04.tar.xz: Compressed data is corrupt |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
-| `lupin-04` | 2026-11-13 | build-no-2026-cache | failed |
+| `lupin-04` | 2026-11-13 | build-no-2026-cache | building-results |
 | `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | waiting for scratch capacity; estimated 1956.0 GB plus 25.0 GB reserve |
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | waiting for scratch capacity; estimated 1771.5 GB plus 25.0 GB reserve |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
