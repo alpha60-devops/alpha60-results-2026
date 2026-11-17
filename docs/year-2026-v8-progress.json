@@ -6,12 +6,23 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 20,
+    "bundle_validated": 21,
     "cache_validated": 21,
     "deployed": 19,
     "inputs_frozen": 98,
     "installed": 19,
     "pushed": 19
+  },
+  "incremental_method": {
+    "archive_durations": [
+      "hour",
+      "day",
+      "week",
+      "cumulative"
+    ],
+    "canonical_cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+    "full_history_comparison": false,
+    "seed_extraction": "hour-only"
   },
   "objects": [
     {
@@ -84,7 +95,7 @@
       "collection_key": "coyote-vs-acme",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-08",
-      "state": "building-results"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "crew-girl-01",
@@ -393,7 +404,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T17:09:57.347162+00:00",
+  "observed_at": "2026-11-17T17:10:40.667515+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -401,7 +412,7 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-coyote-vs-acme-g1. 480.1 GB free.",
+      "activity": "Running: prepare-admissions. 480.3 GB free.",
       "name": "Eureka"
     },
     {
