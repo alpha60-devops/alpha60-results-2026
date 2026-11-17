@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T17:55:09.437484+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T18:10:13.436094+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**23 published, 40 remaining; 36.5% published.**
+**25 published, 38 remaining; 39.7% published.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -17,17 +17,17 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 25 |
-| bundle validated | 24 |
-| installed | 23 |
-| pushed | 23 |
-| deployed | 23 |
+| bundle validated | 25 |
+| installed | 25 |
+| pushed | 25 |
+| deployed | 25 |
 
 `inputs frozen` counts the whole cohort; subsequent stages count this run’s update candidates.
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 478.1 GB free. |
-| Ord | Pinned runtime verified. 1200.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-monarch-legacy-of-monsters-208-g1. 470.1 GB free. |
+| Ord | Running: alpha60-v8-ord-euphoria-301-g1.service. 1190.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -61,7 +61,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `diplomat-04` | 2026-11-05 | build-no-2026-cache | deployed |
 | `drama-2026` | 2026-10-16 | incremental-candidate | deployed |
 | `enola-holmes-3` | 2026-10-16 | incremental-candidate | ready |
-| `euphoria-301` | 2026-10-11 | incremental-candidate | ready |
+| `euphoria-301` | 2026-10-11 | incremental-candidate | caching |
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | ready |
 | `get-jiro-01` | 2026-11-15 | resolve-torrent-definition | identity resolution |
@@ -72,7 +72,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `invincible-101` | 2026-04-28 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
 | `invincible-201` | 2026-05-05 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
 | `invincible-301` | 2026-06-30 | inspect-latest-cache-day | held: newer Eureka archive requires adoption review |
-| `invite-2026` | 2026-11-13 | incremental-candidate | building-results |
+| `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |
 | `kung-fu-soccer-2026` | 2026-11-13 | inspect-latest-cache-day | held: newer Gold cache requires adoption review |
 | `lanterns-101` | 2026-11-08 | incremental-candidate | ready |
@@ -81,14 +81,14 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | deployed |
 | `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | waiting for scratch capacity; estimated 1956.0 GB plus 25.0 GB reserve |
-| `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | ready |
+| `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | caching |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | waiting for scratch capacity; estimated 1193.1 GB plus 25.0 GB reserve |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
 | `project-hail-mary` | 2026-11-08 | resolve-count-decreased | held: reduced canonical member count requires scope review |
-| `reacher-401` | 2026-11-13 | incremental-candidate | bundle-validated |
+| `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | deployed |
 | `send-help` | 2026-10-18 | incremental-candidate | ready |
