@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T06:38:27.157842+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T06:46:31.422745+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **15 published, 48 remaining; 23.8% published.**
 
@@ -16,8 +16,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 15 |
-| bundle validated | 15 |
+| cache validated | 17 |
+| bundle validated | 16 |
 | installed | 15 |
 | pushed | 15 |
 | deployed | 15 |
@@ -26,14 +26,15 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-visionquest-101-g1. 362.3 GB free. |
-| Ord | Running: alpha60-v8-ord-apothecary-diaries-03.1-g1.service. 1203.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions. 370.4 GB free. |
+| Ord | Pinned runtime verified. 1209.4 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 ## Current constraints
 
 - Input-source holds: bear-05. Completed objects proceed independently.
 - 11 admitted objects need more scratch space; 25.0 GB stays reserved.
 - Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.
+- Coordinator recovery hold: unreviewed shared-file change: docs/itemized/figures/apothecary-diaries-03-1-downloads-by-day-day.svg
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -42,7 +43,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | Media object | Source endpoint | Planned cache work | Current stage |
 | --- | --- | --- | --- |
 | `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | deployed |
-| `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | caching |
+| `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | building-results |
 | `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | ready |
 | `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | waiting for scratch capacity; estimated 1654.9 GB plus 25.0 GB reserve |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | ready |
@@ -100,7 +101,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `sugar-201` | 2026-10-08 | incremental-candidate | ready |
 | `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | waiting for scratch capacity; estimated 1510.2 GB plus 25.0 GB reserve |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
-| `visionquest-101` | 2026-11-10 | build-no-2026-cache | caching |
+| `visionquest-101` | 2026-11-10 | build-no-2026-cache | bundle-validated |
 | `widows-bay-108` | 2026-10-31 | full-recache-count-increased | held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz/2026-10-31-at-13-01.tar.xz: Compressed data is corrupt |
 | `world-cup-2026` | 2026-11-10 | inspect-latest-cache-day | held: newer Gold cache requires adoption review |
 | `x-men-97-201` | 2026-11-11 | incremental-candidate | ready |
