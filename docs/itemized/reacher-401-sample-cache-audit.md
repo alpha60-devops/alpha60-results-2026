@@ -15,39 +15,29 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `reacher-401` |
 | imdb_id | [tt9288030](https://www.imdb.com/title/tt9288030/) |
 | wikipedia_url | [Reacher (TV series)](https://en.wikipedia.org/wiki/Reacher_(TV_series)) |
-| Sample dates | 2026-08-14-to-2026-10-01 |
-| Sample days | 49 |
+| Sample dates | 2026-08-14-to-2026-11-13 |
+| Sample days | 92 |
 | BTIH count | 204 |
 | Unique BTIH count | 197 |
-| Downloaders total | 4,345,720 |
-| Uploaders total | 433,762 |
+| Downloaders total | 8,017,301 |
+| Uploaders total | 589,423 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T11:57:09Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/reacher-401.xz`
-- Hour directories: 1170
+- Generated: 2026-11-17T17:48:29Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/reacher-401.xz`
+- Hour directories: 2201
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 1 (1 missing hours)
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (2 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
 - hourly gap: last `2026-09-09 22:01`, resumed `2026-09-10 00:01` — missing 1 hour(s)
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `9f8183ecdedea3f8788007c0710ea7aaf53780b9728b7ff8af11a9c0cef4384c`
-- Full-input producer receipt SHA-256: `aeb117ff3d2c6d590a57bf251c93b778a86958f81ab59a45f5058fe646a99115`
-- Frozen raw archives: 1170
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
+- hourly gap: last `2026-10-26 22:01`, resumed `2026-10-27 00:01` — missing 1 hour(s)
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +79,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 5.55 | 19.61 | 30.40 | 41.97 | 1.75 | 0.73 |
+| 4.45 | 19.72 | 31.13 | 42.31 | 1.58 | 0.80 |
 
 ### Network infrastructure
 
