@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T02:17:40.704560+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T02:32:44.587178+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **9 published, 54 remaining; 14.3% published.**
 
@@ -26,7 +26,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 171.8 GB free. |
+| Eureka | Running: prepare-admissions. 169.6 GB free. |
 | Ord | SSH command responded; direct-link mount, capacity and session reliability still require validation. |
 
 ## Current constraints
