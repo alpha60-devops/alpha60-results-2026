@@ -2,17 +2,16 @@
   "blockers": [
     "Input-source holds: bear-05. Completed objects proceed independently.",
     "11 admitted objects need more scratch space; 25.0 GB stays reserved.",
-    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.",
-    "New claims paused: Restoring the shared cartography plate and resuming validated Ord caches at their results stage."
+    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary."
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 11,
+    "bundle_validated": 12,
     "cache_validated": 12,
-    "deployed": 9,
+    "deployed": 10,
     "inputs_frozen": 98,
-    "installed": 9,
-    "pushed": 9
+    "installed": 11,
+    "pushed": 10
   },
   "objects": [
     {
@@ -109,7 +108,7 @@
       "collection_key": "diplomat-04",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-05",
-      "state": "bundle-validated"
+      "state": "deployed"
     },
     {
       "collection_key": "drama-2026",
@@ -235,7 +234,7 @@
       "collection_key": "lupin-04",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "bundle-validated"
+      "state": "install-verified"
     },
     {
       "collection_key": "mandalorian-and-grogu",
@@ -325,7 +324,7 @@
       "collection_key": "slow-horses-601",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-24",
-      "state": "building-results"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "spider-man-brand-new-day",
@@ -394,7 +393,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T03:34:48.208260+00:00",
+  "observed_at": "2026-11-17T03:41:26.566774+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -406,7 +405,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Pinned runtime verified. 1214.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Pinned runtime verified. 1215.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
