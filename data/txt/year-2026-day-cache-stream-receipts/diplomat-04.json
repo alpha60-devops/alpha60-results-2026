@@ -1,0 +1,93 @@
+{
+  "allow_leading_sparse": false,
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "available_day_products": 21,
+  "cache_members": 6211,
+  "collection_key": "diplomat-04",
+  "downstream_cache_synthesis": {
+    "cache_members": {
+      "cumulative": 322,
+      "week": 949
+    },
+    "derived_durations": [
+      "week",
+      "cumulative"
+    ],
+    "producer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-cache-samples.exe",
+      "sha256": "ef7be248ebd81cd57f0b531d84aa4e0dcbb66978969d7bd59ac24ca5936a3d88",
+      "size": 2166488
+    },
+    "sample_anchor": {
+      "directories": [
+        "2026-10-16-at-00-00",
+        "2026-11-05-at-00-00"
+      ],
+      "keys": [
+        "diplomat-04"
+      ],
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/diplomat-04/g1/results/work/diplomat-04/tmp/diplomat-04-released-day-sample-anchor",
+      "raw_samples_opened": false,
+      "synthetic": true
+    },
+    "schema": "alpha60-released-day-downstream-cache/1",
+    "source_duration": "day",
+    "status": "pass"
+  },
+  "first_date": "2026-10-16",
+  "first_index": 1,
+  "indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "last_date": "2026-11-05",
+  "last_index": 21,
+  "missing_indices": [],
+  "sample_span_days": 21,
+  "schema": "alpha60-day-cache-stream-contract/1",
+  "selection": {
+    "admitted_cache_members": 6211,
+    "archive_mutated": false,
+    "excluded_cache_members": 0,
+    "policy": "released-sample-endpoints-in-place",
+    "required_first_date": "2026-10-16",
+    "required_last_date": "2026-11-05",
+    "required_span_days": 21,
+    "schema": "alpha60-released-day-cache-window/1",
+    "source_cache_members": 6211,
+    "source_first_date": "2026-10-16",
+    "source_first_index": 1,
+    "source_last_date": "2026-11-05",
+    "source_last_index": 21
+  },
+  "sparse": false,
+  "status": "pass"
+}

@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt17491088",
+    "imdb_id": "tt17491088",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
+    "wikidata_id": "Q117425241",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Diplomat_(American_TV_series)"
+  },
+  "coverage_sha256": "a0b5c456f074c1f9c46aa8fb7b5d990bdd1ec00cef48f38bc72608983c1e5fe3",
+  "generated_at": "2026-11-17T03:34:11.804504+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/diplomat-04/g1/archives/diplomat-04.cache/cache.20261105.tar.xz",
+      "sha256": "2ea26307ce05d480d08324310e63ed91bcaba42ae17aae68eefdeb4e511e5c82",
+      "size": 193173424
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/diplomat-04.md",
+      "sha256": "66124cec7670dcb55cf3074437a300e04a756f7d00519a9d6d711b4236fac42e",
+      "size": 543
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/diplomat-04.json",
+      "sha256": "46901dc2c718597854ed2d53450f0afeecf923bb2f9641bf538b20fd539457ca",
+      "size": 2197
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/diplomat-04.json",
+      "sha256": "689aa5a8e4cd579c402d14f22046ce1ed3eb67c40f959f5dbcdf7df174649b08",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/diplomat-04/g1/results/workers/ord.worker-map.json",
+      "sha256": "f13f2a45c12882b2cf7c026dcb8aaa5e43f74cce1335126ee2b19b758df488e2",
+      "size": 2960
+    }
+  },
+  "media_object": "diplomat-04",
+  "published_files": {
+    "data/csv/bytes/diplomat-04-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "2a1d0bac47105fd4868fdc309f20bfd0d41fb71e7d4c7569602b3b881510cb35",
+    "docs/itemized/diplomat-04-sample-cache-audit.md": "fe1238847113bb335c894a9d57efadc841ce35e3874605d93fdb30f4bab886e1",
+    "docs/itemized/figures/diplomat-04-carto-4k.webp": "cfac4ef512609b94dd55da719b08706910641eac8510f6286072610537b1ddda",
+    "docs/itemized/figures/diplomat-04-carto.png": "fce68349316112d869774031489666b6222b57392158dab9846799921468f20b",
+    "docs/itemized/figures/diplomat-04-cumulative-detail-btiha-itemized-by-bytes.svg": "e411d72b0cad0e3d0307cc19e48622cf99be569527b65f41f027d9a7c958766c",
+    "docs/itemized/figures/diplomat-04-data-ge-1080p-4k.webp": "81f060fd3700a304a13831bcf03276698f8eedb3596360942e6b0828b6b78ae4",
+    "docs/itemized/figures/diplomat-04-data-ge-1080p.webp": "dda24e18d389ce9d426326d07309766292ab3ee0e7da4607111ed42f4afcf2d3",
+    "docs/itemized/figures/diplomat-04-data-lt-1080p-4k.webp": "e9cde52dd12e9ce85ef42841756e9a6ad17c84edbbd742282a6bd3868ab3fa70",
+    "docs/itemized/figures/diplomat-04-data-lt-1080p.webp": "1b93b1dd5cf48477187cb5533e698bfb2a4a383f4989af8991984559c0c99933",
+    "docs/itemized/figures/diplomat-04-downloads-by-day-day.svg": "e530ecde7b3d60f6d41fc4b7038092b7ad4217a668f1d58035b2b42f68c55e51",
+    "docs/itemized/figures/diplomat-04-downloads-by-week-diplomat-04-week.svg": "c5c355672b14dbfb86dcf63e10b32afbb2d796cb3431c167b0717559a7a5034d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/diplomat-04/g1/results/work/diplomat-04/tmp/diplomat-04-cumulative-btiha.geojson",
+        "sha256": "5357e211cb6d74fa131403d66cd4b58ffd4a74bd0b5c3a58b99a7f034596f2a5",
+        "size": 72918498
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/diplomat-04/g1/results/work/diplomat-04/tmp/diplomat-04-cumulative-btiha-media-objects.json",
+        "sha256": "4b8d4b25b59c745f7d35ff2c1d1c60d12e46cd8f499719cd716b8a10a8fd79de",
+        "size": 712256
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
+      "untracked": false
+    },
+    "media_object": "diplomat-04",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-meta-collection.exe",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          45.0,
+          43.0,
+          38.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Amsterdam",
+          "Lelystad",
+          "London",
+          "Istanbul",
+          "Shanghai",
+          "Moscow",
+          "Hangzhou",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "Seoul",
+          "Lelystad",
+          "Amsterdam",
+          "London",
+          "Istanbul",
+          "Shanghai",
+          "Moscow",
+          "Hangzhou",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}
