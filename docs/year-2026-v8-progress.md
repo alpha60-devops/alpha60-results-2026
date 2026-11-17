@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T02:48:10.249891+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T03:02:17.794593+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **9 published, 54 remaining; 14.3% published.**
 
@@ -16,7 +16,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 9 |
+| cache validated | 10 |
 | bundle validated | 9 |
 | installed | 9 |
 | pushed | 9 |
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 167.6 GB free. |
-| Ord | Pinned runtime verified. 1210.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions. 165.6 GB free. |
+| Ord | Running: alpha60-v8-ord-diplomat-04-g1.service. 1207.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 ## Current constraints
 
@@ -56,7 +56,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `crew-girl-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `cyberpunk-edgerunners-02` | 2026-11-09 | build-no-2026-cache | ready |
 | `dang-01` | 2026-11-10 | full-recache-count-increased | ready |
-| `diplomat-04` | 2026-11-05 | build-no-2026-cache | ready |
+| `diplomat-04` | 2026-11-05 | build-no-2026-cache | building-results |
 | `drama-2026` | 2026-10-16 | incremental-candidate | ready |
 | `enola-holmes-3` | 2026-10-16 | incremental-candidate | ready |
 | `euphoria-301` | 2026-10-11 | incremental-candidate | waiting for scratch capacity; estimated 1880.7 GB plus 25.0 GB reserve |
@@ -77,7 +77,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `legend-of-vox-machina-410` | 2026-10-21 | incremental-candidate | held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/legend-of-vox-machina-410.xz/2026-10-10-at-22-04.tar.xz: Compressed data is corrupt |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
-| `lupin-04` | 2026-11-13 | build-no-2026-cache | ready |
+| `lupin-04` | 2026-11-13 | build-no-2026-cache | failed |
 | `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | waiting for scratch capacity; estimated 1956.0 GB plus 25.0 GB reserve |
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | waiting for scratch capacity; estimated 1771.5 GB plus 25.0 GB reserve |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
