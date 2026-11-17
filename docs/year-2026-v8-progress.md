@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T16:39:49.562675+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T16:54:53.449629+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**17 published, 46 remaining; 27.0% published.**
+**19 published, 44 remaining; 30.2% published.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -17,17 +17,17 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 19 |
-| bundle validated | 17 |
-| installed | 17 |
-| pushed | 17 |
-| deployed | 17 |
+| bundle validated | 19 |
+| installed | 19 |
+| pushed | 19 |
+| deployed | 19 |
 
 `inputs frozen` counts the whole cohort; subsequent stages count this run’s update candidates.
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-my-brilliant-career-2026-01-g1. 385.5 GB free. |
-| Ord | Running: alpha60-v8-ord-black-clover-02-g1.service. 1202.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-coyote-vs-acme-g1. 476.3 GB free. |
+| Ord | Running: alpha60-v8-ord-shards-101-g1.service. 1202.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 ## Current constraints
 
@@ -48,11 +48,11 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | ready |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `bear-05` | 2026-11-13 | incremental-candidate | held: input freeze failed: invalid sample size/digest |
-| `black-clover-02` | 2026-11-13 | build-no-2026-cache | building-results |
+| `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | deployed |
 | `boys-501` | 2026-10-06 | incremental-candidate | waiting for scratch capacity; estimated 2164.8 GB plus 25.0 GB reserve |
 | `brothers-01` | 2026-11-13 | full-recache-count-increased | deployed |
-| `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | ready |
+| `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | caching |
 | `crew-girl-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `cyberpunk-edgerunners-02` | 2026-11-09 | build-no-2026-cache | ready |
 | `dang-01` | 2026-11-10 | full-recache-count-increased | ready |
@@ -81,7 +81,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | waiting for scratch capacity; estimated 1956.0 GB plus 25.0 GB reserve |
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | waiting for scratch capacity; estimated 1771.5 GB plus 25.0 GB reserve |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
-| `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | building-results |
+| `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | waiting for scratch capacity; estimated 1193.1 GB plus 25.0 GB reserve |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
@@ -90,7 +90,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | ready |
 | `send-help` | 2026-10-18 | incremental-candidate | waiting for scratch capacity; estimated 1614.6 GB plus 25.0 GB reserve |
-| `shards-101` | 2026-11-11 | incremental-candidate | ready |
+| `shards-101` | 2026-11-11 | incremental-candidate | caching |
 | `silo-301` | 2026-11-13 | incremental-candidate | ready |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |

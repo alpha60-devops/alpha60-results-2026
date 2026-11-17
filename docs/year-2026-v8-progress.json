@@ -6,12 +6,12 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 17,
+    "bundle_validated": 19,
     "cache_validated": 19,
-    "deployed": 17,
+    "deployed": 19,
     "inputs_frozen": 98,
-    "installed": 17,
-    "pushed": 17
+    "installed": 19,
+    "pushed": 19
   },
   "objects": [
     {
@@ -60,7 +60,7 @@
       "collection_key": "black-clover-02",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "building-results"
+      "state": "deployed"
     },
     {
       "collection_key": "blue-box-201",
@@ -84,7 +84,7 @@
       "collection_key": "coyote-vs-acme",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-08",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "crew-girl-01",
@@ -258,7 +258,7 @@
       "collection_key": "my-brilliant-career-2026-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "building-results"
+      "state": "deployed"
     },
     {
       "collection_key": "neagley-01",
@@ -312,7 +312,7 @@
       "collection_key": "shards-101",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-11",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "silo-301",
@@ -393,7 +393,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T16:39:49.562675+00:00",
+  "observed_at": "2026-11-17T16:54:53.449629+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -401,11 +401,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-my-brilliant-career-2026-01-g1. 385.5 GB free.",
+      "activity": "Running: prepare-admissions, eureka-coyote-vs-acme-g1. 476.3 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-black-clover-02-g1.service. 1202.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-shards-101-g1.service. 1202.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
