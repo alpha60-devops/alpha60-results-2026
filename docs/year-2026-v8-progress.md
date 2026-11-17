@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T21:03:02.936719+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T21:18:06.909562+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **26 published, 37 remaining; 41.3% published.**
 
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-obsession-2025-g1. 449.1 GB free. |
-| Ord | Running: alpha60-v8-ord-results-monarch-legacy-of-monsters-208-g1.service. 1175.4 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-obsession-2025-g1. 449.7 GB free. |
+| Ord | Running: alpha60-v8-ord-results-monarch-legacy-of-monsters-208-g1.service. 1175.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
