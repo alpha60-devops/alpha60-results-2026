@@ -1,0 +1,113 @@
+{
+  "allow_leading_sparse": false,
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "available_day_products": 41,
+  "cache_members": 2998,
+  "collection_key": "blue-box-201",
+  "downstream_cache_synthesis": {
+    "cache_members": {
+      "cumulative": 123,
+      "week": 479
+    },
+    "derived_durations": [
+      "week",
+      "cumulative"
+    ],
+    "producer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/build/a60-cache-samples",
+      "sha256": "ef7be248ebd81cd57f0b531d84aa4e0dcbb66978969d7bd59ac24ca5936a3d88",
+      "size": 2166488
+    },
+    "sample_anchor": {
+      "directories": [
+        "2026-10-05-at-00-00",
+        "2026-11-14-at-00-00"
+      ],
+      "keys": [
+        "blue-box-201"
+      ],
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/blue-box-201/g1/results/work/blue-box-201/tmp/blue-box-201-released-day-sample-anchor",
+      "raw_samples_opened": false,
+      "synthetic": true
+    },
+    "schema": "alpha60-released-day-downstream-cache/1",
+    "source_duration": "day",
+    "status": "pass"
+  },
+  "first_date": "2026-10-05",
+  "first_index": 1,
+  "indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "last_date": "2026-11-14",
+  "last_index": 41,
+  "missing_indices": [],
+  "sample_span_days": 41,
+  "schema": "alpha60-day-cache-stream-contract/1",
+  "selection": {
+    "admitted_cache_members": 2998,
+    "archive_mutated": false,
+    "excluded_cache_members": 0,
+    "policy": "released-sample-endpoints-in-place",
+    "required_first_date": "2026-10-05",
+    "required_last_date": "2026-11-14",
+    "required_span_days": 41,
+    "schema": "alpha60-released-day-cache-window/1",
+    "source_cache_members": 2998,
+    "source_first_date": "2026-10-05",
+    "source_first_index": 1,
+    "source_last_date": "2026-11-14",
+    "source_last_index": 41
+  },
+  "sparse": false,
+  "status": "pass"
+}
