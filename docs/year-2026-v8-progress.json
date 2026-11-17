@@ -1,8 +1,8 @@
 {
   "blockers": [
     "Input-source holds: bear-05. Completed objects proceed independently.",
-    "39 admitted objects need more scratch space; 25.0 GB stays reserved.",
-    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026.",
+    "44 admitted objects need more scratch space; 25.0 GB stays reserved.",
+    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.",
     "Ord must pass SSH session, storage and capacity checks before taking tasks."
   ],
   "cohort_count": 99,
@@ -73,7 +73,7 @@
       "collection_key": "boys-501",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-06",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 2164.8 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "brothers-01",
@@ -127,7 +127,7 @@
       "collection_key": "euphoria-301",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-11",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 1880.7 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "fall-of-el-mayo-01",
@@ -247,7 +247,7 @@
       "collection_key": "monarch-legacy-of-monsters-208",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-15",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 1771.5 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "musk-2026",
@@ -283,7 +283,7 @@
       "collection_key": "project-hail-mary",
       "mode": "resolve-count-decreased",
       "source_endpoint": "2026-11-08",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: reduced canonical member count requires scope review"
     },
     {
       "collection_key": "reacher-401",
@@ -307,7 +307,7 @@
       "collection_key": "send-help",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-18",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 1614.6 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "shards-101",
@@ -361,7 +361,7 @@
       "collection_key": "super-mario-galaxy-movie",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-10",
-      "state": "inputs frozen; preparing worker"
+      "state": "waiting for scratch capacity; estimated 1510.2 GB plus 25.0 GB reserve"
     },
     {
       "collection_key": "toy-story-5",
@@ -379,7 +379,7 @@
       "collection_key": "widows-bay-108",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-31",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz/2026-10-31-at-13-01.tar.xz: Compressed data is corrupt"
     },
     {
       "collection_key": "world-cup-2026",
@@ -394,7 +394,7 @@
       "state": "waiting for scratch capacity; estimated 831.8 GB plus 25.0 GB reserve"
     }
   ],
-  "observed_at": "2026-11-17T02:02:37.036131+00:00",
+  "observed_at": "2026-11-17T02:17:40.704560+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -402,7 +402,7 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-compatibility, prepare-admissions. 173.6 GB free.",
+      "activity": "Running: prepare-admissions. 171.8 GB free.",
       "name": "Eureka"
     },
     {
