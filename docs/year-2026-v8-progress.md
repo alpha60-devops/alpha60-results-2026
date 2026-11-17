@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T19:10:29.413817+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T19:25:33.319327+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **25 published, 38 remaining; 39.7% published.**
 
@@ -34,7 +34,6 @@ Incremental updates reuse verified hourly caches and extract new or affected sam
 ## Current constraints
 
 - Input-source holds: bear-05. Completed objects proceed independently.
-- 5 admitted objects need more scratch space; 25.0 GB stays reserved.
 - Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary.
 - Coordinator recovery hold: eureka operation failed (1): stty: 'standard input': Inappropriate ioctl for device stty: 'standard input': Inappropriate ioctl for device held /home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/euphoria-301/g1/archives/euphoria
 
@@ -66,9 +65,9 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | ready |
 | `get-jiro-01` | 2026-11-15 | resolve-torrent-definition | identity resolution |
-| `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | waiting for scratch capacity; estimated 1731.0 GB plus 25.0 GB reserve |
+| `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | ready |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
-| `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | waiting for scratch capacity; estimated 1531.5 GB plus 25.0 GB reserve |
+| `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | ready |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | ready |
 | `invincible-101` | 2026-04-28 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
 | `invincible-201` | 2026-05-05 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
@@ -81,12 +80,12 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | deployed |
-| `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | waiting for scratch capacity; estimated 1956.0 GB plus 25.0 GB reserve |
+| `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | ready |
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | building-results |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
-| `obsession-2025` | 2026-10-29 | full-recache-count-increased | waiting for scratch capacity; estimated 1193.1 GB plus 25.0 GB reserve |
+| `obsession-2025` | 2026-10-29 | full-recache-count-increased | ready |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
 | `project-hail-mary` | 2026-11-08 | resolve-count-decreased | held: reduced canonical member count requires scope review |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
@@ -97,7 +96,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `silo-301` | 2026-11-13 | incremental-candidate | ready |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
-| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | waiting for scratch capacity; estimated 3085.0 GB plus 25.0 GB reserve |
+| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | ready |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | ready |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | ready |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |
