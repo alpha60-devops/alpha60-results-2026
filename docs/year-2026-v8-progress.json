@@ -6,12 +6,12 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 13,
+    "bundle_validated": 14,
     "cache_validated": 14,
-    "deployed": 13,
+    "deployed": 14,
     "inputs_frozen": 98,
-    "installed": 13,
-    "pushed": 13
+    "installed": 14,
+    "pushed": 14
   },
   "objects": [
     {
@@ -78,7 +78,7 @@
       "collection_key": "brothers-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-13",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "coyote-vs-acme",
@@ -114,7 +114,7 @@
       "collection_key": "drama-2026",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-16",
-      "state": "building-results"
+      "state": "deployed"
     },
     {
       "collection_key": "enola-holmes-3",
@@ -393,7 +393,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T04:20:00.332648+00:00",
+  "observed_at": "2026-11-17T04:35:05.030727+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -405,7 +405,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-drama-2026-g1.service. 1214.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-brothers-01-g1.service. 1214.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]

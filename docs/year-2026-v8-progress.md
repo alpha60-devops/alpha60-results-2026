@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T04:20:00.332648+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T04:35:05.030727+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**13 published, 50 remaining; 20.6% published.**
+**14 published, 49 remaining; 22.2% published.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -17,17 +17,17 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 14 |
-| bundle validated | 13 |
-| installed | 13 |
-| pushed | 13 |
-| deployed | 13 |
+| bundle validated | 14 |
+| installed | 14 |
+| pushed | 14 |
+| deployed | 14 |
 
 `inputs frozen` counts the whole cohort; subsequent stages count this run’s update candidates.
 
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 165.0 GB free. |
-| Ord | Running: alpha60-v8-ord-drama-2026-g1.service. 1214.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-brothers-01-g1.service. 1214.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 ## Current constraints
 
@@ -51,13 +51,13 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | ready |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | deployed |
 | `boys-501` | 2026-10-06 | incremental-candidate | waiting for scratch capacity; estimated 2164.8 GB plus 25.0 GB reserve |
-| `brothers-01` | 2026-11-13 | full-recache-count-increased | ready |
+| `brothers-01` | 2026-11-13 | full-recache-count-increased | caching |
 | `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | ready |
 | `crew-girl-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `cyberpunk-edgerunners-02` | 2026-11-09 | build-no-2026-cache | ready |
 | `dang-01` | 2026-11-10 | full-recache-count-increased | ready |
 | `diplomat-04` | 2026-11-05 | build-no-2026-cache | deployed |
-| `drama-2026` | 2026-10-16 | incremental-candidate | building-results |
+| `drama-2026` | 2026-10-16 | incremental-candidate | deployed |
 | `enola-holmes-3` | 2026-10-16 | incremental-candidate | ready |
 | `euphoria-301` | 2026-10-11 | incremental-candidate | waiting for scratch capacity; estimated 1880.7 GB plus 25.0 GB reserve |
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
