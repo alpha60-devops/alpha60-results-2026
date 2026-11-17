@@ -7,11 +7,11 @@
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 21,
-    "cache_validated": 21,
-    "deployed": 19,
+    "cache_validated": 23,
+    "deployed": 21,
     "inputs_frozen": 98,
-    "installed": 19,
-    "pushed": 19
+    "installed": 21,
+    "pushed": 21
   },
   "incremental_method": {
     "archive_durations": [
@@ -95,7 +95,7 @@
       "collection_key": "coyote-vs-acme",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-08",
-      "state": "bundle-validated"
+      "state": "deployed"
     },
     {
       "collection_key": "crew-girl-01",
@@ -311,7 +311,7 @@
       "collection_key": "season-2026-01",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-10",
-      "state": "ready"
+      "state": "building-results"
     },
     {
       "collection_key": "send-help",
@@ -323,7 +323,7 @@
       "collection_key": "shards-101",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-11",
-      "state": "bundle-validated"
+      "state": "deployed"
     },
     {
       "collection_key": "silo-301",
@@ -365,7 +365,7 @@
       "collection_key": "sugar-201",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-08",
-      "state": "ready"
+      "state": "building-results"
     },
     {
       "collection_key": "super-mario-galaxy-movie",
@@ -404,7 +404,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T17:10:40.667515+00:00",
+  "observed_at": "2026-11-17T17:25:01.647754+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -412,11 +412,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions. 480.3 GB free.",
+      "activity": "Running: prepare-admissions, eureka-season-2026-01-g1. 479.1 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Pinned runtime verified. 1200.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-sugar-201-g1.service. 1199.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
