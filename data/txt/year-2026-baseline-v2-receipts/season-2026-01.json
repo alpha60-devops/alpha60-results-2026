@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt36237567",
     "imdb_id": "tt36237567",
-    "revision": "6656be3d8315f03fadc210e4c02ee453f4692396",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
     "wikidata_id": "Q139935669",
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Season"
   },
-  "coverage_sha256": "50a0ab0f52a9dab192bb135783fa9d7a6ca8ede4c0efbe3e9bbe4297e35590b0",
-  "generated_at": "2026-10-04T06:47:33.565058+00:00",
+  "coverage_sha256": "146fa10a9ace165d7ae9330e2299db5fda401d8d83c78dc1c796803f632c9b35",
+  "generated_at": "2026-11-17T17:27:34.511518+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/archives/season-2026-01.cache/cache.20260929.tar.xz",
-      "sha256": "d9184aada2e40c9a88a9202be8a555ded1f5650109fc4867dfa36f2a3c29bb62",
-      "size": 459092692
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/season-2026-01/g1/archives/season-2026-01.cache/cache.20261010.tar.xz",
+      "sha256": "0ff790068502714d3087f0e7e74b66acac86b52adf1031ab6c26ff47c70d461e",
+      "size": 499517832
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/season-2026-01.md",
-      "sha256": "f8d6e0c0cca75102f8bafff89f3c2f71b7bcc96f82c5c4e403a9eac5fe880444",
-      "size": 97144
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/season-2026-01.md",
+      "sha256": "2bf8e89474b8930db7b320ee6afd9480e2cf269f310aa09da07262e9829f8e28",
+      "size": 653
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/season-2026-01.json",
-      "sha256": "7bf7c1fa96b0d63c8c1802535061718d19bc9a3883169c92a1b5261efb89b1c1",
-      "size": 2906
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/season-2026-01.json",
+      "sha256": "8b4b0f5a378888968223569cf5dd7cba18c0fa086f02a0e3ddf4b8a39168b98f",
+      "size": 2997
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/season-2026-01.json",
-      "sha256": "7db2707ec23d738624133baaf6aae0a0aa2ca59297f4ab00373a2e947f41c7f9",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/season-2026-01.json",
+      "sha256": "c40edaeec7ede9e7d897fadf1719d5134f5ea617cdba3221d4dc908e7b5fe284",
       "size": 367
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/inputs/worker-map.json",
-      "sha256": "4e7bee1a946a83d7091a8d7d4ec3bf79044dc0a8e25dfc7478a1f26639cf5404",
-      "size": 240593
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/season-2026-01/g1/results/workers/eureka.worker-map.json",
+      "sha256": "bb1ca5ec96ed9bf3bdfbfa802cb56179bdc0a747fa9408c5e989e94eb0eb9e5b",
+      "size": 3133
     }
   },
   "media_object": "season-2026-01",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "b8ec05f0188155198363de9fa32823e0798730594d479293df5e5854ff4ee97d",
-        "before_sha256": "d74b417ecb5614e97fc34ad558165c746e5ad958c730d14df2e7b2ad9ed3b3e5",
-        "path": "docs/itemized/season-2026-01-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T07:01:06.503155+00:00",
-    "coverage_sha256": "50a0ab0f52a9dab192bb135783fa9d7a6ca8ede4c0efbe3e9bbe4297e35590b0",
-    "day_contract": {
-      "collection_key": "season-2026-01",
-      "day_products": 104,
-      "first_date": "2026-06-17",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-29",
-      "last_index": 105,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": true,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "96bfa69322d5f7ca705014f81639248c41d10444",
-    "historical_receipt_sha256": "5c9328d9ca63bc612ff3fd9f255161fe48df5ca19593fb9b993f03c3e6689c05",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/season-2026-01.md",
-        "sha256": "f8d6e0c0cca75102f8bafff89f3c2f71b7bcc96f82c5c4e403a9eac5fe880444",
-        "size": 97144
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/season-2026-01.json",
-        "sha256": "7bf7c1fa96b0d63c8c1802535061718d19bc9a3883169c92a1b5261efb89b1c1",
-        "size": 2906
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/season-2026-01.json",
-        "sha256": "7db2707ec23d738624133baaf6aae0a0aa2ca59297f4ab00373a2e947f41c7f9",
-        "size": 367
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 15,
-      "y_tick_labels": 20
-    }
-  },
   "published_files": {
-    "data/csv/bytes/season-2026-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "e11b0f99694faf4b1b91e2ccbf59c693ff08820f52dbc6d43a34f8e708cac77a",
-    "docs/itemized/figures/season-2026-01-carto-4k.webp": "b00c06aa2c06a5796947e43978f5f0a2fe25b27680ea60457c81d152353352f0",
-    "docs/itemized/figures/season-2026-01-carto.png": "ec031ce8a36846e5b310025ac4e52bd8cd826fea68a1e8bbdd0896c7a341591b",
+    "data/csv/bytes/season-2026-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "ba529760e5c322d421491307d37bd45f5f0bd60f0beb858cc7dedb5e4de6f175",
+    "docs/itemized/figures/season-2026-01-carto-4k.webp": "38f01100c00b4b8e6a0b32eacf811474927cedb9133d64423605b22585d98776",
+    "docs/itemized/figures/season-2026-01-carto.png": "a7ef99214f2f3c3cd0933b73a5b2b522991e22caf7485599b2b424176076f67c",
     "docs/itemized/figures/season-2026-01-cumulative-detail-btiha-itemized-by-bytes.svg": "9fd945866a41c80bf79342bc5b7da851021b97f5f0956444ffb0f3b5e822a33e",
-    "docs/itemized/figures/season-2026-01-data-ge-1080p-4k.webp": "da43021ef3013af51c4ecae654a8a1b62a649558fda07be0d63d13245946f222",
-    "docs/itemized/figures/season-2026-01-data-ge-1080p.webp": "6ec880364dde439920d5e659f2353fef044f9ac63e0209c9ec034fc357a91e04",
-    "docs/itemized/figures/season-2026-01-data-lt-1080p-4k.webp": "443504cffc1b39a2dd85260f79d9faaf71c9cbd70765c2397b4914de558f13c0",
-    "docs/itemized/figures/season-2026-01-data-lt-1080p.webp": "7ced116088100dfd2251790f0d2a5901fa171089bbfc7a8c4004db51be0163cb",
-    "docs/itemized/figures/season-2026-01-downloads-by-day-day.svg": "6e61a74d6c6035a3cc04d21cd7cdbf1f3de28d5a3338fbc3a6b528d8563e2c6e",
-    "docs/itemized/figures/season-2026-01-downloads-by-week-season-2026-01-week.svg": "4f6b5ce17db9921ed68c8519315b2a0bc123cbd6d189de5b4fa4f39438588521",
-    "docs/itemized/season-2026-01-sample-cache-audit.md": "b8ec05f0188155198363de9fa32823e0798730594d479293df5e5854ff4ee97d",
+    "docs/itemized/figures/season-2026-01-data-ge-1080p-4k.webp": "b13df5cf19402bd351d1559fef265ed39261dd0ff99437e6ffd367c9008bbabd",
+    "docs/itemized/figures/season-2026-01-data-ge-1080p.webp": "610ad4737956d02c623eae73aa3312cff1a55c4d54b05932d0eac8926830b2a1",
+    "docs/itemized/figures/season-2026-01-data-lt-1080p-4k.webp": "e2c840f44e69e29d273d665cd21f2752c576158e620af43547cf250fabb19fb8",
+    "docs/itemized/figures/season-2026-01-data-lt-1080p.webp": "14b73f52058fb32a270574a99007f611983eaa20508e45d2d453ee34c3f1ac6d",
+    "docs/itemized/figures/season-2026-01-downloads-by-day-day.svg": "9cefe5fcea9512fe5d69ba95af9fdb8cab87295daf652be5795b722fa5328d53",
+    "docs/itemized/figures/season-2026-01-downloads-by-week-season-2026-01-week.svg": "3c94824e71eca337161279bb4ae0050276d34719f4c074dea621db60963b9d02",
+    "docs/itemized/season-2026-01-sample-cache-audit.md": "6b13151fa263a67bb63d0d89f50761ca8c56c9fe1c5e4ada1d3a0383d1551187",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-code",
-      "revision": "ec8be71a1ed3b70772040d6c254762788206313a",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-carto-geo.exe",
-      "sha256": "854e258846a4a2d678c62ad00fba4c91dceed1c1fc54a5ceba2ce9efd2edb1c7",
-      "size": 45250536
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/season-2026-01/tmp/season-2026-01-cumulative-btiha.geojson",
-        "sha256": "a0473fb27935d5853395fb366bfef9f0a9021cf9b8439076edeed36846c542c8",
-        "size": 151452797
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/season-2026-01/g1/results/work/season-2026-01/tmp/season-2026-01-cumulative-btiha.geojson",
+        "sha256": "48fab2fc713555ee2ebe98e22fefcb06c1148d5720b1037d87871a5d3ec4ed2e",
+        "size": 160469659
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/season-2026-01/tmp/season-2026-01-cumulative-btiha-media-objects.json",
-        "sha256": "b4274fba59654ecd8ff8bf17f040bf9179d4a97f1827dabb07a851581bb75e15",
-        "size": 287350
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/season-2026-01/g1/results/work/season-2026-01/tmp/season-2026-01-cumulative-btiha-media-objects.json",
+        "sha256": "a969090f020ac1b7a56d2c1ce6e2d9890079b24af5dc916d79f9e2c3f98f2e23",
+        "size": 287362
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi",
-      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
       "untracked": false
     },
     "media_object": "season-2026-01",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-meta-collection.exe",
-      "sha256": "8f1bd1d5de637a3cdd4c104c76f4e322b3141743e473202610cce6d39c76553d",
-      "size": 8579520
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/build/a60-meta-collection",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
-      "size": 440288
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,12 +99,12 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          69.0,
-          42.0,
+          71.0,
+          45.0,
+          34.0,
           33.0,
           31.0,
-          29.0,
-          28.0,
+          30.0,
           28.0,
           26.0,
           26.0
@@ -189,13 +132,13 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          60.0,
-          41.0,
+          61.0,
+          44.0,
           33.0,
-          30.0,
+          32.0,
+          29.0,
           28.0,
           28.0,
-          27.0,
           26.0,
           26.0
         ],
@@ -213,7 +156,7 @@
           "Lelystad",
           "London",
           "Moscow",
-          "Incheon"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,7 +166,7 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 21,
+        "x_tick_labels": 23,
         "y_tick_labels": 20
       },
       "histogram": {
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 15,
+        "x_tick_labels": 17,
         "y_tick_labels": 20
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "ec8be71a1ed3b70772040d6c254762788206313a",
-    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
-    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "6656be3d8315f03fadc210e4c02ee453f4692396"
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
   },
   "status": "passed",
   "validation_source": "render-receipt",
