@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 42,
-  "cache_members": 3069,
+  "available_day_products": 84,
+  "cache_members": 6903,
   "collection_key": "my-brilliant-career-2026-01",
   "downstream_cache_synthesis": {
     "cache_members": {
-      "cumulative": 80,
-      "week": 442
+      "cumulative": 93,
+      "week": 992
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-cache-samples.exe",
-      "sha256": "b864149e0bb370e9ada89f40b4c6d4ce4b3ba6190ab5064db81e982c0a4fc3dc",
-      "size": 40182408
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/build/a60-cache-samples",
+      "sha256": "ef7be248ebd81cd57f0b531d84aa4e0dcbb66978969d7bd59ac24ca5936a3d88",
+      "size": 2166488
     },
     "sample_anchor": {
       "directories": [
         "2026-08-18-at-00-00",
-        "2026-09-28-at-00-00"
+        "2026-11-09-at-00-00"
       ],
       "keys": [
         "my-brilliant-career-2026-01"
       ],
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/my-brilliant-career-2026-01/tmp/my-brilliant-career-2026-01-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/my-brilliant-career-2026-01/g1/results/work/my-brilliant-career-2026-01/tmp/my-brilliant-career-2026-01-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -87,27 +87,69 @@
     39,
     40,
     41,
-    42
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84
   ],
-  "last_date": "2026-09-28",
-  "last_index": 42,
+  "last_date": "2026-11-09",
+  "last_index": 84,
   "missing_indices": [],
-  "sample_span_days": 42,
+  "sample_span_days": 84,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 3069,
+    "admitted_cache_members": 6903,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-08-18",
-    "required_last_date": "2026-09-28",
-    "required_span_days": 42,
+    "required_last_date": "2026-11-09",
+    "required_span_days": 84,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 3069,
+    "source_cache_members": 6903,
     "source_first_date": "2026-08-18",
     "source_first_index": 1,
-    "source_last_date": "2026-09-28",
-    "source_last_index": 42
+    "source_last_date": "2026-11-09",
+    "source_last_index": 84
   },
   "sparse": false,
   "status": "pass"
