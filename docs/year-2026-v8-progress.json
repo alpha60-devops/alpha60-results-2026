@@ -8,10 +8,10 @@
   "counts": {
     "bundle_validated": 12,
     "cache_validated": 12,
-    "deployed": 10,
+    "deployed": 12,
     "inputs_frozen": 98,
-    "installed": 11,
-    "pushed": 10
+    "installed": 12,
+    "pushed": 12
   },
   "objects": [
     {
@@ -198,7 +198,7 @@
       "collection_key": "kill-jackie-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-05",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "kung-fu-soccer-2026",
@@ -234,7 +234,7 @@
       "collection_key": "lupin-04",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "install-verified"
+      "state": "deployed"
     },
     {
       "collection_key": "mandalorian-and-grogu",
@@ -324,7 +324,7 @@
       "collection_key": "slow-horses-601",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-24",
-      "state": "bundle-validated"
+      "state": "deployed"
     },
     {
       "collection_key": "spider-man-brand-new-day",
@@ -393,7 +393,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T03:41:26.566774+00:00",
+  "observed_at": "2026-11-17T03:49:51.928675+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -405,7 +405,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Pinned runtime verified. 1215.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-kill-jackie-01-g1.service. 1211.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]

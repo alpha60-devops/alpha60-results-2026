@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T03:41:26.566774+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T03:49:51.928675+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**10 published, 53 remaining; 15.9% published.**
+**12 published, 51 remaining; 19.0% published.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -18,16 +18,16 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | inputs frozen | 98 |
 | cache validated | 12 |
 | bundle validated | 12 |
-| installed | 11 |
-| pushed | 10 |
-| deployed | 10 |
+| installed | 12 |
+| pushed | 12 |
+| deployed | 12 |
 
 `inputs frozen` counts the whole cohort; subsequent stages count this run’s update candidates.
 
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 165.1 GB free. |
-| Ord | Pinned runtime verified. 1215.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-kill-jackie-01-g1.service. 1211.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 ## Current constraints
 
@@ -71,13 +71,13 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `invincible-201` | 2026-05-05 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
 | `invincible-301` | 2026-06-30 | inspect-latest-cache-day | held: newer Eureka archive requires adoption review |
 | `invite-2026` | 2026-11-13 | incremental-candidate | ready |
-| `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | ready |
+| `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | caching |
 | `kung-fu-soccer-2026` | 2026-11-13 | inspect-latest-cache-day | held: newer Gold cache requires adoption review |
 | `lanterns-101` | 2026-11-08 | incremental-candidate | ready |
 | `legend-of-vox-machina-410` | 2026-10-21 | incremental-candidate | held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/legend-of-vox-machina-410.xz/2026-10-10-at-22-04.tar.xz: Compressed data is corrupt |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
-| `lupin-04` | 2026-11-13 | build-no-2026-cache | install-verified |
+| `lupin-04` | 2026-11-13 | build-no-2026-cache | deployed |
 | `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | waiting for scratch capacity; estimated 1956.0 GB plus 25.0 GB reserve |
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | waiting for scratch capacity; estimated 1771.5 GB plus 25.0 GB reserve |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
@@ -92,7 +92,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `send-help` | 2026-10-18 | incremental-candidate | waiting for scratch capacity; estimated 1614.6 GB plus 25.0 GB reserve |
 | `shards-101` | 2026-11-11 | incremental-candidate | ready |
 | `silo-301` | 2026-11-13 | incremental-candidate | ready |
-| `slow-horses-601` | 2026-10-24 | full-recache-count-increased | bundle-validated |
+| `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | waiting for scratch capacity; estimated 3085.0 GB plus 25.0 GB reserve |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | ready |
