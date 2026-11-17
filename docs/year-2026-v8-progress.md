@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T22:18:23.217280+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T22:33:27.746485+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **26 published, 37 remaining; 41.3% published.**
 
@@ -16,7 +16,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 28 |
+| cache validated | 29 |
 | bundle validated | 27 |
 | installed | 26 |
 | pushed | 26 |
@@ -26,7 +26,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-obsession-2025-g1. 445.4 GB free. |
+| Eureka | Running: prepare-admissions, eureka-obsession-2025-g1. 452.5 GB free. |
 | Ord | Pinned runtime verified. 1177.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
@@ -83,7 +83,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
-| `obsession-2025` | 2026-10-29 | full-recache-count-increased | caching |
+| `obsession-2025` | 2026-10-29 | full-recache-count-increased | building-results |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
 | `project-hail-mary` | 2026-11-08 | rebuild | ready |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
