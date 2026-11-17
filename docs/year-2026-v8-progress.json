@@ -2,17 +2,16 @@
   "blockers": [
     "Input-source holds: bear-05. Completed objects proceed independently.",
     "11 admitted objects need more scratch space; 25.0 GB stays reserved.",
-    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026.",
-    "Pending publication recovery; cache dispatch and disk guards continue. See coordinator diagnostics."
+    "Identity, scope, archive-adoption or source-quality holds: get-jiro-01, invincible-101, kung-fu-soccer-2026, invincible-201, invincible-301, legend-of-vox-machina-410, world-cup-2026, widows-bay-108, project-hail-mary."
   ],
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 15,
     "cache_validated": 15,
-    "deployed": 14,
+    "deployed": 15,
     "inputs_frozen": 98,
     "installed": 15,
-    "pushed": 14
+    "pushed": 15
   },
   "objects": [
     {
@@ -79,7 +78,7 @@
       "collection_key": "brothers-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-13",
-      "state": "publication-ready"
+      "state": "deployed"
     },
     {
       "collection_key": "coyote-vs-acme",
@@ -283,7 +282,7 @@
       "collection_key": "project-hail-mary",
       "mode": "resolve-count-decreased",
       "source_endpoint": "2026-11-08",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: reduced canonical member count requires scope review"
     },
     {
       "collection_key": "reacher-401",
@@ -379,7 +378,7 @@
       "collection_key": "widows-bay-108",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-31",
-      "state": "inputs frozen; preparing worker"
+      "state": "held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz/2026-10-31-at-13-01.tar.xz: Compressed data is corrupt"
     },
     {
       "collection_key": "world-cup-2026",
@@ -394,7 +393,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T06:35:20.687512+00:00",
+  "observed_at": "2026-11-17T06:38:27.157842+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -402,11 +401,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-visionquest-101-g1. 366.2 GB free.",
+      "activity": "Running: prepare-admissions, eureka-visionquest-101-g1. 362.3 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-apothecary-diaries-03.1-g1.service. 1207.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-apothecary-diaries-03.1-g1.service. 1203.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
