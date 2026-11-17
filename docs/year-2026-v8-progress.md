@@ -7,27 +7,27 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T03:49:51.928675+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T04:04:56.029717+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**12 published, 51 remaining; 19.0% published.**
+**13 published, 50 remaining; 20.6% published.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 12 |
-| bundle validated | 12 |
-| installed | 12 |
-| pushed | 12 |
-| deployed | 12 |
+| cache validated | 13 |
+| bundle validated | 13 |
+| installed | 13 |
+| pushed | 13 |
+| deployed | 13 |
 
 `inputs frozen` counts the whole cohort; subsequent stages count this run’s update candidates.
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 165.1 GB free. |
-| Ord | Running: alpha60-v8-ord-kill-jackie-01-g1.service. 1211.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions. 165.0 GB free. |
+| Ord | Running: alpha60-v8-ord-drama-2026-g1.service. 1213.4 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 ## Current constraints
 
@@ -57,7 +57,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `cyberpunk-edgerunners-02` | 2026-11-09 | build-no-2026-cache | ready |
 | `dang-01` | 2026-11-10 | full-recache-count-increased | ready |
 | `diplomat-04` | 2026-11-05 | build-no-2026-cache | deployed |
-| `drama-2026` | 2026-10-16 | incremental-candidate | ready |
+| `drama-2026` | 2026-10-16 | incremental-candidate | caching |
 | `enola-holmes-3` | 2026-10-16 | incremental-candidate | ready |
 | `euphoria-301` | 2026-10-11 | incremental-candidate | waiting for scratch capacity; estimated 1880.7 GB plus 25.0 GB reserve |
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
@@ -71,7 +71,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `invincible-201` | 2026-05-05 | build-no-2026-cache | held: explicit annual continuation and historical cache layout review |
 | `invincible-301` | 2026-06-30 | inspect-latest-cache-day | held: newer Eureka archive requires adoption review |
 | `invite-2026` | 2026-11-13 | incremental-candidate | ready |
-| `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | caching |
+| `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |
 | `kung-fu-soccer-2026` | 2026-11-13 | inspect-latest-cache-day | held: newer Gold cache requires adoption review |
 | `lanterns-101` | 2026-11-08 | incremental-candidate | ready |
 | `legend-of-vox-machina-410` | 2026-10-21 | incremental-candidate | held: XZ input inventory failed: xz: /mnt/gold/src/alpha60-samples-raw.gold/legend-of-vox-machina-410.xz/2026-10-10-at-22-04.tar.xz: Compressed data is corrupt |

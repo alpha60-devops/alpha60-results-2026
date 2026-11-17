@@ -6,12 +6,12 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 12,
-    "cache_validated": 12,
-    "deployed": 12,
+    "bundle_validated": 13,
+    "cache_validated": 13,
+    "deployed": 13,
     "inputs_frozen": 98,
-    "installed": 12,
-    "pushed": 12
+    "installed": 13,
+    "pushed": 13
   },
   "objects": [
     {
@@ -114,7 +114,7 @@
       "collection_key": "drama-2026",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-16",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "enola-holmes-3",
@@ -198,7 +198,7 @@
       "collection_key": "kill-jackie-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-05",
-      "state": "caching"
+      "state": "deployed"
     },
     {
       "collection_key": "kung-fu-soccer-2026",
@@ -393,7 +393,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-17T03:49:51.928675+00:00",
+  "observed_at": "2026-11-17T04:04:56.029717+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -401,11 +401,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions. 165.1 GB free.",
+      "activity": "Running: prepare-admissions. 165.0 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-kill-jackie-01-g1.service. 1211.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-drama-2026-g1.service. 1213.4 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
