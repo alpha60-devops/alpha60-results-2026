@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T03:10:31.252399+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T03:25:35.882701+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **9 published, 54 remaining; 14.3% published.**
 
@@ -27,7 +27,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 165.1 GB free. |
-| Ord | Running: alpha60-v8-ord-slow-horses-601-g1.service. 1208.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Pinned runtime verified. 1214.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 ## Current constraints
 
@@ -92,7 +92,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `send-help` | 2026-10-18 | incremental-candidate | waiting for scratch capacity; estimated 1614.6 GB plus 25.0 GB reserve |
 | `shards-101` | 2026-11-11 | incremental-candidate | ready |
 | `silo-301` | 2026-11-13 | incremental-candidate | ready |
-| `slow-horses-601` | 2026-10-24 | full-recache-count-increased | caching |
+| `slow-horses-601` | 2026-10-24 | full-recache-count-increased | failed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | waiting for scratch capacity; estimated 3085.0 GB plus 25.0 GB reserve |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | ready |
