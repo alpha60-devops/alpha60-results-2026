@@ -15,39 +15,28 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `euphoria-301` |
 | imdb_id | [tt8772296](https://www.imdb.com/title/tt8772296/) |
 | wikipedia_url | [Euphoria (American TV series)](https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)) |
-| Sample dates | 2026-04-13-to-2026-09-28 |
-| Sample days | 169 |
+| Sample dates | 2026-04-13-to-2026-10-11 |
+| Sample days | 182 |
 | BTIH count | 410 |
 | Unique BTIH count | 398 |
-| Downloaders total | 61,172,208 |
-| Uploaders total | 3,525,109 |
+| Downloaders total | 64,314,443 |
+| Uploaders total | 3,569,692 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T14:25:16Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/euphoria-301.xz`
-- Hour directories: 4049
+- Generated: 2026-11-17T18:20:01Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/euphoria-301.xz`
+- Hour directories: 4342
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 0 (0 missing hours)
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (19 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
-None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `29e872ee7bf8b1dfcfffce2a9e81f1952cb6df930b11df6a862c3214785f13e5`
-- Full-input producer receipt SHA-256: `8490c77745e558c2bd3414be6eae80b7a8ca7ad6b5c8eb736fd883501f9ddc3d`
-- Frozen raw archives: 4049
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 12
-- Excluded observations: 60415
+- hourly gap: last `2026-10-01 22:02`, resumed `2026-10-02 18:37` — missing 19 hour(s)
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +78,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.84 | 17.14 | 34.83 | 44.05 | 1.34 | 0.80 |
+| 1.85 | 17.30 | 34.70 | 44.02 | 1.33 | 0.81 |
 
 ### Network infrastructure
 
