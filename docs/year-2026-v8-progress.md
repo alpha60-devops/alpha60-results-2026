@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T20:25:49.180338+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T20:36:51.804666+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **26 published, 37 remaining; 41.3% published.**
 
@@ -27,15 +27,12 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 459.1 GB free. |
-| Ord | Running: alpha60-v8-ord-boys-501-g1.service. 1178.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-boys-501-g1.service. 1178.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
 ## Current constraints
 
-- Input-source holds: bear-05. Completed objects proceed independently.
-- Identity, scope, archive-adoption or source-quality holds: get-jiro-01, project-hail-mary.
-- New claims paused: Deploying reviewed source amendments and nested-year installation; existing claims continue
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -64,7 +61,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `euphoria-301` | 2026-10-11 | incremental-candidate | deployed |
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | ready |
-| `get-jiro-01` | 2026-11-15 | resolve-torrent-definition | identity resolution |
+| `get-jiro-106` | 2026-11-15 | build | ready |
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | ready |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
 | `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | ready |
@@ -87,7 +84,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | ready |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
-| `project-hail-mary` | 2026-11-08 | resolve-count-decreased | held: reduced canonical member count requires scope review |
+| `project-hail-mary` | 2026-11-08 | resolve-count-decreased | ready |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | deployed |
