@@ -15,39 +15,29 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `slow-horses-601` |
 | imdb_id | [tt5875444](https://www.imdb.com/title/tt5875444/) |
 | wikipedia_url | [Slow Horses#Series 6 (2026)](https://en.wikipedia.org/wiki/Slow_Horses#Series_6_(2026)) |
-| Sample dates | 2026-09-16-to-2026-09-29 |
-| Sample days | 14 |
-| BTIH count | 157 |
-| Unique BTIH count | 152 |
-| Downloaders total | 1,248,501 |
-| Uploaders total | 221,640 |
+| Sample dates | 2026-09-16-to-2026-10-24 |
+| Sample days | 39 |
+| BTIH count | 266 |
+| Unique BTIH count | 262 |
+| Downloaders total | 6,066,987 |
+| Uploaders total | 644,830 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-03T19:10:22Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/slow-horses-601.xz`
-- Hour directories: 320
+- Generated: 2026-11-17T03:11:45Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/slow-horses-601.xz`
+- Hour directories: 874
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 0 (0 missing hours)
-- Missing days: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (46 missing hours)
+- Missing days: 1
 
 ### Sample archive discontinuities
 
-None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `90cd7041f7fffe3a6728ac3085ff9970e549bbe8c1fcf00634811efb6da484b6`
-- Full-input producer receipt SHA-256: `59e4b3f82d92601250862865d8db53cdda55d1528575c060bec62dbb5ed4c5fe`
-- Frozen raw archives: 320
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
+- hourly gap: last `2026-10-11 22:06`, resumed `2026-10-13 21:06` — missing 46 hour(s)
+- missing day: `2026-10-12`
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +79,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.44 | 22.27 | 26.90 | 44.90 | 2.90 | 0.60 |
+| 2.12 | 20.40 | 30.70 | 43.96 | 2.07 | 0.75 |
 
 ### Network infrastructure
 

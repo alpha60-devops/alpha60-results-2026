@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt5875444",
     "imdb_id": "tt5875444",
-    "revision": "6656be3d8315f03fadc210e4c02ee453f4692396",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
     "wikidata_id": "Q104880809",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Slow_Horses#Series_6_(2026)"
   },
-  "coverage_sha256": "9be971bbf49ba72e157d6fa2435d9c24a3cd60bfda8d460deb14ff3749ff540a",
-  "generated_at": "2026-10-04T06:47:36.199655+00:00",
+  "coverage_sha256": "746a0219a4cd3da3bd74f2db7968ca0c8759c7b190086e66f8b7eebadc7d2021",
+  "generated_at": "2026-11-17T03:35:54.940074+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/archives/slow-horses-601.cache/cache.20260929.tar.xz",
-      "sha256": "514f5dbb48ab610f070afaabf74e3e50e014d4691d3e89de8b751d10f589bad9",
-      "size": 105303864
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/slow-horses-601/g1/archives/slow-horses-601.cache/cache.20261024.tar.xz",
+      "sha256": "ba7ca73a52b8316744fc85f8ac400dc89e1c0d61241b7d10b2320f655b531b54",
+      "size": 425703728
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/slow-horses-601.md",
-      "sha256": "f91411277faace676bb73f44df6e4433c6f98c6c1e03812de426e5634bbabaa5",
-      "size": 899
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/slow-horses-601.md",
+      "sha256": "44f0b5c9e492b6d43a918aad226d1524d1e569882e583b6940c32738cdbf28fc",
+      "size": 654
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/slow-horses-601.json",
-      "sha256": "1716aeceb0ea523881bcdfff69c536ba44bed07a2a33877d4bc40a891c0078bf",
-      "size": 2166
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/slow-horses-601.json",
+      "sha256": "42f85c8193babfc32e8892c0028a723b31f3f0f45fe43448de04fcc3151921ed",
+      "size": 2363
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/slow-horses-601.json",
-      "sha256": "d70d2e3cc599ebc84955a727e09c399a5054a837b13a8c393d37015b3a915d2b",
-      "size": 367
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/slow-horses-601.json",
+      "sha256": "9703a2e4eb70d6d73aa27b7739ecd9317adbc982d3e582d040ae972ff2f6dddc",
+      "size": 366
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/inputs/worker-map.json",
-      "sha256": "4e7bee1a946a83d7091a8d7d4ec3bf79044dc0a8e25dfc7478a1f26639cf5404",
-      "size": 240593
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/slow-horses-601/g1/results/workers/ord.worker-map.json",
+      "sha256": "8250de2fff5d4af3ffda658f1e7377edb00d1d9720ccc9af81ce74bc998ffcc6",
+      "size": 3129
     }
   },
   "media_object": "slow-horses-601",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "41b8717c15e720bb35aece19fbd7a7948d761e027d3b54ca444a8f75d8742f54",
-        "before_sha256": "d4a66f0f1fc46cb689f7391baae8260862c1e8fbb20ce803ca1b5da2debafb17",
-        "path": "docs/itemized/slow-horses-601-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T07:01:21.655930+00:00",
-    "coverage_sha256": "9be971bbf49ba72e157d6fa2435d9c24a3cd60bfda8d460deb14ff3749ff540a",
-    "day_contract": {
-      "collection_key": "slow-horses-601",
-      "day_products": 14,
-      "first_date": "2026-09-16",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-29",
-      "last_index": 14,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "93cffbc099fc02d4966a9d9fb8447bfb93bc7fc5",
-    "historical_receipt_sha256": "4ad75d5b2790defcf005029f0f6bbe6e0e87478bb713e13598f5959f5a397eb7",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/slow-horses-601.md",
-        "sha256": "f91411277faace676bb73f44df6e4433c6f98c6c1e03812de426e5634bbabaa5",
-        "size": 899
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/slow-horses-601.json",
-        "sha256": "1716aeceb0ea523881bcdfff69c536ba44bed07a2a33877d4bc40a891c0078bf",
-        "size": 2166
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/slow-horses-601.json",
-        "sha256": "d70d2e3cc599ebc84955a727e09c399a5054a837b13a8c393d37015b3a915d2b",
-        "size": 367
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 2,
-      "y_tick_labels": 22
-    }
-  },
   "published_files": {
-    "data/csv/bytes/slow-horses-601-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "dab69237e5d4eaea10ffd373487ef6f335c263ffd44449c7e60b5bddc7d4babe",
-    "docs/itemized/figures/slow-horses-601-carto-4k.webp": "50ac302c459996f716d74ec0c49e4b171aa5307ae894779457e23044e1c3a2e0",
-    "docs/itemized/figures/slow-horses-601-carto.png": "ee4a67b8af7c14e78d2d32bfafeff1c26ae0bd267970b4729480c5241cffa211",
-    "docs/itemized/figures/slow-horses-601-cumulative-detail-btiha-itemized-by-bytes.svg": "da95d757a4147b344679baa76755b6ea2db6b369a62d471f5b454880290ab3ad",
-    "docs/itemized/figures/slow-horses-601-data-ge-1080p-4k.webp": "9900932d16c282fe8ef5d5d61b1be9f956592d2c3c5df94030e5edf2fc0e02d1",
-    "docs/itemized/figures/slow-horses-601-data-ge-1080p.webp": "bbe49d6e78c4525ce131894c4cc2b95fd5afb3f4ed9c95b9a52543d4bfa63705",
-    "docs/itemized/figures/slow-horses-601-data-lt-1080p-4k.webp": "880df39b0a07577baa9d691f1c14fd46bb0689367f5622786a155cc31de77ba0",
-    "docs/itemized/figures/slow-horses-601-data-lt-1080p.webp": "d51bee8ad0b50cfd89a6f311e9ec86e1687bcbd46621510e7ead4889825026ab",
-    "docs/itemized/figures/slow-horses-601-downloads-by-day-day.svg": "d54f46797cde172d746f38ff78d15e61b01ef590504713bc0e99e08e687c8469",
-    "docs/itemized/figures/slow-horses-601-downloads-by-week-slow-horses-601-week.svg": "dfb985ea1fc8de674d3f39a79720272b6699f491bc9a814840e3443802f27fde",
-    "docs/itemized/slow-horses-601-sample-cache-audit.md": "41b8717c15e720bb35aece19fbd7a7948d761e027d3b54ca444a8f75d8742f54",
+    "data/csv/bytes/slow-horses-601-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "0ae2f1294c401c94c76b024debc0f2d0f6a5537bc429352147feb779c1aba058",
+    "docs/itemized/figures/slow-horses-601-carto-4k.webp": "6f39007d3efd8022566d0cd22a3af1af6a7dca1402bc7b8cffff2646f7c52574",
+    "docs/itemized/figures/slow-horses-601-carto.png": "f6e80e372a46a4a539e2516bb6fad8a18b4f0ebf68878fccda47016d9700f8b3",
+    "docs/itemized/figures/slow-horses-601-cumulative-detail-btiha-itemized-by-bytes.svg": "f8fa8863b7fa3f50c430130a1466ae22c8a408acddd1034c91955bbbf529c61c",
+    "docs/itemized/figures/slow-horses-601-data-ge-1080p-4k.webp": "a5fb260ff3be55bd268df74db56feab7fa234525760db60c98349846b3cf2683",
+    "docs/itemized/figures/slow-horses-601-data-ge-1080p.webp": "44c94ad1754e83bbf4732fe1b0b6d1fb0e787f5d144ba07caa34e6ca336058f4",
+    "docs/itemized/figures/slow-horses-601-data-lt-1080p-4k.webp": "a61629c95f5150a612fb1fcd8b92fb71a90299305e38108d0e0d674b1b5469df",
+    "docs/itemized/figures/slow-horses-601-data-lt-1080p.webp": "8b044d3b0bc16a71435715e5d3aa509a8daea111d22a07943a750126c89ab829",
+    "docs/itemized/figures/slow-horses-601-downloads-by-day-day.svg": "3758e6329d1835c565954bb2e962c714e539abf286641e015ee86cd20a69bad8",
+    "docs/itemized/figures/slow-horses-601-downloads-by-week-slow-horses-601-week.svg": "05f45a20e3712fd9443f20f61f7732b753521b9f8ea35d310371a0572f3fc01f",
+    "docs/itemized/slow-horses-601-sample-cache-audit.md": "06512474f41e24b2711d466d5d158a1b134c59a9222aa7f16d3d7ff14528ecaa",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-code",
-      "revision": "ec8be71a1ed3b70772040d6c254762788206313a",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-carto-geo.exe",
-      "sha256": "854e258846a4a2d678c62ad00fba4c91dceed1c1fc54a5ceba2ce9efd2edb1c7",
-      "size": 45250536
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/slow-horses-601/tmp/slow-horses-601-cumulative-btiha.geojson",
-        "sha256": "97f6b4b30cd35c84cdcb799b7de326747076fc99214f5df1aba6050dd4023570",
-        "size": 25728880
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/slow-horses-601/g1/results/work/slow-horses-601/tmp/slow-horses-601-cumulative-btiha.geojson",
+        "sha256": "9fe0bdfa74f51f4bdc9d4b7c68d74aa05c1f8b50ae4057257769ec7bb31c0332",
+        "size": 108667428
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/slow-horses-601/tmp/slow-horses-601-cumulative-btiha-media-objects.json",
-        "sha256": "b1a13ddee4928f07dde7710258aff9b547de8e32ba2040d37538b91549e879a4",
-        "size": 288880
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/slow-horses-601/g1/results/work/slow-horses-601/tmp/slow-horses-601-cumulative-btiha-media-objects.json",
+        "sha256": "d59b4f26fd5a8788346bb4cc8a761b8f85bf5b8133a46cd3400bd22ba7d61222",
+        "size": 408588
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi",
-      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
       "untracked": false
     },
     "media_object": "slow-horses-601",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-meta-collection.exe",
-      "sha256": "8f1bd1d5de637a3cdd4c104c76f4e322b3141743e473202610cce6d39c76553d",
-      "size": 8579520
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-meta-collection.exe",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
-      "size": 440288
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,10 +99,10 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          63.0,
-          44.0,
+          41.0,
           39.0,
-          31.0,
+          30.0,
+          27.0,
           26.0,
           26.0,
           26.0,
@@ -173,14 +116,14 @@
         "labels": [
           "Nanjing",
           "London",
-          "Amsterdam",
           "Seoul",
+          "Amsterdam",
           "Lelystad",
           "Istanbul",
           "Shanghai",
-          "Guatemala City",
           "Moscow",
-          "New York City"
+          "Hangzhou",
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -189,13 +132,13 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          48.0,
-          48.0,
-          39.0,
+          54.0,
+          40.0,
+          36.0,
           34.0,
           33.0,
-          26.0,
-          26.0,
+          28.0,
+          28.0,
           26.0,
           26.0
         ],
@@ -205,15 +148,15 @@
         "label_count": 10,
         "labels": [
           "Nanjing",
-          "London",
           "Seoul",
-          "Amsterdam",
+          "London",
           "Lelystad",
+          "Amsterdam",
           "Istanbul",
           "Moscow",
-          "Guatemala City",
           "Shanghai",
-          "Hangzhou"
+          "Hangzhou",
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,11 +166,11 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 14,
-        "y_tick_labels": 22
+        "x_tick_labels": 38,
+        "y_tick_labels": 20
       },
       "histogram": {
-        "bars": 24,
+        "bars": 29,
         "role": "histogram",
         "status": "passed",
         "x_label": "SIZE IN GB",
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 2,
+        "x_tick_labels": 6,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "ec8be71a1ed3b70772040d6c254762788206313a",
-    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
-    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "6656be3d8315f03fadc210e4c02ee453f4692396"
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
   },
   "status": "passed",
   "validation_source": "render-receipt",
