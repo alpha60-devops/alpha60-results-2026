@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt27041231",
+    "imdb_id": "tt27041231",
+    "revision": "53d7a61d91eafceb9f6149d6e37244b371552df8",
+    "wikidata_id": "Q117253374",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Musk_(film)"
+  },
+  "coverage_sha256": "526c32e430957529d669156f060934b3b6f84370d792ed03ba359e7a1c4aa189",
+  "generated_at": "2026-11-16T19:07:33.633591+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/outputs/archives/musk-2026.cache/cache.20261113.tar.xz",
+      "sha256": "314322b0f7538a3ca089e473138e8d12bb4b7d60bdb5e7a3f4265fd18e361b6e",
+      "size": 22961052
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/musk-2026.md",
+      "sha256": "0579c14d61c06af1b6f3e08c364c1a304b2fb5f26855eb9d33fbaf2918cdf4b9",
+      "size": 612
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/musk-2026.json",
+      "sha256": "118258c29d7b40c9440bb3929e5a2fc8923f1324555e11590dec8ffea41afc66",
+      "size": 2050
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/musk-2026.json",
+      "sha256": "4066292d1fed91009c178cac64b7eae033461a7bdbcf968a65d650ff888feb62",
+      "size": 359
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/pilot-results/workers/eureka.worker-map.json",
+      "sha256": "0ea82673dfdbaeaa99984a3737ccec46809328a74ed6d88717d1eaf54e802e04",
+      "size": 2904
+    }
+  },
+  "media_object": "musk-2026",
+  "published_files": {
+    "data/csv/bytes/musk-2026-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "c1665daf36c040170343c4bfc2f557053727e215c6be35e47150d1598669c56c",
+    "docs/itemized/figures/musk-2026-carto-4k.webp": "26a4dca7ca2527b6f86a409f30d43b0b9512c85e43d5bd1f37273a472bf73577",
+    "docs/itemized/figures/musk-2026-carto.png": "e14c61e11438c4cda57b5b892c3b5bb0d770a15cffe7df99bffa4a1c8188efc2",
+    "docs/itemized/figures/musk-2026-cumulative-detail-btiha-itemized-by-bytes.svg": "b2c1203252914abeeb196eaa4ea9df9a246b27f4e93441f760ad1017191437ac",
+    "docs/itemized/figures/musk-2026-data-ge-1080p-4k.webp": "92f71ae523a8e2b327665f6fa29ae5971477e67a4f548d34e67e726f94ea89bc",
+    "docs/itemized/figures/musk-2026-data-ge-1080p.webp": "98fd6193015331e2183bb40d7c680aa32773b6cfe5ac2171b09dd194ab4645fd",
+    "docs/itemized/figures/musk-2026-data-lt-1080p-4k.webp": "8fa997569fcefd4ca5ad26e1303868d9878fb1cd2bc707724742de4512a50c20",
+    "docs/itemized/figures/musk-2026-data-lt-1080p.webp": "0c22e364f01adeb977092c592ecc3d08b0188b183a32247310fdbf279af35a84",
+    "docs/itemized/figures/musk-2026-downloads-by-day-day.svg": "091888f263f2295df35e8759bea0e1305f2b8be3e720f0fe3157c4ef8affaaf2",
+    "docs/itemized/figures/musk-2026-downloads-by-week-musk-2026-week.svg": "cea2166b083f90de1dffeae70867ee58000117f01729c4581e759c8a653c1b75",
+    "docs/itemized/musk-2026-sample-cache-audit.md": "fdf13b9b0cc562cc050d1d6228bf4fcf96bc5d472bc882d01f250aa561fd62f4",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/pilot-results/work/musk-2026/tmp/musk-2026-cumulative-btiha.geojson",
+        "sha256": "bba585fa502ce10f2fd3f964159f3757e7369216596c4142c8eaeeb4a06e28f0",
+        "size": 4128331
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/pilot-results/work/musk-2026/tmp/musk-2026-cumulative-btiha-media-objects.json",
+        "sha256": "f72a8eaf265be032ce569f6ec64e28b841a2228345cb3a616876edb8a47b4e52",
+        "size": 36201
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
+      "untracked": false
+    },
+    "media_object": "musk-2026",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/build/a60-meta-collection",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "London",
+          "New York City",
+          "Amsterdam",
+          "Lelystad",
+          "Toronto",
+          "Los Angeles",
+          "Fort Lauderdale",
+          "Chicago",
+          "Montr\u00e9al"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Nanjing",
+          "London",
+          "Amsterdam",
+          "Lelystad",
+          "New York City",
+          "Ashburn",
+          "Seoul",
+          "Istanbul",
+          "Toronto",
+          "Wuxi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 7,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 10,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "53d7a61d91eafceb9f6149d6e37244b371552df8"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2026"
+}

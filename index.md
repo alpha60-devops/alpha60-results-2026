@@ -26,7 +26,7 @@ project.
 
 [November cache update progress](docs/year-2026-v8-progress.html)
 
-- 84 Media Objects
+- 85 Media Objects
 {% capture media_objects %}{% include year-2026-0-media-objects.txt %}{% endcapture %}{{ media_objects | replace: '.md)', '.html)' }}
 
 <div style="height: 50px;"></div>
