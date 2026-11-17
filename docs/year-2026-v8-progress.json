@@ -1,6 +1,5 @@
 {
   "blockers": [
-    "Gold installation windows await the interactive disk/sudo credential setup. Input hashing and builds continue.",
     "Ord needs host/network recovery and usable scratch space before taking tasks.",
     "Get Jiro has an unresolved canonical season/episode mapping. New metadata records also require external identity review.",
     "Cache and page pilots must pass before production acceptance."
@@ -11,15 +10,15 @@
     "cache_validated": 9,
     "deployed": 0,
     "inputs_frozen": 98,
-    "installed": 0,
-    "pushed": 0
+    "installed": 2,
+    "pushed": 1
   },
   "objects": [
     {
       "collection_key": "all-you-need-is-kill",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-14",
-      "state": "bundle-validated"
+      "state": "pushed"
     },
     {
       "collection_key": "apothecary-diaries-03.1",
@@ -49,7 +48,7 @@
       "collection_key": "bass-x-machina-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "bundle-validated"
+      "state": "install-verified"
     },
     {
       "collection_key": "bear-05",
@@ -394,7 +393,7 @@
       "state": "inputs frozen; preparing worker"
     }
   ],
-  "observed_at": "2026-11-16T21:50:50.771857+00:00",
+  "observed_at": "2026-11-17T01:08:34.314958+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",

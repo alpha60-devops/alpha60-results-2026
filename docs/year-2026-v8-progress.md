@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-16T21:50:50.771857+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T01:08:34.314958+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**0 published, 63 remaining; 0.0% published.**
+**1 published, 62 remaining; 1.6% published.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -18,8 +18,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | inputs frozen | 98 |
 | cache validated | 9 |
 | bundle validated | 9 |
-| installed | 0 |
-| pushed | 0 |
+| installed | 2 |
+| pushed | 1 |
 | deployed | 0 |
 
 `inputs frozen` counts the whole cohort; subsequent stages count this run’s update candidates.
@@ -31,7 +31,6 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 ## Current constraints
 
-- Gold installation windows await the interactive disk/sudo credential setup. Input hashing and builds continue.
 - Ord needs host/network recovery and usable scratch space before taking tasks.
 - Get Jiro has an unresolved canonical season/episode mapping. New metadata records also require external identity review.
 - Cache and page pilots must pass before production acceptance.
@@ -42,12 +41,12 @@ Finished objects are checked in individually after cache, page-bundle and storag
 
 | Media object | Source endpoint | Planned cache work | Current stage |
 | --- | --- | --- | --- |
-| `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | bundle-validated |
+| `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | pushed |
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | waiting for scratch capacity; estimated 233.1 GB plus 25.0 GB reserve |
 | `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | waiting for scratch capacity; estimated 305.4 GB plus 25.0 GB reserve |
 | `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | inputs frozen; preparing worker |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | inputs frozen; preparing worker |
-| `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | bundle-validated |
+| `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | install-verified |
 | `bear-05` | 2026-11-13 | incremental-candidate | held: input freeze failed: invalid sample size/digest |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | waiting for scratch capacity; estimated 246.1 GB plus 25.0 GB reserve |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | bundle-validated |
