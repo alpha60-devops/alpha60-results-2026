@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt1756855",
     "imdb_id": "tt1756855",
-    "revision": "6656be3d8315f03fadc210e4c02ee453f4692396",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
     "wikidata_id": "Q106392679",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coyote_vs._Acme"
   },
-  "coverage_sha256": "2b5600e40cd3de6dc37fea2fd1ac4a3fc6dcbfc311eb16af46ebc6af43a4811a",
-  "generated_at": "2026-10-04T06:46:01.670876+00:00",
+  "coverage_sha256": "e283f5b5802c4ccf94bff03a5c8e1d3dce92526ff9ff967c14741b54dd03d021",
+  "generated_at": "2026-11-17T17:09:55.941443+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/archives/coyote-vs-acme.cache/cache.20260928.tar.xz",
-      "sha256": "32ccabaf0c0901911d79b695185c3e17cff1ba9d8b6670be283a01a682ba9568",
-      "size": 229975276
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/coyote-vs-acme/g1/archives/coyote-vs-acme.cache/cache.20261108.tar.xz",
+      "sha256": "b6b85307b3b39a09c8d57cba9907b77fe8cce2b7e52c32c9622fa6ca962b267d",
+      "size": 768744104
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/coyote-vs-acme.md",
-      "sha256": "7dff68d60aa9412752d74533e45a053ad7c1e027baed6dd217eba1dd51c47871",
-      "size": 897
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/coyote-vs-acme.md",
+      "sha256": "fd8fe389c0100804445a0fca4eea13f28d95a71dd96d5e69d8320e2874a3206b",
+      "size": 550
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/coyote-vs-acme.json",
-      "sha256": "625dc556fcef5f92ad08c67ac52ae050045cac11b4b1208dab4e654f86779850",
-      "size": 2281
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/coyote-vs-acme.json",
+      "sha256": "99640158b733039162990e31b76f032db3c1dc5900e15da5e4096a4f645e3de7",
+      "size": 2603
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/coyote-vs-acme.json",
-      "sha256": "3e12dacc7c8dad8e9bcd3f97532710c4c0ffc8545277676b0571d244eaab940d",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/coyote-vs-acme.json",
+      "sha256": "8c1ac78af325f2e7a1946a21b40b0be5dbf41b797796bbd3dde1fe8a956d45ff",
       "size": 366
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/inputs/worker-map.json",
-      "sha256": "4e7bee1a946a83d7091a8d7d4ec3bf79044dc0a8e25dfc7478a1f26639cf5404",
-      "size": 240593
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/coyote-vs-acme/g1/results/workers/eureka.worker-map.json",
+      "sha256": "4a6315665f91d7294ae787c93e15fe7cb4576078a71033fd1029e43c5a28963d",
+      "size": 2989
     }
   },
   "media_object": "coyote-vs-acme",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "5e1797ac0bce759a8f535bacc20b0887f92d5f4a3e57b01792fb2463024ae7fb",
-        "before_sha256": "db36bd6ba7e5b47fae5c14e5d7c6066dde7ce7e024fde0192de09bf1ce85c653",
-        "path": "docs/itemized/coyote-vs-acme-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:56:53.285709+00:00",
-    "coverage_sha256": "2b5600e40cd3de6dc37fea2fd1ac4a3fc6dcbfc311eb16af46ebc6af43a4811a",
-    "day_contract": {
-      "collection_key": "coyote-vs-acme",
-      "day_products": 29,
-      "first_date": "2026-08-31",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-09-28",
-      "last_index": 29,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "a07681ce1138bbf1c4364101d6f8a37d774dc0a5",
-    "historical_receipt_sha256": "e515edfd91b43b56f59895b65c350aef55c03befba909d5d76c48536dd100869",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/coyote-vs-acme.md",
-        "sha256": "7dff68d60aa9412752d74533e45a053ad7c1e027baed6dd217eba1dd51c47871",
-        "size": 897
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/coyote-vs-acme.json",
-        "sha256": "625dc556fcef5f92ad08c67ac52ae050045cac11b4b1208dab4e654f86779850",
-        "size": 2281
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/coyote-vs-acme.json",
-        "sha256": "3e12dacc7c8dad8e9bcd3f97532710c4c0ffc8545277676b0571d244eaab940d",
-        "size": 366
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 5,
-      "y_tick_labels": 22
-    }
-  },
   "published_files": {
-    "data/csv/bytes/coyote-vs-acme-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "cb42f74d18d3eb4c31347ff50872c8559f363e7d210d64169bcb987f5c849414",
-    "docs/itemized/coyote-vs-acme-sample-cache-audit.md": "5e1797ac0bce759a8f535bacc20b0887f92d5f4a3e57b01792fb2463024ae7fb",
-    "docs/itemized/figures/coyote-vs-acme-carto-4k.webp": "4d7c319110cf5e3599805165974130c1d945d0cd97bcf89f9340668988da261d",
-    "docs/itemized/figures/coyote-vs-acme-carto.png": "90d274c5afd84af19ed01c64490c85a10253507babee3450ce30c8665b7a32b3",
-    "docs/itemized/figures/coyote-vs-acme-cumulative-detail-btiha-itemized-by-bytes.svg": "e677c7b452251caa466a717c3414606790af9dd3a8107c42155ad1136e6cc50c",
-    "docs/itemized/figures/coyote-vs-acme-data-ge-1080p-4k.webp": "fbf3748734e89f1299ec1ddf25e9ab02a9a77e5256daede3c963ec9a74ce1e54",
-    "docs/itemized/figures/coyote-vs-acme-data-ge-1080p.webp": "73475ec1fdd22104a1472e4df7218f0221bcef72f69f2b7331eee297e516930b",
-    "docs/itemized/figures/coyote-vs-acme-data-lt-1080p-4k.webp": "9fc4ea2c32031e80dc08c23bd43698c47e45eff29f038720668917d02fc2daec",
-    "docs/itemized/figures/coyote-vs-acme-data-lt-1080p.webp": "8450337e9296b49eb3cbd5fbd865417709b5688ba4b78ad167a2d86043ce3620",
-    "docs/itemized/figures/coyote-vs-acme-downloads-by-day-day.svg": "2d3bb922a4fa3ddcf8d003234a5c35822567eda109a11efd0b08b7ea5155ffac",
-    "docs/itemized/figures/coyote-vs-acme-downloads-by-week-coyote-vs-acme-week.svg": "4a86040f57d351cf11feab6191a2b4feacb875d154f8d7ca59f2a07b0df2f618",
+    "data/csv/bytes/coyote-vs-acme-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "a67c93c6a5538757f08859f47259561ad1e98e3edb6f369504c9d0544efe7696",
+    "docs/itemized/coyote-vs-acme-sample-cache-audit.md": "5e1215b367c8b4f5cbd6add354ddb2c7a600769534434bf2c92e4c44333f0bb6",
+    "docs/itemized/figures/coyote-vs-acme-carto-4k.webp": "ed1a825f3194fa627fa8c68f6b82dd5d629363d2d6b6b9a90647a04f836154e2",
+    "docs/itemized/figures/coyote-vs-acme-carto.png": "d7b5eea46d022f238fb4ce6d64f2e0e0e3a0c5caa883953270646211fb7f219b",
+    "docs/itemized/figures/coyote-vs-acme-cumulative-detail-btiha-itemized-by-bytes.svg": "649cc1696e90ca4ca8f4653c1d5aab672f214590dcb3ea1fcef74da9e3bd419a",
+    "docs/itemized/figures/coyote-vs-acme-data-ge-1080p-4k.webp": "8a349c767ce13c96ffff19a99b6e2025de2743a1301a6a675c5a7a26f084cff4",
+    "docs/itemized/figures/coyote-vs-acme-data-ge-1080p.webp": "72041da2ff2fae35d3c30a8b9a49ffe3d7872d881c1c6f186482b049ce86b8dc",
+    "docs/itemized/figures/coyote-vs-acme-data-lt-1080p-4k.webp": "7455c3ee4a3fe0e5666c700ad4e24182207a505624cf09e0f4952d4710de48e8",
+    "docs/itemized/figures/coyote-vs-acme-data-lt-1080p.webp": "99d98a9e9636cde87f055a840e1667f2516604fde73d906804940adcd308d054",
+    "docs/itemized/figures/coyote-vs-acme-downloads-by-day-day.svg": "fb5303f619d4fa559b78c80a5cd14f7489f6ab54e7c4de2dee15c3ac68c4c3fa",
+    "docs/itemized/figures/coyote-vs-acme-downloads-by-week-coyote-vs-acme-week.svg": "02fa8edd64794dbab5b2b3a9232be578e517eeaed1f1938564198a566b174a67",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-code",
-      "revision": "ec8be71a1ed3b70772040d6c254762788206313a",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-carto-geo.exe",
-      "sha256": "854e258846a4a2d678c62ad00fba4c91dceed1c1fc54a5ceba2ce9efd2edb1c7",
-      "size": 45250536
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/coyote-vs-acme/tmp/coyote-vs-acme-cumulative-btiha.geojson",
-        "sha256": "4b85e8e83d683be1918d66a1b7a405dc86ae8374704e02fabc85db9d3e5317ba",
-        "size": 40898677
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/coyote-vs-acme/g1/results/work/coyote-vs-acme/tmp/coyote-vs-acme-cumulative-btiha.geojson",
+        "sha256": "cff15763a33089c90f483ea2486e830be55b6a8a1891f76542b8b7e74d599682",
+        "size": 142552658
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/coyote-vs-acme/tmp/coyote-vs-acme-cumulative-btiha-media-objects.json",
-        "sha256": "3b98c8b937f6c1678aced63724e96f017996df362566a594b9ac578fce8bc83d",
-        "size": 178074
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/coyote-vs-acme/g1/results/work/coyote-vs-acme/tmp/coyote-vs-acme-cumulative-btiha-media-objects.json",
+        "sha256": "52d53ec50a5bb54398a0b20134e8a0bfd748cacb40f172cef16e73310468aaf4",
+        "size": 331983
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi",
-      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
       "untracked": false
     },
     "media_object": "coyote-vs-acme",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-meta-collection.exe",
-      "sha256": "8f1bd1d5de637a3cdd4c104c76f4e322b3141743e473202610cce6d39c76553d",
-      "size": 8579520
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/build/a60-meta-collection",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
-      "size": 440288
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -157,10 +100,10 @@
         "font_sizes": [
           90.0,
           46.0,
+          39.0,
           34.0,
-          30.0,
-          26.0,
-          26.0,
+          31.0,
+          28.0,
           26.0,
           26.0,
           26.0,
@@ -172,15 +115,15 @@
         "label_count": 10,
         "labels": [
           "Nanjing",
-          "London",
           "Seoul",
-          "Amsterdam",
+          "London",
           "Istanbul",
+          "Amsterdam",
           "Lelystad",
-          "New York City",
-          "Guatemala City",
           "Moscow",
-          "Ashburn"
+          "Shanghai",
+          "Hangzhou",
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -189,15 +132,15 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          88.0,
-          83.0,
-          83.0,
-          79.0,
-          77.0,
-          74.0,
-          66.0,
+          82.0,
+          65.0,
+          59.0,
+          55.0,
+          54.0,
           53.0,
-          51.0
+          46.0,
+          39.0,
+          38.0
         ],
         "image_references": [
           "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
@@ -205,15 +148,15 @@
         "label_count": 10,
         "labels": [
           "Seoul",
-          "Moscow",
-          "Istanbul",
           "Nanjing",
-          "Guatemala City",
+          "Istanbul",
+          "Moscow",
           "Amsterdam",
           "Lelystad",
           "London",
           "Shanghai",
-          "Saint Petersburg"
+          "Hangzhou",
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,11 +166,11 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 29,
-        "y_tick_labels": 22
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
       },
       "histogram": {
-        "bars": 11,
+        "bars": 19,
         "role": "histogram",
         "status": "passed",
         "x_label": "SIZE IN GB",
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 5,
+        "x_tick_labels": 10,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "ec8be71a1ed3b70772040d6c254762788206313a",
-    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
-    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "6656be3d8315f03fadc210e4c02ee453f4692396"
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
   },
   "status": "passed",
   "validation_source": "render-receipt",
