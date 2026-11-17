@@ -15,39 +15,28 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `lego-star-wars-the-mandalorian-2026` |
 | imdb_id | [tt43679852](https://www.imdb.com/title/tt43679852/) |
 | wikipedia_url | UNAVAILABLE — no English Wikipedia page exists |
-| Sample dates | 2026-09-03-to-2026-10-02 |
-| Sample days | 30 |
-| BTIH count | 60 |
-| Unique BTIH count | 54 |
-| Downloaders total | 1,287,434 |
-| Uploaders total | 42,827 |
+| Sample dates | 2026-09-03-to-2026-11-15 |
+| Sample days | 74 |
+| BTIH count | 63 |
+| Unique BTIH count | 57 |
+| Downloaders total | 3,576,467 |
+| Uploaders total | 72,256 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-03T19:10:22Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/lego-star-wars-the-mandalorian-2026.xz`
-- Hour directories: 694
+- Generated: 2026-11-16T20:05:54Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/lego-star-wars-the-mandalorian-2026.xz`
+- Hour directories: 1773
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
 None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `f2a4dad79db5a79741c8b478fff22517207dac972c74b88d52ae0303e46d8a21`
-- Full-input producer receipt SHA-256: `e57baa0d8718ed2627c8242eabda74c03e7948afad192d9acb6fe3669972908a`
-- Frozen raw archives: 694
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +78,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.28 | 19.99 | 30.79 | 44.92 | 1.28 | 0.74 |
+| 2.01 | 19.72 | 31.56 | 44.62 | 1.21 | 0.87 |
 
 ### Network infrastructure
 
