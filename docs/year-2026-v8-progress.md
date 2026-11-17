@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-17T20:10:45.194539+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-17T20:25:49.180338+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **26 published, 37 remaining; 41.3% published.**
 
@@ -27,7 +27,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 459.1 GB free. |
-| Ord | Running: alpha60-v8-ord-boys-501-g1.service. 1178.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-boys-501-g1.service. 1178.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
