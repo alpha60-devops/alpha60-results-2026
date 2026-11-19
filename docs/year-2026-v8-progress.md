@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T16:24:01.176951+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T16:39:05.509788+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 complete, 32 remaining; 49.2% complete.**
 
@@ -22,7 +22,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | pushed | 31 |
 | deployed | 31 |
 
-First-pass coverage: **49 attempted, 14 not started**; 42 validated bundles in total, including 11 awaiting Gold installation. 5 individual errors are deferred to the second pass.
+First-pass coverage: **50 attempted, 13 not started**; 42 validated bundles in total, including 11 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -30,8 +30,8 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-star-wars-visions-the-ninth-jedi-01-g1. 432.7 GB free. |
-| Ord | Running: alpha60-v8-ord-president-curtis-01-g1.service. 1151.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-star-wars-visions-the-ninth-jedi-01-g1. 432.3 GB free. |
+| Ord | Running: alpha60-v8-ord-x-men-97-201-g1.service. 1143.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -88,7 +88,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
-| `president-curtis-01` | 2026-11-13 | incremental-candidate | building-results |
+| `president-curtis-01` | 2026-11-13 | incremental-candidate | failed |
 | `project-hail-mary` | 2026-11-08 | rebuild | bundle-validated |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
@@ -99,7 +99,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
-| `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | caching |
+| `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | building-results |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | ready |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |
 | `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | ready |
@@ -107,6 +107,6 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
 | `widows-bay-108` | 2026-10-31 | rebuild | bundle-validated |
 | `world-cup-2026` | 2026-11-10 | extend | bundle-validated |
-| `x-men-97-201` | 2026-11-11 | incremental-candidate | ready |
+| `x-men-97-201` | 2026-11-11 | incremental-candidate | caching |
 
 [Machine-readable progress](year-2026-v8-progress.json) · [Results home](../index.html) · [Pages deployments](https://github.com/alpha60-devops/alpha60-results-2026/actions)
