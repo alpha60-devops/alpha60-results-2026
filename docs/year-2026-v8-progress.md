@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T18:09:29.869950+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T18:24:34.045186+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**41 complete, 22 remaining; 65.1% complete.**
+**42 complete, 21 remaining; 66.7% complete.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -18,11 +18,11 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | inputs frozen | 98 |
 | cache validated | 47 |
 | bundle validated | 47 |
-| installed | 41 |
-| pushed | 41 |
-| deployed | 41 |
+| installed | 43 |
+| pushed | 43 |
+| deployed | 42 |
 
-First-pass coverage: **53 attempted, 10 not started**; 47 validated bundles in total, including 6 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **53 attempted, 10 not started**; 47 validated bundles in total, including 4 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -30,8 +30,8 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 424.4 GB free. |
-| Ord | Pinned runtime verified. 1154.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions. 431.0 GB free. |
+| Ord | Pinned runtime verified. 1163.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -89,13 +89,13 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | failed |
-| `project-hail-mary` | 2026-11-08 | rebuild | bundle-validated |
+| `project-hail-mary` | 2026-11-08 | rebuild | deployed |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | deployed |
 | `send-help` | 2026-10-18 | incremental-candidate | ready |
 | `shards-101` | 2026-11-11 | incremental-candidate | deployed |
-| `silo-301` | 2026-11-13 | incremental-candidate | bundle-validated |
+| `silo-301` | 2026-11-13 | incremental-candidate | pushed |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
