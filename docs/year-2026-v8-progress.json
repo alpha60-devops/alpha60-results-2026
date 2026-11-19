@@ -5,7 +5,7 @@
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 36,
-    "cache_validated": 36,
+    "cache_validated": 37,
     "deployed": 31,
     "inputs_frozen": 98,
     "installed": 31,
@@ -225,7 +225,7 @@
       "collection_key": "legend-of-vox-machina-410",
       "mode": "rebuild",
       "source_endpoint": "2026-10-21",
-      "state": "caching"
+      "state": "building-results"
     },
     {
       "collection_key": "lego-star-wars-the-mandalorian-2026",
@@ -402,7 +402,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-19T05:40:37.822602+00:00",
+  "observed_at": "2026-11-19T05:55:41.643819+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -410,11 +410,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-legend-of-vox-machina-410-g1. 446.4 GB free.",
+      "activity": "Running: prepare-admissions, eureka-legend-of-vox-machina-410-g1. 448.7 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-project-hail-mary-g1.service. 1152.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-project-hail-mary-g1.service. 1149.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]

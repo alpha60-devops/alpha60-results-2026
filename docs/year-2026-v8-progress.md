@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T05:40:37.822602+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T05:55:41.643819+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -16,7 +16,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 36 |
+| cache validated | 37 |
 | bundle validated | 36 |
 | installed | 31 |
 | pushed | 31 |
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-legend-of-vox-machina-410-g1. 446.4 GB free. |
-| Ord | Running: alpha60-v8-ord-project-hail-mary-g1.service. 1152.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-legend-of-vox-machina-410-g1. 448.7 GB free. |
+| Ord | Running: alpha60-v8-ord-project-hail-mary-g1.service. 1149.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -74,7 +74,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |
 | `kung-fu-soccer-2026` | 2026-11-13 | extend | deployed |
 | `lanterns-101` | 2026-11-08 | incremental-candidate | ready |
-| `legend-of-vox-machina-410` | 2026-10-21 | rebuild | caching |
+| `legend-of-vox-machina-410` | 2026-10-21 | rebuild | building-results |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | deployed |
