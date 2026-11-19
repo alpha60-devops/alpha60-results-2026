@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T15:43:19.532081+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T15:58:23.524602+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -17,7 +17,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 40 |
-| bundle validated | 38 |
+| bundle validated | 39 |
 | installed | 31 |
 | pushed | 31 |
 | deployed | 31 |
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-widows-bay-108-g1. 433.0 GB free. |
-| Ord | Running: alpha60-v8-ord-silo-301-g1.service. 1152.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-widows-bay-108-g1. 432.8 GB free. |
+| Ord | Running: alpha60-v8-ord-cyberpunk-edgerunners-02-g1.service. 1144.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -54,7 +54,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `brothers-01` | 2026-11-13 | full-recache-count-increased | deployed |
 | `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | deployed |
 | `crew-girl-01` | 2026-11-11 | full-recache-count-increased | ready |
-| `cyberpunk-edgerunners-02` | 2026-11-09 | build-no-2026-cache | ready |
+| `cyberpunk-edgerunners-02` | 2026-11-09 | build-no-2026-cache | caching |
 | `dang-01` | 2026-11-10 | full-recache-count-increased | bundle-validated |
 | `diplomat-04` | 2026-11-05 | build-no-2026-cache | deployed |
 | `drama-2026` | 2026-10-16 | incremental-candidate | deployed |
@@ -91,7 +91,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `season-2026-01` | 2026-10-10 | incremental-candidate | deployed |
 | `send-help` | 2026-10-18 | incremental-candidate | ready |
 | `shards-101` | 2026-11-11 | incremental-candidate | deployed |
-| `silo-301` | 2026-11-13 | incremental-candidate | building-results |
+| `silo-301` | 2026-11-13 | incremental-candidate | bundle-validated |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
