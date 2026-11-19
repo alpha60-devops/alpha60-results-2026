@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T01:58:42.659873+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T02:03:03.923393+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -20,14 +20,14 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | bundle validated | 31 |
 | installed | 31 |
 | pushed | 31 |
-| deployed | 30 |
+| deployed | 31 |
 
 `inputs frozen` counts the whole cohort; subsequent stages count this run’s update candidates.
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-world-cup-2026-g1. 457.2 GB free. |
-| Ord | Running: alpha60-v8-ord-invincible-301-g1.service. 1185.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-world-cup-2026-g1. 453.8 GB free. |
+| Ord | Running: alpha60-v8-ord-invincible-301-g1.service. 1183.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -71,7 +71,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `invincible-301` | 2026-06-30 | extend | caching |
 | `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |
-| `kung-fu-soccer-2026` | 2026-11-13 | extend | pushed |
+| `kung-fu-soccer-2026` | 2026-11-13 | extend | deployed |
 | `lanterns-101` | 2026-11-08 | incremental-candidate | ready |
 | `legend-of-vox-machina-410` | 2026-10-21 | rebuild | ready |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
