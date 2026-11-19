@@ -15,39 +15,29 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `obsession-2025` |
 | imdb_id | [tt37287335](https://www.imdb.com/title/tt37287335/) |
 | wikipedia_url | [Obsession (2025 film)](https://en.wikipedia.org/wiki/Obsession_(2025_film)) |
-| Sample dates | 2026-07-01-to-2026-09-29 |
-| Sample days | 91 |
+| Sample dates | 2026-07-01-to-2026-10-29 |
+| Sample days | 121 |
 | BTIH count | 401 |
 | Unique BTIH count | 372 |
-| Downloaders total | 40,392,900 |
-| Uploaders total | 5,593,863 |
+| Downloaders total | 50,208,043 |
+| Uploaders total | 6,404,807 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T14:25:17Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/obsession-2025.xz`
-- Hour directories: 2176
+- Generated: 2026-11-17T22:27:05Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/obsession-2025.xz`
+- Hour directories: 2850
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 0 (0 missing hours)
-- Missing days: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (46 missing hours)
+- Missing days: 1
 
 ### Sample archive discontinuities
 
-None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `904d05e87d4fca66d765f310bc937ad627c47b6df5ece9abcb9901a88cf2d2ee`
-- Full-input producer receipt SHA-256: `34920602663da25880593927d95f6e90a506b080e69a2af47174056d0b7199dd`
-- Frozen raw archives: 2176
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 4
-- Excluded observations: 6556
+- hourly gap: last `2026-10-11 22:00`, resumed `2026-10-13 21:00` — missing 46 hour(s)
+- missing day: `2026-10-12`
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +79,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 3.01 | 18.41 | 37.59 | 38.85 | 1.42 | 0.72 |
+| 2.90 | 18.57 | 36.98 | 39.40 | 1.39 | 0.76 |
 
 ### Network infrastructure
 
