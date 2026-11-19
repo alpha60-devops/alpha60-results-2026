@@ -10,32 +10,32 @@
     "raw_samples_opened": false,
     "scope": "read only streaming of per-torrent day records"
   },
-  "available_day_products": 43,
-  "cache_members": 10504,
+  "available_day_products": 84,
+  "cache_members": 22062,
   "collection_key": "lanterns-101",
   "downstream_cache_synthesis": {
     "cache_members": {
       "cumulative": 282,
-      "week": 1778
+      "week": 3188
     },
     "derived_durations": [
       "week",
       "cumulative"
     ],
     "producer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-cache-samples.exe",
-      "sha256": "bb585e99f912ccf962e3f4277c2c627cfa0fdee03c99a3b9d50d8d87cdf1b290",
-      "size": 40140320
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-cache-samples.exe",
+      "sha256": "ef7be248ebd81cd57f0b531d84aa4e0dcbb66978969d7bd59ac24ca5936a3d88",
+      "size": 2166488
     },
     "sample_anchor": {
       "directories": [
         "2026-08-17-at-00-00",
-        "2026-09-28-at-00-00"
+        "2026-11-08-at-00-00"
       ],
       "keys": [
         "lanterns-101"
       ],
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/lanterns-101/tmp/lanterns-101-released-day-sample-anchor",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/lanterns-101/g1/results/work/lanterns-101/tmp/lanterns-101-released-day-sample-anchor",
       "raw_samples_opened": false,
       "synthetic": true
     },
@@ -88,27 +88,68 @@
     40,
     41,
     42,
-    43
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84
   ],
-  "last_date": "2026-09-28",
-  "last_index": 43,
+  "last_date": "2026-11-08",
+  "last_index": 84,
   "missing_indices": [],
-  "sample_span_days": 43,
+  "sample_span_days": 84,
   "schema": "alpha60-day-cache-stream-contract/1",
   "selection": {
-    "admitted_cache_members": 10504,
+    "admitted_cache_members": 22062,
     "archive_mutated": false,
     "excluded_cache_members": 0,
     "policy": "released-sample-endpoints-in-place",
     "required_first_date": "2026-08-17",
-    "required_last_date": "2026-09-28",
-    "required_span_days": 43,
+    "required_last_date": "2026-11-08",
+    "required_span_days": 84,
     "schema": "alpha60-released-day-cache-window/1",
-    "source_cache_members": 10504,
+    "source_cache_members": 22062,
     "source_first_date": "2026-08-17",
     "source_first_index": 1,
-    "source_last_date": "2026-09-28",
-    "source_last_index": 43
+    "source_last_date": "2026-11-08",
+    "source_last_index": 84
   },
   "sparse": false,
   "status": "pass"
