@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T15:13:11.609722+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T15:28:15.518978+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -17,7 +17,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 38 |
-| bundle validated | 37 |
+| bundle validated | 38 |
 | installed | 31 |
 | pushed | 31 |
 | deployed | 31 |
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-widows-bay-108-g1. 427.6 GB free. |
-| Ord | Running: alpha60-v8-ord-project-hail-mary-g1.service. 1153.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-widows-bay-108-g1. 427.1 GB free. |
+| Ord | Running: alpha60-v8-ord-silo-301-g1.service. 1147.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -85,13 +85,13 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
-| `project-hail-mary` | 2026-11-08 | rebuild | building-results |
+| `project-hail-mary` | 2026-11-08 | rebuild | bundle-validated |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | deployed |
 | `send-help` | 2026-10-18 | incremental-candidate | ready |
 | `shards-101` | 2026-11-11 | incremental-candidate | deployed |
-| `silo-301` | 2026-11-13 | incremental-candidate | ready |
+| `silo-301` | 2026-11-13 | incremental-candidate | caching |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
