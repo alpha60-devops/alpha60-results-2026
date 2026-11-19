@@ -1,8 +1,8 @@
 # Cache coverage report — house-of-the-dragon-308
 
-- Generated: 2026-09-13T17:13:06Z
+- Generated: 2026-11-19T17:00:36Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/house-of-the-dragon-308.xz`
-- Hour directories: 750
+- Hour directories: 2334
 - Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)

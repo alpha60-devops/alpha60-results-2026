@@ -15,20 +15,20 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `house-of-the-dragon-308` |
 | imdb_id | [tt11198330](https://www.imdb.com/title/tt11198330/) |
 | wikipedia_url | [House of the Dragon](https://en.wikipedia.org/wiki/House_of_the_Dragon) |
-| Sample dates | 2026-08-10-to-2026-09-10 |
-| Sample days | 32 |
+| Sample dates | 2026-08-10-to-2026-11-15 |
+| Sample days | 98 |
 | BTIH count | 185 |
 | Unique BTIH count | 182 |
-| Downloaders total | 5,623,320 |
-| Uploaders total | 950,482 |
+| Downloaders total | 13,106,190 |
+| Uploaders total | 1,544,923 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-09-13T17:13:06Z
+- Generated: 2026-11-19T17:00:36Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/house-of-the-dragon-308.xz`
-- Hour directories: 750
+- Hour directories: 2334
 - Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
@@ -78,9 +78,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 3.70 | 16.77 | 31.08 | 39.23 | 1.64 | 0.69 |
-
-Historical geographic counters use the earlier grouping calculation, which counted the first weighted contribution as one. This export's region percentages total 93.11%. The 16 regenerated October objects use the corrected calculation.
+| 3.72 | 18.53 | 33.58 | 41.82 | 1.57 | 0.79 |
 
 ### Network infrastructure
 
