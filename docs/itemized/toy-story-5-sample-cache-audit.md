@@ -15,39 +15,28 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `toy-story-5` |
 | imdb_id | [tt29355505](https://www.imdb.com/title/tt29355505/) |
 | wikipedia_url | [Toy Story 5](https://en.wikipedia.org/wiki/Toy_Story_5) |
-| Sample dates | 2026-08-19-to-2026-09-15 |
-| Sample days | 28 |
-| BTIH count | 224 |
-| Unique BTIH count | 209 |
-| Downloaders total | 7,134,803 |
-| Uploaders total | 1,275,148 |
+| Sample dates | 2026-08-19-to-2026-11-10 |
+| Sample days | 84 |
+| BTIH count | 294 |
+| Unique BTIH count | 278 |
+| Downloaders total | 18,804,085 |
+| Uploaders total | 2,392,349 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T10:10:22Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/toy-story-5.xz`
-- Hour directories: 672
+- Generated: 2026-11-19T22:50:56Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/toy-story-5.xz`
+- Hour directories: 2016
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
 None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `15a31753e812ccb426dc2e54a7e08db5eca37f0ff3089512acdc9c740c054ab4`
-- Full-input producer receipt SHA-256: `e64ff2d0870ffafd0c8ab87f794a9815caf2b535408a2b359bde2ca264e3c088`
-- Frozen raw archives: 672
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +78,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 3.66 | 21.20 | 37.09 | 35.37 | 1.96 | 0.72 |
+| 2.84 | 19.86 | 37.55 | 37.50 | 1.48 | 0.77 |
 
 ### Network infrastructure
 
