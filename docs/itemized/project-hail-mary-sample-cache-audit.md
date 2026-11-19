@@ -15,23 +15,23 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `project-hail-mary` |
 | imdb_id | [tt12042730](https://www.imdb.com/title/tt12042730/) |
 | wikipedia_url | [Project Hail Mary (film)](https://en.wikipedia.org/wiki/Project_Hail_Mary_(film)) |
-| Sample dates | 2026-05-11-to-2026-09-28 |
-| Sample days | 141 |
-| BTIH count | 462 |
+| Sample dates | 2026-05-11-to-2026-11-08 |
+| Sample days | 182 |
+| BTIH count | 452 |
 | Unique BTIH count | 416 |
-| Downloaders total | 63,393,651 |
-| Uploaders total | 8,183,580 |
+| Downloaders total | 78,029,387 |
+| Uploaders total | 9,103,613 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T11:57:09Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/project-hail-mary.xz`
-- Hour directories: 3364
+- Generated: 2026-11-19T14:19:05Z
+- Sample archive directory: `/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/project-hail-mary/g1/results/coverage-inputs`
+- Hour directories: 4334
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 4 (14 missing hours)
+- Other unparsable sample files: 0
+- Hourly discontinuities: 5 (27 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
@@ -40,17 +40,7 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2026-06-12 22:03`, resumed `2026-06-13 00:03` — missing 1 hour(s)
 - hourly gap: last `2026-08-30 22:03`, resumed `2026-08-31 00:03` — missing 1 hour(s)
 - hourly gap: last `2026-09-10 22:03`, resumed `2026-09-11 08:03` — missing 9 hour(s)
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `bc6fdff2f198a3869cfdf29225d01343a183db044672aafabbc5166f84f792de`
-- Full-input producer receipt SHA-256: `406f05316c640f98f3005e68cd79038e422e740c1f539e0e5cc3f1fafc9ec509`
-- Frozen raw archives: 3364
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 1
-- Excluded observations: 5419
+- hourly gap: last `2026-10-24 10:03`, resumed `2026-10-25 00:03` — missing 13 hour(s)
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -92,7 +82,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.17 | 16.70 | 38.33 | 40.64 | 1.35 | 0.81 |
+| 2.15 | 17.21 | 37.42 | 41.07 | 1.31 | 0.84 |
 
 ### Network infrastructure
 
@@ -105,3 +95,20 @@ description: "Cache coverage and visualization audit for one media object."
 ### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/project-hail-mary-data-lt-1080p.webp)](figures/project-hail-mary-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+<!-- BEGIN alpha60-v8-source-dispositions -->
+
+## Recovered and skipped source samples
+
+1 damaged source archives yielded 3,462 complete, valid JSON sample files; 0 archives yielded none and were skipped.
+Recovered files were retained only after complete JSON validation and archive readback. Damaged original archives remain preserved.
+**These source hours are not fully recovered. Lost original membership is unknown.**
+The sample-date range does not establish complete observations in the affected hours. No missing observations were fabricated.
+
+| Source archive | Disposition | Valid JSON files recovered |
+| --- | --- | ---: |
+| `2026-10-24-at-10-03.tar.xz` | partial-recovery | 3,462 |
+
+[Source dispositions and archive hashes](../../data/txt/year-2026-source-dispositions/project-hail-mary.json).
+
+<!-- END alpha60-v8-source-dispositions -->
