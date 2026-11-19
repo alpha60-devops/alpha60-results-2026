@@ -4,19 +4,19 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 42,
-    "cache_validated": 43,
+    "bundle_validated": 43,
+    "cache_validated": 44,
     "deployed": 31,
     "inputs_frozen": 98,
     "installed": 31,
     "pushed": 31
   },
   "first_pass": {
-    "attempted": 50,
-    "awaiting_gold": 11,
+    "attempted": 51,
+    "awaiting_gold": 12,
     "deferred": 6,
-    "not_started": 13,
-    "validated_bundles": 42
+    "not_started": 12,
+    "validated_bundles": 43
   },
   "incremental_method": {
     "archive_durations": [
@@ -184,7 +184,7 @@
       "collection_key": "house-of-the-dragon-308",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-15",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "invincible-101",
@@ -358,7 +358,7 @@
       "collection_key": "star-wars-visions-the-ninth-jedi-01",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-09",
-      "state": "building-results"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "stranger-things-tales-from-85-02",
@@ -406,10 +406,10 @@
       "collection_key": "x-men-97-201",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-11",
-      "state": "caching"
+      "state": "building-results"
     }
   ],
-  "observed_at": "2026-11-19T16:39:05.509788+00:00",
+  "observed_at": "2026-11-19T16:54:09.658961+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -417,11 +417,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-star-wars-visions-the-ninth-jedi-01-g1. 432.3 GB free.",
+      "activity": "Running: prepare-admissions, eureka-house-of-the-dragon-308-g1. 424.7 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-x-men-97-201-g1.service. 1143.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-x-men-97-201-g1.service. 1148.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]

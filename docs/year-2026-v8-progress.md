@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T16:39:05.509788+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T16:54:09.658961+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 complete, 32 remaining; 49.2% complete.**
 
@@ -16,13 +16,13 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 43 |
-| bundle validated | 42 |
+| cache validated | 44 |
+| bundle validated | 43 |
 | installed | 31 |
 | pushed | 31 |
 | deployed | 31 |
 
-First-pass coverage: **50 attempted, 13 not started**; 42 validated bundles in total, including 11 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **51 attempted, 12 not started**; 43 validated bundles in total, including 12 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -30,8 +30,8 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-star-wars-visions-the-ninth-jedi-01-g1. 432.3 GB free. |
-| Ord | Running: alpha60-v8-ord-x-men-97-201-g1.service. 1143.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-house-of-the-dragon-308-g1. 424.7 GB free. |
+| Ord | Running: alpha60-v8-ord-x-men-97-201-g1.service. 1148.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -70,7 +70,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | bundle-validated |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
 | `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | failed |
-| `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | ready |
+| `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | caching |
 | `invincible-101` | 2026-04-28 | build | failed |
 | `invincible-201` | 2026-05-05 | build | failed |
 | `invincible-301` | 2026-06-30 | extend | bundle-validated |
@@ -99,7 +99,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
-| `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | building-results |
+| `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | bundle-validated |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | ready |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |
 | `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | ready |
@@ -107,6 +107,6 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
 | `widows-bay-108` | 2026-10-31 | rebuild | bundle-validated |
 | `world-cup-2026` | 2026-11-10 | extend | bundle-validated |
-| `x-men-97-201` | 2026-11-11 | incremental-candidate | caching |
+| `x-men-97-201` | 2026-11-11 | incremental-candidate | building-results |
 
 [Machine-readable progress](year-2026-v8-progress.json) · [Results home](../index.html) · [Pages deployments](https://github.com/alpha60-devops/alpha60-results-2026/actions)
