@@ -4,7 +4,7 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 35,
+    "bundle_validated": 36,
     "cache_validated": 36,
     "deployed": 31,
     "inputs_frozen": 98,
@@ -159,7 +159,7 @@
       "collection_key": "ghost-in-the-shell-2026-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "building-results"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "hopeu-2026",
@@ -183,13 +183,13 @@
       "collection_key": "invincible-101",
       "mode": "build",
       "source_endpoint": "2026-04-28",
-      "state": "caching"
+      "state": "failed"
     },
     {
       "collection_key": "invincible-201",
       "mode": "build",
       "source_endpoint": "2026-05-05",
-      "state": "ready"
+      "state": "failed"
     },
     {
       "collection_key": "invincible-301",
@@ -225,7 +225,7 @@
       "collection_key": "legend-of-vox-machina-410",
       "mode": "rebuild",
       "source_endpoint": "2026-10-21",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "lego-star-wars-the-mandalorian-2026",
@@ -249,7 +249,7 @@
       "collection_key": "mandalorian-and-grogu",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "ready"
+      "state": "failed"
     },
     {
       "collection_key": "monarch-legacy-of-monsters-208",
@@ -291,7 +291,7 @@
       "collection_key": "project-hail-mary",
       "mode": "rebuild",
       "source_endpoint": "2026-11-08",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "reacher-401",
@@ -402,7 +402,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-19T05:10:29.962278+00:00",
+  "observed_at": "2026-11-19T05:25:33.783106+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -410,11 +410,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-ghost-in-the-shell-2026-01-g1. 448.6 GB free.",
+      "activity": "Running: prepare-admissions, eureka-legend-of-vox-machina-410-g1. 446.1 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-invincible-101-g1.service. 1167.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-project-hail-mary-g1.service. 1164.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]

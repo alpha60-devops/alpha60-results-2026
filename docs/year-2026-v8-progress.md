@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T05:10:29.962278+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T05:25:33.783106+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -17,7 +17,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 36 |
-| bundle validated | 35 |
+| bundle validated | 36 |
 | installed | 31 |
 | pushed | 31 |
 | deployed | 31 |
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-ghost-in-the-shell-2026-01-g1. 448.6 GB free. |
-| Ord | Running: alpha60-v8-ord-invincible-101-g1.service. 1167.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-legend-of-vox-machina-410-g1. 446.1 GB free. |
+| Ord | Running: alpha60-v8-ord-project-hail-mary-g1.service. 1164.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -63,29 +63,29 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | ready |
 | `get-jiro-106` | 2026-11-15 | build | deployed |
-| `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | building-results |
+| `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | bundle-validated |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
 | `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | failed |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | ready |
-| `invincible-101` | 2026-04-28 | build | caching |
-| `invincible-201` | 2026-05-05 | build | ready |
+| `invincible-101` | 2026-04-28 | build | failed |
+| `invincible-201` | 2026-05-05 | build | failed |
 | `invincible-301` | 2026-06-30 | extend | bundle-validated |
 | `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |
 | `kung-fu-soccer-2026` | 2026-11-13 | extend | deployed |
 | `lanterns-101` | 2026-11-08 | incremental-candidate | ready |
-| `legend-of-vox-machina-410` | 2026-10-21 | rebuild | ready |
+| `legend-of-vox-machina-410` | 2026-10-21 | rebuild | caching |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | deployed |
-| `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | ready |
+| `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | failed |
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | deployed |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
-| `project-hail-mary` | 2026-11-08 | rebuild | ready |
+| `project-hail-mary` | 2026-11-08 | rebuild | caching |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | deployed |
