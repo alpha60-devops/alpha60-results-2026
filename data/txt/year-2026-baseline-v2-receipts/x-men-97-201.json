@@ -2,106 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt16026746",
     "imdb_id": "tt16026746",
-    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
     "wikidata_id": "Q109558622",
     "wikipedia_url": "https://en.wikipedia.org/wiki/X-Men_%2797"
   },
-  "coverage_sha256": "e2e8dab76d9461eeba95ad8cf9fadcb41dce22517c0ba1fe0a3830d17e8e6955",
-  "generated_at": "2026-11-06T06:42:16.970516+00:00",
+  "coverage_sha256": "e127d832e57aca673fb04e51c58723784abea5a9d8fd961b95f570bd7f2a1de8",
+  "generated_at": "2026-11-19T16:57:41.733640+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/x-men-97-201.cache/cache.20260923.tar.xz",
-      "sha256": "efff8771796d6e5fa22e55c250f58f2b0b12d76c1f8483f9e971cfbaed0a2e54",
-      "size": 923822708
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/x-men-97-201/g1/archives/x-men-97-201.cache/cache.20261111.tar.xz",
+      "sha256": "c5d2889b7830f02269925ec1ceb1e720f1ce5b8f811a88b1c6a267ad2e5a88b6",
+      "size": 1254407052
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/x-men-97-201.md",
-      "sha256": "d6cf49b8ec0cd883f5499effc442f8edc568973f0c104d4a91dbec2207de81cc",
-      "size": 897
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/x-men-97-201.md",
+      "sha256": "e1a7780635aa93466598ecd276d9f6994acd311ee4e7d37ead89f6ac8ee58906",
+      "size": 649
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/x-men-97-201.json",
-      "sha256": "241d7e27f156368a335e7d70b93c3581a02c4182d6939edfc779f9a51e1848c3",
-      "size": 2748
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/x-men-97-201.json",
+      "sha256": "c0137f577e99e530f5f276492e4f85235f738ad88d715e9a78ddeb35715bd9c7",
+      "size": 3142
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/x-men-97-201.json",
-      "sha256": "a3cec0526be1d903143f213a944d828d944b0020bf6e8d8e8bb2388449b1a383",
-      "size": 364
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/x-men-97-201.json",
+      "sha256": "807c7f002416476eced96b8e48a1a15c418480f38dd484f171d28f29e7616c9f",
+      "size": 365
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
-      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
-      "size": 248854
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/x-men-97-201/g1/results/workers/ord.worker-map.json",
+      "sha256": "b263297d78b91d12322f0c9000789aacd8895a9bb150856ec0b4713ca2291a4c",
+      "size": 3129
     }
   },
   "media_object": "x-men-97-201",
-  "page_format_migration": {
-    "coverage_and_figure_bytes_preserved": true,
-    "kind": "headings-and-interactive-map-controls",
-    "previous_page_sha256": "4654a604c5377078186ac9aeec20ce1bc8f900a1ef60b14fa1b8e0d4651b2b52",
-    "previous_publication_revision": "4636ca21a4fac9c8df54b9fb8be544efb1323ea4",
-    "previous_receipt": "data/txt/results-page-format-20261105/previous-receipts/x-men-97-201.json",
-    "previous_receipt_sha256": "4bdbb036b025985bc461c978f9c44cdbe7a4eceadb5f949c1a5764894f8e3808",
-    "source_revision": "120c03a9ae5e9a1cf4813f6bc9699f3e55bfa3db",
-    "validator_sha256": "58249cef860cf82ed090d2166f72a9a44dca2a8a03a4fb6f2bd5191cf656c6d0"
-  },
   "published_files": {
-    "data/csv/bytes/x-men-97-201-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "29fd85153fb7c29a7f596799ec6df1c29327cc9dda5fb07c5884938642f17f0c",
-    "docs/itemized/figures/x-men-97-201-carto-4k.webp": "a650d7717dbb95caed8b153db1a94f1690b7c0e2523c50e880df9447ef31b995",
-    "docs/itemized/figures/x-men-97-201-carto.png": "e7841a4767acb2b9b7afe10f03b8d87a7468b699feed7f8ec05280fc24c6421f",
+    "data/csv/bytes/x-men-97-201-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "5e0ad561449d18509c8c31ea9b1bc62fb4acbcdc4410a559cff21bb69bd7de96",
+    "docs/itemized/figures/x-men-97-201-carto-4k.webp": "bb1cda7d95c59de78fd75c2015ef5139853f238491be1bb202316979d8869f29",
+    "docs/itemized/figures/x-men-97-201-carto.png": "6582e6c80bcf3194b77914233cb7d8d6bde8646d1064c9500b6d2cde42c90dff",
     "docs/itemized/figures/x-men-97-201-cumulative-detail-btiha-itemized-by-bytes.svg": "9d997b5ba13cccb8a36606a6484d5f74501f17da25d334e8db3c748894943bac",
-    "docs/itemized/figures/x-men-97-201-data-ge-1080p-4k.webp": "d3467aa1b0b064a4f129e5de381632847f3ee86fd91e503c28e3fec3c4ae8d1a",
-    "docs/itemized/figures/x-men-97-201-data-ge-1080p.webp": "38a54b6b28dfc3f1aef62dfc2ab2801b11af6d1f90d3704af13b9b20d7a24d29",
-    "docs/itemized/figures/x-men-97-201-data-lt-1080p-4k.webp": "9b2fc9ced5c23654cc3a4104887819464e116ec76b58d452321a5c87fe008f51",
-    "docs/itemized/figures/x-men-97-201-data-lt-1080p.webp": "625f4bdf5ba510535a8f179be834058dc3053c38f888efbfda66d3db44e1431f",
-    "docs/itemized/figures/x-men-97-201-downloads-by-day-day.svg": "e584b4322176af97b893701c28045fbac2fb5fed1361649a02da11e9648002e1",
-    "docs/itemized/figures/x-men-97-201-downloads-by-week-x-men-97-201-week.svg": "8b65afc6e2ea616a7fd3507604190dd54a6a97208a030c514fd96c7b8346a681",
-    "docs/itemized/x-men-97-201-sample-cache-audit.md": "275cdbdb41850e5e0249500ec7da9336203c7632fd1888dbbab7dfbd42ee3432",
+    "docs/itemized/figures/x-men-97-201-data-ge-1080p-4k.webp": "c018a861b68c254e8b72bc03f1bf6f033e677b4e7675c4441054bcc76f86421e",
+    "docs/itemized/figures/x-men-97-201-data-ge-1080p.webp": "4ceb24ef496a3b014bbc595b79a29027ff07311b3c55cb937a9e6c3d3ba91219",
+    "docs/itemized/figures/x-men-97-201-data-lt-1080p-4k.webp": "17b21fd84990693b849581621fc802b85b36167999ebfc265d8b6c4d031f5bcf",
+    "docs/itemized/figures/x-men-97-201-data-lt-1080p.webp": "8c59ca6703d277abdd0b6cf3976813e488fdc91b83378e5b76cb647809437ce4",
+    "docs/itemized/figures/x-men-97-201-downloads-by-day-day.svg": "9d51241caf7e3e4cd15f5299f663379e60bdb2751c9ac9251749cb0e92aa3d89",
+    "docs/itemized/figures/x-men-97-201-downloads-by-week-x-men-97-201-week.svg": "a64dc3d2a24f407e2da9570a0f64f7ff3f94f964d631e08ec7197b308a78b092",
+    "docs/itemized/x-men-97-201-sample-cache-audit.md": "3ece2a8a4d29f91cbdfc68addc6cac536b3f70edc05686d9f41bba0acde87b35",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
-      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
-      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
-      "size": 44811816
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/x-men-97-201/tmp/x-men-97-201-cumulative-btiha.geojson",
-        "sha256": "cca267c7c2bd377315386ccdf9a753e5675398b9fffdda636a6414c36d661eff",
-        "size": 221354737
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/x-men-97-201/g1/results/work/x-men-97-201/tmp/x-men-97-201-cumulative-btiha.geojson",
+        "sha256": "b763e7f168790ae5c9f8f85bbcad5413afc6e5ed55a3c108d9eed538796a1cd8",
+        "size": 284788869
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/x-men-97-201/tmp/x-men-97-201-cumulative-btiha-media-objects.json",
-        "sha256": "700b1e9bf669733a276b9f1aafccf4edb95492c5b9af4d956ca1662281593130",
-        "size": 434408
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/x-men-97-201/g1/results/work/x-men-97-201/tmp/x-men-97-201-cumulative-btiha-media-objects.json",
+        "sha256": "256e8782910573b62a818b8089aba3c0e3ae6e5312bd20727e0df9b8dc0251d7",
+        "size": 434498
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
-      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
       "untracked": false
     },
     "media_object": "x-men-97-201",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
-      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
-      "size": 8579400
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-meta-collection.exe",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
-      "size": 440288
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -109,15 +99,15 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          65.0,
-          41.0,
+          68.0,
+          50.0,
           39.0,
-          34.0,
+          39.0,
+          35.0,
           32.0,
           30.0,
-          29.0,
-          26.0,
-          26.0
+          30.0,
+          28.0
         ],
         "image_references": [
           "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
@@ -127,13 +117,13 @@
           "Seoul",
           "Nanjing",
           "Istanbul",
-          "Amsterdam",
           "London",
-          "Lelystad",
+          "Amsterdam",
           "Shanghai",
           "Hangzhou",
+          "Lelystad",
           "Moscow",
-          "Boardman"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -143,14 +133,14 @@
         "font_sizes": [
           90.0,
           74.0,
-          46.0,
+          54.0,
           38.0,
+          37.0,
+          37.0,
           34.0,
           32.0,
-          32.0,
-          32.0,
-          26.0,
-          26.0
+          31.0,
+          30.0
         ],
         "image_references": [
           "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
@@ -161,12 +151,12 @@
           "Nanjing",
           "Istanbul",
           "Amsterdam",
-          "Lelystad",
-          "Shanghai",
           "London",
+          "Shanghai",
           "Hangzhou",
+          "Lelystad",
           "Moscow",
-          "Boardman"
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -176,8 +166,8 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 21,
-        "y_tick_labels": 20
+        "x_tick_labels": 22,
+        "y_tick_labels": 22
       },
       "histogram": {
         "bars": 34,
@@ -199,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 12,
+        "x_tick_labels": 19,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
-    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
-    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
   },
   "status": "passed",
   "validation_source": "render-receipt",

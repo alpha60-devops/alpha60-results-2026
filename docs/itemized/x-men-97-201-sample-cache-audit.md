@@ -15,39 +15,29 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `x-men-97-201` |
 | imdb_id | [tt16026746](https://www.imdb.com/title/tt16026746/) |
 | wikipedia_url | [X-Men '97](https://en.wikipedia.org/wiki/X-Men_%2797) |
-| Sample dates | 2026-07-02-to-2026-09-23 |
-| Sample days | 84 |
+| Sample dates | 2026-07-02-to-2026-11-11 |
+| Sample days | 133 |
 | BTIH count | 254 |
 | Unique BTIH count | 252 |
-| Downloaders total | 16,418,474 |
-| Uploaders total | 1,094,872 |
+| Downloaders total | 23,184,977 |
+| Uploaders total | 1,205,131 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T11:57:10Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/x-men-97-201.xz`
-- Hour directories: 2014
+- Generated: 2026-11-19T16:40:38Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/x-men-97-201.xz`
+- Hour directories: 3144
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 0 (0 missing hours)
-- Missing days: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (46 missing hours)
+- Missing days: 1
 
 ### Sample archive discontinuities
 
-None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `36212d4a86d9522027e6ac1ccaf45ea3b08abe46e3213e274cfdd5e440f51a2c`
-- Full-input producer receipt SHA-256: `f5599f28946173f2ede20663d883fad881cdb38a44efb1e9cdfa51b84a98f8e6`
-- Frozen raw archives: 2014
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 1
-- Excluded observations: 256
+- hourly gap: last `2026-10-11 22:02`, resumed `2026-10-13 21:02` — missing 46 hour(s)
+- missing day: `2026-10-12`
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +79,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.86 | 21.17 | 33.61 | 41.28 | 1.29 | 0.80 |
+| 1.86 | 21.06 | 33.02 | 41.96 | 1.25 | 0.84 |
 
 ### Network infrastructure
 
