@@ -2,106 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt17220216",
     "imdb_id": "tt17220216",
-    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
     "wikidata_id": "Q113114887",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters"
   },
-  "coverage_sha256": "27a2fd7a27c504e7c1562a8a98f10d0989485d91bacf73ecf8da6422f0c20f8f",
-  "generated_at": "2026-11-06T06:42:16.970516+00:00",
+  "coverage_sha256": "ff8a48b12721ff2b797710f267d715c2629832d6bd975565b3ac9f6214721223",
+  "generated_at": "2026-11-17T21:21:57.813953+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/monarch-legacy-of-monsters-208.cache/cache.20261001.tar.xz",
-      "sha256": "05b28084d73172aa9746f8c5fb3520c294459bcf5687a1a7bf776a0e6e81b48a",
-      "size": 2829422740
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/monarch-legacy-of-monsters-208/g1/archives/monarch-legacy-of-monsters-208.cache/cache.20261015.tar.xz",
+      "sha256": "01b3feb26c963a07a31a0fccc84ff7c74c1964f9b5e474ae9dcff0a37325a6ab",
+      "size": 3005312124
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/monarch-legacy-of-monsters-208.md",
-      "sha256": "92698f10f80d7da9bbd69456d98ef087b1a436a6c29ba44d8fb2fad31b0b69a3",
-      "size": 283938
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/monarch-legacy-of-monsters-208.md",
+      "sha256": "46fe4e166171c2f382a62b518cefd84b7535fc096ee5c6b29678eb9930376ade",
+      "size": 950
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/monarch-legacy-of-monsters-208.json",
-      "sha256": "dbca1e36214657fcef2d633bbd5ff92a042d077c271ebf5f54e84959a916c4ba",
-      "size": 3562
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/monarch-legacy-of-monsters-208.json",
+      "sha256": "6c81184c28699c4bb0af0966e891037a8f362eb75709b01d0984c8e4862cc7b2",
+      "size": 3683
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/monarch-legacy-of-monsters-208.json",
-      "sha256": "0633c4a2757a575f45a72501e58e1d145ea0bfb579a0756ee9a77a34bf00d332",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/monarch-legacy-of-monsters-208.json",
+      "sha256": "699137fc755f6958ef30fe3eab08300af29cc96ec8afc5102eda00de6a0231a3",
       "size": 383
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
-      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
-      "size": 248854
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/external-results/monarch-legacy-of-monsters-208/g1/results/workers/eureka.worker-map.json",
+      "sha256": "88094d34534a30a3ee46d77697bf218377ed1dc917fe1b68c6a87779b55a17bd",
+      "size": 3277
     }
   },
   "media_object": "monarch-legacy-of-monsters-208",
-  "page_format_migration": {
-    "coverage_and_figure_bytes_preserved": true,
-    "kind": "headings-and-interactive-map-controls",
-    "previous_page_sha256": "e4aeceb2f039e590d08c067d6b91e129e0fa3923cad015f01dbd110ee7f928d3",
-    "previous_publication_revision": "4636ca21a4fac9c8df54b9fb8be544efb1323ea4",
-    "previous_receipt": "data/txt/results-page-format-20261105/previous-receipts/monarch-legacy-of-monsters-208.json",
-    "previous_receipt_sha256": "21c19b5548aa4aff71adf81befd431835d4d5e3426ccb9e6820fb7d636eb3c3a",
-    "source_revision": "120c03a9ae5e9a1cf4813f6bc9699f3e55bfa3db",
-    "validator_sha256": "58249cef860cf82ed090d2166f72a9a44dca2a8a03a4fb6f2bd5191cf656c6d0"
-  },
   "published_files": {
-    "data/csv/bytes/monarch-legacy-of-monsters-208-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "39812beee98fa9bcb42cc9f2d73ca32b0815989695851d1a376bf44327305fcc",
-    "docs/itemized/figures/monarch-legacy-of-monsters-208-carto-4k.webp": "ea0df56e545183695491e1d14e7b1f2c1ba82e512df93ea7a5225aee65cbef31",
-    "docs/itemized/figures/monarch-legacy-of-monsters-208-carto.png": "7a3c0208334d07e8828c7053eabd126941655bec06b042a9729cf470ab8c488b",
+    "data/csv/bytes/monarch-legacy-of-monsters-208-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "bfee6d4fd3d729afab77cf57914d00242e6a5adc197cdae9ee2a3a622e393642",
+    "docs/itemized/figures/monarch-legacy-of-monsters-208-carto-4k.webp": "19349fed539cc4378dd432c2108807ec581a53279667d4a2684bbf9ac6d69482",
+    "docs/itemized/figures/monarch-legacy-of-monsters-208-carto.png": "ae36fcd0dc89b5ff536abc07801b687a195fff4497358ead62245d43b564375c",
     "docs/itemized/figures/monarch-legacy-of-monsters-208-cumulative-detail-btiha-itemized-by-bytes.svg": "78cb416d18105b4385e7049a3c676e3c475394531c80fd3359b0aad0fed50133",
-    "docs/itemized/figures/monarch-legacy-of-monsters-208-data-ge-1080p-4k.webp": "d48c1e2d363c57605933fb4b7e88252a6ce29c684fb095f5c918d8496ebfa693",
-    "docs/itemized/figures/monarch-legacy-of-monsters-208-data-ge-1080p.webp": "95b51958de1be23c80c27060199b1342c196b187257535983302c3c47476f6d1",
-    "docs/itemized/figures/monarch-legacy-of-monsters-208-data-lt-1080p-4k.webp": "806a529957be801eecb292b224e4b40bbc42d52c7cd9dc1dba6b74a85bd78e78",
-    "docs/itemized/figures/monarch-legacy-of-monsters-208-data-lt-1080p.webp": "0690b6502e9792445335f1a0002dad44b34536beed8fd259739dac4aa02cdc9c",
-    "docs/itemized/figures/monarch-legacy-of-monsters-208-downloads-by-day-day.svg": "1e1c1de5e24ed81b8380dcb6c614e4d97b3b7bc0ef67eaa583c726a67c28c771",
-    "docs/itemized/figures/monarch-legacy-of-monsters-208-downloads-by-week-monarch-legacy-of-monsters-208-week.svg": "d4ddbc86ee54631a4bc394c8c1136e3795fcf852b0e1a2ccc789adc01765dba8",
-    "docs/itemized/monarch-legacy-of-monsters-208-sample-cache-audit.md": "6a3cf39bde86da6664ac96b2d7cd77792fd2d5a2333b687262de9486dc27f165",
+    "docs/itemized/figures/monarch-legacy-of-monsters-208-data-ge-1080p-4k.webp": "f4802f30d6f6dc111016f44edd6dc14248f41009e9d2eee85d2291f0f64bb30b",
+    "docs/itemized/figures/monarch-legacy-of-monsters-208-data-ge-1080p.webp": "f0b000173814dfc83b84d1e2b033e168b617053bef7d5d2487ca14107e0a248b",
+    "docs/itemized/figures/monarch-legacy-of-monsters-208-data-lt-1080p-4k.webp": "05d2b4f1ae8893818310a3c0f6a7ad89780a100366bd17b01f6a0dd3e7d5cdad",
+    "docs/itemized/figures/monarch-legacy-of-monsters-208-data-lt-1080p.webp": "bb9a2ea055cf60de2f1995e65645214f4896ba75bbd58cca971487ae9807d0cf",
+    "docs/itemized/figures/monarch-legacy-of-monsters-208-downloads-by-day-day.svg": "2bbe26cedfe2bb6c2daa328b1c3fa0e1f6bfd614f7b89da0a3519469404bd868",
+    "docs/itemized/figures/monarch-legacy-of-monsters-208-downloads-by-week-monarch-legacy-of-monsters-208-week.svg": "84e630f70af06eb92c6e94abc3bbc5b77cf49af3e9cc0905e4138c1aad576d65",
+    "docs/itemized/monarch-legacy-of-monsters-208-sample-cache-audit.md": "6b9b577dfec84e3c4b84aeb670732a6f5ebcff4a742b99c6e090304eab4391c5",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/code",
-      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-carto-geo.exe",
-      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
-      "size": 44811816
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/monarch-legacy-of-monsters-208/tmp/monarch-legacy-of-monsters-208-cumulative-btiha.geojson",
-        "sha256": "d407f49199546239400f35a0044692c703b2e59501f846b943ad5eb4f028f19e",
-        "size": 621334432
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/external-results/monarch-legacy-of-monsters-208/g1/results/work/monarch-legacy-of-monsters-208/tmp/monarch-legacy-of-monsters-208-cumulative-btiha.geojson",
+        "sha256": "72703765654b5d4a79520dcf6ca58322b59413b87c9fa6b86f9bd73871ed025b",
+        "size": 650539342
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/monarch-legacy-of-monsters-208/tmp/monarch-legacy-of-monsters-208-cumulative-btiha-media-objects.json",
-        "sha256": "37ecf976ad8c6b5af0bcb33d52b1f6bfdca01ed531affd657d361816721acfd4",
-        "size": 890823
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/external-results/monarch-legacy-of-monsters-208/g1/results/work/monarch-legacy-of-monsters-208/tmp/monarch-legacy-of-monsters-208-cumulative-btiha-media-objects.json",
+        "sha256": "1be096e54061ab1ce35ec8fd761018618c25968417358931980290f1bb724895",
+        "size": 890832
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi",
-      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
       "untracked": false
     },
     "media_object": "monarch-legacy-of-monsters-208",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-meta-collection.exe",
-      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
-      "size": 8579400
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-meta-collection.exe",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
-      "size": 440288
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -109,11 +99,11 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          54.0,
-          44.0,
+          55.0,
+          46.0,
+          32.0,
           31.0,
-          30.0,
-          28.0,
+          29.0,
           28.0,
           26.0,
           26.0,
@@ -129,11 +119,11 @@
           "Istanbul",
           "Shanghai",
           "Moscow",
-          "Amsterdam",
           "London",
+          "Amsterdam",
           "Hangzhou",
-          "Incheon",
-          "Budapest"
+          "Budapest",
+          "Incheon"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -142,11 +132,11 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          44.0,
+          48.0,
           36.0,
           32.0,
-          31.0,
-          28.0,
+          32.0,
+          29.0,
           28.0,
           27.0,
           26.0,
@@ -165,8 +155,8 @@
           "London",
           "Amsterdam",
           "Hangzhou",
-          "Incheon",
-          "Budapest"
+          "Budapest",
+          "Incheon"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -199,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 24,
+        "x_tick_labels": 26,
         "y_tick_labels": 20
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
-    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
-    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
   },
   "status": "passed",
   "validation_source": "render-receipt",
