@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T19:40:07.727270+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T19:55:11.614801+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**47 complete, 16 remaining; 74.6% complete.**
+**50 complete, 13 remaining; 79.4% complete.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -17,12 +17,12 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 50 |
-| bundle validated | 49 |
-| installed | 47 |
-| pushed | 47 |
-| deployed | 47 |
+| bundle validated | 50 |
+| installed | 50 |
+| pushed | 50 |
+| deployed | 50 |
 
-First-pass coverage: **56 attempted, 7 not started**; 49 validated bundles in total, including 2 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **57 attempted, 6 not started**; 50 validated bundles in total, including 0 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -31,7 +31,7 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 426.7 GB free. |
-| Ord | Pinned runtime verified. 1160.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-super-mario-galaxy-movie-g1.service. 1158.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -49,7 +49,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | ready |
-| `backrooms-2026` | 2026-11-10 | incremental-candidate | building-results |
+| `backrooms-2026` | 2026-11-10 | incremental-candidate | deployed |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `bear-05` | 2026-11-13 | rebuild | deployed |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
@@ -93,16 +93,16 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | deployed |
-| `send-help` | 2026-10-18 | incremental-candidate | bundle-validated |
+| `send-help` | 2026-10-18 | incremental-candidate | deployed |
 | `shards-101` | 2026-11-11 | incremental-candidate | deployed |
 | `silo-301` | 2026-11-13 | incremental-candidate | deployed |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | deployed |
-| `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | bundle-validated |
+| `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | deployed |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |
-| `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | ready |
+| `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | caching |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
 | `widows-bay-108` | 2026-10-31 | rebuild | deployed |
