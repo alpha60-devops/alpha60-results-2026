@@ -5,7 +5,7 @@
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 37,
-    "cache_validated": 37,
+    "cache_validated": 38,
     "deployed": 31,
     "inputs_frozen": 98,
     "installed": 31,
@@ -345,7 +345,7 @@
       "collection_key": "spider-noir-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-10",
-      "state": "caching"
+      "state": "building-results"
     },
     {
       "collection_key": "star-wars-visions-the-ninth-jedi-01",
@@ -402,7 +402,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-19T13:57:51.267178+00:00",
+  "observed_at": "2026-11-19T14:12:55.028460+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -410,11 +410,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-spider-noir-01-g1. 426.8 GB free.",
+      "activity": "Running: prepare-admissions, eureka-spider-noir-01-g1. 443.0 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-project-hail-mary-g1.service. 1148.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-project-hail-mary-g1.service. 1138.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
