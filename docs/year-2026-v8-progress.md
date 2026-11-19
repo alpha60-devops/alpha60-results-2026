@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T19:09:59.242474+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T19:25:03.532994+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **47 complete, 16 remaining; 74.6% complete.**
 
@@ -16,7 +16,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 49 |
+| cache validated | 50 |
 | bundle validated | 48 |
 | installed | 47 |
 | pushed | 47 |
@@ -30,8 +30,8 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-send-help-g1. 424.7 GB free. |
-| Ord | Running: alpha60-v8-ord-backrooms-2026-g1.service. 1147.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-send-help-g1. 424.4 GB free. |
+| Ord | Running: alpha60-v8-ord-backrooms-2026-g1.service. 1159.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -49,7 +49,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | ready |
-| `backrooms-2026` | 2026-11-10 | incremental-candidate | caching |
+| `backrooms-2026` | 2026-11-10 | incremental-candidate | building-results |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `bear-05` | 2026-11-13 | rebuild | deployed |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
