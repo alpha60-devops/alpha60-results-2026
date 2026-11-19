@@ -4,7 +4,7 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 48,
+    "bundle_validated": 49,
     "cache_validated": 50,
     "deployed": 47,
     "inputs_frozen": 98,
@@ -13,10 +13,10 @@
   },
   "first_pass": {
     "attempted": 56,
-    "awaiting_gold": 1,
+    "awaiting_gold": 2,
     "deferred": 6,
     "not_started": 7,
-    "validated_bundles": 48
+    "validated_bundles": 49
   },
   "incremental_method": {
     "archive_durations": [
@@ -322,7 +322,7 @@
       "collection_key": "send-help",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-10-18",
-      "state": "building-results"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "shards-101",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-19T19:25:03.532994+00:00",
+  "observed_at": "2026-11-19T19:40:07.727270+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -417,11 +417,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-send-help-g1. 424.4 GB free.",
+      "activity": "Running: prepare-admissions. 426.7 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-backrooms-2026-g1.service. 1159.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Pinned runtime verified. 1160.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
