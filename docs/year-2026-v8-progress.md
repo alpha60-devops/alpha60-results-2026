@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T02:07:54.398695+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T02:09:42.098743+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -16,7 +16,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 31 |
+| cache validated | 32 |
 | bundle validated | 31 |
 | installed | 31 |
 | pushed | 31 |
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-world-cup-2026-g1. 451.1 GB free. |
-| Ord | Running: alpha60-v8-ord-invincible-301-g1.service. 1184.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-world-cup-2026-g1. 450.5 GB free. |
+| Ord | Running: alpha60-v8-ord-invincible-301-g1.service. 1183.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -68,7 +68,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | ready |
 | `invincible-101` | 2026-04-28 | build | ready |
 | `invincible-201` | 2026-05-05 | build | ready |
-| `invincible-301` | 2026-06-30 | extend | caching |
+| `invincible-301` | 2026-06-30 | extend | building-results |
 | `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |
 | `kung-fu-soccer-2026` | 2026-11-13 | extend | deployed |

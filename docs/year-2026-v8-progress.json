@@ -3,7 +3,7 @@
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 31,
-    "cache_validated": 31,
+    "cache_validated": 32,
     "deployed": 31,
     "inputs_frozen": 98,
     "installed": 31,
@@ -193,7 +193,7 @@
       "collection_key": "invincible-301",
       "mode": "extend",
       "source_endpoint": "2026-06-30",
-      "state": "caching"
+      "state": "building-results"
     },
     {
       "collection_key": "invite-2026",
@@ -400,7 +400,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-19T02:07:54.398695+00:00",
+  "observed_at": "2026-11-19T02:09:42.098743+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -408,11 +408,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-world-cup-2026-g1. 451.1 GB free.",
+      "activity": "Running: prepare-admissions, eureka-world-cup-2026-g1. 450.5 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-invincible-301-g1.service. 1184.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-invincible-301-g1.service. 1183.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
