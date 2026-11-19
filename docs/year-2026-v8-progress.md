@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T21:40:39.185934+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T21:55:43.368341+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **51 complete, 12 remaining; 81.0% complete.**
 
@@ -17,12 +17,12 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 52 |
-| bundle validated | 51 |
-| installed | 51 |
-| pushed | 51 |
+| bundle validated | 52 |
+| installed | 52 |
+| pushed | 52 |
 | deployed | 51 |
 
-First-pass coverage: **58 attempted, 5 not started**; 51 validated bundles in total, including 0 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **59 attempted, 4 not started**; 52 validated bundles in total, including 0 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -31,7 +31,7 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 426.7 GB free. |
-| Ord | Running: alpha60-v8-ord-avatar-the-last-airbender-2024-02-g1.service. 1152.4 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-furious-2025-g1.service. 1155.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -48,7 +48,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | deployed |
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | deployed |
-| `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | building-results |
+| `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | pushed |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | deployed |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `bear-05` | 2026-11-13 | rebuild | deployed |
@@ -65,7 +65,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `enola-holmes-3` | 2026-10-16 | incremental-candidate | ready |
 | `euphoria-301` | 2026-10-11 | incremental-candidate | deployed |
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
-| `furious-2025` | 2026-10-19 | full-recache-count-increased | ready |
+| `furious-2025` | 2026-10-19 | full-recache-count-increased | caching |
 | `get-jiro-106` | 2026-11-15 | build | deployed |
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |

@@ -4,19 +4,19 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 51,
+    "bundle_validated": 52,
     "cache_validated": 52,
     "deployed": 51,
     "inputs_frozen": 98,
-    "installed": 51,
-    "pushed": 51
+    "installed": 52,
+    "pushed": 52
   },
   "first_pass": {
-    "attempted": 58,
+    "attempted": 59,
     "awaiting_gold": 0,
     "deferred": 6,
-    "not_started": 5,
-    "validated_bundles": 51
+    "not_started": 4,
+    "validated_bundles": 52
   },
   "incremental_method": {
     "archive_durations": [
@@ -52,7 +52,7 @@
       "collection_key": "avatar-the-last-airbender-2024-02",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "building-results"
+      "state": "pushed"
     },
     {
       "collection_key": "backrooms-2026",
@@ -154,7 +154,7 @@
       "collection_key": "furious-2025",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-10-19",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "get-jiro-106",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-19T21:40:39.185934+00:00",
+  "observed_at": "2026-11-19T21:55:43.368341+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -421,7 +421,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-avatar-the-last-airbender-2024-02-g1.service. 1152.4 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-furious-2025-g1.service. 1155.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
