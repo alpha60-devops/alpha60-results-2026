@@ -4,12 +4,19 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 41,
-    "cache_validated": 41,
+    "bundle_validated": 42,
+    "cache_validated": 43,
     "deployed": 31,
     "inputs_frozen": 98,
     "installed": 31,
     "pushed": 31
+  },
+  "first_pass": {
+    "attempted": 49,
+    "awaiting_gold": 11,
+    "deferred": 5,
+    "not_started": 14,
+    "validated_bundles": 42
   },
   "incremental_method": {
     "archive_durations": [
@@ -39,7 +46,7 @@
       "collection_key": "avatar-seven-havens-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "caching"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "avatar-the-last-airbender-2024-02",
@@ -285,7 +292,7 @@
       "collection_key": "president-curtis-01",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "caching"
+      "state": "building-results"
     },
     {
       "collection_key": "project-hail-mary",
@@ -351,7 +358,7 @@
       "collection_key": "star-wars-visions-the-ninth-jedi-01",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-09",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "stranger-things-tales-from-85-02",
@@ -402,7 +409,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-19T16:13:27.625046+00:00",
+  "observed_at": "2026-11-19T16:24:01.176951+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -410,11 +417,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-avatar-seven-havens-01-g1. 425.4 GB free.",
+      "activity": "Running: prepare-admissions, eureka-star-wars-visions-the-ninth-jedi-01-g1. 432.7 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-president-curtis-01-g1.service. 1148.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-president-curtis-01-g1.service. 1151.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
