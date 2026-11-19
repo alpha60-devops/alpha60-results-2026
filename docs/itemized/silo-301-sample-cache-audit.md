@@ -15,39 +15,28 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `silo-301` |
 | imdb_id | [tt14688458](https://www.imdb.com/title/tt14688458/) |
 | wikipedia_url | [Silo (TV series)](https://en.wikipedia.org/wiki/Silo_(TV_series)) |
-| Sample dates | 2026-07-03-to-2026-10-01 |
-| Sample days | 91 |
+| Sample dates | 2026-07-03-to-2026-11-13 |
+| Sample days | 134 |
 | BTIH count | 238 |
 | Unique BTIH count | 236 |
-| Downloaders total | 20,614,817 |
-| Uploaders total | 2,185,267 |
+| Downloaders total | 27,984,812 |
+| Uploaders total | 2,415,766 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T13:31:30Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/silo-301.xz`
-- Hour directories: 2167
+- Generated: 2026-11-19T15:28:44Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/silo-301.xz`
+- Hour directories: 3199
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
 None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `b2946178e0b0ea5c39f95a7477f54b089cb5d870df34e70c35e52ba48556a193`
-- Full-input producer receipt SHA-256: `6d63661798778a00de47b3a80f7bba28874c87a4755d31de34e49d3f98fff22d`
-- Frozen raw archives: 2167
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +78,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.85 | 19.97 | 31.53 | 43.25 | 1.62 | 0.79 |
+| 2.68 | 20.16 | 31.40 | 43.41 | 1.52 | 0.83 |
 
 ### Network infrastructure
 
