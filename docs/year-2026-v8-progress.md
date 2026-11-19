@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T04:55:25.974992+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T05:10:29.962278+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -17,7 +17,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 36 |
-| bundle validated | 34 |
+| bundle validated | 35 |
 | installed | 31 |
 | pushed | 31 |
 | deployed | 31 |
@@ -26,13 +26,14 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-ghost-in-the-shell-2026-01-g1. 448.8 GB free. |
-| Ord | Running: alpha60-v8-ord-bear-05-g1.service. 1177.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-ghost-in-the-shell-2026-01-g1. 448.6 GB free. |
+| Ord | Running: alpha60-v8-ord-invincible-101-g1.service. 1167.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
 ## Current constraints
 
+- Individual object errors are recorded; other eligible work continues. Individual errors deferred; pass 1 work continues
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -46,7 +47,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | ready |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | ready |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
-| `bear-05` | 2026-11-13 | rebuild | building-results |
+| `bear-05` | 2026-11-13 | rebuild | bundle-validated |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | deployed |
 | `boys-501` | 2026-10-06 | incremental-candidate | deployed |
@@ -64,9 +65,9 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `get-jiro-106` | 2026-11-15 | build | deployed |
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | building-results |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
-| `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | ready |
+| `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | failed |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | ready |
-| `invincible-101` | 2026-04-28 | build | ready |
+| `invincible-101` | 2026-04-28 | build | caching |
 | `invincible-201` | 2026-05-05 | build | ready |
 | `invincible-301` | 2026-06-30 | extend | bundle-validated |
 | `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
