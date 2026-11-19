@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T04:10:13.799471+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T04:25:17.970830+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -16,7 +16,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 34 |
+| cache validated | 35 |
 | bundle validated | 34 |
 | installed | 31 |
 | pushed | 31 |
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-ghost-in-the-shell-2026-01-g1. 443.5 GB free. |
-| Ord | Running: alpha60-v8-ord-bear-05-g1.service. 1174.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-ghost-in-the-shell-2026-01-g1. 444.1 GB free. |
+| Ord | Running: alpha60-v8-ord-bear-05-g1.service. 1178.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -46,7 +46,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | ready |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | ready |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
-| `bear-05` | 2026-11-13 | rebuild | caching |
+| `bear-05` | 2026-11-13 | rebuild | building-results |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | deployed |
 | `boys-501` | 2026-10-06 | incremental-candidate | deployed |
