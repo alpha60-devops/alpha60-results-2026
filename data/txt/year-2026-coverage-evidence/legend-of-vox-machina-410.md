@@ -1,24 +1,20 @@
 # Cache coverage report — legend-of-vox-machina-410
 
-- Generated: 2026-10-07T11:57:08Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/legend-of-vox-machina-410`
-- Hour directories: 2182
+- Generated: 2026-11-19T05:48:22Z
+- Sample archive directory: `/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/legend-of-vox-machina-410/g1/results/coverage-inputs`
+- Hour directories: 2808
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 0 (0 missing hours)
-- Missing days: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (46 missing hours)
+- Missing days: 1
 
 ## Sample archive discontinuities
 
-None detected.
+- hourly gap: last `2026-10-11 22:04`, resumed `2026-10-13 21:04` — missing 46 hour(s)
+- missing day: `2026-10-12`
 
+## Review
 
-## Frozen validation evidence
-
-- Frozen content SHA-256: `9cf26cc82589b252f9144889673a8cb0f38f362f731ab061e72f6c5e7cba0880`
-- Full-input producer receipt SHA-256: `ebe2acaf169381d19d6e17329419a4e362e04987f2cf2da1a25219246f545592`
-- Frozen raw archives: 2182
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
+Confirm the sampler state and disk capacity on the sampling
+hosts for every zero-length file and discontinuity above
+before treating the aggregate outputs as complete.
