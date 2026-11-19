@@ -2,106 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt28650488",
     "imdb_id": "tt28650488",
-    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
     "wikidata_id": "Q124806421",
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Super_Mario_Galaxy_Movie"
   },
-  "coverage_sha256": "4ecbb2e71ef696f9b08d1e94d90ed996ae603505329d0d8ce057e753c1dc9d49",
-  "generated_at": "2026-11-06T06:42:16.970516+00:00",
+  "coverage_sha256": "1d1246b5c27461e731650ab80551e8a5501b2dd54a01a42a156768fabc38c621",
+  "generated_at": "2026-11-19T20:53:10.475963+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/super-mario-galaxy-movie.cache/cache.20260929.tar.xz",
-      "sha256": "b30d3bbe70886f1197497baf470d728998b190469751bf1c18d154f92e67f5f2",
-      "size": 2733394252
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/super-mario-galaxy-movie/g1/archives/super-mario-galaxy-movie.cache/cache.20261110.tar.xz",
+      "sha256": "f646e7fb35f198d09ca1132d0904ad447b4b7ec37004c8db7cf25d4c266a6bba",
+      "size": 3325800724
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/super-mario-galaxy-movie.md",
-      "sha256": "dda3325318f51768f83379baf38ec6f01ce93d530469918b070f22ce703b0127",
-      "size": 923
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/super-mario-galaxy-movie.md",
+      "sha256": "8445347af10777e87b26027718da6bc7a7bae4ae0cfb63f848866caf4a816690",
+      "size": 570
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/super-mario-galaxy-movie.json",
-      "sha256": "99157aff6dc703d34418cd8ab0984a7c6f894014baa571b227f87e05c57d45bb",
-      "size": 32854
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/super-mario-galaxy-movie.json",
+      "sha256": "3e983bbd76f057738b9ca85cd14160b5725299d7fad41734f8199edcba89d053",
+      "size": 3705
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/super-mario-galaxy-movie.json",
-      "sha256": "fac2ddf5c3c95b1c0435b09aad111600c894aab857b6e220f0693fadb23185c1",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/super-mario-galaxy-movie.json",
+      "sha256": "c1800bc789f490ea610948761437cb70f35a4654224eeb3645fcbabdc9a620a9",
       "size": 378
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
-      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
-      "size": 248854
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/super-mario-galaxy-movie/g1/results/workers/ord.worker-map.json",
+      "sha256": "56e6166d91d580f2cbd4ed783750ebe613d3531ef6eaa74e53e433ce8c51cd27",
+      "size": 3075
     }
   },
   "media_object": "super-mario-galaxy-movie",
-  "page_format_migration": {
-    "coverage_and_figure_bytes_preserved": true,
-    "kind": "headings-and-interactive-map-controls",
-    "previous_page_sha256": "8d87f8deec0bc6392ac8a19df7f64622846e08465caac8a4b3b8d4686b5af8ec",
-    "previous_publication_revision": "4636ca21a4fac9c8df54b9fb8be544efb1323ea4",
-    "previous_receipt": "data/txt/results-page-format-20261105/previous-receipts/super-mario-galaxy-movie.json",
-    "previous_receipt_sha256": "e7e7feb6063e9680b1cdf782e77fbd239881a88a6cade71adc3990eab3fb77c0",
-    "source_revision": "120c03a9ae5e9a1cf4813f6bc9699f3e55bfa3db",
-    "validator_sha256": "58249cef860cf82ed090d2166f72a9a44dca2a8a03a4fb6f2bd5191cf656c6d0"
-  },
   "published_files": {
-    "data/csv/bytes/super-mario-galaxy-movie-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "9edd2543f365dcb313defa1487950953491bfda5b56c78e6339e5a974ed6f408",
-    "docs/itemized/figures/super-mario-galaxy-movie-carto-4k.webp": "13af12878f74aa11b5c802d76ca6c4a339c13e19f20468c8f6ab93711a8d7489",
-    "docs/itemized/figures/super-mario-galaxy-movie-carto.png": "2e6bf6f19b4654b88900a7dcc25a34503e4a8c38ebadbdf9b33d61d2d1e8e949",
+    "data/csv/bytes/super-mario-galaxy-movie-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "73f7e7094dfb201a2220d06933116b8dac209ecf27f36e84752ec6ebf6efd72b",
+    "docs/itemized/figures/super-mario-galaxy-movie-carto-4k.webp": "e05dc183f17d2e5a622f8ddb511c30f627020b6be960b13e86cc84b55c008152",
+    "docs/itemized/figures/super-mario-galaxy-movie-carto.png": "0d3c1db2648add910c58a4f4f62c2f9cd1855fab72cf41ca7c259264890bba5a",
     "docs/itemized/figures/super-mario-galaxy-movie-cumulative-detail-btiha-itemized-by-bytes.svg": "082fc6e06c735ad67136b3613aaef08d2df19a0e23d180cdf37b1a4815c07050",
-    "docs/itemized/figures/super-mario-galaxy-movie-data-ge-1080p-4k.webp": "435d1afe3caa4369dc6127cdabe91de64ae76a569c4e3432e659df27969d0527",
-    "docs/itemized/figures/super-mario-galaxy-movie-data-ge-1080p.webp": "f723f0a8d6b1aff8132f1afe23dfbad82d7e5b18c419e56872aba0afc4b95ea7",
-    "docs/itemized/figures/super-mario-galaxy-movie-data-lt-1080p-4k.webp": "42bd76580a5e40c8a1c00d5b06b48bfb206092c39050d402fef0a664c384d4fd",
-    "docs/itemized/figures/super-mario-galaxy-movie-data-lt-1080p.webp": "35d7ecdedbec00addce064aeee5e70b616a0b387d5c6372c0f36a8b0c38b9063",
-    "docs/itemized/figures/super-mario-galaxy-movie-downloads-by-day-day.svg": "7a4160a5f357c650cb0b93561c513e766c22a9aa034a466e4dcf49ef6aba5da9",
-    "docs/itemized/figures/super-mario-galaxy-movie-downloads-by-week-super-mario-galaxy-movie-week.svg": "10c5736798389dbefd08278d8c5d963e9001d70e9a53d99dd4c3490f87e668bf",
-    "docs/itemized/super-mario-galaxy-movie-sample-cache-audit.md": "ab5d28b7a4675854b240afaae0ecd802a4315c415a20413947b360b93042d534",
+    "docs/itemized/figures/super-mario-galaxy-movie-data-ge-1080p-4k.webp": "5036caae9b75543b6c7c0539be4bc01ac202b5f2587c48e026d5315602b3d7cc",
+    "docs/itemized/figures/super-mario-galaxy-movie-data-ge-1080p.webp": "ef850e89e4d71eac557ddf64c08e2ffa2646262b6b4304e60dae6ff03649fe53",
+    "docs/itemized/figures/super-mario-galaxy-movie-data-lt-1080p-4k.webp": "3cca61b7164a34fd2b156226e97cdb2069c23f8e7e111efcd8eecaf1a65a7933",
+    "docs/itemized/figures/super-mario-galaxy-movie-data-lt-1080p.webp": "5c704ded4177e39d2dbf382ae5184dab248cdf9713848273f1da88177f0f3a2f",
+    "docs/itemized/figures/super-mario-galaxy-movie-downloads-by-day-day.svg": "5541f9a386093da72d3748d786e60a024d203ebf75834fa333bf97a8feadbd14",
+    "docs/itemized/figures/super-mario-galaxy-movie-downloads-by-week-super-mario-galaxy-movie-week.svg": "77015d3e5425da68fb31a0165ce3c2b5eb1198028f2cc35b6792d9783e532ca4",
+    "docs/itemized/super-mario-galaxy-movie-sample-cache-audit.md": "08c11f843a9cc4a460132687ee73e0527b62b28ad1d9be344d56d8f75433cae7",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/code",
-      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-carto-geo.exe",
-      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
-      "size": 44811816
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/super-mario-galaxy-movie/tmp/super-mario-galaxy-movie-cumulative-btiha.geojson",
-        "sha256": "0c9b3560b2cc648ea74a8338ce4e6e5e863879c995f2043d0cf2d39c99158fa1",
-        "size": 457672946
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/super-mario-galaxy-movie/g1/results/work/super-mario-galaxy-movie/tmp/super-mario-galaxy-movie-cumulative-btiha.geojson",
+        "sha256": "bdd64c0fb6bc70f9d60d669b34b9de557d62d482253bae7463362a8012ca905c",
+        "size": 537597356
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/work/super-mario-galaxy-movie/tmp/super-mario-galaxy-movie-cumulative-btiha-media-objects.json",
-        "sha256": "ef83aa31cf25690e34e2c234a3af557bf6fe17dfae4ae04dcd231e572b3fe594",
-        "size": 618982
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/super-mario-galaxy-movie/g1/results/work/super-mario-galaxy-movie/tmp/super-mario-galaxy-movie-cumulative-btiha-media-objects.json",
+        "sha256": "d37d2f926603d77affc0c5f36e5874b7f7c1866cbb14d6db1fcc14f4dfab2b9b",
+        "size": 619034
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi",
-      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
       "untracked": false
     },
     "media_object": "super-mario-galaxy-movie",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/bin/a60-meta-collection.exe",
-      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
-      "size": 8579400
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-meta-collection.exe",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/ord/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
-      "size": 440288
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -109,8 +99,8 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          61.0,
-          29.0,
+          58.0,
+          31.0,
           26.0,
           26.0,
           26.0,
@@ -127,13 +117,13 @@
           "Nanjing",
           "Seoul",
           "Istanbul",
-          "Amsterdam",
           "London",
           "Shanghai",
+          "Amsterdam",
           "Moscow",
           "Hangzhou",
-          "Lelystad",
-          "Incheon"
+          "Budapest",
+          "Lelystad"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -142,11 +132,11 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          50.0,
-          42.0,
+          49.0,
+          45.0,
+          33.0,
+          32.0,
           31.0,
-          31.0,
-          30.0,
           29.0,
           27.0,
           26.0,
@@ -162,11 +152,11 @@
           "Istanbul",
           "Moscow",
           "Shanghai",
-          "Amsterdam",
           "London",
+          "Amsterdam",
           "Hangzhou",
-          "Lelystad",
-          "Incheon"
+          "Budapest",
+          "Paris"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -177,7 +167,7 @@
         "role": "day-graph",
         "status": "passed",
         "x_tick_labels": 21,
-        "y_tick_labels": 20
+        "y_tick_labels": 22
       },
       "histogram": {
         "bars": 38,
@@ -199,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 21,
+        "x_tick_labels": 27,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
-    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
-    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
   },
   "status": "passed",
   "validation_source": "render-receipt",

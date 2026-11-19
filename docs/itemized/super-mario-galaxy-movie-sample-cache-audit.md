@@ -15,39 +15,28 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `super-mario-galaxy-movie` |
 | imdb_id | [tt28650488](https://www.imdb.com/title/tt28650488/) |
 | wikipedia_url | [The Super Mario Galaxy Movie](https://en.wikipedia.org/wiki/The_Super_Mario_Galaxy_Movie) |
-| Sample dates | 2026-05-06-to-2026-09-29 |
-| Sample days | 147 |
+| Sample dates | 2026-05-06-to-2026-11-10 |
+| Sample days | 189 |
 | BTIH count | 349 |
 | Unique BTIH count | 328 |
-| Downloaders total | 42,920,698 |
-| Uploaders total | 3,217,552 |
+| Downloaders total | 53,377,990 |
+| Uploaders total | 3,635,463 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T10:10:22Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/super-mario-galaxy-movie.xz`
-- Hour directories: 3527
+- Generated: 2026-11-19T20:15:14Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/super-mario-galaxy-movie.xz`
+- Hour directories: 4535
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
 None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `424ecea6799de4a981e986050eb8615203b1927988f8545cb7d9271b2b80c667`
-- Full-input producer receipt SHA-256: `df85f366483e6b2c9329894f25d5bf6f956e35455d9105450a5b642e8569810f`
-- Frozen raw archives: 3527
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 8
-- Excluded observations: 51158
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +78,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.18 | 17.94 | 37.03 | 40.72 | 1.31 | 0.82 |
+| 2.15 | 18.41 | 36.23 | 41.07 | 1.28 | 0.86 |
 
 ### Network infrastructure
 
