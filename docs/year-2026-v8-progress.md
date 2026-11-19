@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T20:10:15.536311+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T20:25:19.499055+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **50 complete, 13 remaining; 79.4% complete.**
 
@@ -16,7 +16,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 50 |
+| cache validated | 51 |
 | bundle validated | 50 |
 | installed | 50 |
 | pushed | 50 |
@@ -31,7 +31,7 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 426.7 GB free. |
-| Ord | Running: alpha60-v8-ord-super-mario-galaxy-movie-g1.service. 1147.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-super-mario-galaxy-movie-g1.service. 1157.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -102,7 +102,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | deployed |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | deployed |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |
-| `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | caching |
+| `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | building-results |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
 | `widows-bay-108` | 2026-10-31 | rebuild | deployed |

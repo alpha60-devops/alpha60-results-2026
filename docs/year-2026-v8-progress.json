@@ -5,7 +5,7 @@
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 50,
-    "cache_validated": 50,
+    "cache_validated": 51,
     "deployed": 50,
     "inputs_frozen": 98,
     "installed": 50,
@@ -376,7 +376,7 @@
       "collection_key": "super-mario-galaxy-movie",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-10",
-      "state": "caching"
+      "state": "building-results"
     },
     {
       "collection_key": "toy-story-5",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-19T20:10:15.536311+00:00",
+  "observed_at": "2026-11-19T20:25:19.499055+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -421,7 +421,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-super-mario-galaxy-movie-g1.service. 1147.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-super-mario-galaxy-movie-g1.service. 1157.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
