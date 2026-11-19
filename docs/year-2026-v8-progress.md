@@ -7,27 +7,27 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T01:50:07.111514+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T01:58:42.659873+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**28 published, 35 remaining; 44.4% published.**
+**31 published, 32 remaining; 49.2% published.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 29 |
-| bundle validated | 29 |
-| installed | 29 |
-| pushed | 28 |
-| deployed | 28 |
+| cache validated | 31 |
+| bundle validated | 31 |
+| installed | 31 |
+| pushed | 31 |
+| deployed | 30 |
 
 `inputs frozen` counts the whole cohort; subsequent stages count this run’s update candidates.
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 457.3 GB free. |
-| Ord | Pinned runtime verified. 1185.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-world-cup-2026-g1. 457.2 GB free. |
+| Ord | Running: alpha60-v8-ord-invincible-301-g1.service. 1185.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -61,17 +61,17 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `euphoria-301` | 2026-10-11 | incremental-candidate | deployed |
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | ready |
-| `get-jiro-106` | 2026-11-15 | build | ready |
+| `get-jiro-106` | 2026-11-15 | build | deployed |
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | ready |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
 | `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | ready |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | ready |
 | `invincible-101` | 2026-04-28 | build | ready |
 | `invincible-201` | 2026-05-05 | build | ready |
-| `invincible-301` | 2026-06-30 | extend | ready |
+| `invincible-301` | 2026-06-30 | extend | caching |
 | `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |
-| `kung-fu-soccer-2026` | 2026-11-13 | extend | ready |
+| `kung-fu-soccer-2026` | 2026-11-13 | extend | pushed |
 | `lanterns-101` | 2026-11-08 | incremental-candidate | ready |
 | `legend-of-vox-machina-410` | 2026-10-21 | rebuild | ready |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
@@ -82,7 +82,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
-| `obsession-2025` | 2026-10-29 | full-recache-count-increased | install-verified |
+| `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
 | `project-hail-mary` | 2026-11-08 | rebuild | ready |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
@@ -101,7 +101,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
 | `widows-bay-108` | 2026-10-31 | rebuild | ready |
-| `world-cup-2026` | 2026-11-10 | extend | ready |
+| `world-cup-2026` | 2026-11-10 | extend | caching |
 | `x-men-97-201` | 2026-11-11 | incremental-candidate | ready |
 
 [Machine-readable progress](year-2026-v8-progress.json) · [Results home](../index.html) · [Pages deployments](https://github.com/alpha60-devops/alpha60-results-2026/actions)
