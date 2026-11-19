@@ -15,39 +15,29 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `widows-bay-108` |
 | imdb_id | [tt33332385](https://www.imdb.com/title/tt33332385/) |
 | wikipedia_url | [Widow's Bay](https://en.wikipedia.org/wiki/Widow%27s_Bay) |
-| Sample dates | 2026-06-03-to-2026-09-29 |
-| Sample days | 119 |
-| BTIH count | 381 |
-| Unique BTIH count | 377 |
-| Downloaders total | 32,745,151 |
-| Uploaders total | 2,078,948 |
+| Sample dates | 2026-06-03-to-2026-10-31 |
+| Sample days | 151 |
+| BTIH count | 382 |
+| Unique BTIH count | 378 |
+| Downloaders total | 39,523,506 |
+| Uploaders total | 2,269,719 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T14:25:18Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/widows-bay-108.xz`
-- Hour directories: 2840
+- Generated: 2026-11-19T15:35:06Z
+- Sample archive directory: `/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/widows-bay-108/g1/results/coverage-inputs`
+- Hour directories: 3553
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 0 (0 missing hours)
-- Missing days: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (45 missing hours)
+- Missing days: 1
 
 ### Sample archive discontinuities
 
-None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `98252c876d63923c8ccac8cc05f1f66586ea9080a93108dce0d3409470918c7a`
-- Full-input producer receipt SHA-256: `b00e8ed3d7ccf6583afa52a15f75188567fd9ea18e8b564bbdfee7962e5a409d`
-- Frozen raw archives: 2840
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 15
-- Excluded observations: 144552
+- hourly gap: last `2026-10-11 22:01`, resumed `2026-10-13 20:24` — missing 45 hour(s)
+- missing day: `2026-10-12`
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +79,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.69 | 18.93 | 34.47 | 42.65 | 1.45 | 0.82 |
+| 1.71 | 19.27 | 33.91 | 42.84 | 1.42 | 0.85 |
 
 ### Network infrastructure
 
@@ -102,3 +92,20 @@ None detected.
 ### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/widows-bay-108-data-lt-1080p.webp)](figures/widows-bay-108-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+<!-- BEGIN alpha60-v8-source-dispositions -->
+
+## Recovered and skipped source samples
+
+1 damaged source archives yielded 5,030 complete, valid JSON sample files; 0 archives yielded none and were skipped.
+Recovered files were retained only after complete JSON validation and archive readback. Damaged original archives remain preserved.
+**These source hours are not fully recovered. Lost original membership is unknown.**
+The sample-date range does not establish complete observations in the affected hours. No missing observations were fabricated.
+
+| Source archive | Disposition | Valid JSON files recovered |
+| --- | --- | ---: |
+| `2026-10-31-at-13-01.tar.xz` | partial-recovery | 5,030 |
+
+[Source dispositions and archive hashes](../../data/txt/year-2026-source-dispositions/widows-bay-108.json).
+
+<!-- END alpha60-v8-source-dispositions -->
