@@ -15,39 +15,28 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `dang-01` |
 | imdb_id | [tt40003445](https://www.imdb.com/title/tt40003445/) |
 | wikipedia_url | UNAVAILABLE — no English Wikipedia page exists |
-| Sample dates | 2026-09-09-to-2026-09-29 |
-| Sample days | 21 |
-| BTIH count | 175 |
-| Unique BTIH count | 174 |
-| Downloaders total | 1,405,793 |
-| Uploaders total | 37,982 |
+| Sample dates | 2026-09-09-to-2026-11-10 |
+| Sample days | 63 |
+| BTIH count | 186 |
+| Unique BTIH count | 185 |
+| Downloaders total | 4,342,697 |
+| Uploaders total | 67,857 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-03T19:10:22Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/dang-01.xz`
-- Hour directories: 503
+- Generated: 2026-11-19T02:29:07Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/dang-01.xz`
+- Hour directories: 1511
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
 None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `3301adf70fb824f9aca6455b993a9e2f9350ba02f592b05d0612e151db24d0f7`
-- Full-input producer receipt SHA-256: `47f7268fd0709dad61d2f007e52c0398fe493bf8f0a285cd3d5d2368ab07ebcd`
-- Frozen raw archives: 503
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +78,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.75 | 18.92 | 34.70 | 42.86 | 1.15 | 0.62 |
+| 1.66 | 19.56 | 32.68 | 44.15 | 1.16 | 0.80 |
 
 ### Network infrastructure
 
