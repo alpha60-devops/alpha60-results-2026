@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T08:26:22.979056+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T08:41:26.983354+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-spider-noir-01-g1. 430.7 GB free. |
-| Ord | Running: alpha60-v8-ord-project-hail-mary-g1.service. 1142.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-spider-noir-01-g1. 433.0 GB free. |
+| Ord | Running: alpha60-v8-ord-project-hail-mary-g1.service. 1144.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
