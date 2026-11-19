@@ -5,7 +5,7 @@
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 51,
-    "cache_validated": 51,
+    "cache_validated": 52,
     "deployed": 51,
     "inputs_frozen": 98,
     "installed": 51,
@@ -52,7 +52,7 @@
       "collection_key": "avatar-the-last-airbender-2024-02",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "caching"
+      "state": "building-results"
     },
     {
       "collection_key": "backrooms-2026",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-19T21:10:31.208772+00:00",
+  "observed_at": "2026-11-19T21:25:35.202145+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -421,7 +421,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-avatar-the-last-airbender-2024-02-g1.service. 1147.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-avatar-the-last-airbender-2024-02-g1.service. 1152.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
