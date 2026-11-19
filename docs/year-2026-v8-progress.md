@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T22:10:47.085841+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T22:25:50.836558+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **52 complete, 11 remaining; 82.5% complete.**
 
@@ -16,13 +16,13 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 52 |
-| bundle validated | 52 |
+| cache validated | 53 |
+| bundle validated | 53 |
 | installed | 52 |
 | pushed | 52 |
 | deployed | 52 |
 
-First-pass coverage: **59 attempted, 4 not started**; 52 validated bundles in total, including 0 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **59 attempted, 4 not started**; 53 validated bundles in total, including 1 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -30,8 +30,8 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 426.7 GB free. |
-| Ord | Running: alpha60-v8-ord-furious-2025-g1.service. 1134.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions. 425.6 GB free. |
+| Ord | Pinned runtime verified. 1154.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -65,7 +65,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `enola-holmes-3` | 2026-10-16 | incremental-candidate | ready |
 | `euphoria-301` | 2026-10-11 | incremental-candidate | deployed |
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
-| `furious-2025` | 2026-10-19 | full-recache-count-increased | caching |
+| `furious-2025` | 2026-10-19 | full-recache-count-increased | bundle-validated |
 | `get-jiro-106` | 2026-11-15 | build | deployed |
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
