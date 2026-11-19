@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T17:24:17.856625+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T17:39:21.892826+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**31 complete, 32 remaining; 49.2% complete.**
+**33 complete, 30 remaining; 52.4% complete.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -17,12 +17,12 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 47 |
-| bundle validated | 45 |
-| installed | 31 |
-| pushed | 31 |
-| deployed | 31 |
+| bundle validated | 47 |
+| installed | 34 |
+| pushed | 34 |
+| deployed | 33 |
 
-First-pass coverage: **53 attempted, 10 not started**; 45 validated bundles in total, including 14 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **53 attempted, 10 not started**; 47 validated bundles in total, including 13 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -30,8 +30,8 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-crew-girl-01-g1. 430.9 GB free. |
-| Ord | Running: alpha60-v8-ord-lanterns-101-g1.service. 1147.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions. 431.0 GB free. |
+| Ord | Pinned runtime verified. 1151.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -47,17 +47,17 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | --- | --- | --- | --- |
 | `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | deployed |
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | deployed |
-| `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | bundle-validated |
+| `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | ready |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | ready |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
-| `bear-05` | 2026-11-13 | rebuild | bundle-validated |
+| `bear-05` | 2026-11-13 | rebuild | deployed |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | deployed |
 | `boys-501` | 2026-10-06 | incremental-candidate | deployed |
 | `brothers-01` | 2026-11-13 | full-recache-count-increased | deployed |
 | `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | deployed |
-| `crew-girl-01` | 2026-11-11 | full-recache-count-increased | building-results |
+| `crew-girl-01` | 2026-11-11 | full-recache-count-increased | pushed |
 | `cyberpunk-edgerunners-02` | 2026-11-09 | build-no-2026-cache | bundle-validated |
 | `dang-01` | 2026-11-10 | full-recache-count-increased | bundle-validated |
 | `diplomat-04` | 2026-11-05 | build-no-2026-cache | deployed |
@@ -77,7 +77,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |
 | `kung-fu-soccer-2026` | 2026-11-13 | extend | deployed |
-| `lanterns-101` | 2026-11-08 | incremental-candidate | building-results |
+| `lanterns-101` | 2026-11-08 | incremental-candidate | bundle-validated |
 | `legend-of-vox-machina-410` | 2026-10-21 | rebuild | bundle-validated |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
