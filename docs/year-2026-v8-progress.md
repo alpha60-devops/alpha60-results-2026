@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-18T11:49:20.993540+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T01:35:03.017950+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **26 published, 37 remaining; 41.3% published.**
 
@@ -34,6 +34,7 @@ Incremental updates reuse verified hourly caches and extract new or affected sam
 ## Current constraints
 
 - Coordinator recovery hold: unreviewed shared-file change: docs/year-2026-v8-progress.json
+- New claims paused: Repairing bundle comparison bases; preserve claims and verified outputs
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
