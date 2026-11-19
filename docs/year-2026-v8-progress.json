@@ -2,7 +2,7 @@
   "blockers": [],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 33,
+    "bundle_validated": 34,
     "cache_validated": 34,
     "deployed": 31,
     "inputs_frozen": 98,
@@ -157,7 +157,7 @@
       "collection_key": "ghost-in-the-shell-2026-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "hopeu-2026",
@@ -391,7 +391,7 @@
       "collection_key": "world-cup-2026",
       "mode": "extend",
       "source_endpoint": "2026-11-10",
-      "state": "building-results"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "x-men-97-201",
@@ -400,7 +400,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-19T02:54:53.715616+00:00",
+  "observed_at": "2026-11-19T03:09:57.618775+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -408,11 +408,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-world-cup-2026-g1. 451.3 GB free.",
+      "activity": "Running: prepare-admissions, eureka-ghost-in-the-shell-2026-01-g1. 451.1 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-bear-05-g1.service. 1172.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-bear-05-g1.service. 1171.4 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]

@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T02:54:53.715616+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T03:09:57.618775+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -17,7 +17,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 34 |
-| bundle validated | 33 |
+| bundle validated | 34 |
 | installed | 31 |
 | pushed | 31 |
 | deployed | 31 |
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-world-cup-2026-g1. 451.3 GB free. |
-| Ord | Running: alpha60-v8-ord-bear-05-g1.service. 1172.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-ghost-in-the-shell-2026-01-g1. 451.1 GB free. |
+| Ord | Running: alpha60-v8-ord-bear-05-g1.service. 1171.4 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -62,7 +62,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | ready |
 | `get-jiro-106` | 2026-11-15 | build | deployed |
-| `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | ready |
+| `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | caching |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
 | `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | ready |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | ready |
@@ -101,7 +101,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
 | `widows-bay-108` | 2026-10-31 | rebuild | ready |
-| `world-cup-2026` | 2026-11-10 | extend | building-results |
+| `world-cup-2026` | 2026-11-10 | extend | bundle-validated |
 | `x-men-97-201` | 2026-11-11 | incremental-candidate | ready |
 
 [Machine-readable progress](year-2026-v8-progress.json) · [Results home](../index.html) · [Pages deployments](https://github.com/alpha60-devops/alpha60-results-2026/actions)
