@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T16:54:09.658961+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T17:09:13.735809+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 complete, 32 remaining; 49.2% complete.**
 
@@ -16,13 +16,13 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 44 |
-| bundle validated | 43 |
+| cache validated | 45 |
+| bundle validated | 44 |
 | installed | 31 |
 | pushed | 31 |
 | deployed | 31 |
 
-First-pass coverage: **51 attempted, 12 not started**; 43 validated bundles in total, including 12 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **52 attempted, 11 not started**; 44 validated bundles in total, including 13 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -30,8 +30,8 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-house-of-the-dragon-308-g1. 424.7 GB free. |
-| Ord | Running: alpha60-v8-ord-x-men-97-201-g1.service. 1148.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-house-of-the-dragon-308-g1. 430.9 GB free. |
+| Ord | Running: alpha60-v8-ord-lanterns-101-g1.service. 1135.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -70,14 +70,14 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | bundle-validated |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
 | `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | failed |
-| `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | caching |
+| `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | building-results |
 | `invincible-101` | 2026-04-28 | build | failed |
 | `invincible-201` | 2026-05-05 | build | failed |
 | `invincible-301` | 2026-06-30 | extend | bundle-validated |
 | `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |
 | `kung-fu-soccer-2026` | 2026-11-13 | extend | deployed |
-| `lanterns-101` | 2026-11-08 | incremental-candidate | ready |
+| `lanterns-101` | 2026-11-08 | incremental-candidate | caching |
 | `legend-of-vox-machina-410` | 2026-10-21 | rebuild | bundle-validated |
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
@@ -107,6 +107,6 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
 | `widows-bay-108` | 2026-10-31 | rebuild | bundle-validated |
 | `world-cup-2026` | 2026-11-10 | extend | bundle-validated |
-| `x-men-97-201` | 2026-11-11 | incremental-candidate | building-results |
+| `x-men-97-201` | 2026-11-11 | incremental-candidate | bundle-validated |
 
 [Machine-readable progress](year-2026-v8-progress.json) · [Results home](../index.html) · [Pages deployments](https://github.com/alpha60-devops/alpha60-results-2026/actions)
