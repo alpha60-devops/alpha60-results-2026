@@ -15,39 +15,29 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `crew-girl-01` |
 | imdb_id | [tt38218082](https://www.imdb.com/title/tt38218082/) |
 | wikipedia_url | [Crew Girl](https://en.wikipedia.org/wiki/Crew_Girl) |
-| Sample dates | 2026-09-10-to-2026-09-23 |
-| Sample days | 14 |
-| BTIH count | 196 |
-| Unique BTIH count | 195 |
-| Downloaders total | 1,254,086 |
-| Uploaders total | 75,730 |
+| Sample dates | 2026-09-10-to-2026-11-11 |
+| Sample days | 63 |
+| BTIH count | 238 |
+| Unique BTIH count | 237 |
+| Downloaders total | 6,111,610 |
+| Uploaders total | 178,626 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-03T19:10:22Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/crew-girl-01.xz`
-- Hour directories: 315
+- Generated: 2026-11-19T17:22:17Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/crew-girl-01.xz`
+- Hour directories: 1454
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 0 (0 missing hours)
+- Other unparsable sample files: 0
+- Hourly discontinuities: 2 (37 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
-None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `8a2f37ce3267e4be2806cc529aa0116497fbe7cf1bf19460bd270929ebaaa9f8`
-- Full-input producer receipt SHA-256: `035071dff47200bb166115eba75ea325a16217e0d600ed3b3674e5376bbbf108`
-- Frozen raw archives: 315
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 1
-- Excluded observations: 6
+- hourly gap: last `2026-10-01 22:01`, resumed `2026-10-02 18:36` — missing 19 hour(s)
+- hourly gap: last `2026-10-12 22:01`, resumed `2026-10-13 17:11` — missing 18 hour(s)
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +79,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.86 | 19.32 | 31.48 | 44.26 | 1.56 | 0.52 |
+| 2.04 | 20.05 | 31.59 | 44.23 | 1.30 | 0.80 |
 
 ### Network infrastructure
 
