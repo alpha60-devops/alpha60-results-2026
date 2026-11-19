@@ -4,8 +4,8 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 39,
-    "cache_validated": 40,
+    "bundle_validated": 41,
+    "cache_validated": 41,
     "deployed": 31,
     "inputs_frozen": 98,
     "installed": 31,
@@ -39,7 +39,7 @@
       "collection_key": "avatar-seven-havens-01",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-13",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "avatar-the-last-airbender-2024-02",
@@ -105,7 +105,7 @@
       "collection_key": "cyberpunk-edgerunners-02",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-09",
-      "state": "caching"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "dang-01",
@@ -285,7 +285,7 @@
       "collection_key": "president-curtis-01",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "project-hail-mary",
@@ -387,7 +387,7 @@
       "collection_key": "widows-bay-108",
       "mode": "rebuild",
       "source_endpoint": "2026-10-31",
-      "state": "building-results"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "world-cup-2026",
@@ -402,7 +402,7 @@
       "state": "ready"
     }
   ],
-  "observed_at": "2026-11-19T15:58:23.524602+00:00",
+  "observed_at": "2026-11-19T16:13:27.625046+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -410,11 +410,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-widows-bay-108-g1. 432.8 GB free.",
+      "activity": "Running: prepare-admissions, eureka-avatar-seven-havens-01-g1. 425.4 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-cyberpunk-edgerunners-02-g1.service. 1144.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-president-curtis-01-g1.service. 1148.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]

@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T15:58:23.524602+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T16:13:27.625046+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -16,8 +16,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 40 |
-| bundle validated | 39 |
+| cache validated | 41 |
+| bundle validated | 41 |
 | installed | 31 |
 | pushed | 31 |
 | deployed | 31 |
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-widows-bay-108-g1. 432.8 GB free. |
-| Ord | Running: alpha60-v8-ord-cyberpunk-edgerunners-02-g1.service. 1144.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-avatar-seven-havens-01-g1. 425.4 GB free. |
+| Ord | Running: alpha60-v8-ord-president-curtis-01-g1.service. 1148.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -43,7 +43,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | --- | --- | --- | --- |
 | `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | deployed |
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | deployed |
-| `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | ready |
+| `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | caching |
 | `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | ready |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | ready |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
@@ -54,7 +54,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `brothers-01` | 2026-11-13 | full-recache-count-increased | deployed |
 | `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | deployed |
 | `crew-girl-01` | 2026-11-11 | full-recache-count-increased | ready |
-| `cyberpunk-edgerunners-02` | 2026-11-09 | build-no-2026-cache | caching |
+| `cyberpunk-edgerunners-02` | 2026-11-09 | build-no-2026-cache | bundle-validated |
 | `dang-01` | 2026-11-10 | full-recache-count-increased | bundle-validated |
 | `diplomat-04` | 2026-11-05 | build-no-2026-cache | deployed |
 | `drama-2026` | 2026-10-16 | incremental-candidate | deployed |
@@ -84,7 +84,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
-| `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
+| `president-curtis-01` | 2026-11-13 | incremental-candidate | caching |
 | `project-hail-mary` | 2026-11-08 | rebuild | bundle-validated |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
@@ -101,7 +101,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | ready |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
-| `widows-bay-108` | 2026-10-31 | rebuild | building-results |
+| `widows-bay-108` | 2026-10-31 | rebuild | bundle-validated |
 | `world-cup-2026` | 2026-11-10 | extend | bundle-validated |
 | `x-men-97-201` | 2026-11-11 | incremental-candidate | ready |
 
