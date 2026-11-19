@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T14:12:55.028460+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T14:27:59.046948+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **31 published, 32 remaining; 49.2% published.**
 
@@ -26,8 +26,8 @@ The input review covers 99 objects, including 36 predecessor objects without new
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-spider-noir-01-g1. 443.0 GB free. |
-| Ord | Running: alpha60-v8-ord-project-hail-mary-g1.service. 1138.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-widows-bay-108-g1. 430.2 GB free. |
+| Ord | Running: alpha60-v8-ord-project-hail-mary-g1.service. 1153.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -85,7 +85,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
-| `project-hail-mary` | 2026-11-08 | rebuild | caching |
+| `project-hail-mary` | 2026-11-08 | rebuild | building-results |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | deployed |
@@ -94,14 +94,14 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `silo-301` | 2026-11-13 | incremental-candidate | ready |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
-| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | building-results |
+| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | ready |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | ready |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |
 | `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | ready |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
-| `widows-bay-108` | 2026-10-31 | rebuild | ready |
+| `widows-bay-108` | 2026-10-31 | rebuild | caching |
 | `world-cup-2026` | 2026-11-10 | extend | bundle-validated |
 | `x-men-97-201` | 2026-11-11 | incremental-candidate | ready |
 
