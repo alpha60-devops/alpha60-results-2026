@@ -15,39 +15,28 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `stranger-things-tales-from-85-02` |
 | imdb_id | [tt27486290](https://www.imdb.com/title/tt27486290/) |
 | wikipedia_url | [Stranger Things: Tales from '85#Season 2 (2026)](https://en.wikipedia.org/wiki/Stranger_Things:_Tales_from_%2785#Season_2_(2026)) |
-| Sample dates | 2026-09-17-to-2026-09-24 |
-| Sample days | 8 |
-| BTIH count | 251 |
-| Unique BTIH count | 249 |
-| Downloaders total | 527,231 |
-| Uploaders total | 23,074 |
+| Sample dates | 2026-09-17-to-2026-11-11 |
+| Sample days | 56 |
+| BTIH count | 279 |
+| Unique BTIH count | 277 |
+| Downloaders total | 6,464,444 |
+| Uploaders total | 109,510 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T11:57:09Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/stranger-things-tales-from-85-02.xz`
-- Hour directories: 173
+- Generated: 2026-11-19T18:50:27Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/stranger-things-tales-from-85-02.xz`
+- Hour directories: 1324
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
-- Hourly discontinuities: 0 (0 missing hours)
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (1 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
-None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `ee00c7435e9a7fbea7d651a9a6c2e03cf28b3f6b2ec59f6f71c8041e61c9a18d`
-- Full-input producer receipt SHA-256: `8d6637e5ee2cdb1d3871dcd4d50f77b2e11e9266677c3e051055aa469554a54d`
-- Frozen raw archives: 173
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
+- hourly gap: last `2026-11-08 22:01`, resumed `2026-11-09 00:05` — missing 1 hour(s)
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +78,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.63 | 20.33 | 34.16 | 42.15 | 1.17 | 0.55 |
+| 1.54 | 19.78 | 32.26 | 44.45 | 1.11 | 0.87 |
 
 ### Network infrastructure
 
