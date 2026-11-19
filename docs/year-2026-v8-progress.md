@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T18:54:55.240518+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T19:09:59.242474+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **47 complete, 16 remaining; 74.6% complete.**
 
@@ -16,13 +16,13 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 48 |
-| bundle validated | 47 |
+| cache validated | 49 |
+| bundle validated | 48 |
 | installed | 47 |
 | pushed | 47 |
 | deployed | 47 |
 
-First-pass coverage: **55 attempted, 8 not started**; 47 validated bundles in total, including 0 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **56 attempted, 7 not started**; 48 validated bundles in total, including 1 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -30,8 +30,8 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-send-help-g1. 418.0 GB free. |
-| Ord | Running: alpha60-v8-ord-stranger-things-tales-from-85-02-g1.service. 1163.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-send-help-g1. 424.7 GB free. |
+| Ord | Running: alpha60-v8-ord-backrooms-2026-g1.service. 1147.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -49,7 +49,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | ready |
-| `backrooms-2026` | 2026-11-10 | incremental-candidate | ready |
+| `backrooms-2026` | 2026-11-10 | incremental-candidate | caching |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `bear-05` | 2026-11-13 | rebuild | deployed |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
@@ -93,14 +93,14 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `season-2026-01` | 2026-10-10 | incremental-candidate | deployed |
-| `send-help` | 2026-10-18 | incremental-candidate | caching |
+| `send-help` | 2026-10-18 | incremental-candidate | building-results |
 | `shards-101` | 2026-11-11 | incremental-candidate | deployed |
 | `silo-301` | 2026-11-13 | incremental-candidate | deployed |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | ready |
 | `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | deployed |
-| `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | building-results |
+| `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | bundle-validated |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |
 | `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | ready |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
