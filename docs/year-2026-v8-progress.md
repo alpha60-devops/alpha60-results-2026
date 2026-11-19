@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T21:55:43.368341+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T22:10:47.085841+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**51 complete, 12 remaining; 81.0% complete.**
+**52 complete, 11 remaining; 82.5% complete.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -20,7 +20,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | bundle validated | 52 |
 | installed | 52 |
 | pushed | 52 |
-| deployed | 51 |
+| deployed | 52 |
 
 First-pass coverage: **59 attempted, 4 not started**; 52 validated bundles in total, including 0 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
@@ -31,7 +31,7 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 426.7 GB free. |
-| Ord | Running: alpha60-v8-ord-furious-2025-g1.service. 1155.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-furious-2025-g1.service. 1134.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -48,7 +48,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | deployed |
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | deployed |
-| `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | pushed |
+| `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | deployed |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | deployed |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `bear-05` | 2026-11-13 | rebuild | deployed |
