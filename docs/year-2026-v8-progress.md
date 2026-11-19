@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T01:35:03.017950+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T01:50:07.111514+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**26 published, 37 remaining; 41.3% published.**
+**28 published, 35 remaining; 44.4% published.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -17,24 +17,22 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | --- | ---: |
 | inputs frozen | 98 |
 | cache validated | 29 |
-| bundle validated | 27 |
-| installed | 26 |
-| pushed | 26 |
-| deployed | 26 |
+| bundle validated | 29 |
+| installed | 29 |
+| pushed | 28 |
+| deployed | 28 |
 
 `inputs frozen` counts the whole cohort; subsequent stages count this run’s update candidates.
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 454.5 GB free. |
-| Ord | Pinned runtime verified. 1177.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions. 457.3 GB free. |
+| Ord | Pinned runtime verified. 1185.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
 ## Current constraints
 
-- Coordinator recovery hold: unreviewed shared-file change: docs/year-2026-v8-progress.json
-- New claims paused: Repairing bundle comparison bases; preserve claims and verified outputs
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -51,7 +49,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `bear-05` | 2026-11-13 | rebuild | ready |
 | `black-clover-02` | 2026-11-13 | build-no-2026-cache | deployed |
 | `blue-box-201` | 2026-11-14 | build-no-2026-cache | deployed |
-| `boys-501` | 2026-10-06 | incremental-candidate | bundle-validated |
+| `boys-501` | 2026-10-06 | incremental-candidate | deployed |
 | `brothers-01` | 2026-11-13 | full-recache-count-increased | deployed |
 | `coyote-vs-acme` | 2026-11-08 | full-recache-count-increased | deployed |
 | `crew-girl-01` | 2026-11-11 | full-recache-count-increased | ready |
@@ -80,11 +78,11 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | deployed |
 | `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | ready |
-| `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | results-offloaded |
+| `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | deployed |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | ready |
-| `obsession-2025` | 2026-10-29 | full-recache-count-increased | building-results |
+| `obsession-2025` | 2026-10-29 | full-recache-count-increased | install-verified |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | ready |
 | `project-hail-mary` | 2026-11-08 | rebuild | ready |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
