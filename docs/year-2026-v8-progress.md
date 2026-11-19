@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T20:55:27.394055+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-19T21:10:31.208772+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**50 complete, 13 remaining; 79.4% complete.**
+**51 complete, 12 remaining; 81.0% complete.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -18,11 +18,11 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | inputs frozen | 98 |
 | cache validated | 51 |
 | bundle validated | 51 |
-| installed | 50 |
-| pushed | 50 |
-| deployed | 50 |
+| installed | 51 |
+| pushed | 51 |
+| deployed | 51 |
 
-First-pass coverage: **57 attempted, 6 not started**; 51 validated bundles in total, including 1 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **58 attempted, 5 not started**; 51 validated bundles in total, including 0 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -30,8 +30,8 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 423.4 GB free. |
-| Ord | Pinned runtime verified. 1153.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions. 426.7 GB free. |
+| Ord | Running: alpha60-v8-ord-avatar-the-last-airbender-2024-02-g1.service. 1147.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -48,7 +48,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `all-you-need-is-kill` | 2026-10-14 | incremental-candidate | deployed |
 | `apothecary-diaries-03.1` | 2026-11-13 | build-no-2026-cache | deployed |
 | `avatar-seven-havens-01` | 2026-11-13 | build-no-2026-cache | deployed |
-| `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | ready |
+| `avatar-the-last-airbender-2024-02` | 2026-11-13 | incremental-candidate | caching |
 | `backrooms-2026` | 2026-11-10 | incremental-candidate | deployed |
 | `bass-x-machina-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `bear-05` | 2026-11-13 | rebuild | deployed |
@@ -102,7 +102,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | deployed |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | deployed |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |
-| `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | bundle-validated |
+| `super-mario-galaxy-movie` | 2026-11-10 | incremental-candidate | deployed |
 | `toy-story-5` | 2026-11-10 | full-recache-count-increased | ready |
 | `visionquest-101` | 2026-11-10 | build-no-2026-cache | deployed |
 | `widows-bay-108` | 2026-10-31 | rebuild | deployed |

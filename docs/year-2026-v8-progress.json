@@ -6,16 +6,16 @@
   "counts": {
     "bundle_validated": 51,
     "cache_validated": 51,
-    "deployed": 50,
+    "deployed": 51,
     "inputs_frozen": 98,
-    "installed": 50,
-    "pushed": 50
+    "installed": 51,
+    "pushed": 51
   },
   "first_pass": {
-    "attempted": 57,
-    "awaiting_gold": 1,
+    "attempted": 58,
+    "awaiting_gold": 0,
     "deferred": 6,
-    "not_started": 6,
+    "not_started": 5,
     "validated_bundles": 51
   },
   "incremental_method": {
@@ -52,7 +52,7 @@
       "collection_key": "avatar-the-last-airbender-2024-02",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-13",
-      "state": "ready"
+      "state": "caching"
     },
     {
       "collection_key": "backrooms-2026",
@@ -376,7 +376,7 @@
       "collection_key": "super-mario-galaxy-movie",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-10",
-      "state": "bundle-validated"
+      "state": "deployed"
     },
     {
       "collection_key": "toy-story-5",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-19T20:55:27.394055+00:00",
+  "observed_at": "2026-11-19T21:10:31.208772+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -417,11 +417,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions. 423.4 GB free.",
+      "activity": "Running: prepare-admissions. 426.7 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Pinned runtime verified. 1153.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-avatar-the-last-airbender-2024-02-g1.service. 1147.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
