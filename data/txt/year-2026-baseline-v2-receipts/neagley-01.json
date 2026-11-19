@@ -2,153 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt33539520",
     "imdb_id": "tt33539520",
-    "revision": "6656be3d8315f03fadc210e4c02ee453f4692396",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
     "wikidata_id": "Q132661267",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Neagley"
   },
-  "coverage_sha256": "0ef740a2bfa2f31df8960895e2614d01d030bfa16e0fd408775bca678c6d4953",
-  "generated_at": "2026-10-04T06:47:17.391530+00:00",
+  "coverage_sha256": "adc9da5dbd1a3e5bc7e573688f7b718e1efc3710e2469d5f70cb18505caf6aad",
+  "generated_at": "2026-11-19T23:44:01.669521+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/archives/neagley-01.cache/cache.20261001.tar.xz",
-      "sha256": "64fbf365cea44d337256151076fc363420dd5560f5086d5b3ce4db08d7c45441",
-      "size": 279264012
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/neagley-01/g1/archives/neagley-01.cache/cache.20261111.tar.xz",
+      "sha256": "70e9d8fb4ef8ae41b77343bcedac7be8283c9e0b2cc670eff475f21dcd6b2f54",
+      "size": 943974664
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-coverage-evidence/neagley-01.md",
-      "sha256": "e9aaf0e746b03ea32bf45040411105aeca9e8899b20d68f93bcef9b0cfbc4f3a",
-      "size": 889
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/neagley-01.md",
+      "sha256": "0b71130612acd25a387f203db78c57cef24f6325dbd71c6435f25175762fbdb2",
+      "size": 542
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-cache-stream-receipts/neagley-01.json",
-      "sha256": "ad0c900cf62da1ba5d3c6ce9bf43988cd5fca93c82b6e4d55194abc1f6f959b5",
-      "size": 2155
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/neagley-01.json",
+      "sha256": "75eb0b6c5b0686d9da5ee4ef374670745c0a6fbbc642ca656f8370a10d4e4fea",
+      "size": 2476
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/results/data/txt/year-2026-day-product-receipts/neagley-01.json",
-      "sha256": "c6a3556ac960af3bf67daa82c44fb169fa1a93de6a593d413aa1c0bd41655ae8",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/neagley-01.json",
+      "sha256": "d114cd3bb9940521456611d8458e73cfebcfac5457aa2792a7b4e8054980eaee",
       "size": 362
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/inputs/worker-map.json",
-      "sha256": "4e7bee1a946a83d7091a8d7d4ec3bf79044dc0a8e25dfc7478a1f26639cf5404",
-      "size": 240593
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/neagley-01/g1/results/workers/ord.worker-map.json",
+      "sha256": "a8f4a26e0375b8d2f934b1b0989d93fa406a4b5611b3e5c861a02bd862489b6a",
+      "size": 2949
     }
   },
   "media_object": "neagley-01",
-  "publication_revalidation": {
-    "basis": "Historical render evidence remains bound to unchanged images. Current page, weekly SVG, metadata identity, coverage and Day products were independently checked.",
-    "cache_products_unchanged": true,
-    "changes": [
-      {
-        "after_sha256": "4159894f1eb1117ae6cc29a32cb41250345ec0fbd28650042b55dbe93343611e",
-        "before_sha256": "550c0d377589fb57e3bf16eab78354235c194d6a181af88e9c53e4f24b4353cd",
-        "path": "docs/itemized/neagley-01-sample-cache-audit.md"
-      }
-    ],
-    "checked_at": "2026-10-04T06:59:39.706137+00:00",
-    "coverage_sha256": "0ef740a2bfa2f31df8960895e2614d01d030bfa16e0fd408775bca678c6d4953",
-    "day_contract": {
-      "collection_key": "neagley-01",
-      "day_products": 15,
-      "first_date": "2026-09-17",
-      "first_index": 1,
-      "geojson_data_version": "20260701",
-      "ip_geolocation_version": "6:1777968300",
-      "json_data_version": "2026-08-05",
-      "last_date": "2026-10-01",
-      "last_index": 15,
-      "schema": "alpha60-day-product-contract/1",
-      "sparse": false,
-      "status": "pass"
-    },
-    "historical_receipt_revision": "5e00e010e48e93b35e56198eee3d9d08d5a1c534",
-    "historical_receipt_sha256": "2e383cbed9aa57cfddec79586bf2c4ddbdd8632129b2b1a732f7cbbe2e9ad18b",
-    "human_review_claimed": false,
-    "immutable_publication_evidence": {
-      "coverage-evidence": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-coverage-evidence/neagley-01.md",
-        "sha256": "e9aaf0e746b03ea32bf45040411105aeca9e8899b20d68f93bcef9b0cfbc4f3a",
-        "size": 889
-      },
-      "day-cache-stream-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-cache-stream-receipts/neagley-01.json",
-        "sha256": "ad0c900cf62da1ba5d3c6ce9bf43988cd5fca93c82b6e4d55194abc1f6f959b5",
-        "size": 2155
-      },
-      "day-product-receipt": {
-        "path": "/home/bkoz/src/alpha60/build/campaign-repos/results/data/txt/year-2026-day-product-receipts/neagley-01.json",
-        "sha256": "c6a3556ac960af3bf67daa82c44fb169fa1a93de6a593d413aa1c0bd41655ae8",
-        "size": 362
-      }
-    },
-    "schema": "alpha60-year-publication-revalidation/1",
-    "source_results_revision": "bc6ba66b05f37dc2b43ebc6abe7d4afc71fcbaf7",
-    "status": "pass",
-    "week_graph": {
-      "polylines": 2,
-      "role": "week-graph",
-      "status": "passed",
-      "x_tick_labels": 3,
-      "y_tick_labels": 22
-    }
-  },
   "published_files": {
-    "data/csv/bytes/neagley-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "6e510974a5d361dbb346bce12cb703da14cf6afc9a883da15094efdb5b1b1865",
-    "docs/itemized/figures/neagley-01-carto-4k.webp": "72b224410f4123b355943ff14342f75820258222f0a791c969733b2ff58d80f0",
-    "docs/itemized/figures/neagley-01-carto.png": "42d104e8c85b2ccd5c792c91fda31b8fe4d8eedcad97128923ce3bebeb95ad03",
-    "docs/itemized/figures/neagley-01-cumulative-detail-btiha-itemized-by-bytes.svg": "969933b7ffa0df23570d588f6235883c9e6470122725de81b622f2a8c9b55d1d",
-    "docs/itemized/figures/neagley-01-data-ge-1080p-4k.webp": "61b4f30eb946009b13ff9a49f8c658bf0636fbabf4345571c44f87ce6a678865",
-    "docs/itemized/figures/neagley-01-data-ge-1080p.webp": "c3290f7ed7b1da1cafef881e5306c414ad5358105d81dace6b452e7679908ca2",
-    "docs/itemized/figures/neagley-01-data-lt-1080p-4k.webp": "cf49568d0b9cda58e32c82a283c84c82ad790cc451897f75d94eb45c2915c4a0",
-    "docs/itemized/figures/neagley-01-data-lt-1080p.webp": "f89085e432b1844303bbaa3137b2c5ef89dc80b99302b965536091a1f3fad467",
-    "docs/itemized/figures/neagley-01-downloads-by-day-day.svg": "aba4f6b11981650a731d39d6b5cca6bb1558589403f87f860c1c56fd149ec2e1",
-    "docs/itemized/figures/neagley-01-downloads-by-week-neagley-01-week.svg": "fae5684ad1b984d06dc456c561659865e80bd45f4a88405cdf753054f73b3d78",
-    "docs/itemized/neagley-01-sample-cache-audit.md": "4159894f1eb1117ae6cc29a32cb41250345ec0fbd28650042b55dbe93343611e",
+    "data/csv/bytes/neagley-01-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "7733feb698ff1e2c0b94ef8d945be76faee4f131dd06d9d3ab8acf9928b03848",
+    "docs/itemized/figures/neagley-01-carto-4k.webp": "5bf82e1d6dca73315119491e668b3d1487cf03ef893f1d1dcb22c91f1651d578",
+    "docs/itemized/figures/neagley-01-carto.png": "292e2d2c9b5e1aca043bfe240ea6d5ee0df279ed3702bbeca255a447756b2bf1",
+    "docs/itemized/figures/neagley-01-cumulative-detail-btiha-itemized-by-bytes.svg": "f9a394f875dc94028bc546cae79bb51cdc41041c57a331f8ce667f6f83641564",
+    "docs/itemized/figures/neagley-01-data-ge-1080p-4k.webp": "f1502c4e9bc4c39c83f3ae6ca0b5a01deb5f96904741ad0fca6cec4bbb978c57",
+    "docs/itemized/figures/neagley-01-data-ge-1080p.webp": "00a05a0059199ff15a9819f6adb497176c2356ceb7e219cd8b9d175298b4dd18",
+    "docs/itemized/figures/neagley-01-data-lt-1080p-4k.webp": "2d2896704cc9c0999034a3f8bac20432c5f5311c8eee275a7edaffe431dad437",
+    "docs/itemized/figures/neagley-01-data-lt-1080p.webp": "056ee0012a93724f32b45c9fb2eb172188c500621ff21ebf5d062d6c138f081f",
+    "docs/itemized/figures/neagley-01-downloads-by-day-day.svg": "471ec536cfd485710009ce2ebe9e0c1c89ad280a08a1036625ead8e9161e8b62",
+    "docs/itemized/figures/neagley-01-downloads-by-week-neagley-01-week.svg": "74e62025e410bbe559c65ff47dcecc2a58bb837f806e4a25484d6a1d05021666",
+    "docs/itemized/neagley-01-sample-cache-audit.md": "1d6c5aa495d09617daa84c4ea4ac806770816cc69387769342bade9c4d6f838e",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-code",
-      "revision": "ec8be71a1ed3b70772040d6c254762788206313a",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-carto-geo.exe",
-      "sha256": "854e258846a4a2d678c62ad00fba4c91dceed1c1fc54a5ceba2ce9efd2edb1c7",
-      "size": 45250536
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/neagley-01/tmp/neagley-01-cumulative-btiha.geojson",
-        "sha256": "57df2ea7a570a36170201b8ac3aec1c8f8ef61b0a0c3b608e99c99f2773dbaca",
-        "size": 101047476
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/neagley-01/g1/results/work/neagley-01/tmp/neagley-01-cumulative-btiha.geojson",
+        "sha256": "720fbac2b8980afaf2020f3d94065fcf9a452f9950fca5be0d15298fb658a7ef",
+        "size": 303484260
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-work-weighted/neagley-01/tmp/neagley-01-cumulative-btiha-media-objects.json",
-        "sha256": "5f757e51c1876f5c3288045b3a4313feba9e2009dee85a4174ae93b1a71e4d39",
-        "size": 856051
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/neagley-01/g1/results/work/neagley-01/tmp/neagley-01-cumulative-btiha-media-objects.json",
+        "sha256": "e7227a232807bbc066d7c9422f86f4adaedf1fd1fe60247757a4f5af74fc7228",
+        "size": 950700
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi",
-      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
       "untracked": false
     },
     "media_object": "neagley-01",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002-efficient/results-bin/a60-meta-collection.exe",
-      "sha256": "8f1bd1d5de637a3cdd4c104c76f4e322b3141743e473202610cce6d39c76553d",
-      "size": 8579520
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-meta-collection.exe",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261002/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
-      "size": 440288
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -156,14 +99,14 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
+          64.0,
           45.0,
-          36.0,
-          35.0,
-          32.0,
+          40.0,
+          39.0,
+          38.0,
+          33.0,
           30.0,
-          26.0,
-          26.0,
-          26.0,
+          27.0,
           26.0
         ],
         "image_references": [
@@ -173,14 +116,14 @@
         "labels": [
           "Nanjing",
           "Seoul",
-          "Amsterdam",
-          "London",
-          "Lelystad",
           "Istanbul",
+          "London",
+          "Amsterdam",
+          "Lelystad",
           "Shanghai",
-          "Guatemala City",
           "Moscow",
-          "Hangzhou"
+          "Hangzhou",
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -189,13 +132,13 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          27.0,
-          26.0,
-          26.0,
-          26.0,
-          26.0,
-          26.0,
-          26.0,
+          62.0,
+          42.0,
+          37.0,
+          36.0,
+          35.0,
+          31.0,
+          30.0,
           26.0,
           26.0
         ],
@@ -206,14 +149,14 @@
         "labels": [
           "Nanjing",
           "Seoul",
+          "Istanbul",
+          "Lelystad",
           "London",
           "Amsterdam",
-          "Lelystad",
-          "Istanbul",
-          "Madrid",
           "Shanghai",
           "Moscow",
-          "Guatemala City"
+          "Hangzhou",
+          "Budapest"
         ],
         "plate": "earth-ck-44-22.gray-water242-landwhite",
         "role": "cumulative-data-map",
@@ -223,16 +166,16 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 15,
+        "x_tick_labels": 28,
         "y_tick_labels": 20
       },
       "histogram": {
-        "bars": 41,
+        "bars": 43,
         "role": "histogram",
         "status": "passed",
         "x_label": "SIZE IN GB",
-        "x_tick_labels": 4,
-        "x_tick_marks": 4,
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
         "y_label": "MEDIA OBJECTS"
       },
       "network-map": {
@@ -246,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 3,
+        "x_tick_labels": 8,
         "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "ec8be71a1ed3b70772040d6c254762788206313a",
-    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
-    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "6656be3d8315f03fadc210e4c02ee453f4692396"
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
   },
   "status": "passed",
   "validation_source": "render-receipt",

@@ -15,39 +15,28 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `neagley-01` |
 | imdb_id | [tt33539520](https://www.imdb.com/title/tt33539520/) |
 | wikipedia_url | [Neagley](https://en.wikipedia.org/wiki/Neagley) |
-| Sample dates | 2026-09-17-to-2026-10-01 |
-| Sample days | 15 |
-| BTIH count | 481 |
-| Unique BTIH count | 477 |
-| Downloaders total | 4,675,218 |
-| Uploaders total | 612,019 |
+| Sample dates | 2026-09-17-to-2026-11-11 |
+| Sample days | 56 |
+| BTIH count | 521 |
+| Unique BTIH count | 518 |
+| Downloaders total | 17,946,454 |
+| Uploaders total | 1,028,359 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-03T19:10:22Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/neagley-01.xz`
-- Hour directories: 360
+- Generated: 2026-11-19T23:31:28Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/neagley-01.xz`
+- Hour directories: 1344
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
 None detected.
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `3978f78c7f66af6ab0d65fff504301b95fe77f4b88c908aaea9c8e5f523a5210`
-- Full-input producer receipt SHA-256: `b5217ab6fbd24f7bfa6423990e5b6407c80299a4ab685e83de7526d112926e23`
-- Frozen raw archives: 360
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +78,7 @@ None detected.
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 5.73 | 19.96 | 29.96 | 41.28 | 2.36 | 0.70 |
+| 3.49 | 19.63 | 31.15 | 43.35 | 1.56 | 0.83 |
 
 ### Network infrastructure
 
