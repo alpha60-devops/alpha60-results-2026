@@ -4,19 +4,19 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 59,
+    "bundle_validated": 60,
     "cache_validated": 60,
-    "deployed": 59,
+    "deployed": 60,
     "inputs_frozen": 98,
-    "installed": 59,
-    "pushed": 59
+    "installed": 60,
+    "pushed": 60
   },
   "first_pass": {
     "attempted": 63,
     "awaiting_gold": 0,
     "deferred": 1,
     "not_started": 0,
-    "validated_bundles": 59
+    "validated_bundles": 60
   },
   "incremental_method": {
     "archive_durations": [
@@ -346,7 +346,7 @@
       "collection_key": "spider-man-brand-new-day",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-10",
-      "state": "building-results"
+      "state": "deployed"
     },
     {
       "collection_key": "spider-noir-01",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-20T16:31:30.929776+00:00",
+  "observed_at": "2026-11-20T16:46:34.897322+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "scope_exclusions": {
@@ -421,11 +421,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions. 428.5 GB free.",
+      "activity": "Running: prepare-admissions. 428.4 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Pinned runtime verified. 1113.0 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Pinned runtime verified. 1114.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
