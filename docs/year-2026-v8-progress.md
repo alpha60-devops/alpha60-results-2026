@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-20T05:42:59.300484+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T06:13:04.084571+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **57 complete, 4 remaining; 93.4% complete.**
 
@@ -18,13 +18,13 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 57 |
-| bundle validated | 57 |
-| installed | 57 |
-| pushed | 57 |
+| cache validated | 58 |
+| bundle validated | 58 |
+| installed | 58 |
+| pushed | 58 |
 | deployed | 57 |
 
-First-pass coverage: **64 attempted, -1 not started**; 57 validated bundles in total, including 0 awaiting Gold installation. 3 individual errors are deferred to the second pass.
+First-pass coverage: **63 attempted, 0 not started**; 58 validated bundles in total, including 0 awaiting Gold installation. 3 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -33,13 +33,13 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 428.5 GB free. |
-| Ord | Pinned runtime verified. 1113.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Pinned runtime verified. 1114.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
 ## Current constraints
 
-- Coordinator recovery hold: [Errno 2] No such file or directory: '/home/bkoz/src/alpha60/config/year-cache-campaigns/runs/year-2026/20261116-v8/objects/president-curtis-01/g0/claim.json'
+- Individual object errors are recorded; other eligible work continues. Individual errors deferred; pass 2 work continues
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -90,7 +90,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | deployed |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
-| `president-curtis-101` | 2026-11-16 | full-recache | caching |
+| `president-curtis-101` | 2026-11-16 | full-recache | pushed |
 | `project-hail-mary` | 2026-11-08 | rebuild | deployed |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
