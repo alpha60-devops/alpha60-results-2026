@@ -7,22 +7,22 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-19T23:41:49.739301+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T00:14:10.225728+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**54 complete, 9 remaining; 85.7% complete.**
+**55 complete, 8 remaining; 87.3% complete.**
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 55 |
-| bundle validated | 54 |
-| installed | 54 |
-| pushed | 54 |
-| deployed | 54 |
+| cache validated | 56 |
+| bundle validated | 55 |
+| installed | 55 |
+| pushed | 55 |
+| deployed | 55 |
 
-First-pass coverage: **61 attempted, 2 not started**; 54 validated bundles in total, including 0 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **62 attempted, 1 not started**; 55 validated bundles in total, including 0 awaiting Gold installation. 6 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -31,7 +31,7 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 426.7 GB free. |
-| Ord | Running: alpha60-v8-ord-neagley-01-g1.service. 1153.5 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-enola-holmes-3-g1.service. 1152.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -62,7 +62,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `dang-01` | 2026-11-10 | full-recache-count-increased | deployed |
 | `diplomat-04` | 2026-11-05 | build-no-2026-cache | deployed |
 | `drama-2026` | 2026-10-16 | incremental-candidate | deployed |
-| `enola-holmes-3` | 2026-10-16 | incremental-candidate | ready |
+| `enola-holmes-3` | 2026-10-16 | incremental-candidate | building-results |
 | `euphoria-301` | 2026-10-11 | incremental-candidate | deployed |
 | `fall-of-el-mayo-01` | 2026-11-13 | build-no-2026-cache | deployed |
 | `furious-2025` | 2026-10-19 | full-recache-count-increased | deployed |
@@ -86,7 +86,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | deployed |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
-| `neagley-01` | 2026-11-11 | full-recache-count-increased | building-results |
+| `neagley-01` | 2026-11-11 | full-recache-count-increased | deployed |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
 | `president-curtis-01` | 2026-11-13 | incremental-candidate | failed |
 | `project-hail-mary` | 2026-11-08 | rebuild | deployed |
