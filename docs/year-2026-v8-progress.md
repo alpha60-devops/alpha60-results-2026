@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-20T00:14:10.225728+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T00:29:14.307756+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **55 complete, 8 remaining; 87.3% complete.**
 
@@ -31,7 +31,7 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 426.7 GB free. |
-| Ord | Running: alpha60-v8-ord-enola-holmes-3-g1.service. 1152.8 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Pinned runtime verified. 1153.4 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
