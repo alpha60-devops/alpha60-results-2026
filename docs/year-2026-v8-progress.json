@@ -4,7 +4,7 @@
   ],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 58,
+    "bundle_validated": 59,
     "cache_validated": 59,
     "deployed": 58,
     "inputs_frozen": 98,
@@ -13,10 +13,10 @@
   },
   "first_pass": {
     "attempted": 63,
-    "awaiting_gold": 0,
+    "awaiting_gold": 1,
     "deferred": 2,
     "not_started": 0,
-    "validated_bundles": 58
+    "validated_bundles": 59
   },
   "incremental_method": {
     "archive_durations": [
@@ -178,7 +178,7 @@
       "collection_key": "house-of-the-dragon-301",
       "mode": "incremental-candidate",
       "source_endpoint": "2026-11-15",
-      "state": "building-results"
+      "state": "bundle-validated"
     },
     {
       "collection_key": "house-of-the-dragon-308",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-20T08:43:44.551687+00:00",
+  "observed_at": "2026-11-20T08:58:48.302641+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "scope_exclusions": {
@@ -425,7 +425,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-house-of-the-dragon-301-g2.service. 1107.4 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Pinned runtime verified. 1113.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
