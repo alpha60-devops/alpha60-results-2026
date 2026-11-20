@@ -6,18 +6,16 @@
 'use strict';
 
 function bindAnnualGraph(figure, panel, groups, highlight, reset, atLabel) {
-  const controls = figure.querySelector('.annual-results-controls');
-  const selector = controls.querySelector('[data-series-select]');
-  const weekInput = controls.querySelector('[data-series-week]');
-  const output = controls.querySelector('output');
+  const output = figure.querySelector('output');
   const svg = panel.ownerSVGElement;
   const left = Number(panel.dataset.plotLeft);
   const right = Number(panel.dataset.plotRight);
-  const lastWeek = Number(weekInput.max);
+  const lastWeek = Number(figure.dataset.lastWeek);
   const formatCount = new Intl.NumberFormat();
   const series = new Map(groups.map(group => [group.dataset.collectionKey, group]));
   const observations = new Map();
   let showing = '';
+  let selectedKey = '';
   let selectedWeek;
 
   function counts(key) {
@@ -44,16 +42,11 @@ function bindAnnualGraph(figure, panel, groups, highlight, reset, atLabel) {
       `${formatCount.format(observed.get(week))} downloaders` : 'No weekly result';
     const message = `${group.dataset.series} · ${label} · ${value}`;
     if (output.value !== message) output.value = message;
-    weekInput.setAttribute('aria-valuetext', label);
   }
 
   function choose(key, week) {
-    selector.value = key;
-    weekInput.disabled = !key;
-    if (key) {
-      selectedWeek = week ?? Array.from(counts(key).keys()).at(-1);
-      weekInput.value = selectedWeek;
-    }
+    selectedKey = key;
+    selectedWeek = key ? (week ?? Array.from(counts(key).keys()).at(-1)) : undefined;
     inspect(key, selectedWeek);
   }
 
@@ -76,26 +69,35 @@ function bindAnnualGraph(figure, panel, groups, highlight, reset, atLabel) {
     if (key) choose(key, pointerWeek(event));
   }
 
-  selector.addEventListener('change', () => choose(selector.value));
-  weekInput.addEventListener('input', () => choose(selector.value, Number(weekInput.value)));
   svg.addEventListener('pointermove', event => {
     if (event.pointerType === 'touch') return;
-    const key = pointedKey(event) || selector.value;
-    if (key) inspect(key, pointerWeek(event) ?? selectedWeek ?? Array.from(counts(key).keys()).at(-1));
+    const key = pointedKey(event) || selectedKey;
+    if (key) inspect(key, pointerWeek(event) ?? Array.from(counts(key).keys()).at(-1));
     else inspect('');
   });
-  svg.addEventListener('pointerleave', () => inspect(selector.value, selectedWeek));
+  svg.addEventListener('pointerleave', () => inspect(selectedKey, selectedWeek));
   svg.addEventListener('pointerup', event => {
     if (event.pointerType === 'touch') choosePoint(event);
   });
   svg.addEventListener('click', event => {
     if (event.pointerType !== 'touch') choosePoint(event);
   });
-  figure.addEventListener('keydown', event => {
-    if (event.key === 'Escape') choose('');
+  panel.addEventListener('focusin', event => {
+    const group = event.target.closest('.izzi-line-series');
+    if (group) choose(group.dataset.collectionKey);
   });
-  controls.hidden = false;
-  choose('');
+  figure.addEventListener('keydown', event => {
+    if (event.key === 'Escape') {
+      choose('');
+      return;
+    }
+    if (event.target.closest('.izzi-line-series') && selectedKey &&
+        (event.key === 'ArrowLeft' || event.key === 'ArrowRight')) {
+      event.preventDefault();
+      const offset = event.key === 'ArrowLeft' ? -1 : 1;
+      choose(selectedKey, Math.min(lastWeek, Math.max(1, selectedWeek + offset)));
+    }
+  });
 }
 
 document.querySelectorAll('[data-izzi-layout="standard"]').forEach(panel => {

@@ -1,14 +1,14 @@
 {
   "schema": "alpha60.results-annual-graph/1",
   "year": 2026,
-  "source_revision": "12ca563eb2962baa78a9747b5825b20a49b668f8",
+  "source_revision": "a18d6a5857bd79f00d37683f6114f29993e7e363",
   "input_sha256": "fd2e6ee5c40aaeaae9bf61e3aab33fdde72c8bc6f08b21d3895319f78ed2a8be",
   "generator_sha256": {
-    "annual_results_graph.py": "36c214f24d54e76ea4a5c2ea8614deab9418a7b252b16f67cde7c624b30a3e92",
-    "annual-results-graph.css": "439cedeba0538cf1ee5724ab6bcf627e6b873867c1f0da5271abca7ecf2d7585",
-    "izzi-weekly-graphs.cc": "a73ebb92f40ab0e4efd9a037c61bf4958360ccb81cbb5097f1992fd9ce547692",
+    "annual_results_graph.py": "1033113488881dfb74bc0b0cc81e0fff5608a2b2c35dd9f480db5862989d0d81",
+    "annual-results-graph.css": "34bdc2b99e0cefc4d580daebcdd66a94e9f3b7ca34ceebccace5083d81fcb07a",
+    "izzi-weekly-graphs.cc": "378147f76fc1ee982152dc2ad25da8a46a92bb00eb5960752b940111c2209f6c",
     "izzi_weekly_graphs.py": "263f4e5eafc2a37e2873481fd24bcb0e4e9a2569d36ba3e745b9f10a18ff47e7",
-    "izzi-weekly-graph-hover.js": "568f127266bd735d672cfa2b28379678a5f4617220aa6e0cfff33cb190731797"
+    "izzi-weekly-graph-hover.js": "55878ec6eaa767f499f122d712c7562903216e80ecc2182fd875b052c68d916d"
   },
   "renderer": {
     "library": "Izzi",
@@ -17,9 +17,9 @@
     "interaction": "izzi-weekly-graph-hover.js",
     "commit": "d4e3ea694d480b0314094a50603ee870e988623e",
     "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
-    "renderer_sha256": "a73ebb92f40ab0e4efd9a037c61bf4958360ccb81cbb5097f1992fd9ce547692",
+    "renderer_sha256": "378147f76fc1ee982152dc2ad25da8a46a92bb00eb5960752b940111c2209f6c",
     "wrapper_sha256": "263f4e5eafc2a37e2873481fd24bcb0e4e9a2569d36ba3e745b9f10a18ff47e7",
-    "interaction_sha256": "568f127266bd735d672cfa2b28379678a5f4617220aa6e0cfff33cb190731797",
+    "interaction_sha256": "55878ec6eaa767f499f122d712c7562903216e80ecc2182fd875b052c68d916d",
     "functions": [
       "svg::make_line_graph",
       "svg::make_line_graph_annotations",

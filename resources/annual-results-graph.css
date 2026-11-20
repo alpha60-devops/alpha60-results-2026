@@ -14,28 +14,7 @@
 .annual-results-plot .izzi-line-series :is(polyline, circle, text) {
   cursor: pointer;
 }
-.annual-results-controls:not([hidden]) {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: end;
-  gap: .5rem 1rem;
-  margin: .5rem 0;
-}
-.annual-results-controls label {
-  display: grid;
-  gap: .25rem;
-  min-width: 0;
-  max-width: 100%;
-}
-.annual-results-controls :is(select, input) {
-  font: inherit;
-  max-width: 100%;
-}
-.annual-results-controls output {
-  flex-basis: 100%;
-  min-height: 1.5em;
-}
-.annual-results-controls output[hidden] {
+.annual-results-graph output:not([hidden]) {
   display: block;
-  visibility: hidden;
+  margin: .5rem 0;
 }
