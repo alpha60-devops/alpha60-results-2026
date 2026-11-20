@@ -1,8 +1,8 @@
 {
   "schema": "alpha60.results-annual-graph/1",
   "year": 2026,
-  "source_revision": "d97bf0aa1d17a8d2ec055e3da50184b886ceb678",
-  "input_sha256": "d9270d1bbf978a925f125753cf82e9c5cc32e68b7aab76086f4c3b40694af619",
+  "source_revision": "8ad670d9d4243d11e6b8a83d4f217fb918437ba7",
+  "input_sha256": "98c1997261e146a766f1d9661a99babfd8c9f851c37907477e04381ff3ae2b03",
   "generator_sha256": {
     "annual_results_graph.py": "36c214f24d54e76ea4a5c2ea8614deab9418a7b252b16f67cde7c624b30a3e92",
     "annual-results-graph.css": "439cedeba0538cf1ee5724ab6bcf627e6b873867c1f0da5271abca7ecf2d7585",
@@ -28,7 +28,7 @@
     ]
   },
   "period": "week",
-  "observations": 1483,
+  "observations": 1491,
   "coverage": {
     "acolyte-107": {
       "audit": "docs/itemized/acolyte-107-sample-cache-audit.html",
@@ -313,9 +313,9 @@
     "house-of-the-dragon-301": {
       "audit": "docs/itemized/house-of-the-dragon-301-sample-cache-audit.html",
       "title": "House of the Dragon (house-of-the-dragon-301)",
-      "weeks": 13,
+      "weeks": 21,
       "first_week": 25,
-      "last_week": 37
+      "last_week": 45
     },
     "house-of-the-dragon-308": {
       "audit": "docs/itemized/house-of-the-dragon-308-sample-cache-audit.html",
