@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-20T08:58:48.302641+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T09:16:01.252278+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**58 complete, 3 remaining; 95.1% complete.**
+**59 complete, 2 remaining; 96.7% complete.**
 
 2 objects are outside the 2026 update scope because Gold has no 2026 samples for them.
 
@@ -20,11 +20,11 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | inputs frozen | 98 |
 | cache validated | 59 |
 | bundle validated | 59 |
-| installed | 58 |
-| pushed | 58 |
-| deployed | 58 |
+| installed | 59 |
+| pushed | 59 |
+| deployed | 59 |
 
-First-pass coverage: **63 attempted, 0 not started**; 59 validated bundles in total, including 1 awaiting Gold installation. 2 individual errors are deferred to the second pass.
+First-pass coverage: **63 attempted, 0 not started**; 59 validated bundles in total, including 0 awaiting Gold installation. 2 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -71,7 +71,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `get-jiro-106` | 2026-11-15 | build | deployed |
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
-| `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | bundle-validated |
+| `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | deployed |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | deployed |
 | `invincible-101` | none in 2026 | build | excluded: no 2026 samples |
 | `invincible-201` | none in 2026 | build | excluded: no 2026 samples |
