@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-20T02:13:34.365130+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T02:57:15.570818+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **56 complete, 5 remaining; 91.8% complete.**
 
@@ -18,7 +18,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 57 |
+| cache validated | 56 |
 | bundle validated | 56 |
 | installed | 56 |
 | pushed | 56 |
@@ -32,8 +32,8 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions. 426.7 GB free. |
-| Ord | Running: alpha60-v8-ord-results-spider-noir-01-g1.service. 1103.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Eureka | Running: prepare-admissions, eureka-mandalorian-and-grogu-g2. 418.8 GB free. |
+| Ord | Pinned runtime verified. 1114.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -84,7 +84,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | deployed |
-| `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | failed |
+| `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | caching |
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | deployed |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
@@ -100,7 +100,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `silo-301` | 2026-11-13 | incremental-candidate | deployed |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | failed |
-| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | results-offloaded |
+| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | deployed |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | deployed |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |

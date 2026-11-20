@@ -5,7 +5,7 @@
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 56,
-    "cache_validated": 57,
+    "cache_validated": 56,
     "deployed": 56,
     "inputs_frozen": 98,
     "installed": 56,
@@ -256,7 +256,7 @@
       "collection_key": "mandalorian-and-grogu",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "failed"
+      "state": "caching"
     },
     {
       "collection_key": "monarch-legacy-of-monsters-208",
@@ -352,7 +352,7 @@
       "collection_key": "spider-noir-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-10",
-      "state": "results-offloaded"
+      "state": "failed"
     },
     {
       "collection_key": "star-wars-visions-the-ninth-jedi-01",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-20T02:13:34.365130+00:00",
+  "observed_at": "2026-11-20T02:57:15.570818+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "scope_exclusions": {
@@ -421,11 +421,11 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions. 426.7 GB free.",
+      "activity": "Running: prepare-admissions, eureka-mandalorian-and-grogu-g2. 418.8 GB free.",
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-results-spider-noir-01-g1.service. 1103.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Pinned runtime verified. 1114.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
