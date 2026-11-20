@@ -5,7 +5,7 @@
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 56,
-    "cache_validated": 56,
+    "cache_validated": 57,
     "deployed": 56,
     "inputs_frozen": 98,
     "installed": 56,
@@ -256,7 +256,7 @@
       "collection_key": "mandalorian-and-grogu",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "caching"
+      "state": "building-results"
     },
     {
       "collection_key": "monarch-legacy-of-monsters-208",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-20T04:12:35.701813+00:00",
+  "observed_at": "2026-11-20T04:27:39.699810+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "scope_exclusions": {
@@ -421,7 +421,7 @@
   "update_candidates": 63,
   "workers": [
     {
-      "activity": "Running: prepare-admissions, eureka-mandalorian-and-grogu-g2. 416.2 GB free.",
+      "activity": "Running: prepare-admissions, eureka-mandalorian-and-grogu-g2. 427.0 GB free.",
       "name": "Eureka"
     },
     {
