@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-20T06:13:04.084571+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T06:28:08.079399+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**57 complete, 4 remaining; 93.4% complete.**
+**58 complete, 3 remaining; 95.1% complete.**
 
 2 objects are outside the 2026 update scope because Gold has no 2026 samples for them.
 
@@ -22,9 +22,9 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | bundle validated | 58 |
 | installed | 58 |
 | pushed | 58 |
-| deployed | 57 |
+| deployed | 58 |
 
-First-pass coverage: **63 attempted, 0 not started**; 58 validated bundles in total, including 0 awaiting Gold installation. 3 individual errors are deferred to the second pass.
+First-pass coverage: **63 attempted, 0 not started**; 58 validated bundles in total, including 0 awaiting Gold installation. 2 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -33,7 +33,7 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 428.5 GB free. |
-| Ord | Pinned runtime verified. 1114.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-house-of-the-dragon-301-g2.service. 1098.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -71,7 +71,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `get-jiro-106` | 2026-11-15 | build | deployed |
 | `ghost-in-the-shell-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
-| `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | failed |
+| `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | caching |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | deployed |
 | `invincible-101` | none in 2026 | build | excluded: no 2026 samples |
 | `invincible-201` | none in 2026 | build | excluded: no 2026 samples |
@@ -90,7 +90,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | deployed |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
-| `president-curtis-101` | 2026-11-16 | full-recache | pushed |
+| `president-curtis-101` | 2026-11-16 | full-recache | deployed |
 | `project-hail-mary` | 2026-11-08 | rebuild | deployed |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
