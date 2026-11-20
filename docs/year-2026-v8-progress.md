@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-20T03:27:23.754763+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T03:42:27.828501+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **56 complete, 5 remaining; 91.8% complete.**
 
@@ -32,7 +32,7 @@ Complete means Gold installation/readback and deployed Pages verification. First
 
 | Worker | Observed activity |
 | --- | --- |
-| Eureka | Running: prepare-admissions, eureka-mandalorian-and-grogu-g2. 420.5 GB free. |
+| Eureka | Running: prepare-admissions, eureka-mandalorian-and-grogu-g2. 421.9 GB free. |
 | Ord | Pinned runtime verified. 1114.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
