@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-20T00:44:18.317408+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T00:59:22.348120+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **56 complete, 7 remaining; 88.9% complete.**
 
@@ -16,7 +16,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 56 |
+| cache validated | 57 |
 | bundle validated | 56 |
 | installed | 56 |
 | pushed | 56 |
@@ -31,13 +31,13 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 426.7 GB free. |
-| Ord | Running: alpha60-v8-ord-spider-man-brand-new-day-g1.service. 1133.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-results-spider-noir-01-g1.service. 1119.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
 ## Current constraints
 
-- Individual object errors are recorded; other eligible work continues. Individual errors deferred; pass 1 work continues
+- Individual object errors are recorded; other eligible work continues. Individual errors deferred; pass 2 work continues
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -97,8 +97,8 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `shards-101` | 2026-11-11 | incremental-candidate | deployed |
 | `silo-301` | 2026-11-13 | incremental-candidate | deployed |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
-| `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | caching |
-| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
+| `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | failed |
+| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | results-offloaded |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | deployed |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | deployed |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |

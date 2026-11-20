@@ -1,11 +1,11 @@
 {
   "blockers": [
-    "Individual object errors are recorded; other eligible work continues. Individual errors deferred; pass 1 work continues"
+    "Individual object errors are recorded; other eligible work continues. Individual errors deferred; pass 2 work continues"
   ],
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 56,
-    "cache_validated": 56,
+    "cache_validated": 57,
     "deployed": 56,
     "inputs_frozen": 98,
     "installed": 56,
@@ -346,13 +346,13 @@
       "collection_key": "spider-man-brand-new-day",
       "mode": "build-no-2026-cache",
       "source_endpoint": "2026-11-10",
-      "state": "caching"
+      "state": "failed"
     },
     {
       "collection_key": "spider-noir-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-10",
-      "state": "failed"
+      "state": "results-offloaded"
     },
     {
       "collection_key": "star-wars-visions-the-ninth-jedi-01",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-20T00:44:18.317408+00:00",
+  "observed_at": "2026-11-20T00:59:22.348120+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "through": "2026-11-15",
@@ -421,7 +421,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-spider-man-brand-new-day-g1.service. 1133.9 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-results-spider-noir-01-g1.service. 1119.6 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
