@@ -1,21 +1,21 @@
 {
   "blockers": [
-    "Individual object errors are recorded; other eligible work continues. Individual errors deferred; pass 2 work continues"
+    "Coordinator recovery hold: [Errno 2] No such file or directory: '/home/bkoz/src/alpha60/config/year-cache-campaigns/runs/year-2026/20261116-v8/objects/president-curtis-01/g0/claim.json'"
   ],
   "cohort_count": 99,
   "counts": {
     "bundle_validated": 57,
     "cache_validated": 57,
-    "deployed": 56,
+    "deployed": 57,
     "inputs_frozen": 98,
     "installed": 57,
     "pushed": 57
   },
   "first_pass": {
-    "attempted": 63,
+    "attempted": 64,
     "awaiting_gold": 0,
-    "deferred": 4,
-    "not_started": 0,
+    "deferred": 3,
+    "not_started": -1,
     "validated_bundles": 57
   },
   "incremental_method": {
@@ -256,7 +256,7 @@
       "collection_key": "mandalorian-and-grogu",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-09",
-      "state": "pushed"
+      "state": "deployed"
     },
     {
       "collection_key": "monarch-legacy-of-monsters-208",
@@ -289,10 +289,10 @@
       "state": "deployed"
     },
     {
-      "collection_key": "president-curtis-01",
-      "mode": "incremental-candidate",
-      "source_endpoint": "2026-11-13",
-      "state": "failed"
+      "collection_key": "president-curtis-101",
+      "mode": "full-recache",
+      "source_endpoint": "2026-11-16",
+      "state": "caching"
     },
     {
       "collection_key": "project-hail-mary",
@@ -409,7 +409,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-20T04:57:47.605128+00:00",
+  "observed_at": "2026-11-20T05:12:51.476863+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "scope_exclusions": {
@@ -425,7 +425,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Pinned runtime verified. 1114.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-president-curtis-101-g1.service. 1103.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]

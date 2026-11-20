@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-20T04:57:47.605128+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T05:12:51.476863+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**56 complete, 5 remaining; 91.8% complete.**
+**57 complete, 4 remaining; 93.4% complete.**
 
 2 objects are outside the 2026 update scope because Gold has no 2026 samples for them.
 
@@ -22,9 +22,9 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | bundle validated | 57 |
 | installed | 57 |
 | pushed | 57 |
-| deployed | 56 |
+| deployed | 57 |
 
-First-pass coverage: **63 attempted, 0 not started**; 57 validated bundles in total, including 0 awaiting Gold installation. 4 individual errors are deferred to the second pass.
+First-pass coverage: **64 attempted, -1 not started**; 57 validated bundles in total, including 0 awaiting Gold installation. 3 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -33,13 +33,13 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 428.5 GB free. |
-| Ord | Pinned runtime verified. 1114.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-president-curtis-101-g1.service. 1103.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
 ## Current constraints
 
-- Individual object errors are recorded; other eligible work continues. Individual errors deferred; pass 2 work continues
+- Coordinator recovery hold: [Errno 2] No such file or directory: '/home/bkoz/src/alpha60/config/year-cache-campaigns/runs/year-2026/20261116-v8/objects/president-curtis-01/g0/claim.json'
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -84,13 +84,13 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `lego-star-wars-the-mandalorian-2026` | 2026-11-15 | full-recache-count-increased | deployed |
 | `lowdown-201` | 2026-11-11 | build-no-2026-cache | deployed |
 | `lupin-04` | 2026-11-13 | build-no-2026-cache | deployed |
-| `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | pushed |
+| `mandalorian-and-grogu` | 2026-11-09 | full-recache-count-increased | deployed |
 | `monarch-legacy-of-monsters-208` | 2026-10-15 | incremental-candidate | deployed |
 | `musk-2026` | 2026-11-13 | build-no-2026-cache | deployed |
 | `my-brilliant-career-2026-01` | 2026-11-09 | full-recache-count-increased | deployed |
 | `neagley-01` | 2026-11-11 | full-recache-count-increased | deployed |
 | `obsession-2025` | 2026-10-29 | full-recache-count-increased | deployed |
-| `president-curtis-01` | 2026-11-13 | incremental-candidate | failed |
+| `president-curtis-101` | 2026-11-16 | full-recache | caching |
 | `project-hail-mary` | 2026-11-08 | rebuild | deployed |
 | `reacher-401` | 2026-11-13 | incremental-candidate | deployed |
 | `resident-evil-2026` | 2026-11-13 | build-no-2026-cache | deployed |
