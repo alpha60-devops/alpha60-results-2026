@@ -15,39 +15,28 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `mandalorian-and-grogu` |
 | imdb_id | [tt30825738](https://www.imdb.com/title/tt30825738/) |
 | wikipedia_url | [The Mandalorian and Grogu](https://en.wikipedia.org/wiki/The_Mandalorian_and_Grogu) |
-| Sample dates | 2026-06-23-to-2026-09-28 |
-| Sample days | 98 |
-| BTIH count | 509 |
-| Unique BTIH count | 472 |
-| Downloaders total | 31,757,324 |
-| Uploaders total | 3,582,551 |
+| Sample dates | 2026-06-23-to-2026-11-09 |
+| Sample days | 140 |
+| BTIH count | 518 |
+| Unique BTIH count | 481 |
+| Downloaders total | 48,530,928 |
+| Uploaders total | 4,342,318 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T14:25:16Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/mandalorian-and-grogu.xz`
-- Hour directories: 2332
+- Generated: 2026-11-20T04:16:39Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/mandalorian-and-grogu.xz`
+- Hour directories: 3340
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Other unparsable sample files: 0
 - Hourly discontinuities: 1 (15 missing hours)
 - Missing days: 0
 
 ### Sample archive discontinuities
 
 - hourly gap: last `2026-09-01 02:01`, resumed `2026-09-01 18:28` — missing 15 hour(s)
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `02ced277c0dbe6392a39f23c1c62b9a694c48f7762810a02d768bda03e997f05`
-- Full-input producer receipt SHA-256: `08593e25e612f597c383cc4b874550cb80bf4ad3dee2f35852b68c2ba2f9228c`
-- Frozen raw archives: 2332
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 0
-- Excluded observations: 0
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -89,7 +78,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 2.09 | 19.17 | 33.14 | 43.36 | 1.44 | 0.81 |
+| 1.99 | 19.31 | 33.39 | 43.13 | 1.33 | 0.85 |
 
 ### Network infrastructure
 
