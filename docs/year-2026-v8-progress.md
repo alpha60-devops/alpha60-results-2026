@@ -7,9 +7,11 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-20T01:54:45.021897+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T02:13:34.365130+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**56 complete, 7 remaining; 88.9% complete.**
+**56 complete, 5 remaining; 91.8% complete.**
+
+2 objects are outside the 2026 update scope because Gold has no 2026 samples for them.
 
 The input review covers 99 objects, including 36 predecessor objects without newly observed filenames. Existing published pages remain available while each update is validated.
 
@@ -22,7 +24,7 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | pushed | 56 |
 | deployed | 56 |
 
-First-pass coverage: **63 attempted, 0 not started**; 56 validated bundles in total, including 0 awaiting Gold installation. 6 individual errors are deferred to the second pass.
+First-pass coverage: **63 attempted, 0 not started**; 56 validated bundles in total, including 0 awaiting Gold installation. 4 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -31,7 +33,7 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 426.7 GB free. |
-| Ord | Running: alpha60-v8-ord-results-spider-noir-01-g1.service. 1103.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-results-spider-noir-01-g1.service. 1103.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
@@ -71,8 +73,8 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `hopeu-2026` | 2026-11-14 | build-no-2026-cache | deployed |
 | `house-of-the-dragon-301` | 2026-11-15 | incremental-candidate | failed |
 | `house-of-the-dragon-308` | 2026-11-15 | incremental-candidate | deployed |
-| `invincible-101` | 2026-04-28 | build | failed |
-| `invincible-201` | 2026-05-05 | build | failed |
+| `invincible-101` | none in 2026 | build | excluded: no 2026 samples |
+| `invincible-201` | none in 2026 | build | excluded: no 2026 samples |
 | `invincible-301` | 2026-06-30 | extend | deployed |
 | `invite-2026` | 2026-11-13 | incremental-candidate | deployed |
 | `kill-jackie-01` | 2026-11-05 | build-no-2026-cache | deployed |

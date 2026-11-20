@@ -14,7 +14,7 @@
   "first_pass": {
     "attempted": 63,
     "awaiting_gold": 0,
-    "deferred": 6,
+    "deferred": 4,
     "not_started": 0,
     "validated_bundles": 56
   },
@@ -189,14 +189,14 @@
     {
       "collection_key": "invincible-101",
       "mode": "build",
-      "source_endpoint": "2026-04-28",
-      "state": "failed"
+      "source_endpoint": "none in 2026",
+      "state": "excluded: no 2026 samples"
     },
     {
       "collection_key": "invincible-201",
       "mode": "build",
-      "source_endpoint": "2026-05-05",
-      "state": "failed"
+      "source_endpoint": "none in 2026",
+      "state": "excluded: no 2026 samples"
     },
     {
       "collection_key": "invincible-301",
@@ -409,9 +409,13 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-20T01:54:45.021897+00:00",
+  "observed_at": "2026-11-20T02:13:34.365130+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
+  "scope_exclusions": {
+    "invincible-101": "Canonical Gold sample directory has no 2026 captures for this object.",
+    "invincible-201": "Canonical Gold sample directory has no 2026 captures for this object."
+  },
   "through": "2026-11-15",
   "unchanged_predecessors": 36,
   "update_candidates": 63,
@@ -421,7 +425,7 @@
       "name": "Eureka"
     },
     {
-      "activity": "Running: alpha60-v8-ord-results-spider-noir-01-g1.service. 1103.3 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
+      "activity": "Running: alpha60-v8-ord-results-spider-noir-01-g1.service. 1103.1 GB free; 578 stored local cache archives retired; Gold is the retained cache source.",
       "name": "Ord"
     }
   ]
