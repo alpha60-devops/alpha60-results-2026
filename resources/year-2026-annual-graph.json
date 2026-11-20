@@ -1,8 +1,8 @@
 {
   "schema": "alpha60.results-annual-graph/1",
   "year": 2026,
-  "source_revision": "8ad670d9d4243d11e6b8a83d4f217fb918437ba7",
-  "input_sha256": "98c1997261e146a766f1d9661a99babfd8c9f851c37907477e04381ff3ae2b03",
+  "source_revision": "12ca563eb2962baa78a9747b5825b20a49b668f8",
+  "input_sha256": "fd2e6ee5c40aaeaae9bf61e3aab33fdde72c8bc6f08b21d3895319f78ed2a8be",
   "generator_sha256": {
     "annual_results_graph.py": "36c214f24d54e76ea4a5c2ea8614deab9418a7b252b16f67cde7c624b30a3e92",
     "annual-results-graph.css": "439cedeba0538cf1ee5724ab6bcf627e6b873867c1f0da5271abca7ecf2d7585",
@@ -28,7 +28,7 @@
     ]
   },
   "period": "week",
-  "observations": 1491,
+  "observations": 1496,
   "coverage": {
     "acolyte-107": {
       "audit": "docs/itemized/acolyte-107-sample-cache-audit.html",
@@ -596,6 +596,13 @@
       "weeks": 6,
       "first_week": 38,
       "last_week": 43
+    },
+    "spider-man-brand-new-day": {
+      "audit": "docs/itemized/spider-man-brand-new-day-sample-cache-audit.html",
+      "title": "Spider-Man: Brand New Day",
+      "weeks": 5,
+      "first_week": 41,
+      "last_week": 45
     },
     "spider-noir-01": {
       "audit": "docs/itemized/spider-noir-01-sample-cache-audit.html",
