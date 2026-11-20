@@ -1,8 +1,8 @@
 {
   "schema": "alpha60.results-annual-graph/1",
   "year": 2026,
-  "source_revision": "6546cd328af7f3b0de6c486a1ba55c925e6a51e7",
-  "input_sha256": "a84bcceace911f8eb79ed86851cae907f47d2d9c3ccf7a88fdd1ae9ae1cede7b",
+  "source_revision": "ecab254e4787145941b4a7caf15485747e01a243",
+  "input_sha256": "3230fc8659a1e0431f6cb2218fcfb80d8e2200dcce91da376872a71708197d85",
   "generator_sha256": {
     "annual_results_graph.py": "a4b756ec450a9678ed37c2e6228e636943429ff1163a026aa281d7ff319253ff",
     "annual-results-graph.css": "439cedeba0538cf1ee5724ab6bcf627e6b873867c1f0da5271abca7ecf2d7585",
@@ -27,7 +27,7 @@
       "svg::make_marker_instance"
     ]
   },
-  "observations": 10171,
+  "observations": 10217,
   "coverage": {
     "acolyte-107": {
       "audit": "docs/itemized/acolyte-107-sample-cache-audit.html",
@@ -526,12 +526,12 @@
       "first": "2026-04-03",
       "last": "2026-09-25"
     },
-    "president-curtis-01": {
-      "audit": "docs/itemized/president-curtis-01-sample-cache-audit.html",
+    "president-curtis-101": {
+      "audit": "docs/itemized/president-curtis-101-sample-cache-audit.html",
       "title": "President Curtis",
-      "days": 65,
+      "days": 111,
       "first": "2026-07-28",
-      "last": "2026-10-01"
+      "last": "2026-11-16"
     },
     "project-hail-mary": {
       "audit": "docs/itemized/project-hail-mary-sample-cache-audit.html",
