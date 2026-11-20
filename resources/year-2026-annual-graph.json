@@ -1,8 +1,8 @@
 {
   "schema": "alpha60.results-annual-graph/1",
   "year": 2026,
-  "source_revision": "336645657560ea8901fba1e1504177681a78f894",
-  "input_sha256": "22ff5b90fd4ccb89ba13cff28a06bbec86c8ec70d30f2119042162c8d4b2d73e",
+  "source_revision": "6546cd328af7f3b0de6c486a1ba55c925e6a51e7",
+  "input_sha256": "a84bcceace911f8eb79ed86851cae907f47d2d9c3ccf7a88fdd1ae9ae1cede7b",
   "generator_sha256": {
     "annual_results_graph.py": "a4b756ec450a9678ed37c2e6228e636943429ff1163a026aa281d7ff319253ff",
     "annual-results-graph.css": "439cedeba0538cf1ee5724ab6bcf627e6b873867c1f0da5271abca7ecf2d7585",
@@ -15,7 +15,7 @@
     "default_layout": "izzi-standard",
     "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
     "interaction": "izzi-weekly-graph-hover.js",
-    "commit": "2d081e28600b8feeb5a87409f738bea95adcd9ab",
+    "commit": "d4e3ea694d480b0314094a50603ee870e988623e",
     "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
     "renderer_sha256": "a73ebb92f40ab0e4efd9a037c61bf4958360ccb81cbb5097f1992fd9ce547692",
     "wrapper_sha256": "263f4e5eafc2a37e2873481fd24bcb0e4e9a2569d36ba3e745b9f10a18ff47e7",
@@ -27,7 +27,7 @@
       "svg::make_marker_instance"
     ]
   },
-  "observations": 10129,
+  "observations": 10171,
   "coverage": {
     "acolyte-107": {
       "audit": "docs/itemized/acolyte-107-sample-cache-audit.html",
@@ -431,9 +431,9 @@
     "mandalorian-and-grogu": {
       "audit": "docs/itemized/mandalorian-and-grogu-sample-cache-audit.html",
       "title": "The Mandalorian and Grogu",
-      "days": 98,
+      "days": 140,
       "first": "2026-06-23",
-      "last": "2026-09-28"
+      "last": "2026-11-09"
     },
     "mating-season-01": {
       "audit": "docs/itemized/mating-season-01-sample-cache-audit.html",
