@@ -24,6 +24,8 @@ project.
 
 ## 2026 Results
 
+{% include year-2026-annual-graph.html %}
+
 [November cache update progress](docs/year-2026-v8-progress.html)
 
 - 96 Media Objects
