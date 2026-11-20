@@ -7,7 +7,7 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-20T07:43:29.356292+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-20T07:58:33.067668+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
 **58 complete, 3 remaining; 95.1% complete.**
 
@@ -33,7 +33,7 @@ Complete means Gold installation/readback and deployed Pages verification. First
 | Worker | Observed activity |
 | --- | --- |
 | Eureka | Running: prepare-admissions. 428.5 GB free. |
-| Ord | Running: alpha60-v8-ord-house-of-the-dragon-301-g2.service. 1101.7 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
+| Ord | Running: alpha60-v8-ord-house-of-the-dragon-301-g2.service. 1104.2 GB free; 578 stored local cache archives retired; Gold is the retained cache source. |
 
 Incremental updates reuse verified hourly caches and extract new or affected sample hours. Full-history comparison is optional. Each finished canonical Gold archive contains hour, day, week and cumulative results.
 
