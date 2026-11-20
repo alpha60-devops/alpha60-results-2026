@@ -2,106 +2,96 @@
   "canonical_metadata": {
     "external_imdb": "tt32278481",
     "imdb_id": "tt32278481",
-    "revision": "83c9de522516f0500cc5d0482326697cf82750f5",
+    "revision": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c",
     "wikidata_id": "Q133876041",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Enola_Holmes_3"
   },
-  "coverage_sha256": "ff43740d72253dd7062c91e2c13571bb617695511d1bcdf2c53456acf9894104",
-  "generated_at": "2026-11-06T06:42:16.970516+00:00",
+  "coverage_sha256": "19abde632614cfc68f39a1d96c19facc9f0439216c0291aaf2d36194b211b1ca",
+  "generated_at": "2026-11-20T00:27:41.755050+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/archives/enola-holmes-3.cache/cache.20261001.tar.xz",
-      "sha256": "a7fba149f4611565813a4fd3f8cc0121ed6923764d15324272a5c9a611934cf0",
-      "size": 989797304
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/enola-holmes-3/g1/archives/enola-holmes-3.cache/cache.20261016.tar.xz",
+      "sha256": "ede2132d15096088ddd3d8c20cee96a813d98e209280e0f5f5cc958a4f34c2b5",
+      "size": 1108899908
     },
     "coverage-evidence": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-coverage-evidence/enola-holmes-3.md",
-      "sha256": "b6047c4a9b3d83d2c8d7cddbbeac1c83c9366244aac25624dce403d753943c9f",
-      "size": 1064
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-coverage-evidence/enola-holmes-3.md",
+      "sha256": "1d13138e43e1e5d42cb12d1b7aada28f45b14d979bdb7c95429174913aa3eaaa",
+      "size": 712
     },
     "day-cache-stream-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-cache-stream-receipts/enola-holmes-3.json",
-      "sha256": "1605023d2d16b43884dd17089d91d150cd7e1d1c8ad5fc579c241eb97a527343",
-      "size": 2828
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-cache-stream-receipts/enola-holmes-3.json",
+      "sha256": "c5d6915b5b4c04b702584c66e61bb8c3c8654b18bc39826a7b658867b4cb233a",
+      "size": 2926
     },
     "day-product-receipt": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r2/results/data/txt/year-2026-day-product-receipts/enola-holmes-3.json",
-      "sha256": "34cd2dfb8b325cb9640bfa27b3960ef25aba746e13855843861566c734eb0b64",
-      "size": 366
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/results/data/txt/year-2026-day-product-receipts/enola-holmes-3.json",
+      "sha256": "004395416084d626440ea68171e60eedafba2a694624d4cc5b87201c196dce11",
+      "size": 368
     },
     "worker-map": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261004-gold-incremental-r9/inputs/worker-map.json",
-      "sha256": "189afc6268028bb8800f7fc1dae3d3d0f95b16e54ea1a87a81b5ff6e74854183",
-      "size": 248854
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/enola-holmes-3/g1/results/workers/ord.worker-map.json",
+      "sha256": "d42d3b19ca122eaf258813d06e716ac0f93b3567710f680019bd90707abf771d",
+      "size": 2990
     }
   },
   "media_object": "enola-holmes-3",
-  "page_format_migration": {
-    "coverage_and_figure_bytes_preserved": true,
-    "kind": "headings-and-interactive-map-controls",
-    "previous_page_sha256": "78d8fe8f084ad8f1bd826d5d14bf1b5a5e8cc19c2bf469008cedef224d9f81c4",
-    "previous_publication_revision": "4636ca21a4fac9c8df54b9fb8be544efb1323ea4",
-    "previous_receipt": "data/txt/results-page-format-20261105/previous-receipts/enola-holmes-3.json",
-    "previous_receipt_sha256": "b9fb110365d01bec1acf17391b9ef9569c907990526bcb00a4a85fa9e8d2103d",
-    "source_revision": "120c03a9ae5e9a1cf4813f6bc9699f3e55bfa3db",
-    "validator_sha256": "58249cef860cf82ed090d2166f72a9a44dca2a8a03a4fb6f2bd5191cf656c6d0"
-  },
   "published_files": {
-    "data/csv/bytes/enola-holmes-3-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "aa4030b4cb2edd09b01484671cd940ee3f7dd4d41ec5e534f9a90f8000c8ac5b",
-    "docs/itemized/enola-holmes-3-sample-cache-audit.md": "64f76a77c0876a9980fb772e5d1bcfffd2da7b5d594e5d1de7318c772db4fe79",
-    "docs/itemized/figures/enola-holmes-3-carto-4k.webp": "405f909121b1028ff0d301afe37dfa594da62dc40787ef50b68a7810c6654717",
-    "docs/itemized/figures/enola-holmes-3-carto.png": "f5deb7666381872a2c45de26834d260296823b04d92a7350320dfcef84955b8d",
+    "data/csv/bytes/enola-holmes-3-cumulative-detail.2026-btiha-itemized-by-bytes.csv": "d963994a8ca5e978e421bcb099e42bd853c38c999a47e76cba8428ee73647ba3",
+    "docs/itemized/enola-holmes-3-sample-cache-audit.md": "1c50985115afb99483b318286b856cdd0700e1397ebb423f55ab04dd41995ef9",
+    "docs/itemized/figures/enola-holmes-3-carto-4k.webp": "58e8b3a20340096d81eb3a0987c2d2f8c6a15e90fd8105b4a07d003354fef4bf",
+    "docs/itemized/figures/enola-holmes-3-carto.png": "7334142f44ca832f89e08989c1c49af4b8a7ac0085697965538f3f4cf79702d5",
     "docs/itemized/figures/enola-holmes-3-cumulative-detail-btiha-itemized-by-bytes.svg": "08ef70ee10effe939380a16f2cd03f29f304664d7d0ed398f97f17e1cd4f7599",
-    "docs/itemized/figures/enola-holmes-3-data-ge-1080p-4k.webp": "2e60728833c9c92321ecf982c40d81cddeb74dfd3b863184dc528cbc53a53996",
-    "docs/itemized/figures/enola-holmes-3-data-ge-1080p.webp": "fae3174943a9e450da4ffcb57b4d5d8ee7c2fe811ba16133af2fbde4a21cdd2e",
-    "docs/itemized/figures/enola-holmes-3-data-lt-1080p-4k.webp": "32b09d83c4e1a3a020faf3204a525b3a802cfad23c102a22bf8baf2ef9cc6323",
-    "docs/itemized/figures/enola-holmes-3-data-lt-1080p.webp": "a465822068e2e1cd913ab2aab6a293350b8cbc5e6d018c29318ee16f1900796e",
-    "docs/itemized/figures/enola-holmes-3-downloads-by-day-day.svg": "fce33637059ab373e7e4433b5313eedcce250a70377699938f59bb5aecd4732d",
-    "docs/itemized/figures/enola-holmes-3-downloads-by-week-enola-holmes-3-week.svg": "ba33a69b64ab32294bf6aa1b3396fe43b541141aef6e67129d9e6515f94c3a5b",
+    "docs/itemized/figures/enola-holmes-3-data-ge-1080p-4k.webp": "9980f3bdde3cef1de66e2b9d295df2ca91445ac5f89f919b4c80aed98f1f8274",
+    "docs/itemized/figures/enola-holmes-3-data-ge-1080p.webp": "29d06c6bea86d6db662fb8e2a64046b2b26cbb267a50b05ff0efa9385f8969fe",
+    "docs/itemized/figures/enola-holmes-3-data-lt-1080p-4k.webp": "157f2f6e802b411bb364b4e0a9971fb9e48be8bcf96e1aa832b1db23f53a7a58",
+    "docs/itemized/figures/enola-holmes-3-data-lt-1080p.webp": "9df0512ed2ffe9d88758f5722bf7fd49d54715425ca414628561e8f858d140d0",
+    "docs/itemized/figures/enola-holmes-3-downloads-by-day-day.svg": "1c9c567d9215cde89a00d122b2a9d880ca630ee470862c704f27ae64d9db6f9d",
+    "docs/itemized/figures/enola-holmes-3-downloads-by-week-enola-holmes-3-week.svg": "b0d2af394e04be7ba3b6f4e5fddb02540137ecb1313a0c1375b90e251c2ead36",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/code",
-      "revision": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/code",
+      "revision": "c561e929724e5c8cc7755468259dfee4ca57bed1",
       "untracked": false
     },
     "carto_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-carto-geo.exe",
-      "sha256": "0cb87eb06a790b5c0bb5d46b65ecdc046529fd06789bd8e0b5dfe7389106d46b",
-      "size": 44811816
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-carto-geo.exe",
+      "sha256": "b345fbbaa7d5f97c20547692d895103a0cfe57c641898419308b799de879ae37",
+      "size": 55135936
     },
     "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
     "inputs": {
       "cumulative-btiha-geojson": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/enola-holmes-3/tmp/enola-holmes-3-cumulative-btiha.geojson",
-        "sha256": "7f41d7dc212569cc87b2680891f75aef57194b5d2e6abe167de25e4e76f5af96",
-        "size": 251278296
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/enola-holmes-3/g1/results/work/enola-holmes-3/tmp/enola-holmes-3-cumulative-btiha.geojson",
+        "sha256": "030db60e3b6417aaeb2358b90f680148008e6665f00a0a9cd1695c9f73e1a5d8",
+        "size": 274878353
       },
       "cumulative-btiha-metadata": {
-        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/work/enola-holmes-3/tmp/enola-holmes-3-cumulative-btiha-media-objects.json",
-        "sha256": "77b6eb07d257e989d0d378c3391ba81a24b07d2cdb27ff04895ae310be118f8e",
-        "size": 376948
+        "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/enola-holmes-3/g1/results/work/enola-holmes-3/tmp/enola-holmes-3-cumulative-btiha-media-objects.json",
+        "sha256": "59c564a87883cf9e7e73f66f8feeed1e7357adad261117a8e9ab88ead4da4a4d",
+        "size": 376989
       }
     },
     "izzi": {
       "dirty": false,
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi",
-      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi",
+      "revision": "6345560f06831bfee5bb8c5345f106a3690ee912",
       "untracked": false
     },
     "media_object": "enola-holmes-3",
     "meta_collection_renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/bin/a60-meta-collection.exe",
-      "sha256": "69d8acc9612d00aa66f0d5d958f390d4a4da7e00eb3cb8c662084fb8fe675fdd",
-      "size": 8579400
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/bin/a60-meta-collection.exe",
+      "sha256": "4f35096946b7c6f6fd7db85dc4b98c6970de9db67dd8c6843677376548299a46",
+      "size": 634352
     },
     "renderer": {
-      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261006-gold-parallel/eureka/results-r9v1/assets/izzi/build/cmake/tests/izzi_visualization_render",
-      "sha256": "f88f4880f52e8631120fed3b6390306822cd2eee6507275cfa5f3e2cd94846ac",
-      "size": 440288
+      "path": "/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ab772c6b939273917d09e58bf50d549242f5a563ff3a1f62dc4d48f4407ae276",
+      "size": 595200
     },
     "schema": "alpha60-media-object-render-receipt/1",
     "status": "passed",
@@ -109,8 +99,8 @@
       "data-map-ge-1080p": {
         "font_sizes": [
           90.0,
-          56.0,
-          28.0,
+          58.0,
+          29.0,
           26.0,
           26.0,
           26.0,
@@ -128,10 +118,10 @@
           "Seoul",
           "Istanbul",
           "Amsterdam",
-          "Shanghai",
           "London",
-          "Lelystad",
+          "Shanghai",
           "Hangzhou",
+          "Lelystad",
           "Moscow",
           "Budapest"
         ],
@@ -142,14 +132,14 @@
       "data-map-lt-1080p": {
         "font_sizes": [
           90.0,
-          65.0,
-          43.0,
-          38.0,
-          32.0,
+          66.0,
+          47.0,
+          37.0,
+          33.0,
           32.0,
           31.0,
           31.0,
-          30.0,
+          31.0,
           26.0
         ],
         "image_references": [
@@ -162,9 +152,9 @@
           "Istanbul",
           "Amsterdam",
           "Shanghai",
+          "London",
           "Lelystad",
           "Hangzhou",
-          "London",
           "Moscow",
           "Budapest"
         ],
@@ -176,7 +166,7 @@
         "polylines": 2,
         "role": "day-graph",
         "status": "passed",
-        "x_tick_labels": 24,
+        "x_tick_labels": 22,
         "y_tick_labels": 20
       },
       "histogram": {
@@ -199,18 +189,18 @@
         "polylines": 2,
         "role": "week-graph",
         "status": "passed",
-        "x_tick_labels": 14,
-        "y_tick_labels": 20
+        "x_tick_labels": 16,
+        "y_tick_labels": 22
       }
     }
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "34880aa0f0749a550619ad8d68a76cdc4a9ea7d9",
-    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "a27f7e6b2f33971c58dd6e7da2c29d66f1e293b6",
-    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
-    "metadata": "83c9de522516f0500cc5d0482326697cf82750f5"
+    "alpha60": "c561e929724e5c8cc7755468259dfee4ca57bed1",
+    "cartofreako": "7047c24eda9f88cb822162dfd39f732ef39d60f7",
+    "data": "52fb712c888f3efefa323bcdc07e22349f1f1eb4",
+    "izzi": "6345560f06831bfee5bb8c5345f106a3690ee912",
+    "metadata": "4f44fd45cd4dbcaf8b1463e562484dd55eb0756c"
   },
   "status": "passed",
   "validation_source": "render-receipt",

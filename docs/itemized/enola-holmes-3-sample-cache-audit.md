@@ -15,22 +15,22 @@ description: "Cache coverage and visualization audit for one media object."
 | Collection key | `enola-holmes-3` |
 | imdb_id | [tt32278481](https://www.imdb.com/title/tt32278481/) |
 | wikipedia_url | [Enola Holmes 3](https://en.wikipedia.org/wiki/Enola_Holmes_3) |
-| Sample dates | 2026-07-01-to-2026-10-01 |
-| Sample days | 93 |
+| Sample dates | 2026-07-01-to-2026-10-16 |
+| Sample days | 108 |
 | BTIH count | 227 |
 | Unique BTIH count | 212 |
-| Downloaders total | 19,725,085 |
-| Uploaders total | 1,037,155 |
+| Downloaders total | 22,152,046 |
+| Uploaders total | 1,103,730 |
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
 ## 2. Coverage report
 
-- Generated: 2026-10-07T10:10:20Z
-- Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/enola-holmes-3.xz`
-- Hour directories: 2201
+- Generated: 2026-11-20T00:11:41Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/enola-holmes-3.xz`
+- Hour directories: 2561
 - Zero-length sample files: 0
-- Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
+- Other unparsable sample files: 0
 - Hourly discontinuities: 2 (10 missing hours)
 - Missing days: 0
 
@@ -38,17 +38,6 @@ description: "Cache coverage and visualization audit for one media object."
 
 - hourly gap: last `2026-08-30 22:02`, resumed `2026-08-31 00:02` — missing 1 hour(s)
 - hourly gap: last `2026-09-10 22:02`, resumed `2026-09-11 08:02` — missing 9 hour(s)
-
-
-### Frozen validation evidence
-
-- Frozen content SHA-256: `7e18763d7ce50f24ef98086d7534f6f8a890eea1abb0adfcdaafbad946164ab6`
-- Full-input producer receipt SHA-256: `65b3ef3f718bba8372dc17c0cef3289b7658457a30e02eddda31eed79e29e463`
-- Frozen raw archives: 2201
-- Empty sampler observations remain explicit gaps; no observations were imputed.
-- Out-of-scope records retain the collection factory's established filtering.
-- Excluded raw members: 1
-- Excluded observations: 3292
 
 ## 3. File sizes histogram *median[lowest, highest]*
 
@@ -90,7 +79,7 @@ description: "Cache coverage and visualization audit for one media object."
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
-| 1.93 | 17.31 | 37.07 | 41.74 | 1.11 | 0.83 |
+| 1.94 | 17.69 | 36.69 | 41.74 | 1.10 | 0.84 |
 
 ### Network infrastructure
 
