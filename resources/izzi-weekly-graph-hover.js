@@ -6,20 +6,19 @@
 'use strict';
 
 function bindAnnualGraph(figure, panel, groups, highlight, reset, atLabel) {
-  const year = Number(figure.dataset.annualYear);
   const controls = figure.querySelector('.annual-results-controls');
   const selector = controls.querySelector('[data-series-select]');
-  const date = controls.querySelector('[data-series-date]');
+  const weekInput = controls.querySelector('[data-series-week]');
   const output = controls.querySelector('output');
   const svg = panel.ownerSVGElement;
   const left = Number(panel.dataset.plotLeft);
   const right = Number(panel.dataset.plotRight);
-  const lastDay = Number(date.max);
+  const lastWeek = Number(weekInput.max);
   const formatCount = new Intl.NumberFormat();
   const series = new Map(groups.map(group => [group.dataset.collectionKey, group]));
   const observations = new Map();
   let showing = '';
-  let selectedDay;
+  let selectedWeek;
 
   function counts(key) {
     if (!observations.has(key)) {
@@ -30,7 +29,7 @@ function bindAnnualGraph(figure, panel, groups, highlight, reset, atLabel) {
     return observations.get(key);
   }
 
-  function inspect(key, day) {
+  function inspect(key, week) {
     const group = series.get(key);
     if (key !== showing) {
       if (group) highlight(group);
@@ -40,30 +39,30 @@ function bindAnnualGraph(figure, panel, groups, highlight, reset, atLabel) {
     output.hidden = !group;
     if (!group) return;
     const observed = counts(key);
-    const isoDate = new Date(Date.UTC(year, 0, day)).toISOString().slice(0, 10);
-    const value = observed.has(day) ?
-      `${formatCount.format(observed.get(day))} downloaders` : 'No daily result';
-    const message = `${group.dataset.series} · ${isoDate} · ${value}`;
+    const label = `Week ${week}`;
+    const value = observed.has(week) ?
+      `${formatCount.format(observed.get(week))} downloaders` : 'No weekly result';
+    const message = `${group.dataset.series} · ${label} · ${value}`;
     if (output.value !== message) output.value = message;
-    date.setAttribute('aria-valuetext', isoDate);
+    weekInput.setAttribute('aria-valuetext', label);
   }
 
-  function choose(key, day) {
+  function choose(key, week) {
     selector.value = key;
-    date.disabled = !key;
+    weekInput.disabled = !key;
     if (key) {
-      selectedDay = day ?? Array.from(counts(key).keys()).at(-1);
-      date.value = selectedDay;
+      selectedWeek = week ?? Array.from(counts(key).keys()).at(-1);
+      weekInput.value = selectedWeek;
     }
-    inspect(key, selectedDay);
+    inspect(key, selectedWeek);
   }
 
-  function pointerDay(event) {
+  function pointerWeek(event) {
     const matrix = panel.getScreenCTM();
     if (!matrix) return undefined;
     const {x} = new DOMPoint(event.clientX, event.clientY).matrixTransform(matrix.inverse());
     if (x < left || x > right) return undefined;
-    return 1 + Math.round((x - left) / (right - left) * (lastDay - 1));
+    return 1 + Math.round((x - left) / (right - left) * (lastWeek - 1));
   }
 
   function pointedKey(event) {
@@ -74,18 +73,18 @@ function bindAnnualGraph(figure, panel, groups, highlight, reset, atLabel) {
   }
   function choosePoint(event) {
     const key = pointedKey(event);
-    if (key) choose(key, pointerDay(event));
+    if (key) choose(key, pointerWeek(event));
   }
 
   selector.addEventListener('change', () => choose(selector.value));
-  date.addEventListener('input', () => choose(selector.value, Number(date.value)));
+  weekInput.addEventListener('input', () => choose(selector.value, Number(weekInput.value)));
   svg.addEventListener('pointermove', event => {
     if (event.pointerType === 'touch') return;
     const key = pointedKey(event) || selector.value;
-    if (key) inspect(key, pointerDay(event) ?? selectedDay ?? Array.from(counts(key).keys()).at(-1));
+    if (key) inspect(key, pointerWeek(event) ?? selectedWeek ?? Array.from(counts(key).keys()).at(-1));
     else inspect('');
   });
-  svg.addEventListener('pointerleave', () => inspect(selector.value, selectedDay));
+  svg.addEventListener('pointerleave', () => inspect(selector.value, selectedWeek));
   svg.addEventListener('pointerup', event => {
     if (event.pointerType === 'touch') choosePoint(event);
   });

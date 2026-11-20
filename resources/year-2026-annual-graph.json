@@ -1,14 +1,14 @@
 {
   "schema": "alpha60.results-annual-graph/1",
   "year": 2026,
-  "source_revision": "ecab254e4787145941b4a7caf15485747e01a243",
-  "input_sha256": "3230fc8659a1e0431f6cb2218fcfb80d8e2200dcce91da376872a71708197d85",
+  "source_revision": "d97bf0aa1d17a8d2ec055e3da50184b886ceb678",
+  "input_sha256": "d9270d1bbf978a925f125753cf82e9c5cc32e68b7aab76086f4c3b40694af619",
   "generator_sha256": {
-    "annual_results_graph.py": "a4b756ec450a9678ed37c2e6228e636943429ff1163a026aa281d7ff319253ff",
+    "annual_results_graph.py": "36c214f24d54e76ea4a5c2ea8614deab9418a7b252b16f67cde7c624b30a3e92",
     "annual-results-graph.css": "439cedeba0538cf1ee5724ab6bcf627e6b873867c1f0da5271abca7ecf2d7585",
     "izzi-weekly-graphs.cc": "a73ebb92f40ab0e4efd9a037c61bf4958360ccb81cbb5097f1992fd9ce547692",
     "izzi_weekly_graphs.py": "263f4e5eafc2a37e2873481fd24bcb0e4e9a2569d36ba3e745b9f10a18ff47e7",
-    "izzi-weekly-graph-hover.js": "84a5714ac5eb3b3b5050f61b1d9fef56c3fa74181a68d0adcc82804f9d7b811c"
+    "izzi-weekly-graph-hover.js": "568f127266bd735d672cfa2b28379678a5f4617220aa6e0cfff33cb190731797"
   },
   "renderer": {
     "library": "Izzi",
@@ -19,7 +19,7 @@
     "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
     "renderer_sha256": "a73ebb92f40ab0e4efd9a037c61bf4958360ccb81cbb5097f1992fd9ce547692",
     "wrapper_sha256": "263f4e5eafc2a37e2873481fd24bcb0e4e9a2569d36ba3e745b9f10a18ff47e7",
-    "interaction_sha256": "84a5714ac5eb3b3b5050f61b1d9fef56c3fa74181a68d0adcc82804f9d7b811c",
+    "interaction_sha256": "568f127266bd735d672cfa2b28379678a5f4617220aa6e0cfff33cb190731797",
     "functions": [
       "svg::make_line_graph",
       "svg::make_line_graph_annotations",
@@ -27,679 +27,680 @@
       "svg::make_marker_instance"
     ]
   },
-  "observations": 10217,
+  "period": "week",
+  "observations": 1483,
   "coverage": {
     "acolyte-107": {
       "audit": "docs/itemized/acolyte-107-sample-cache-audit.html",
       "title": "The Acolyte",
-      "days": 113,
-      "first": "2026-05-04",
-      "last": "2026-08-25"
+      "weeks": 17,
+      "first_week": 18,
+      "last_week": 34
     },
     "all-you-need-is-kill": {
       "audit": "docs/itemized/all-you-need-is-kill-sample-cache-audit.html",
       "title": "All You Need Is Kill",
-      "days": 182,
-      "first": "2026-04-16",
-      "last": "2026-10-14"
+      "weeks": 26,
+      "first_week": 16,
+      "last_week": 41
     },
     "apothecary-diaries-03.1": {
       "audit": "docs/itemized/apothecary-diaries-03.1-sample-cache-audit.html",
       "title": "The Apothecary Diaries",
-      "days": 43,
-      "first": "2026-10-02",
-      "last": "2026-11-13"
+      "weeks": 7,
+      "first_week": 40,
+      "last_week": 46
     },
     "avatar-seven-havens-01": {
       "audit": "docs/itemized/avatar-seven-havens-01-sample-cache-audit.html",
       "title": "Avatar: Seven Havens",
-      "days": 35,
-      "first": "2026-10-10",
-      "last": "2026-11-13"
+      "weeks": 5,
+      "first_week": 41,
+      "last_week": 45
     },
     "avatar-the-last-airbender-2024-02": {
       "audit": "docs/itemized/avatar-the-last-airbender-2024-02-sample-cache-audit.html",
       "title": "Avatar: The Last Airbender",
-      "days": 142,
-      "first": "2026-06-25",
-      "last": "2026-11-13"
+      "weeks": 21,
+      "first_week": 26,
+      "last_week": 46
     },
     "backrooms-2026": {
       "audit": "docs/itemized/backrooms-2026-sample-cache-audit.html",
       "title": "Backrooms",
-      "days": 119,
-      "first": "2026-07-15",
-      "last": "2026-11-10"
+      "weeks": 17,
+      "first_week": 29,
+      "last_week": 45
     },
     "bass-x-machina-01": {
       "audit": "docs/itemized/bass-x-machina-01-sample-cache-audit.html",
       "title": "Bass X Machina",
-      "days": 10,
-      "first": "2026-11-04",
-      "last": "2026-11-13"
+      "weeks": 2,
+      "first_week": 45,
+      "last_week": 46
     },
     "bear-00": {
       "audit": "docs/itemized/bear-00-sample-cache-audit.html",
       "title": "The Bear (bear-00)",
-      "days": 105,
-      "first": "2026-05-06",
-      "last": "2026-08-18"
+      "weeks": 15,
+      "first_week": 19,
+      "last_week": 33
     },
     "bear-05": {
       "audit": "docs/itemized/bear-05-sample-cache-audit.html",
       "title": "The Bear (bear-05)",
-      "days": 125,
-      "first": "2026-06-26",
-      "last": "2026-11-13"
+      "weeks": 19,
+      "first_week": 26,
+      "last_week": 46
     },
     "beastars-03.2": {
       "audit": "docs/itemized/beastars-03.2-sample-cache-audit.html",
       "title": "BEASTARS",
-      "days": 105,
-      "first": "2026-03-07",
-      "last": "2026-06-19"
+      "weeks": 15,
+      "first_week": 10,
+      "last_week": 24
     },
     "beauty-108": {
       "audit": "docs/itemized/beauty-108-sample-cache-audit.html",
       "title": "The Beauty",
-      "days": 105,
-      "first": "2026-02-26",
-      "last": "2026-06-10"
+      "weeks": 15,
+      "first_week": 9,
+      "last_week": 23
     },
     "beef-02": {
       "audit": "docs/itemized/beef-02-sample-cache-audit.html",
       "title": "Beef",
-      "days": 105,
-      "first": "2026-04-17",
-      "last": "2026-07-30"
+      "weeks": 15,
+      "first_week": 16,
+      "last_week": 30
     },
     "black-clover-02": {
       "audit": "docs/itemized/black-clover-02-sample-cache-audit.html",
       "title": "Black Clover",
-      "days": 42,
-      "first": "2026-10-03",
-      "last": "2026-11-13"
+      "weeks": 6,
+      "first_week": 40,
+      "last_week": 45
     },
     "blue-box-201": {
       "audit": "docs/itemized/blue-box-201-sample-cache-audit.html",
       "title": "Blue Box",
-      "days": 41,
-      "first": "2026-10-05",
-      "last": "2026-11-14"
+      "weeks": 6,
+      "first_week": 40,
+      "last_week": 45
     },
     "bluff": {
       "audit": "docs/itemized/bluff-sample-cache-audit.html",
       "title": "The Bluff",
-      "days": 105,
-      "first": "2026-02-26",
-      "last": "2026-06-10"
+      "weeks": 15,
+      "first_week": 9,
+      "last_week": 23
     },
     "boys-501": {
       "audit": "docs/itemized/boys-501-sample-cache-audit.html",
       "title": "The Boys",
-      "days": 182,
-      "first": "2026-04-08",
-      "last": "2026-10-06"
+      "weeks": 26,
+      "first_week": 15,
+      "last_week": 40
     },
     "bridgerton-04.1": {
       "audit": "docs/itemized/bridgerton-04.1-sample-cache-audit.html",
       "title": "Bridgerton (bridgerton-04.1)",
-      "days": 186,
-      "first": "2026-01-29",
-      "last": "2026-08-02"
+      "weeks": 27,
+      "first_week": 5,
+      "last_week": 31
     },
     "bridgerton-04.2": {
       "audit": "docs/itemized/bridgerton-04.2-sample-cache-audit.html",
       "title": "Bridgerton (bridgerton-04.2)",
-      "days": 189,
-      "first": "2026-02-26",
-      "last": "2026-09-02"
+      "weeks": 27,
+      "first_week": 9,
+      "last_week": 35
     },
     "brothers-01": {
       "audit": "docs/itemized/brothers-01-sample-cache-audit.html",
       "title": "Brothers",
-      "days": 50,
-      "first": "2026-09-24",
-      "last": "2026-11-13"
+      "weeks": 8,
+      "first_week": 39,
+      "last_week": 46
     },
     "coyote-vs-acme": {
       "audit": "docs/itemized/coyote-vs-acme-sample-cache-audit.html",
       "title": "Coyote vs. Acme",
-      "days": 70,
-      "first": "2026-08-31",
-      "last": "2026-11-08"
+      "weeks": 10,
+      "first_week": 35,
+      "last_week": 44
     },
     "crew-girl-01": {
       "audit": "docs/itemized/crew-girl-01-sample-cache-audit.html",
       "title": "Crew Girl",
-      "days": 63,
-      "first": "2026-09-10",
-      "last": "2026-11-11"
+      "weeks": 9,
+      "first_week": 37,
+      "last_week": 45
     },
     "cyberpunk-edgerunners-02": {
       "audit": "docs/itemized/cyberpunk-edgerunners-02-sample-cache-audit.html",
       "title": "Cyberpunk: Edgerunners",
-      "days": 21,
-      "first": "2026-10-20",
-      "last": "2026-11-09"
+      "weeks": 3,
+      "first_week": 42,
+      "last_week": 44
     },
     "dang-01": {
       "audit": "docs/itemized/dang-01-sample-cache-audit.html",
       "title": "DANG!",
-      "days": 63,
-      "first": "2026-09-09",
-      "last": "2026-11-10"
+      "weeks": 9,
+      "first_week": 37,
+      "last_week": 45
     },
     "dark-winds-401": {
       "audit": "docs/itemized/dark-winds-401-sample-cache-audit.html",
       "title": "Dark Winds",
-      "days": 104,
-      "first": "2026-02-15",
-      "last": "2026-05-30"
+      "weeks": 15,
+      "first_week": 7,
+      "last_week": 21
     },
     "dinosaurs-01": {
       "audit": "docs/itemized/dinosaurs-01-sample-cache-audit.html",
       "title": "The Dinosaurs",
-      "days": 112,
-      "first": "2026-03-06",
-      "last": "2026-06-25"
+      "weeks": 16,
+      "first_week": 10,
+      "last_week": 25
     },
     "diplomat-04": {
       "audit": "docs/itemized/diplomat-04-sample-cache-audit.html",
       "title": "The Diplomat",
-      "days": 21,
-      "first": "2026-10-16",
-      "last": "2026-11-05"
+      "weeks": 3,
+      "first_week": 42,
+      "last_week": 44
     },
     "drama-2026": {
       "audit": "docs/itemized/drama-2026-sample-cache-audit.html",
       "title": "The Drama",
-      "days": 74,
-      "first": "2026-08-04",
-      "last": "2026-10-16"
+      "weeks": 11,
+      "first_week": 31,
+      "last_week": 41
     },
     "enola-holmes-3": {
       "audit": "docs/itemized/enola-holmes-3-sample-cache-audit.html",
       "title": "Enola Holmes 3",
-      "days": 108,
-      "first": "2026-07-01",
-      "last": "2026-10-16"
+      "weeks": 16,
+      "first_week": 27,
+      "last_week": 42
     },
     "euphoria-301": {
       "audit": "docs/itemized/euphoria-301-sample-cache-audit.html",
       "title": "Euphoria",
-      "days": 182,
-      "first": "2026-04-13",
-      "last": "2026-10-11"
+      "weeks": 26,
+      "first_week": 15,
+      "last_week": 40
     },
     "fall-of-el-mayo-01": {
       "audit": "docs/itemized/fall-of-el-mayo-01-sample-cache-audit.html",
       "title": "The Fall of El Mayo",
-      "days": 15,
-      "first": "2026-10-30",
-      "last": "2026-11-13"
+      "weeks": 3,
+      "first_week": 44,
+      "last_week": 46
     },
     "fallout-2024-206": {
       "audit": "docs/itemized/fallout-2024-206-sample-cache-audit.html",
       "title": "Fallout",
-      "days": 182,
-      "first": "2026-01-22",
-      "last": "2026-07-22"
+      "weeks": 26,
+      "first_week": 4,
+      "last_week": 29
     },
     "for-all-mankind-501": {
       "audit": "docs/itemized/for-all-mankind-501-sample-cache-audit.html",
       "title": "For All Mankind",
-      "days": 181,
-      "first": "2026-03-27",
-      "last": "2026-09-24"
+      "weeks": 26,
+      "first_week": 13,
+      "last_week": 38
     },
     "furious-2025": {
       "audit": "docs/itemized/furious-2025-sample-cache-audit.html",
       "title": "The Furious",
-      "days": 105,
-      "first": "2026-07-07",
-      "last": "2026-10-19"
+      "weeks": 15,
+      "first_week": 27,
+      "last_week": 41
     },
     "get-jiro-106": {
       "audit": "docs/itemized/get-jiro-106-sample-cache-audit.html",
       "title": "Get Jiro!",
-      "days": 14,
-      "first": "2026-11-02",
-      "last": "2026-11-15"
+      "weeks": 2,
+      "first_week": 44,
+      "last_week": 45
     },
     "ghost-in-the-shell-2026-01": {
       "audit": "docs/itemized/ghost-in-the-shell-2026-01-sample-cache-audit.html",
       "title": "The Ghost in the Shell",
-      "days": 118,
-      "first": "2026-07-15",
-      "last": "2026-11-09"
+      "weeks": 17,
+      "first_week": 29,
+      "last_week": 45
     },
     "goat-2026": {
       "audit": "docs/itemized/goat-2026-sample-cache-audit.html",
       "title": "GOAT",
-      "days": 105,
-      "first": "2026-03-26",
-      "last": "2026-07-08"
+      "weeks": 15,
+      "first_week": 13,
+      "last_week": 27
     },
     "hijack-201": {
       "audit": "docs/itemized/hijack-201-sample-cache-audit.html",
       "title": "Hijack",
-      "days": 105,
-      "first": "2026-01-14",
-      "last": "2026-04-29"
+      "weeks": 16,
+      "first_week": 3,
+      "last_week": 18
     },
     "his-and-hers-2026-01": {
       "audit": "docs/itemized/his-and-hers-2026-01-sample-cache-audit.html",
       "title": "His And Hers",
-      "days": 182,
-      "first": "2026-01-08",
-      "last": "2026-07-08"
+      "weeks": 26,
+      "first_week": 2,
+      "last_week": 27
     },
     "hopeu-2026": {
       "audit": "docs/itemized/hopeu-2026-sample-cache-audit.html",
       "title": "Hope",
-      "days": 22,
-      "first": "2026-10-24",
-      "last": "2026-11-14"
+      "weeks": 4,
+      "first_week": 43,
+      "last_week": 46
     },
     "hoppers": {
       "audit": "docs/itemized/hoppers-sample-cache-audit.html",
       "title": "Hoppers",
-      "days": 184,
-      "first": "2026-03-26",
-      "last": "2026-09-25"
+      "weeks": 27,
+      "first_week": 13,
+      "last_week": 39
     },
     "house-of-the-dragon-301": {
       "audit": "docs/itemized/house-of-the-dragon-301-sample-cache-audit.html",
       "title": "House of the Dragon (house-of-the-dragon-301)",
-      "days": 82,
-      "first": "2026-06-22",
-      "last": "2026-09-14"
+      "weeks": 13,
+      "first_week": 25,
+      "last_week": 37
     },
     "house-of-the-dragon-308": {
       "audit": "docs/itemized/house-of-the-dragon-308-sample-cache-audit.html",
       "title": "House of the Dragon (house-of-the-dragon-308)",
-      "days": 98,
-      "first": "2026-08-10",
-      "last": "2026-11-15"
+      "weeks": 14,
+      "first_week": 32,
+      "last_week": 45
     },
     "industry-401": {
       "audit": "docs/itemized/industry-401-sample-cache-audit.html",
       "title": "Industry",
-      "days": 105,
-      "first": "2026-01-12",
-      "last": "2026-04-26"
+      "weeks": 15,
+      "first_week": 2,
+      "last_week": 16
     },
     "invincible-301": {
       "audit": "docs/itemized/invincible-301-sample-cache-audit.html",
       "title": "Invincible (invincible-301)",
-      "days": 105,
-      "first": "2026-03-18",
-      "last": "2026-06-30"
+      "weeks": 15,
+      "first_week": 12,
+      "last_week": 26
     },
     "invincible-401": {
       "audit": "docs/itemized/invincible-401-sample-cache-audit.html",
       "title": "Invincible (invincible-401)",
-      "days": 105,
-      "first": "2026-03-18",
-      "last": "2026-06-30"
+      "weeks": 15,
+      "first_week": 12,
+      "last_week": 26
     },
     "invite-2026": {
       "audit": "docs/itemized/invite-2026-sample-cache-audit.html",
       "title": "The Invite",
-      "days": 95,
-      "first": "2026-08-11",
-      "last": "2026-11-13"
+      "weeks": 14,
+      "first_week": 32,
+      "last_week": 45
     },
     "kill-jackie-01": {
       "audit": "docs/itemized/kill-jackie-01-sample-cache-audit.html",
       "title": "Kill Jackie",
-      "days": 35,
-      "first": "2026-10-02",
-      "last": "2026-11-05"
+      "weeks": 5,
+      "first_week": 40,
+      "last_week": 44
     },
     "knight-of-the-seven-kingdoms-106": {
       "audit": "docs/itemized/knight-of-the-seven-kingdoms-106-sample-cache-audit.html",
       "title": "Knight of the Seven Kingdoms",
-      "days": 181,
-      "first": "2026-02-23",
-      "last": "2026-08-23"
+      "weeks": 26,
+      "first_week": 8,
+      "last_week": 33
     },
     "kung-fu-soccer-2026": {
       "audit": "docs/itemized/kung-fu-soccer-2026-sample-cache-audit.html",
       "title": "Kung Fu Soccer",
-      "days": 42,
-      "first": "2026-10-03",
-      "last": "2026-11-13"
+      "weeks": 6,
+      "first_week": 40,
+      "last_week": 45
     },
     "lanterns-101": {
       "audit": "docs/itemized/lanterns-101-sample-cache-audit.html",
       "title": "Lanterns",
-      "days": 84,
-      "first": "2026-08-17",
-      "last": "2026-11-08"
+      "weeks": 12,
+      "first_week": 33,
+      "last_week": 44
     },
     "legend-of-aang-the-last-airbender": {
       "audit": "docs/itemized/legend-of-aang-the-last-airbender-sample-cache-audit.html",
       "title": "The Legend of Aang: The Last Airbender",
-      "days": 3,
-      "first": "2026-04-16",
-      "last": "2026-04-18"
+      "weeks": 1,
+      "first_week": 16,
+      "last_week": 16
     },
     "legend-of-vox-machina-410": {
       "audit": "docs/itemized/legend-of-vox-machina-410-sample-cache-audit.html",
       "title": "The Legend of Vox Machina",
-      "days": 118,
-      "first": "2026-06-25",
-      "last": "2026-10-21"
+      "weeks": 17,
+      "first_week": 26,
+      "last_week": 42
     },
     "lego-star-wars-the-mandalorian-2026": {
       "audit": "docs/itemized/lego-star-wars-the-mandalorian-2026-sample-cache-audit.html",
       "title": "LEGO Star Wars: The Mandalorian",
-      "days": 74,
-      "first": "2026-09-03",
-      "last": "2026-11-15"
+      "weeks": 11,
+      "first_week": 36,
+      "last_week": 46
     },
     "love-story-2026-107": {
       "audit": "docs/itemized/love-story-2026-107-sample-cache-audit.html",
       "title": "Love Story 2026",
-      "days": 105,
-      "first": "2026-03-13",
-      "last": "2026-06-25"
+      "weeks": 15,
+      "first_week": 11,
+      "last_week": 25
     },
     "lowdown-201": {
       "audit": "docs/itemized/lowdown-201-sample-cache-audit.html",
       "title": "The Lowdown",
-      "days": 28,
-      "first": "2026-10-15",
-      "last": "2026-11-11"
+      "weeks": 4,
+      "first_week": 42,
+      "last_week": 45
     },
     "lupin-04": {
       "audit": "docs/itemized/lupin-04-sample-cache-audit.html",
       "title": "Lupin",
-      "days": 21,
-      "first": "2026-10-24",
-      "last": "2026-11-13"
+      "weeks": 3,
+      "first_week": 43,
+      "last_week": 45
     },
     "man-on-the-run": {
       "audit": "docs/itemized/man-on-the-run-sample-cache-audit.html",
       "title": "Man on the Run",
-      "days": 109,
-      "first": "2026-03-01",
-      "last": "2026-06-17"
+      "weeks": 16,
+      "first_week": 9,
+      "last_week": 24
     },
     "mandalorian-and-grogu": {
       "audit": "docs/itemized/mandalorian-and-grogu-sample-cache-audit.html",
       "title": "The Mandalorian and Grogu",
-      "days": 140,
-      "first": "2026-06-23",
-      "last": "2026-11-09"
+      "weeks": 20,
+      "first_week": 25,
+      "last_week": 44
     },
     "mating-season-01": {
       "audit": "docs/itemized/mating-season-01-sample-cache-audit.html",
       "title": "Mating Season",
-      "days": 112,
-      "first": "2026-05-23",
-      "last": "2026-09-11"
+      "weeks": 16,
+      "first_week": 21,
+      "last_week": 36
     },
     "maul-shadow-lord-101": {
       "audit": "docs/itemized/maul-shadow-lord-101-sample-cache-audit.html",
       "title": "Star Wars: Maul - Shadow Lord",
-      "days": 176,
-      "first": "2026-04-06",
-      "last": "2026-09-28"
+      "weeks": 26,
+      "first_week": 14,
+      "last_week": 39
     },
     "monarch-legacy-of-monsters-201": {
       "audit": "docs/itemized/monarch-legacy-of-monsters-201-sample-cache-audit.html",
       "title": "Monarch: Legacy of Monsters (monarch-legacy-of-monsters-201)",
-      "days": 216,
-      "first": "2026-02-27",
-      "last": "2026-10-01"
+      "weeks": 31,
+      "first_week": 9,
+      "last_week": 39
     },
     "monarch-legacy-of-monsters-208": {
       "audit": "docs/itemized/monarch-legacy-of-monsters-208-sample-cache-audit.html",
       "title": "Monarch: Legacy of Monsters (monarch-legacy-of-monsters-208)",
-      "days": 181,
-      "first": "2026-04-17",
-      "last": "2026-10-15"
+      "weeks": 26,
+      "first_week": 16,
+      "last_week": 41
     },
     "musk-2026": {
       "audit": "docs/itemized/musk-2026-sample-cache-audit.html",
       "title": "Musk",
-      "days": 7,
-      "first": "2026-11-07",
-      "last": "2026-11-13"
+      "weeks": 1,
+      "first_week": 45,
+      "last_week": 45
     },
     "my-brilliant-career-2026-01": {
       "audit": "docs/itemized/my-brilliant-career-2026-01-sample-cache-audit.html",
       "title": "My Brilliant Career",
-      "days": 84,
-      "first": "2026-08-18",
-      "last": "2026-11-09"
+      "weeks": 12,
+      "first_week": 33,
+      "last_week": 44
     },
     "neagley-01": {
       "audit": "docs/itemized/neagley-01-sample-cache-audit.html",
       "title": "Neagley",
-      "days": 56,
-      "first": "2026-09-17",
-      "last": "2026-11-11"
+      "weeks": 8,
+      "first_week": 38,
+      "last_week": 45
     },
     "night-agent-03": {
       "audit": "docs/itemized/night-agent-03-sample-cache-audit.html",
       "title": "Night Agent",
-      "days": 181,
-      "first": "2026-02-19",
-      "last": "2026-08-26"
+      "weeks": 26,
+      "first_week": 8,
+      "last_week": 34
     },
     "obsession-2025": {
       "audit": "docs/itemized/obsession-2025-sample-cache-audit.html",
       "title": "Obsession",
-      "days": 120,
-      "first": "2026-07-01",
-      "last": "2026-10-29"
+      "weeks": 18,
+      "first_week": 27,
+      "last_week": 44
     },
     "olympics-2026": {
       "audit": "docs/itemized/olympics-2026-sample-cache-audit.html",
       "title": "Olympics",
-      "days": 107,
-      "first": "2026-02-08",
-      "last": "2026-05-25"
+      "weeks": 16,
+      "first_week": 6,
+      "last_week": 21
     },
     "one-piece-2023-02": {
       "audit": "docs/itemized/one-piece-2023-02-sample-cache-audit.html",
       "title": "One Piece 2023",
-      "days": 182,
-      "first": "2026-03-10",
-      "last": "2026-09-07"
+      "weeks": 26,
+      "first_week": 10,
+      "last_week": 35
     },
     "pitt-201": {
       "audit": "docs/itemized/pitt-201-sample-cache-audit.html",
       "title": "The Pitt (pitt-201)",
-      "days": 181,
-      "first": "2026-01-09",
-      "last": "2026-07-09"
+      "weeks": 26,
+      "first_week": 2,
+      "last_week": 27
     },
     "pitt-213": {
       "audit": "docs/itemized/pitt-213-sample-cache-audit.html",
       "title": "The Pitt (pitt-213)",
-      "days": 176,
-      "first": "2026-04-03",
-      "last": "2026-09-25"
+      "weeks": 26,
+      "first_week": 14,
+      "last_week": 39
     },
     "president-curtis-101": {
       "audit": "docs/itemized/president-curtis-101-sample-cache-audit.html",
       "title": "President Curtis",
-      "days": 111,
-      "first": "2026-07-28",
-      "last": "2026-11-16"
+      "weeks": 16,
+      "first_week": 30,
+      "last_week": 45
     },
     "project-hail-mary": {
       "audit": "docs/itemized/project-hail-mary-sample-cache-audit.html",
       "title": "Project Hail Mary",
-      "days": 182,
-      "first": "2026-05-11",
-      "last": "2026-11-08"
+      "weeks": 26,
+      "first_week": 19,
+      "last_week": 44
     },
     "reacher-401": {
       "audit": "docs/itemized/reacher-401-sample-cache-audit.html",
       "title": "Reacher",
-      "days": 92,
-      "first": "2026-08-14",
-      "last": "2026-11-13"
+      "weeks": 14,
+      "first_week": 33,
+      "last_week": 46
     },
     "resident-evil-2026": {
       "audit": "docs/itemized/resident-evil-2026-sample-cache-audit.html",
       "title": "Resident Evil",
-      "days": 11,
-      "first": "2026-11-03",
-      "last": "2026-11-13"
+      "weeks": 2,
+      "first_week": 44,
+      "last_week": 45
     },
     "rick-and-morty-901": {
       "audit": "docs/itemized/rick-and-morty-901-sample-cache-audit.html",
       "title": "Rick and Morty",
-      "days": 105,
-      "first": "2026-05-25",
-      "last": "2026-09-06"
+      "weeks": 15,
+      "first_week": 21,
+      "last_week": 35
     },
     "season-2026-01": {
       "audit": "docs/itemized/season-2026-01-sample-cache-audit.html",
       "title": "The Season",
-      "days": 115,
-      "first": "2026-06-17",
-      "last": "2026-10-10"
+      "weeks": 17,
+      "first_week": 25,
+      "last_week": 41
     },
     "send-help": {
       "audit": "docs/itemized/send-help-sample-cache-audit.html",
       "title": "Send Help",
-      "days": 209,
-      "first": "2026-03-23",
-      "last": "2026-10-18"
+      "weeks": 30,
+      "first_week": 12,
+      "last_week": 41
     },
     "shards-101": {
       "audit": "docs/itemized/shards-101-sample-cache-audit.html",
       "title": "The Shards",
-      "days": 97,
-      "first": "2026-08-06",
-      "last": "2026-11-11"
+      "weeks": 14,
+      "first_week": 32,
+      "last_week": 45
     },
     "silo-301": {
       "audit": "docs/itemized/silo-301-sample-cache-audit.html",
       "title": "Silo",
-      "days": 134,
-      "first": "2026-07-03",
-      "last": "2026-11-13"
+      "weeks": 20,
+      "first_week": 27,
+      "last_week": 46
     },
     "slow-horses-601": {
       "audit": "docs/itemized/slow-horses-601-sample-cache-audit.html",
       "title": "Slow Horses",
-      "days": 38,
-      "first": "2026-09-16",
-      "last": "2026-10-24"
+      "weeks": 6,
+      "first_week": 38,
+      "last_week": 43
     },
     "spider-noir-01": {
       "audit": "docs/itemized/spider-noir-01-sample-cache-audit.html",
       "title": "Spider-Noir",
-      "days": 126,
-      "first": "2026-05-27",
-      "last": "2026-09-29"
+      "weeks": 18,
+      "first_week": 22,
+      "last_week": 39
     },
     "star-city-101": {
       "audit": "docs/itemized/star-city-101-sample-cache-audit.html",
       "title": "Star City",
-      "days": 105,
-      "first": "2026-05-29",
-      "last": "2026-09-10"
+      "weeks": 15,
+      "first_week": 22,
+      "last_week": 36
     },
     "star-wars-visions-the-ninth-jedi-01": {
       "audit": "docs/itemized/star-wars-visions-the-ninth-jedi-01-sample-cache-audit.html",
       "title": "Star Wars: Visions Presents — The Ninth Jedi",
-      "days": 87,
-      "first": "2026-08-14",
-      "last": "2026-11-09"
+      "weeks": 13,
+      "first_week": 33,
+      "last_week": 45
     },
     "stranger-things-05.3": {
       "audit": "docs/itemized/stranger-things-05.3-sample-cache-audit.html",
       "title": "Stranger Things",
-      "days": 182,
-      "first": "2026-01-01",
-      "last": "2026-07-01"
+      "weeks": 26,
+      "first_week": 1,
+      "last_week": 26
     },
     "stranger-things-tales-from-85-01": {
       "audit": "docs/itemized/stranger-things-tales-from-85-01-sample-cache-audit.html",
       "title": "Stranger Things Tales from 85 (stranger-things-tales-from-85-01)",
-      "days": 126,
-      "first": "2026-04-23",
-      "last": "2026-08-26"
+      "weeks": 18,
+      "first_week": 17,
+      "last_week": 34
     },
     "stranger-things-tales-from-85-02": {
       "audit": "docs/itemized/stranger-things-tales-from-85-02-sample-cache-audit.html",
       "title": "Stranger Things Tales from 85 (stranger-things-tales-from-85-02)",
-      "days": 56,
-      "first": "2026-09-17",
-      "last": "2026-11-11"
+      "weeks": 8,
+      "first_week": 38,
+      "last_week": 45
     },
     "sugar-201": {
       "audit": "docs/itemized/sugar-201-sample-cache-audit.html",
       "title": "Sugar",
-      "days": 112,
-      "first": "2026-06-19",
-      "last": "2026-10-08"
+      "weeks": 16,
+      "first_week": 25,
+      "last_week": 40
     },
     "super-mario-galaxy-movie": {
       "audit": "docs/itemized/super-mario-galaxy-movie-sample-cache-audit.html",
       "title": "Super Mario Galaxy Movie",
-      "days": 189,
-      "first": "2026-05-06",
-      "last": "2026-11-10"
+      "weeks": 27,
+      "first_week": 19,
+      "last_week": 45
     },
     "testaments-101": {
       "audit": "docs/itemized/testaments-101-sample-cache-audit.html",
       "title": "The Testaments",
-      "days": 105,
-      "first": "2026-04-08",
-      "last": "2026-07-21"
+      "weeks": 15,
+      "first_week": 15,
+      "last_week": 29
     },
     "toy-story-5": {
       "audit": "docs/itemized/toy-story-5-sample-cache-audit.html",
       "title": "Toy Story 5",
-      "days": 84,
-      "first": "2026-08-19",
-      "last": "2026-11-10"
+      "weeks": 12,
+      "first_week": 34,
+      "last_week": 45
     },
     "visionquest-101": {
       "audit": "docs/itemized/visionquest-101-sample-cache-audit.html",
       "title": "VisionQuest",
-      "days": 28,
-      "first": "2026-10-14",
-      "last": "2026-11-10"
+      "weeks": 4,
+      "first_week": 42,
+      "last_week": 45
     },
     "widows-bay-108": {
       "audit": "docs/itemized/widows-bay-108-sample-cache-audit.html",
       "title": "Widows Bay",
-      "days": 150,
-      "first": "2026-06-03",
-      "last": "2026-10-31"
+      "weeks": 22,
+      "first_week": 23,
+      "last_week": 44
     },
     "world-cup-2026": {
       "audit": "docs/itemized/world-cup-2026-sample-cache-audit.html",
       "title": "2026 FIFA World Cup",
-      "days": 135,
-      "first": "2026-06-29",
-      "last": "2026-11-10"
+      "weeks": 20,
+      "first_week": 26,
+      "last_week": 45
     },
     "x-men-97-201": {
       "audit": "docs/itemized/x-men-97-201-sample-cache-audit.html",
       "title": "X-Men '97",
-      "days": 132,
-      "first": "2026-07-02",
-      "last": "2026-11-11"
+      "weeks": 19,
+      "first_week": 27,
+      "last_week": 45
     },
     "zootopia-2": {
       "audit": "docs/itemized/zootopia-2-sample-cache-audit.html",
       "title": "Zootopia",
-      "days": 182,
-      "first": "2026-01-29",
-      "last": "2026-07-29"
+      "weeks": 26,
+      "first_week": 5,
+      "last_week": 30
     }
   }
 }
