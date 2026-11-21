@@ -33,11 +33,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Hourly discontinuities: 4 (37 missing hours)
 - Missing days: 0
 
-<details>
-<summary>Zero-length sample files (0)</summary>
-<p>None recorded for this sample period.</p>
-</details>
-
 ### Sample archive discontinuities
 
 - hourly gap: last `2026-08-12 03:04`, resumed `2026-08-13 06:04` — missing 26 hour(s)
