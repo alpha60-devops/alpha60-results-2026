@@ -1,13 +1,13 @@
 {
   "schema": "alpha60.results-annual-graph/1",
   "year": 2026,
-  "source_revision": "d01f2d82b007b96acc2ae977081c022aa76b4ddc",
+  "source_revision": "d22025f8689a11ffe8923806aefc5b635d6e19fc",
   "input_sha256": "8ede82bffe0907aabfef25624e4ce60eadf5dcd4596f562ea27fda4b15417965",
   "generator_sha256": {
-    "annual_results_graph.py": "1033113488881dfb74bc0b0cc81e0fff5608a2b2c35dd9f480db5862989d0d81",
+    "annual_results_graph.py": "2626f0ca9d44fdf35e9362e5cbb4b93ca1aadf7d09a6736baa6b8e06c28aa656",
     "annual-results-graph.css": "34bdc2b99e0cefc4d580daebcdd66a94e9f3b7ca34ceebccace5083d81fcb07a",
-    "izzi-weekly-graphs.cc": "378147f76fc1ee982152dc2ad25da8a46a92bb00eb5960752b940111c2209f6c",
-    "izzi_weekly_graphs.py": "263f4e5eafc2a37e2873481fd24bcb0e4e9a2569d36ba3e745b9f10a18ff47e7",
+    "izzi-weekly-graphs.cc": "6d32af87e8dc2d33c0496dbde5996cfc00eaa9a29520ecff119a7b278a89b9f0",
+    "izzi_weekly_graphs.py": "d76b18d6144c544f262a1d9c5a5a71df43574f06b19bd17edead047c1fc7bddc",
     "izzi-weekly-graph-hover.js": "55878ec6eaa767f499f122d712c7562903216e80ecc2182fd875b052c68d916d"
   },
   "renderer": {
@@ -17,8 +17,8 @@
     "interaction": "izzi-weekly-graph-hover.js",
     "commit": "aefd8948b3013e138d9eb488adcee5bb12c95bbd",
     "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
-    "renderer_sha256": "378147f76fc1ee982152dc2ad25da8a46a92bb00eb5960752b940111c2209f6c",
-    "wrapper_sha256": "263f4e5eafc2a37e2873481fd24bcb0e4e9a2569d36ba3e745b9f10a18ff47e7",
+    "renderer_sha256": "6d32af87e8dc2d33c0496dbde5996cfc00eaa9a29520ecff119a7b278a89b9f0",
+    "wrapper_sha256": "d76b18d6144c544f262a1d9c5a5a71df43574f06b19bd17edead047c1fc7bddc",
     "interaction_sha256": "55878ec6eaa767f499f122d712c7562903216e80ecc2182fd875b052c68d916d",
     "functions": [
       "svg::make_line_graph",
@@ -28,6 +28,18 @@
     ]
   },
   "period": "week",
+  "y_axis": {
+    "peak": 121320134,
+    "maximum": 125000000,
+    "ticks": [
+      20000000,
+      40000000,
+      60000000,
+      80000000,
+      100000000,
+      120000000
+    ]
+  },
   "observations": 1502,
   "coverage": {
     "acolyte-107": {
