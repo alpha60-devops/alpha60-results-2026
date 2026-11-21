@@ -48,7 +48,7 @@
     "docs/itemized/figures/spider-noir-01-data-lt-1080p.webp": "066b7acd5b361b93ecd9b247222a6fca97d189e3181f6c70545827bcfcb55d23",
     "docs/itemized/figures/spider-noir-01-downloads-by-day-day.svg": "eed64525c5a975e26cd7f043d316dbfaebba49a0bf5d1acca6fa3aef08be1817",
     "docs/itemized/figures/spider-noir-01-downloads-by-week-spider-noir-01-week.svg": "8f02587bf139872cefd4ea13c044beb84b1dcd7881c056b55994fb61880b913e",
-    "docs/itemized/spider-noir-01-sample-cache-audit.md": "66c2e32447fd68641ab05080593330bd18a901678cb93f6cab3fd09845329f6e",
+    "docs/itemized/spider-noir-01-sample-cache-audit.md": "f04a6fb25c2a631ebc04fe41a89d14beb5fca6752449e0feef0c0519061bbc62",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
@@ -205,6 +205,13 @@
   "status": "passed",
   "validation_source": "render-receipt",
   "year": "2026",
-  "aao_download_pending": true,
+  "aao_downloads": [
+    {
+      "path": "data/geojson.cumulative/spider-noir-01-cumulative-btiha.geojson.gz",
+      "sha256": "668b376f9fdb36ae6fb8f874cc3aacd376a94323faf8c0fe06c2df95543fa887",
+      "size": 129878272,
+      "url": "https://s3-ewh.ist.berkeley.edu/adekosnik-bucket01/alpha60-results/2026/geojson.cumulative/spider-noir-01-cumulative-btiha.geojson.gz"
+    }
+  ],
   "original_publication_receipt_sha256": "11db303272ed7ea496ce6bf77182d3fc5e90743334387908bc946362571b483f"
 }

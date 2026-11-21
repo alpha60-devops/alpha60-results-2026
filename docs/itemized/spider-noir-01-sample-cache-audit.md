@@ -96,4 +96,4 @@ description: "Cache coverage and visualization audit for one media object."
 
 ## Data downloads
 
-Full per-torrent GeoJSON is awaiting AAO verification.
+- [Download spider-noir-01-cumulative-btiha.geojson.gz from AAO](https://s3-ewh.ist.berkeley.edu/adekosnik-bucket01/alpha60-results/2026/geojson.cumulative/spider-noir-01-cumulative-btiha.geojson.gz)
