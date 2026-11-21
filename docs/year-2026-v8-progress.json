@@ -1,22 +1,20 @@
 {
-  "blockers": [
-    "Individual object errors are recorded; other eligible work continues. Individual errors deferred; pass 2 work continues"
-  ],
+  "blockers": [],
   "cohort_count": 99,
   "counts": {
-    "bundle_validated": 60,
-    "cache_validated": 60,
-    "deployed": 60,
+    "bundle_validated": 61,
+    "cache_validated": 61,
+    "deployed": 61,
     "inputs_frozen": 98,
-    "installed": 60,
-    "pushed": 60
+    "installed": 61,
+    "pushed": 61
   },
   "first_pass": {
     "attempted": 63,
     "awaiting_gold": 0,
-    "deferred": 1,
+    "deferred": 0,
     "not_started": 0,
-    "validated_bundles": 60
+    "validated_bundles": 61
   },
   "incremental_method": {
     "archive_durations": [
@@ -352,7 +350,7 @@
       "collection_key": "spider-noir-01",
       "mode": "full-recache-count-increased",
       "source_endpoint": "2026-11-10",
-      "state": "failed"
+      "state": "deployed"
     },
     {
       "collection_key": "star-wars-visions-the-ninth-jedi-01",
@@ -409,7 +407,7 @@
       "state": "deployed"
     }
   ],
-  "observed_at": "2026-11-21T06:32:33.315210+00:00",
+  "observed_at": "2026-11-21T19:33:13.585365+00:00",
   "run_id": "20261116-v8",
   "schema": "alpha60-year-public-progress/1",
   "scope_exclusions": {

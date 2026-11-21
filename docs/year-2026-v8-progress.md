@@ -7,9 +7,9 @@ title: "November 2026 cache update progress"
 
 Run `20261116-v8`. Sample cutoff: **2026-11-15**, America/Los_Angeles.
 
-Last observation: **2026-11-21T06:32:33.315210+00:00**. This is a recorded heartbeat; refresh after the next publication.
+Last observation: **2026-11-21T19:33:13.585365+00:00**. This is a recorded heartbeat; refresh after the next publication.
 
-**60 complete, 1 remaining; 98.4% complete.**
+**61 complete, 0 remaining; 100.0% complete.**
 
 2 objects are outside the 2026 update scope because Gold has no 2026 samples for them.
 
@@ -18,13 +18,13 @@ The input review covers 99 objects, including 36 predecessor objects without new
 | Stage | Objects |
 | --- | ---: |
 | inputs frozen | 98 |
-| cache validated | 60 |
-| bundle validated | 60 |
-| installed | 60 |
-| pushed | 60 |
-| deployed | 60 |
+| cache validated | 61 |
+| bundle validated | 61 |
+| installed | 61 |
+| pushed | 61 |
+| deployed | 61 |
 
-First-pass coverage: **63 attempted, 0 not started**; 60 validated bundles in total, including 0 awaiting Gold installation. 1 individual errors are deferred to the second pass.
+First-pass coverage: **63 attempted, 0 not started**; 61 validated bundles in total, including 0 awaiting Gold installation. 0 individual errors are deferred to the second pass.
 
 Complete means Gold installation/readback and deployed Pages verification. First-pass production can advance while that acceptance count stays unchanged.
 
@@ -39,7 +39,6 @@ Incremental updates reuse verified hourly caches and extract new or affected sam
 
 ## Current constraints
 
-- Individual object errors are recorded; other eligible work continues. Individual errors deferred; pass 2 work continues
 
 Finished objects are checked in individually after cache, page-bundle and storage verification. A pushed commit and a successful Pages deployment are recorded separately. Throughput and completion estimates will follow measured production pilots.
 
@@ -100,7 +99,7 @@ Finished objects are checked in individually after cache, page-bundle and storag
 | `silo-301` | 2026-11-13 | incremental-candidate | deployed |
 | `slow-horses-601` | 2026-10-24 | full-recache-count-increased | deployed |
 | `spider-man-brand-new-day` | 2026-11-10 | build-no-2026-cache | deployed |
-| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | failed |
+| `spider-noir-01` | 2026-11-10 | full-recache-count-increased | deployed |
 | `star-wars-visions-the-ninth-jedi-01` | 2026-11-09 | incremental-candidate | deployed |
 | `stranger-things-tales-from-85-02` | 2026-11-11 | full-recache-count-increased | deployed |
 | `sugar-201` | 2026-10-08 | incremental-candidate | deployed |
