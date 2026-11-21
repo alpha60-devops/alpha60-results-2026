@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-20T04:16:39Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/mandalorian-and-grogu.xz`
 - Hour directories: 3340
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (15 missing hours)
 - Missing days: 0

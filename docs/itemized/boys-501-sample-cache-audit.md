@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-17T19:50:11Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/boys-501.xz`
 - Hour directories: 4347
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (4 missing hours)
 - Missing days: 0

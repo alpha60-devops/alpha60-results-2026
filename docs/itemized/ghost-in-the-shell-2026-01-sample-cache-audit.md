@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-19T04:47:56Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/ghost-in-the-shell-2026-01.xz`
 - Hour directories: 2828
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0

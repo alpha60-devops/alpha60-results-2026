@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-10-07T13:31:29Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/monarch-legacy-of-monsters-201.xz`
 - Hour directories: 5172
-- Zero-length sample files: 0
 - Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 3 (28 missing hours)
 - Missing days: 1

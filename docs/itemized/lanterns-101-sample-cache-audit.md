@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-19T17:14:04Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/lanterns-101.xz`
 - Hour directories: 2011
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0

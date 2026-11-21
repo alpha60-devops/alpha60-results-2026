@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-16T19:26:20Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/all-you-need-is-kill.xz`
 - Hour directories: 4334
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 3 (31 missing hours)
 - Missing days: 0

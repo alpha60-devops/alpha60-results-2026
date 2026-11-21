@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-20T08:14:50Z
 - Sample archive directory: `/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/house-of-the-dragon-301/g2/results/coverage-inputs`
 - Hour directories: 3442
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 3 (83 missing hours)
 - Missing days: 3

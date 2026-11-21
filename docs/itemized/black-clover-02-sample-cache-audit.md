@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-17T16:37:35Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/black-clover-02.xz`
 - Hour directories: 979
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (8 missing hours)
 - Missing days: 0

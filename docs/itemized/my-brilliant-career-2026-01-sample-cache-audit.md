@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-17T16:37:21Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/my-brilliant-career-2026-01.xz`
 - Hour directories: 2014
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 2 (2 missing hours)
 - Missing days: 0

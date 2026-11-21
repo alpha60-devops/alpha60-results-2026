@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-09-13T17:13:06Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/hijack-201.xz`
 - Hour directories: 2481
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 2 (46 missing hours)
 - Missing days: 1

@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-17T18:20:01Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/euphoria-301.xz`
 - Hour directories: 4342
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (19 missing hours)
 - Missing days: 0

@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-10-07T14:25:16Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/hoppers.xz`
 - Hour directories: 4378
-- Zero-length sample files: 0
 - Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 6 (18 missing hours)
 - Missing days: 0

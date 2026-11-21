@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-09-13T17:13:07Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/man-on-the-run.xz`
 - Hour directories: 2611
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 2 (3 missing hours)
 - Missing days: 0

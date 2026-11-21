@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-19T16:36:10Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/star-wars-visions-the-ninth-jedi-01.xz`
 - Hour directories: 2078
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (29 missing hours)
 - Missing days: 1

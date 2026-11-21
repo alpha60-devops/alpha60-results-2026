@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-09-13T17:13:10Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/stranger-things-tales-from-85-01.xz`
 - Hour directories: 2991
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (16 missing hours)
 - Missing days: 0

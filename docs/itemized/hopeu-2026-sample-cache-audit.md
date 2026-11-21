@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-16T19:59:01Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/hopeu-2026.xz`
 - Hour directories: 523
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (1 missing hours)
 - Missing days: 0

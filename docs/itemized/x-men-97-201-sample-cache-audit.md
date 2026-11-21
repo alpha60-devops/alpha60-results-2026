@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-19T16:40:38Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/x-men-97-201.xz`
 - Hour directories: 3144
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (46 missing hours)
 - Missing days: 1

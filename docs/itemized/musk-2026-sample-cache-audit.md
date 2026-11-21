@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-16T18:57:31Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/musk-2026.xz`
 - Hour directories: 167
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (1 missing hours)
 - Missing days: 0

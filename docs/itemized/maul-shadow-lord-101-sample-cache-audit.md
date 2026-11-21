@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-10-07T14:25:16Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/maul-shadow-lord-101.xz`
 - Hour directories: 4201
-- Zero-length sample files: 0
 - Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0

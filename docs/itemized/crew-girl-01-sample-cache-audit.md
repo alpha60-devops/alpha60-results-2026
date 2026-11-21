@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-19T17:22:17Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/crew-girl-01.xz`
 - Hour directories: 1454
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 2 (37 missing hours)
 - Missing days: 0

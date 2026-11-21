@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-19T01:51:44Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/kung-fu-soccer-2026.xz`
 - Hour directories: 988
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0

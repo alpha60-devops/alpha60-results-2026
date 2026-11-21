@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-10-07T13:31:30Z
 - Frozen sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/pitt-213.xz`
 - Hour directories: 4202
-- Zero-length sample files: 0
 - Malformed in-scope records accepted: 0 (producer rejects nonempty malformed input)
 - Hourly discontinuities: 4 (17 missing hours)
 - Missing days: 0

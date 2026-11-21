@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-17T03:51:43Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/kill-jackie-01.xz`
 - Hour directories: 817
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0

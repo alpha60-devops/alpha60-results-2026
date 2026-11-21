@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-19T21:23:10Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/avatar-the-last-airbender-2024-02.xz`
 - Hour directories: 3353
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 2 (38 missing hours)
 - Missing days: 0

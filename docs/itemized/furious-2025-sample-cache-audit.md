@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-19T22:11:52Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/furious-2025.xz`
 - Hour directories: 2492
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 3 (11 missing hours)
 - Missing days: 0

@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-16T19:36:48Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/bass-x-machina-01.xz`
 - Hour directories: 232
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (1 missing hours)
 - Missing days: 0

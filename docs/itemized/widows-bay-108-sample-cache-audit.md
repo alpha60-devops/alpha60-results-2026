@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-11-19T15:35:06Z
 - Sample archive directory: `/home/bkoz/src/alpha60-campaigns/year-2026/20261116-v8/objects/widows-bay-108/g1/results/coverage-inputs`
 - Hour directories: 3553
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 1 (45 missing hours)
 - Missing days: 1
